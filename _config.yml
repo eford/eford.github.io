@@ -1,14 +1,14 @@
-title:            Site Title
-description:      Describe your website.
+title:            Eric Ford's Website
+description:      Test driving GitHub Pages w/ Minimal Mistakes template
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://eford.github.io/
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  name:           Eric Ford
+  avatar:         http://www.personal.psu.edu/~ebf11/graphics/EricFord.jpg
+  bio:            "ExoPlaneteer."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
@@ -35,14 +35,21 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
   - title: About
     url: /about/
   - title: Posts
     url: /posts/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Website @ PSU
+    url: http://www.personal.psu.edu/~ebf11/
+    external: true
+  - title: PSU Astronomy & Astrophysics
+    url: http://www.astro.psu.edu/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
