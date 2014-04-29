@@ -13,14 +13,19 @@ image:
 ---
 
 ## Mail
-```Eric B. Ford 
-Department of Astronomy & Astrophysics 
-Eberly College of Science 
-The Pennsylvania State University 
-525 Davey Lab 
-University Park, PA 16802 
-USA
-```
+Eric B. Ford  
+
+Department of Astronomy & Astrophysics  
+
+Eberly College of Science  
+
+The Pennsylvania State University  
+
+525 Davey Lab  
+
+University Park, PA 16802  
+
+USA  
 
 ## E-mail
 <img src="/images/eford_psu_edu.png"  alt=" email address " /> 
