@@ -13,8 +13,8 @@ image:
 ---
 
 ## Mail
-Eric B. Ford  
 
+ 
 Department of Astronomy & Astrophysics  
 
 Eberly College of Science  
@@ -31,7 +31,7 @@ USA
 <img src="/images/eford_psu_edu.png"  alt=" email address " /> 
 
 ## In Person
-428A Davey Lab
+[428A Davey Lab](http://www.google.com/maps/place/Physical+Science+Library/@40.798193,-77.862918,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x8b04b39634dcf263 " Google Map to Davey Lab ")
 
 ## Phone
 Extension 3-5558
