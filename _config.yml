@@ -39,17 +39,16 @@ links:
     url: /research/
   - title: Teaching
     url: /teaching/
+  - title: Outreach
+    url: /outreach/
+  - title: Blog
+    url: /posts/
   - title: About
     url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Website @ PSU
+  - title: Setup
+    url: /setup/
+  - title: Website @PSU
     url: http://www.personal.psu.edu/~ebf11/
-    external: true
-  - title: PSU Astronomy & Astrophysics
-    url: http://www.astro.psu.edu/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
