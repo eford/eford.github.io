@@ -1,9 +1,9 @@
 ---
-layout: page
-permalink: /outreach/
-title: Outreach
-tagline: Resources for Public Outreach related to Ford's Research
-tags: [outreach, press, graphics]
+layout: research-page
+permalink: /research/
+title: Research
+tagline: Eric Ford's Research
+tags: [research]
 modified: 4-29-2014
 comments: true
 image:
