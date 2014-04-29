@@ -13,7 +13,6 @@ image:
 ---
 
 ## Mail
-
  
 Department of Astronomy & Astrophysics  
 

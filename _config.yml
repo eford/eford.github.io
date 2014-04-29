@@ -1,4 +1,4 @@
-title:            Eric Ford's Website
+title:            Eric Ford's Future Website
 description:      Test driving GitHub Pages w/ Minimal Mistakes template
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://eford.github.io/
@@ -8,7 +8,7 @@ disqus_shortname:
 owner:
   name:           Eric Ford
   avatar:         http://www.personal.psu.edu/~ebf11/graphics/EricFord.jpg
-  bio:            "ExoPlaneteer."
+  bio:            "Professor of Astronomy &amp; Astrophysics<br />ExoPlaneteer.<br />"
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
