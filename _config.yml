@@ -41,13 +41,13 @@ links:
     url: /teaching/
   - title: Outreach
     url: /outreach/
-  - title: Blog
-    url: /posts/
   - title: About
     url: /about/
+  - title: Blog
+    url: /posts/
   - title: Setup
     url: /setup/
-  - title: Website @PSU
+  - title: Website@PSU
     url: http://www.personal.psu.edu/~ebf11/
     external: true
 

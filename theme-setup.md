@@ -5,9 +5,9 @@ title: Theme Setup
 description: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 tags: [Jekyll, theme, responsive]
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: noaa-rainbow-feature-banner.jpg
+  credit: N.A.Sharp, NOAO/NSO/Kitt Peak FTS/AURA/NSF
+  creditlink: http://www.noao.edu/image_gallery/html/im0600.html
 ---
 
 <section id="table-of-contents" class="toc">
