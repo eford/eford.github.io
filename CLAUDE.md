@@ -28,6 +28,11 @@ julia --project=. scripts/build_local.jl
 julia --project=. scripts/import_bibtex.jl <file.bib>
 ```
 
+### Retreive abstracts and create publication TOML
+```bash
+julia --project=scripts/parse_publications scripts/parse_publications/parse_publications.jl <file.bib> --config .ads_config
+```
+
 ## Architecture
 
 ### Content Model
@@ -60,21 +65,21 @@ All dynamic content is stored as **TOML files** in `_data/` and rendered via cus
 ### Publication TOML Fields
 
 Required: `title`, `author`, `year`, `journal`
-Optional: `doi`, `adsurl`, `tags` (array), `research_themes` (array), `pages`
+Optional: `doi`, `adsurl`, `tags` (array), `research_themes` (array), `pages`, `month`, `volume`, `number`, `eprint`, `entrytype`, `abstract`
 
 ### Adding New Content
 
 - **New group member**: add `_data/members/<role>/<name>.toml` — the page auto-discovers it
 - **New course**: add `_data/courses/psu_recent/<course>.toml`
 - **New software**: add `_data/software/<category>/<name>.toml`
-- **New publication**: add `_data/publications/<year>/<key>.toml` (or run `import_bibtex.jl`)
+- **New publication**: add `_data/publications/<year>/<key>.toml` (or run `parse_publications.jl` )
 
 ### Layouts & Styles
 
 - `_layout/` — HTML templates (`head.html`, `nav.html`, `foot.html`, `page_foot.html`)
-- `_css/custom.css` — Penn State color palette (`--psu-navy: #001E44`, `--psu-blue: #1E407C`, `--psu-accent: #009CDE`) and all custom styling
+- `_css/` — Penn State color palette (`--psu-navy: #001E44`, `--psu-blue: #1E407C`, `--psu-accent: #009CDE`) and all custom styling
 - Navigation items are configured in `config.md` under `nav_items`
 
 ### Deployment
 
-Deploys to Netlify automatically on push to `main` via `.github/workflows/Netlify.yml`. The build downloads Julia 1.10.5, runs `Franklin.optimize()`, and publishes `__site/`. Requires `NETLIFY_AUTH_TOKEN` and `NETLIFY_SITE_ID` secrets.
+Deploys to GitHub pages automatically on push to `main` via `.github/workflows/GitHubPages.yml`. The build downloads Julia, runs `Franklin.optimize()`, and publishes `__site/`.

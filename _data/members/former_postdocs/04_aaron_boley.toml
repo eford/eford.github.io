@@ -1,7 +1,7 @@
 name         = "Aaron Boley"
 display_name  = "Aaron Boley"
 image         = "/assets/images/people/aaron_boley.png"
-profile_url   = ""
+profile_url   = "aaron_boley"
 role          = "Postdoc & Sagan Fellow, UF\nFaculty & CRC Chair, University of British Columbia"
 bio           = ""
 heading_level = "h3"

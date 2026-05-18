@@ -1,7 +1,7 @@
 name         = "Benjamin Nelson"
 display_name  = "Benjamin Nelson"
 image         = "/assets/images/people/ben_nelson.png"
-profile_url   = ""
+profile_url   = "ben_nelson"
 role          = "PhD 2015, PSU\nChan Zuckerberg Initiative"
 bio           = ""
 heading_level = "h3"

@@ -1,7 +1,7 @@
 name         = "Ari Silburt"
 display_name  = "Ari Silburt"
 image         = "/assets/images/people/ari_silburt.jpg"
-profile_url   = ""
+profile_url   = "ari_silburt"
 role          = "Postdoc, PSU\nSoftware Engineer, Bloomberg"
 bio           = ""
 heading_level = "h3"

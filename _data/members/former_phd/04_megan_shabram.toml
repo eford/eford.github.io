@@ -1,7 +1,7 @@
 name         = "Megan Shabram"
 display_name  = "Megan Shabram"
 image         = "/assets/images/people/megan_shabram.jpg"
-profile_url   = ""
+profile_url   = "megan_shabram"
 role          = "PhD 2015, PSU\nGiant Magellan Telescope, Data Scientist"
 bio           = ""
 heading_level = "h3"

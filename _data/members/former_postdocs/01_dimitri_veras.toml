@@ -1,7 +1,7 @@
 name         = "Dimitri Veras"
 display_name  = "Dimitri Veras"
 image         = "/assets/images/people/dimitri_veras.png"
-profile_url   = ""
+profile_url   = "dimitri_veras"
 role          = "Postdoc, UF\nFaculty, University of Warwick"
 bio           = ""
 heading_level = "h3"
