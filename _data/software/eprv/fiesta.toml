@@ -1,0 +1,4 @@
+name        = "FIESTA (φESTA)"
+url         = "https://github.com/jinglinzhao/FIESTA"
+description = "FourIEr phase SpecTrum Analysis for disentangling stellar and instrumental variability from planetary Doppler shifts. Projects cross-correlation functions onto Fourier basis functions to separate line-shape changes from true RV shifts."
+sort_order  = 7

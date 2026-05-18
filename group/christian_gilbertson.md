@@ -34,8 +34,9 @@
 - Data Science
 
 ## Selected Papers
-- [Towards Extremely Precise Radial Velocities: II. A Tool For Using Multivariate Gaussian Processes to Model Stellar Activity](https://eford.netlify.app/publication/2020-ar-xiv-2009.01085-g/)
-- [Toward Extremely Precise Radial Velocities. I. Simulated Solar Spectra for Testing Exoplanet Detection Algorithms](https://eford.netlify.app/publication/2020-rnaas-4-4-g/)
+- Gilbertson, C. et al. (2024). "Data-Driven Modeling of Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl."
+- Gilbertson, C. et al. (2020). "Toward Extremely Precise Radial Velocities. II. A Tool for Using Multivariate Gaussian Processes to Model Stellar Activity."
+- Gilbertson, C. et al. (2020). "Toward Extremely Precise Radial Velocities. I. Simulated Solar Spectra for Testing Exoplanet Detection Algorithms."
 
 ~~~
 </div>

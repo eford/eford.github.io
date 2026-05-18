@@ -1,0 +1,4 @@
+name        = "MRExo"
+url         = "https://github.com/shbhuk/mrexo"
+description = "Nonparametric and probabilistic Python package for jointly modeling exoplanet mass-radius relationships and their dependence on additional observables (insolation, stellar mass). Supports asymmetric uncertainties and upper limits."
+sort_order  = 5

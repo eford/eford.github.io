@@ -339,6 +339,8 @@ pre code { padding: 1rem; background: #f8f9fa; }
   border-top: 1px solid #e0e0e0;
   margin-top: 2rem;
 
+a { color: #1e6cb6; text-decoration: underline; }
+a:hover { text-decoration: underline; }  */
 
 }
 

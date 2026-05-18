@@ -1,4 +1,4 @@
-@def title = "Christian Gilbertson"
+@def title = "Michael Palumbo"
 ---
 {{insert head.html}}
 {{insert nav.html}}
@@ -25,7 +25,7 @@
   </div>
      <div class="hero-image">
         <!-- Replace 'your-image.jpg' with your image source and 'Alt text' with appropriate text -->
-        <img src="https://eford.netlify.app/authors/michael_palumbo/avatar_from_linkedin_hubfccf6f6533ed695e8c65d79281922e4_23424_250x250_fill_q90_lanczos_center.jpeg" alt="Headshot of {{title}}" style="max-width: 100%; height: auto; border-radius: 5px;">
+        <img src="/assets/images/people/michael_palumbo.jpg" alt="Headshot of {{title}}" style="max-width: 100%; height: auto; border-radius: 5px;">
     </div>
 </div>
 ~~~
@@ -35,6 +35,9 @@
 - Granulation
 - Solar modeling
 
+## Selected Papers
+- Palumbo, M.L., Ford, E.B. et al. (2024). AJ, 168, 46. "GRASS II: Simulations of Potential Granulation Noise Mitigation Methods."
+- Palumbo, M.L. et al. (2022). "GRASS: Distinguishing Planet-induced Doppler Signatures from Granulation with a Synthetic Spectra Generator."
 
 ~~~
 </div>

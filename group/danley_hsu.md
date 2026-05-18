@@ -34,6 +34,10 @@
 - Kepler mission
 - Approximate Bayesian Computing
 
+## Selected Papers
+- Hsu, D.C., Ford, E.B., Ragozzine, D., Ashby, K. (2019). AJ, 158, 3. "Occurrence Rates of Planets Orbiting FGK Stars: Combining Kepler DR25, Gaia DR2 and Bayesian Inference."
+- Hsu, D.C., Ford, E.B., Terrien, R. (2020). MNRAS 498, 2249. "Occurrence Rates of Planets Orbiting M Stars: Applying ABC to Kepler DR25, Gaia DR2 and 2MASS Data."
+- Hsu, D.C., Ford, E.B., Ragozzine, D., Morehead, R.C. (2018). AJ, 155, 205. "Improving the Accuracy of Planet Occurrence Rates from Kepler Using Approximate Bayesian Computation."
 
 ~~~
 </div>

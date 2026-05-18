@@ -1,0 +1,4 @@
+name        = "RUN DMC"
+url         = "https://ui.adsabs.harvard.edu/abs/2014ApJS..210...11N"
+description = "Radial velocity Using N-body Differential evolution Markov Chain Monte Carlo. Efficient parallel Bayesian code for fitting multi-planet radial velocity data with self-consistent N-body integrations, particularly for systems near mean-motion resonances."
+sort_order  = 3
