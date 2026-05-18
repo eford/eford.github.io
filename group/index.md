@@ -51,7 +51,7 @@
 - [Astrostaticians](astrostatisticans)
 - [NEID Science Team](https://neid.psu.edu/)
 - [Habitable Zone Planet Finder Science Team](https://hpf.psu.edu/)
-
+- [NASA EPRV Research Coordination Network](https://eprv-rcn.github.io/)
 ---
 
 # Prospective Members
@@ -64,4 +64,3 @@ If you are interested in joining our research group or the [Center for Exoplanet
 </div>
 </main>
 ~~~
-
