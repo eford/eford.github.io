@@ -1,7 +1,7 @@
 name         = "Angie Wolfgang"
 display_name  = "Angie Wolfgang"
 image         = "/assets/images/people/angie_wolfgang.jpg"
-profile_url   = ""
+profile_url   = "angie_wolfgang"
 role          = "Postdoc, PSU\nLead Data Scientist, National Grid"
 bio           = ""
 heading_level = "h3"

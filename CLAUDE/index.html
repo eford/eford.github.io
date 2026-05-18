@@ -4,6 +4,8 @@ julia --project=. -e <span class=hljs-string >&#x27;using Franklin; serve()&#x27
 julia --project=. scripts/build_local.jl --serve</code></pre> <h3 id=production_build ><a href="#production_build" class=header-anchor >Production Build</a></h3> <pre><code class="bash hljs">julia --project=. -e <span class=hljs-string >&#x27;using Franklin; optimize()&#x27;</span>
 <span class=hljs-comment ># or</span>
 julia --project=. scripts/build_local.jl</code></pre> <h3 id=import_publications_from_bibtex ><a href="#import_publications_from_bibtex" class=header-anchor >Import Publications from BibTeX</a></h3> <pre><code class="bash hljs">julia --project=. scripts/import_bibtex.jl &lt;file.bib&gt;</code></pre>
+<h3 id=retreive_abstracts_and_create_publication_toml ><a href="#retreive_abstracts_and_create_publication_toml" class=header-anchor >Retreive abstracts and create publication TOML</a></h3>
+<pre><code class="bash hljs">julia --project=scripts/parse_publications scripts/parse_publications/parse_publications.jl &lt;file.bib&gt; --config .ads_config</code></pre>
 <h2 id=architecture ><a href="#architecture" class=header-anchor >Architecture</a></h2>
 <h3 id=content_model ><a href="#content_model" class=header-anchor >Content Model</a></h3>
 <p>All dynamic content is stored as <strong>TOML files</strong> in <code>_data/</code> and rendered via custom Julia functions in <code>utils.jl</code>. The pattern is:</p>
@@ -20,7 +22,7 @@ julia --project=. scripts/build_local.jl</code></pre> <h3 id=import_publications
 <h3 id=franklin_helper_functions_utilsjl ><a href="#franklin_helper_functions_utilsjl" class=header-anchor >Franklin Helper Functions &#40;<code>utils.jl</code>&#41;</a></h3>
 <table><tr><th align=right >Function<th align=right >Purpose<tr><td align=right ><code>hfun_member_cards_from_dir</code><td align=right >Render all member TOMLs from a directory<tr><td align=right ><code>hfun_course_cards_from_dir</code><td align=right >Render course cards from a directory<tr><td align=right ><code>hfun_software_cards_from_dir</code><td align=right >Render software cards from a directory<tr><td align=right ><code>hfun_publication_list</code><td align=right >Filter &amp; render publications by <code>research_theme</code> and/or <code>tags</code><tr><td align=right ><code>format_citation</code><td align=right >Format a single publication TOML as HTML citation</table>
 <h3 id=publication_toml_fields ><a href="#publication_toml_fields" class=header-anchor >Publication TOML Fields</a></h3>
-<p>Required: <code>title</code>, <code>author</code>, <code>year</code>, <code>journal</code> Optional: <code>doi</code>, <code>adsurl</code>, <code>tags</code> &#40;array&#41;, <code>research_themes</code> &#40;array&#41;, <code>pages</code></p>
+<p>Required: <code>title</code>, <code>author</code>, <code>year</code>, <code>journal</code> Optional: <code>doi</code>, <code>adsurl</code>, <code>tags</code> &#40;array&#41;, <code>research_themes</code> &#40;array&#41;, <code>pages</code>, <code>month</code>, <code>volume</code>, <code>number</code>, <code>eprint</code>, <code>entrytype</code>, <code>abstract</code></p>
 <h3 id=adding_new_content ><a href="#adding_new_content" class=header-anchor >Adding New Content</a></h3>
 <ul>
 <li><p><strong>New group member</strong>: add <code>_data/members/&lt;role&gt;/&lt;name&gt;.toml</code> — the page auto-discovers it</p>
@@ -29,24 +31,24 @@ julia --project=. scripts/build_local.jl</code></pre> <h3 id=import_publications
 
 <li><p><strong>New software</strong>: add <code>_data/software/&lt;category&gt;/&lt;name&gt;.toml</code></p>
 
-<li><p><strong>New publication</strong>: add <code>_data/publications/&lt;year&gt;/&lt;key&gt;.toml</code> &#40;or run <code>import_bibtex.jl</code>&#41;</p>
+<li><p><strong>New publication</strong>: add <code>_data/publications/&lt;year&gt;/&lt;key&gt;.toml</code> &#40;or run <code>parse_publications.jl</code> &#41;</p>
 
 </ul>
 <h3 id=layouts_styles ><a href="#layouts_styles" class=header-anchor >Layouts &amp; Styles</a></h3>
 <ul>
 <li><p><code>_layout/</code> — HTML templates &#40;<code>head.html</code>, <code>nav.html</code>, <code>foot.html</code>, <code>page_foot.html</code>&#41;</p>
 
-<li><p><code>_css/custom.css</code> — Penn State color palette &#40;<code>--psu-navy: #001E44</code>, <code>--psu-blue: #1E407C</code>, <code>--psu-accent: #009CDE</code>&#41; and all custom styling</p>
+<li><p><code>_css/</code> — Penn State color palette &#40;<code>--psu-navy: #001E44</code>, <code>--psu-blue: #1E407C</code>, <code>--psu-accent: #009CDE</code>&#41; and all custom styling</p>
 
 <li><p>Navigation items are configured in <code>config.md</code> under <code>nav_items</code></p>
 
 </ul>
 <h3 id=deployment ><a href="#deployment" class=header-anchor >Deployment</a></h3>
-<p>Deploys to Netlify automatically on push to <code>main</code> via <code>.github/workflows/Netlify.yml</code>. The build downloads Julia 1.10.5, runs <code>Franklin.optimize&#40;&#41;</code>, and publishes <code>__site/</code>. Requires <code>NETLIFY_AUTH_TOKEN</code> and <code>NETLIFY_SITE_ID</code> secrets.</p>
+<p>Deploys to GitHub pages automatically on push to <code>main</code> via <code>.github/workflows/GitHubPages.yml</code>. The build downloads Julia, runs <code>Franklin.optimize&#40;&#41;</code>, and publishes <code>__site/</code>.</p>
 <footer class=site-footer >
   <div class=footer-inner >
     <p>&copy; 2024–2026 Eric B. Ford &middot;
-    Last updated May 7, 2026. &middot; 
+    Last updated May 18, 2026. &middot; 
     Built with <a href="https://julialang.org/">Julia</a>, <a href="https://franklinjl.org/">Franklin.jl</a>, <a href="https://github.com/">GitHub</a>, and <a href="https://claude.ai">Claude</a> 
     <br>If you find errors or would like to suggest an improvement, please open a pull request in the <a href="https://github.com/eford/eford.github.io">GitHub source</a> repository.
     </p>

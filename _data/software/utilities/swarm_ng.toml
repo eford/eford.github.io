@@ -1,0 +1,4 @@
+name        = "Swarm-NG"
+url         = "https://github.com/AstroGPU/swarm"
+description = """CUDA C++ library for GPU-accelerated parallel N-body integrations of many few-body systems (e.g., thousands of planetary systems simultaneously). Includes time-symmetrized Hermite and mixed-variable symplectic integrators.  <a href="https://doi.org/10.1016/j.newast.2013.01.002">Paper</a> - <a href="https://arxiv.org/abs/1208.1157">Preprint</a>."""
+sort_order  = 3

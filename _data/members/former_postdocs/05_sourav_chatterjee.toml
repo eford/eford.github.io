@@ -1,7 +1,7 @@
 name         = "Sourav Chatterjee"
 display_name  = "Sourav Chatterjee"
 image         = "/assets/images/people/sourav_chatterjee.jpg"
-profile_url   = ""
+profile_url   = "sourav_chatterjee"
 role          = "Postdoc, UF\nReader, Tata Institute of Fundamental Research, Mumbai"
 bio           = ""
 heading_level = "h3"

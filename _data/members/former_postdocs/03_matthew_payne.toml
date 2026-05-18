@@ -1,7 +1,7 @@
 name         = "Matthew Payne"
 display_name  = "Matthew Payne"
 image         = "/assets/images/people/matthew_payne.jpg"
-profile_url   = ""
+profile_url   = "matthew_payne"
 role          = "Postdoc, UF\nSAO Research Scientist, Harvard-Smithsonian Center for Astrophysics"
 bio           = ""
 heading_level = "h3"

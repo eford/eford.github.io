@@ -1,6 +1,0 @@
-[deps]
-JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
-Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
-OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
-PromptingTools = "670122d1-24a8-4d70-bfce-740807c42192"
-TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"

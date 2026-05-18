@@ -1,7 +1,7 @@
 name         = "Alex Wise"
 display_name  = "Alex Wise"
 image         = "/assets/images/people/alex_wise.jpg"
-profile_url   = ""
+profile_url   = "alex_wise"
 role          = "Postdoc, PSU\nOptiver, Quantitative Researcher"
 bio           = ""
 heading_level = "h3"

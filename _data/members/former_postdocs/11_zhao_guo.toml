@@ -1,7 +1,7 @@
 name         = "Zhao Guo"
 display_name  = "Zhao Guo"
 image         = "/assets/images/people/zhao_guo.jpg"
-profile_url   = ""
+profile_url   = "zhao_guo"
 role          = "Postdoc, PSU\nApplied Math & Astrophysics Researcher, University of Leeds"
 bio           = ""
 heading_level = "h3"

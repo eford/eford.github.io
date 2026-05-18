@@ -1,7 +1,7 @@
 name         = "Althea Moorhead"
 display_name  = "Althea Moorhead"
 image         = "/assets/images/people/althea_moorhead.jpg"
-profile_url   = ""
+profile_url   = "althea_moorhead"
 role          = "Postdoc, UF\nSpace Scientist, NASA Marshall Space Flight Center"
 bio           = ""
 heading_level = "h3"

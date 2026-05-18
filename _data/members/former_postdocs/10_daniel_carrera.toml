@@ -1,7 +1,7 @@
 name         = "Daniel Carrera"
 display_name  = "Daniel Carrera"
 image         = "/assets/images/people/daniel_carrera.jpg"
-profile_url   = ""
+profile_url   = "daniel_carrera"
 role          = "Postdoc, PSU\nAssistant Research Professor, New Mexico State University"
 bio           = ""
 heading_level = "h3"
