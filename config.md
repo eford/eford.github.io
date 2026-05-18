@@ -34,3 +34,6 @@ nav_items = [
 
 <!-- Date format -->
 @def date_format = "U d, yyyy"
+
+<!-- Things to ignore -->
+@def ignore = ["scripts/", ".git/", ".remember/"]

@@ -97,7 +97,7 @@ The orbital architectures of observed planetary systems encode information about
 
 ## Astrostatistics & Data Science Methods
 
-Extracting reliable scientific conclusions from astronomical observations requires sophisticated statistical methods. Our group develops and applies Bayesian inference, MCMC algorithms, Gaussian processes, and approximate Bayesian computation.
+Extracting reliable scientific conclusions from astronomical observations requires sophisticated statistical methods. Our group develops and applies Bayesian inference, MCMC algorithms, Gaussian processes, approximate Bayesian computation, and physics-informed machine learning.
 
 ### Key Contributions
 
@@ -106,11 +106,6 @@ Extracting reliable scientific conclusions from astronomical observations requir
 - **Multi-dimensional non-parametric models** for mass-radius-insolation-stellar mass relationships (MRExo; Kanodia et al. 2023).
 - **Robust handling of correlated noise** in EPRV time series, including its impact on the achievable mass precision of Earth-analog detections (Luhn et al. 2023).
 
-**MCMC Methods for Exoplanets:**
-- Ford, E.B. (2005). AJ, 129, 1706. "Quantifying the uncertainty in the orbits of extrasolar planets"
-- Ford, E.B. (2006). ApJ, 642, 505. "Improving the efficiency of Markov chain Monte Carlo"
-- Nelson, B., E.B. Ford & M.J. Payne (2014) ApJS 210, 11. "RUN DMC: An Efficient, Parallel Code for Analyzing Radial Velocity Observations Using N-body Integrations and Differential Evolution Markov Chain Monte Carlo"
-- Nelson et al. (2020) AJ 159, 73. "Quantifying the Bayesian Evidence for a Planet in Radial Velocity Data"
 ---
 
 ## High-Performance Computing for Astrophysics
@@ -134,7 +129,6 @@ You can find several open-source codes from group members on GitHub:
 - Utilities
    - [ExpectationMaximizationPCA.jl](https://github.com/christiangil/ExpectationMaximizationPCA.jl)
    - [PlutoTeachingTools.jl](https://github.com/JuliaPluto/PlutoTeachingTools.jl)
----
 
 ---
 

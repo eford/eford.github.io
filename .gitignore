@@ -10,4 +10,6 @@ node_modules/
 _data/publications*
 *_old.md
 *.bib
+highlight
+highlight/highlight.zip
 
