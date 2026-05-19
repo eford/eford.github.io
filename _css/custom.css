@@ -388,3 +388,198 @@ a:hover { text-decoration: underline; }  */
 }
 
 
+/* ============================================================
+   Additions for the landing-page upgrade.
+   Append these blocks to _css/custom.css in eford/eford.github.io.
+   All rules scoped to new classes — no existing styles are changed.
+   ============================================================ */
+
+/* ===== Upgrade #1 — Pull quote opener ===== */
+.pull-quote {
+  margin: 1.8rem 0 1.4rem;
+  padding: 0.4rem 0 0.4rem 1.5rem;
+  border-left: 4px solid var(--psu-accent);
+}
+.pull-quote p {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 1.5rem;
+  line-height: 1.35;
+  font-weight: 400;
+  color: var(--psu-navy);
+  margin: 0;
+  text-wrap: pretty;
+}
+.pull-quote cite {
+  display: block;
+  margin-top: 0.6rem;
+  font-family: 'Source Sans 3', 'Segoe UI', system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: #6a6a78;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* ===== Upgrade #3 — Research spotlight ===== */
+.spotlight {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 6fr);
+  align-items: stretch;
+  margin: 1rem 0 1.5rem;
+  background: var(--psu-light-gray);
+  border-radius: 12px;
+  border-left: 4px solid var(--psu-accent);
+  overflow: hidden;
+}
+.spotlight-media {
+  position: relative;
+  min-height: 280px;
+  background: linear-gradient(135deg, var(--psu-light-blue), var(--psu-blue));
+}
+.spotlight-media img {
+  width: 100%;
+  height: 100%;
+  min-height: 280px;
+  object-fit: cover;
+  display: block;
+}
+.spotlight-credit {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  padding: 6px 10px;
+  background: rgba(0, 30, 68, 0.78);
+  color: #fff;
+  font-family: 'Source Sans 3', 'Segoe UI', system-ui, sans-serif;
+  font-size: 11px;
+  line-height: 1.4;
+  letter-spacing: 0.01em;
+}
+.spotlight-credit a { color: #fff; text-decoration: underline; }
+.spotlight-credit a:hover { color: var(--psu-light-blue); }
+.spotlight-body {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.spotlight-eyebrow {
+  font-family: 'Source Sans 3', 'Segoe UI', system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.75rem;
+  color: var(--psu-blue);
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+}
+.spotlight-body h3 {
+  margin: 0 0 0.6rem;
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  color: var(--psu-navy);
+  font-weight: 600;
+}
+.spotlight-body p {
+  margin: 0 0 1rem;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.spotlight-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  align-self: flex-start;
+  color: var(--psu-blue);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.spotlight-link:hover { color: var(--psu-accent); text-decoration: none; }
+.spotlight-link::after { content: "→"; transition: transform 0.2s; }
+.spotlight-link:hover::after { transform: translateX(3px); }
+
+/* ===== Upgrade #5 — Active Right Now strip ===== */
+.active-now {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin: 1rem 0 1.5rem;
+}
+.active-card {
+  background: var(--psu-light-gray);
+  border-radius: 10px;
+  border-left: 4px solid var(--psu-blue);
+  padding: 1.2rem 1.3rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.active-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+.active-card .ac-icon {
+  width: 32px; height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--psu-navy);
+  font-size: 18px;
+  margin-bottom: 0.2rem;
+}
+.active-card .ac-eyebrow {
+  font-family: 'Source Sans 3', 'Segoe UI', system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.72rem;
+  color: var(--psu-blue);
+  font-weight: 700;
+}
+.active-card .ac-eyebrow time {
+  color: #6a6a78;
+  font-weight: 600;
+  margin-left: 0.5em;
+}
+.active-card .ac-title {
+  font-family: 'Source Serif 4', Georgia, serif;
+  color: var(--psu-navy);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0;
+}
+.active-card .ac-meta {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0;
+}
+.active-card .ac-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--psu-blue);
+  font-weight: 600;
+  font-size: 0.88rem;
+  margin-top: auto;
+  padding-top: 0.4rem;
+  min-height: 24px;
+}
+.active-card .ac-link::after { content: "→"; }
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .spotlight { grid-template-columns: 1fr; }
+  .spotlight-body { padding: 1.5rem; }
+  .active-now { grid-template-columns: 1fr; }
+  .pull-quote p { font-size: 1.25rem; }
+}
+
+/* ===== Reduced motion ===== */
+@media (prefers-reduced-motion: reduce) {
+  .active-card,
+  .spotlight-link::after { transition: none; }
+  .active-card:hover { transform: none; box-shadow: 0 6px 20px rgba(0,0,0,0.08); }
+  .spotlight-link:hover::after { transform: none; }
+}
