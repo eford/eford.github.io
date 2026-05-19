@@ -1,0 +1,4 @@
+name        = "Mitigating Stellar Variability"
+url         = ""
+description = "A major challenge for EPRV surveys is distinguishing true planetary signals from apparent Doppler shifts caused by stellar surface phenomena — granulation, oscillations, and magnetic activity. Our group develops data-driven and physics-informed approaches (including GRASS and StellarSpectraObservationFitting.jl) to simulate and mitigate these effects."
+sort_order  = 3

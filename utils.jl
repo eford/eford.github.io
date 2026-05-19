@@ -823,3 +823,171 @@ function hfun_publication_list(params)
     write(io, "</ul>\n")
     return String(take!(io))
 end
+# ─────────────────────────────────────────────────────────────────────────────
+# Append these functions to utils.jl in eford/eford.github.io.
+# They follow the existing hfun_* pattern throughout the file.
+#
+# New data layout introduced here:
+#   _data/research/<slug>/projects/01_name.toml   ← key-project entries
+#
+# Existing data already used:
+#   _data/publications/<year>/<key>.toml  (via existing hfun_publication_list)
+#   _data/software/<group>/<name>.toml   (via existing hfun_software_cards_from_dir)
+#
+# CSS: append the contents of custom.css.additions.css to _css/custom.css.
+# The .rt-* rules are needed for hfun_research_theme_header,
+# hfun_research_project_cards_from_dir, and hfun_research_sibling_nav.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Research theme registry ───────────────────────────────────────────────────
+# Single source of truth for all six themes.
+# Update here if a theme is added or renamed.
+const RESEARCH_THEMES = [
+    ("🔭", "Extremely Precise Radial Velocities", "eprv"),
+    ("📊", "Exoplanet Demographics",               "demographics"),
+    ("🪐", "Orbital Dynamics & Formation",         "dynamics"),
+    ("📈", "Astrostatistics & Astroinformatics",   "astrostats"),
+    ("💻", "High-Performance Computing",           "hpc"),
+    ("🌍", "Life in the Universe",                 "astrobiology"),
+]
+
+# ─────────────────────────────────────────────────────────────────────────────
+
+"""
+    hfun_research_overview_cards(params) -> String
+
+Render the 6-up card grid for /research/.
+Reads the theme list from RESEARCH_THEMES above; no arguments required.
+
+Usage in research/index.md:
+    {{research_overview_cards}}
+"""
+#function hfun_research_overview_cards(params)
+function hfun_research_overview_cards()
+    io = IOBuffer()
+    write(io, """<div class="card-grid research-overview-grid">\n""")
+    for (emoji, title, slug) in RESEARCH_THEMES
+        write(io, """  <a class="card research-overview-card" href="/research/$slug/">
+    <div class="roc-emoji" aria-hidden="true">$emoji</div>
+    <h3>$title</h3>
+    <span class="roc-cta">Read more →</span>
+  </a>\n""")
+    end
+    write(io, "</div>\n")
+    return String(take!(io))
+end
+
+# ─────────────────────────────────────────────────────────────────────────────
+
+"""
+    hfun_research_theme_header(params) -> String
+
+Render the back link + emoji × h1 heading for a research theme page.
+Reads two page-level variables (set via @def in the calling page):
+  - `theme_emoji`  e.g. "🔭"
+  - `title`        e.g. "Extremely Precise Radial Velocities" (Franklin sets this automatically)
+
+Usage in research/<slug>/index.md:
+    {{research_theme_header}}
+"""
+#function hfun_research_theme_header(params)
+function hfun_research_theme_header()
+    # locvar reads @def variables from the page currently being rendered.
+    # Falls back gracefully if the variable was not set.
+    emoji = something(Franklin.locvar(:theme_emoji), "🔬")
+    title = something(Franklin.locvar(:title),       "Research Theme")
+    return """<p class="rt-back"><a href="/research/" class="rt-back-link">← Research Themes</a></p>
+<div class="rt-heading">
+  <h1 class="rt-title"> <span class="rt-emoji" aria-hidden="true">$emoji</span>
+$title</h1>
+</div>
+"""
+end
+
+# ─────────────────────────────────────────────────────────────────────────────
+
+"""
+    hfun_research_sibling_nav(params) -> String
+
+Render the bottom navigation strip linking to all sibling research themes.
+Reads `theme_slug` from the current page's @def variables and excludes it.
+
+Usage in research/<slug>/index.md:
+    {{research_sibling_nav}}
+"""
+#function hfun_research_sibling_nav(params)
+function hfun_research_sibling_nav()
+    current  = something(locvar(:theme_slug), "")
+    siblings = filter(t -> t[3] != current, RESEARCH_THEMES)
+    sibling_links = join([
+        """    <a href="/research/$(t[3])/" class="rt-nav-link">$(t[1]) $(t[2])</a>"""
+        for t in siblings
+    ], "\n")
+    return """<div class="rt-nav-strip">
+  <a href="/research/" class="rt-nav-link rt-nav-link--back">← All Research Themes</a>
+  <div class="rt-nav-siblings">
+    <span class="rt-nav-label">Other themes:</span>
+$sibling_links
+  </div>
+</div>
+"""
+end
+
+# ─────────────────────────────────────────────────────────────────────────────
+
+"""
+    project_card_html(data) -> String
+
+Generate the HTML for a single "Key Project" card (navy left rule,
+name optionally linked, description paragraph).
+"""
+function project_card_html(data::Dict)
+    name = get(data, "name", "")
+    url  = get(data, "url",  "")
+    desc = get(data, "description", "")
+    name_html = isempty(url) ? name : """<a href="$url">$name</a>"""
+    return """<div class="rt-project">
+  <h3>$name_html</h3>
+  <p>$desc</p>
+</div>
+"""
+end
+
+"""
+    hfun_research_project_cards_from_dir(params) -> String
+
+Render all Key Project cards from `_data/research/<slug>/projects/*.toml`.
+Files are sorted by the optional `sort_order` TOML field, then by filename.
+
+Usage in research/<slug>/index.md:
+    {{research_project_cards_from_dir eprv}}
+
+TOML fields:
+    name        = "NEID"          (required)
+    url         = "https://..."   (optional — wraps name in <a>)
+    description = "..."           (required)
+    sort_order  = 1               (optional — controls card order)
+"""
+function hfun_research_project_cards_from_dir(params)
+    isempty(params) && return ""
+    dir = joinpath("_data", "research", params[1], "projects")
+    if !isdir(dir)
+        @warn "hfun_research_project_cards_from_dir: directory not found — $dir"
+        return ""
+    end
+    toml_files = filter(f -> endswith(f, ".toml"), readdir(dir))
+    isempty(toml_files) && return ""
+    entries = map(toml_files) do f
+        data  = TOML.parsefile(joinpath(dir, f))
+        order = get(data, "sort_order", 999)
+        (order, f, data)
+    end
+    sort!(entries, by = e -> (e[1], e[2]))
+    io = IOBuffer()
+    write(io, """<div class="rt-project-list">\n""")
+    for (_, _, data) in entries
+        write(io, project_card_html(data))
+    end
+    write(io, "</div>\n")
+    return String(take!(io))
+end

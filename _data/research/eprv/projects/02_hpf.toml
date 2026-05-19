@@ -1,0 +1,4 @@
+name        = "Habitable Zone Planet Finder (HPF)"
+url         = "https://hpf.psu.edu/"
+description = "A near-infrared spectrograph on the Hobby-Eberly Telescope designed to detect low-mass planets orbiting M dwarf stars in their habitable zones. Our group contributes stellar-variability mitigation methods and Bayesian orbit-fitting pipelines to the HPF science program."
+sort_order  = 2
