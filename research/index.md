@@ -124,8 +124,6 @@ You can find several open-source codes from group members on GitHub:
    - [StellarSpectraObservationFitting.jl](https://github.com/RvSpectML/StellarSpectraObservationFitting.jl)
    - [SSOFApplication](https://github.com/christiangil/SSOFApplication)
    - The broader [RvSpectML](https://github.com/RvSpectML) ecosystem
-- Transit Surveys
-   - TESS-miner — light-curve search and injection-recovery framework powering the GEMS occurrence study
 - Utilities
    - [ExpectationMaximizationPCA.jl](https://github.com/christiangil/ExpectationMaximizationPCA.jl)
    - [PlutoTeachingTools.jl](https://github.com/JuliaPluto/PlutoTeachingTools.jl)
