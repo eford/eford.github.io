@@ -15,6 +15,17 @@
 Understanding the frequency, sizes, orbits, and architectures of planetary systems is essential for constraining theories of planet formation and evolution, and for designing the next generation of exoplanet surveys.
 Our group develops statistical frameworks for measuring planet occurrence rates and characterizing planetary system architectures using Kepler, TESS, and ground-based survey data.
 
+~~~
+
+<figure class="rt-figure">
+  <img src="/assets/images/e1-6000-exoplanets-artists-concept-web.webp" width="100%"
+       alt="Artist impression of a large number of exoplanets.  Decorative only.">
+  <figcaption class="rt-figure-caption">
+    Credit: <a href="https://www.nasa.gov/universe/exoplanets/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/">NASA’s Goddard Space Flight Center</a>.
+  </figcaption>
+</figure>
+~~~
+
 ## Key Projects
 
 ~~~
@@ -22,9 +33,6 @@ Our group develops statistical frameworks for measuring planet occurrence rates 
 ~~~
 
 ## Selected Publications
-
-Publications are pulled automatically from `_data/publications/` where
-`research_themes` includes `"demographics"`.
 
 ~~~
 {{publication_list "Exoplanet Demographics"}}

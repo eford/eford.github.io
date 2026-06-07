@@ -14,21 +14,22 @@
 
 The orbital architectures of observed planetary systems encode information about their formation and dynamical histories. We use N-body simulations, analytic theory, and statistical comparisons with observations to understand the processes that shape planetary systems.
 
+~~~
+<figure class="rt-figure">
+  <img src="/assets/images/Protoplanetary-disk.jpg" width="100%"
+       alt="Artist's concept of a protoplanetary disk.  Decorative only.">
+  <figcaption class="rt-figure-caption">
+    Credit: <a href="https://commons.wikimedia.org/wiki/File:Protoplanetary-disk.jpg">NASA, Pat Rawlings</a>.
+  </figcaption>
+</figure>
+~~~
+
 ## Key Projects
 
 ~~~
 {{research_project_cards_from_dir dynamics}}
+
 ~~~
-
-## Key Topics
-
-Migration traps and the _Kepler_ dichotomy: pebble-accretion and migration simulations show that planet traps near disk transitions naturally produce a population of dynamically cool, near-resonant short-period systems, plausibly resolving the long-standing dichotomy in _Kepler_ multiplicities (Zawadzki et al. 2021, 2022).
-
-M-dwarf giant planets: the existence of Jupiter- and Neptune-mass planets around very low-mass stars places strong constraints on core-accretion and disk-instability models, motivating the GEMS survey.
-
-Spin-orbit angles and Rossiter-McLaughlin measurements with NEID and HPF, including polar orbits for warm Neptunes (GJ 3470b) and well-aligned warm Jupiters in unusual binary configurations.
-
-Planet-planet scattering and the origins of eccentric and hot giant planets (continuing themes from Rasio & Ford 1996; Chatterjee et al. 2008; Ford & Rasio 2008).
 
 ## Selected Publications
 
