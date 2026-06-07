@@ -23,11 +23,11 @@ end
 Generate an HTML card for a group member.
 """
 function hfun_member_card(params)
-    name  = params[1]
-    role  = params[2]
-    desc  = params[3]
-    link  = length(params) >= 4 ? params[4] : ""
-    img   = length(params) >= 5 ? params[5] : "/assets/images/placeholder.png"
+    name = params[1]
+    role = params[2]
+    desc = params[3]
+    link = length(params) >= 4 ? params[4] : ""
+    img = length(params) >= 5 ? params[5] : "/assets/images/placeholder.png"
     s = """
     <div class="member-card">
       <div class="member-info">
@@ -53,22 +53,22 @@ using TOML
 Generate the HTML for a single member card from a parsed TOML dict.
 """
 function member_card_html(data::Dict)
-    name        = get(data, "name", "")
-    display     = get(data, "display_name", name)
-    image       = get(data, "image", "")
+    name = get(data, "name", "")
+    display = get(data, "display_name", name)
+    image = get(data, "image", "")
     profile_url = get(data, "profile_url", "")
-    role        = get(data, "role", "")
+    role = get(data, "role", "")
     role_html = replace(role, "\n" => "<br>")
-    bio         = get(data, "bio", "")
-    hlevel      = get(data, "heading_level", "h3")
-    links       = get(data, "links", [])
+    bio = get(data, "bio", "")
+    hlevel = get(data, "heading_level", "h3")
+    links = get(data, "links", [])
 
     links_html = if !isempty(links)
         inner = join([
-            # aria-label is the reliable accessible name for icon-only links (WCAG 1.1.1 / 4.1.2)
-            """    <a href="$(l["url"])" aria-label="$(l["title"])" title="$(l["title"])"><i class="$(l["icon"])"></i></a>"""
-            for l in links
-        ], "\n")
+                # aria-label is the reliable accessible name for icon-only links (WCAG 1.1.1 / 4.1.2)
+                """    <a href="$(l["url"])" aria-label="$(l["title"])" title="$(l["title"])"><i class="$(l["icon"])"></i></a>"""
+                for l in links
+            ], "\n")
         "  <p>\n$inner\n  </p>\n"
     else
         ""
@@ -135,7 +135,7 @@ Usage in .md:
 
 Maps to `_data/members/postdocs/*.toml`.
 """
-function hfun_member_cards_from_dir(params; reverse::Bool = false)
+function hfun_member_cards_from_dir(params; reverse::Bool=false)
     isempty(params) && return ""
     dir = joinpath("_data", "members", params[1])
     if !isdir(dir)
@@ -154,7 +154,7 @@ function hfun_member_cards_from_dir(params; reverse::Bool = false)
         (order, f, data)
     end
 
-    sort!(entries, by = e -> (e[1], e[2]), rev=reverse)   # primary: sort_order, secondary: filename
+    sort!(entries, by=e -> (e[1], e[2]), rev=reverse)   # primary: sort_order, secondary: filename
 
     io = IOBuffer()
     for (_, _, data) in entries
@@ -178,22 +178,22 @@ end
 Generate the HTML for a single course card from a parsed TOML dict.
 """
 function course_card_html(data::Dict)
-    title       = get(data, "title", "")
-    emoji       = get(data, "emoji", "")
-    meta        = get(data, "meta", "")
+    title = get(data, "title", "")
+    emoji = get(data, "emoji", "")
+    meta = get(data, "meta", "")
     description = get(data, "description", "")
     archive_url = get(data, "archive_url", "")
     archive_label = get(data, "archive_label", "Course website & materials")
 
     heading = isempty(emoji) ? title : "$emoji $title"
 
-    
+
     archive_html = if !isempty(archive_url)
         """  <p>📎 Archived <a href="$archive_url">$archive_label</a></p>\n"""
     else
         ""
     end
-    
+
     return """<div class="course-card">
   <h3>$heading</h3>
   <p class="course-meta">$meta</p>
@@ -264,7 +264,7 @@ function hfun_course_cards_from_dir(params)
         (order, f, data)
     end
 
-    sort!(entries, by = e -> (e[1], e[2]))
+    sort!(entries, by=e -> (e[1], e[2]))
 
     io = IOBuffer()
     for (_, _, data) in entries
@@ -284,8 +284,8 @@ end
 Generate the HTML for a single software card from a parsed TOML dict.
 """
 function software_card_html(data::Dict)
-    name        = get(data, "name", "")
-    url         = get(data, "url", "")
+    name = get(data, "name", "")
+    url = get(data, "url", "")
     description = get(data, "description", "")
 
     name_html = isempty(url) ? name : """<a href="$url">$name</a>"""
@@ -362,7 +362,7 @@ function hfun_software_cards_from_dir(params)
         (order, f, data)
     end
 
-    sort!(entries, by = e -> (e[1], e[2]))
+    sort!(entries, by=e -> (e[1], e[2]))
 
     io = IOBuffer()
     write(io, """<div class="card-grid">\n""")
@@ -399,26 +399,26 @@ function hfun_project_cards()::String
 
     # ── 2. Link button definitions (page variable => display label) ────────────
     LINK_BUTTONS = [
-        ("github",  "GitHub"),
-        ("demo",    "Demo"),
-        ("paper",   "Paper"),
-        ("arxiv",   "arXiv"),
-        ("data",    "Data"),
-        ("zenodo",  "Zenodo"),
-        ("slides",  "Slides"),
-        ("video",   "Video"),
+        ("github", "GitHub"),
+        ("demo", "Demo"),
+        ("paper", "Paper"),
+        ("arxiv", "arXiv"),
+        ("data", "Data"),
+        ("zenodo", "Zenodo"),
+        ("slides", "Slides"),
+        ("video", "Video"),
     ]
 
     # ── 3. Read metadata from each project page ────────────────────────────────
     projects = []
     for rpath in project_rpaths
-        title       = pagevar(rpath, "title")
+        title = pagevar(rpath, "title")
         description = pagevar(rpath, "description")
-        image       = pagevar(rpath, "image")
+        image = pagevar(rpath, "image")
         # Fix 1.1.1: prefer explicit alt text; fall back to "" (decorative)
-        image_alt   = something(pagevar(rpath, "image_alt"), "")
-        tags        = pagevar(rpath, "tags")
-        featured    = pagevar(rpath, "featured")
+        image_alt = something(pagevar(rpath, "image_alt"), "")
+        tags = pagevar(rpath, "tags")
+        featured = pagevar(rpath, "featured")
 
         isnothing(title) && continue
 
@@ -431,14 +431,14 @@ function hfun_project_cards()::String
         end
 
         push!(projects, (;
-            title       = something(title, "Untitled"),
-            description = something(description, ""),
-            image       = something(image, ""),
-            image_alt   = image_alt,
-            tags        = something(tags, String[]),
-            featured    = something(featured, false),
-            url         = "/" * rpath * "/",
-            links       = links,
+            title=something(title, "Untitled"),
+            description=something(description, ""),
+            image=something(image, ""),
+            image_alt=image_alt,
+            tags=something(tags, String[]),
+            featured=something(featured, false),
+            url="/" * rpath * "/",
+            links=links,
         ))
     end
 
@@ -448,7 +448,9 @@ function hfun_project_cards()::String
     # ── 5. Build HTML ──────────────────────────────────────────────────────────
     io = IOBuffer()
 
-    write(io, """
+    write(
+        io,
+        """
 <section class="projects-section">
   <h2 class="projects-heading">Featured Projects</h2>
 
@@ -462,7 +464,8 @@ function hfun_project_cards()::String
             data-filter="all"
             aria-pressed="true"
             onclick="filterProjects(this)">All</button>
-""")
+"""
+    )
 
     for tag in all_tags
         write(io, """    <button class="filter-btn" data-filter="$(tag)" aria-pressed="false" onclick="filterProjects(this)">$(titlecase(tag))</button>\n""")
@@ -472,26 +475,28 @@ function hfun_project_cards()::String
 
     for p in projects
         # Fix 4.1.2 / 1.1.1: JSON array for tags; meaningful or empty alt text
-        tag_json   = "[" * join(["\"$(t)\"" for t in p.tags], ",") * "]"
+        tag_json = "[" * join(["\"$(t)\"" for t in p.tags], ",") * "]"
         tag_badges = join(
             ["<span class=\"project-tag\">$(t)</span>" for t in p.tags],
             "\n            "
         )
 
         img_html = isempty(p.image) ?
-            """<div class="project-img-placeholder" aria-hidden="true"></div>""" :
-            """<img src="$(p.image)" alt="$(p.image_alt)" class="project-img" loading="lazy">"""
+                   """<div class="project-img-placeholder" aria-hidden="true"></div>""" :
+                   """<img src="$(p.image)" alt="$(p.image_alt)" class="project-img" loading="lazy">"""
 
         # Fix 2.1.1 / 4.1.2: native <a> replaces <div role="link">.
         # Action buttons sit inside the <a> and use event.stopPropagation()
         # so they open their own URLs rather than the card link.
         buttons_html = join([
-            """<a href="$(url)" class="project-link project-link--$(lowercase(label))" """ *
-            """target="_blank" rel="noopener" onclick="event.stopPropagation()">$(label)</a>"""
-            for (label, url) in p.links
-        ], "\n            ")
+                """<a href="$(url)" class="project-link project-link--$(lowercase(label))" """ *
+                """target="_blank" rel="noopener" onclick="event.stopPropagation()">$(label)</a>"""
+                for (label, url) in p.links
+            ], "\n            ")
 
-        write(io, """
+        write(
+            io,
+            """
     <!-- Card: $(p.title) -->
     <div class="project-card" data-tags='$(tag_json)'>
       $(img_html)
@@ -508,25 +513,26 @@ function hfun_project_cards()::String
         </div>
       </div>
     </div>
-""")
-#=
-        write(io, """
-    <!-- Card: $(p.title) -->
-    <a class="project-card" href="$(p.url)" data-tags='$(tag_json)'>
-      $(img_html)
-      <div class="project-card-body">
-        <div class="project-tags" aria-label="Categories">
-          $(tag_badges)
-        </div>
-        <h3 class="project-title">$(p.title)</h3>
-        <p class="project-desc">$(p.description)</p>
-        <div class="project-links" aria-label="Project links">
-          $(buttons_html)
-        </div>
-      </div>
-    </a>
-""")
-=#
+"""
+        )
+        #=
+                write(io, """
+            <!-- Card: $(p.title) -->
+            <a class="project-card" href="$(p.url)" data-tags='$(tag_json)'>
+              $(img_html)
+              <div class="project-card-body">
+                <div class="project-tags" aria-label="Categories">
+                  $(tag_badges)
+                </div>
+                <h3 class="project-title">$(p.title)</h3>
+                <p class="project-desc">$(p.description)</p>
+                <div class="project-links" aria-label="Project links">
+                  $(buttons_html)
+                </div>
+              </div>
+            </a>
+        """)
+        =#
     end
 
     write(io, "  </div>\n</section>\n")
@@ -536,7 +542,9 @@ function hfun_project_cards()::String
     # inside Julia triple-quoted strings. Franklin's parser treats ${ as Julia
     # string interpolation and throws a parse error. Use string concatenation
     # or ternary expressions with plain JS strings instead.
-    write(io, """
+    write(
+        io,
+        """
 <script>
 (function () {
   var activeFilters = new Set();
@@ -591,7 +599,8 @@ function hfun_project_cards()::String
   };
 }());
 </script>
-""")
+"""
+    )
 
     return String(take!(io))
 end
@@ -607,10 +616,10 @@ end
 Escape a string for safe use inside an HTML attribute value (double-quoted).
 """
 function escape_attr(s::String)::String
-    s = replace(s, "&"  => "&amp;")
+    s = replace(s, "&" => "&amp;")
     s = replace(s, "\"" => "&quot;")
-    s = replace(s, "<"  => "&lt;")
-    s = replace(s, ">"  => "&gt;")
+    s = replace(s, "<" => "&lt;")
+    s = replace(s, ">" => "&gt;")
     return s
 end
 
@@ -641,28 +650,28 @@ Format:
     <a href=adsurl>abstract</a> <a href=doi>doi</a>
 """
 function format_citation(data::Dict)::String
-    title   = get(data, "title",   "")
-    authors = get(data, "author",  "")
-    year    = get(data, "year",    "")
+    title = get(data, "title", "")
+    authors = get(data, "author", "")
+    year = get(data, "year", "")
     journal = get(data, "journal", "")
-    volume  = get(data, "volume",  "")
-    pages   = get(data, "pages",   "")
-    adsurl  = get(data, "adsurl",  "")
-    doi     = get(data, "doi",     "")
+    volume = get(data, "volume", "")
+    pages = get(data, "pages", "")
+    adsurl = get(data, "adsurl", "")
+    doi = get(data, "doi", "")
 
     author_str = format_authors(authors)
 
     # Build the journal info segment, omitting missing fields
     journal_parts = String[]
     !isempty(journal) && push!(journal_parts, "<em>$journal</em>")
-    !isempty(volume)  && push!(journal_parts, volume)
-    !isempty(pages)   && push!(journal_parts, pages)
+    !isempty(volume) && push!(journal_parts, volume)
+    !isempty(pages) && push!(journal_parts, pages)
     journal_str = join(journal_parts, ", ")
 
     # Build the main citation line
     byline_parts = String[]
     !isempty(author_str) && push!(byline_parts, author_str)
-    !isempty(year)       && push!(byline_parts, "($year)")
+    !isempty(year) && push!(byline_parts, "($year)")
     citation_line = join(byline_parts, " ")
     !isempty(journal_str) && (citation_line *= ", $journal_str.")
 
@@ -670,7 +679,7 @@ function format_citation(data::Dict)::String
     # (WCAG 2.4.4: link purpose determinable from link text alone)
     title_attr = escape_attr(title)
     !isempty(adsurl) && (citation_line *= """ <a href="$adsurl" aria-label="Abstract for $title_attr">abstract</a>""")
-    !isempty(doi)    && (citation_line *= """ <a href="https://doi.org/$doi" aria-label="DOI for $title_attr">doi</a>""")
+    !isempty(doi) && (citation_line *= """ <a href="https://doi.org/$doi" aria-label="DOI for $title_attr">doi</a>""")
 
     # Use <span class="pub-title"> rather than <strong>: bold is visual styling
     # here, not a semantic importance signal (WCAG / HTML semantics best practice)
@@ -690,15 +699,15 @@ Second parameter: filename (without.toml extension)
 """
 function hfun_pub(params)
     length(params) == 1 || error("hfun_pub requires exactly one parameter: filename (LastName_Year[a], excluding .toml suffix")
-    filename     = params[1]
-    m = match(r"\w+_(\d+)\w?$",filename)
+    filename = params[1]
+    m = match(r"\w+_(\d+)\w?$", filename)
     if length(m.captures) == 1
         year = first(m.captures)
     else
         @warn "hfun_pub: failed to extract filesname from $params"
         return ""
     end
-    path     = joinpath("_data", "publications", year, filename * ".toml")
+    path = joinpath("_data", "publications", year, filename * ".toml")
     if !isfile(path)
         @warn "hfun_pub: file not found — $path"
         return ""
@@ -718,7 +727,7 @@ Read all TOML files from `_data/publications/` (recursing into year
 subdirectories) and return them as a vector of dicts, each augmented with
 a `_path` key for debugging.
 """
-function load_publications(pub_dir::String = "_data/publications")::Vector{Dict}
+function load_publications(pub_dir::String="_data/publications")::Vector{Dict}
     pubs = Dict[]
     isdir(pub_dir) || return pubs
     for (root, dirs, files) in walkdir(pub_dir)
@@ -747,10 +756,10 @@ Filter a vector of publication dicts.
 function filter_publications(
     pubs::Vector{Dict},
     research_theme::String;
-    tags::Vector{String} = String[]
+    tags::Vector{String}=String[]
 )::Vector{Dict}
     theme_lc = lowercase(strip(research_theme))
-    tags_lc  = lowercase.(strip.(tags))
+    tags_lc = lowercase.(strip.(tags))
 
     return filter(pubs) do pub
         # Check research_theme (required)
@@ -772,9 +781,9 @@ Sort publications newest-first by year, then alphabetically by
 first author within the same year.
 """
 function sort_publications_by_year(pubs::Vector{Dict})::Vector{Dict}
-    return sort(pubs, by = p -> (
+    return sort(pubs, by=p -> (
         -parse(Int, get(p, "year", "0")),
-         get(p, "author", "")
+        get(p, "author", "")
     ))
 end
 
@@ -800,12 +809,12 @@ function hfun_publication_list(params)
 
     research_theme = replace(params[1], "_" => " ")
     tags = length(params) > 1 ?
-        [replace(p, "_" => " ") for p in params[2:end]] :
-        String[]
+           [replace(p, "_" => " ") for p in params[2:end]] :
+           String[]
 
-    pubs    = load_publications()
+    pubs = load_publications()
     matched = filter_publications(pubs, research_theme; tags=tags)
-    sorted  = sort_publications_by_year(matched)
+    sorted = sort_publications_by_year(matched)
 
     if isempty(sorted)
         return "<p><em>No publications found matching the specified theme/tags.</em></p>\n"
@@ -843,12 +852,12 @@ end
 # Single source of truth for all six themes.
 # Update here if a theme is added or renamed.
 const RESEARCH_THEMES = [
-    ("🔭", "Extremely Precise Radial Velocities", "eprv"),
-    ("📊", "Exoplanet Demographics",               "demographics"),
-    ("🪐", "Orbital Dynamics & Formation",         "dynamics"),
-    ("📈", "Astrostatistics & Astroinformatics",   "astrostats"),
-    ("💻", "High-Performance Computing",           "hpc"),
-    ("🌍", "Life in the Universe",                 "astrobiology"),
+    ("🔭", "Extremely Precise Radial Velocities", "eprv", "/assets/images/eprv_nanobanana.png"),
+    ("📊", "Exoplanet Demographics", "demographics", "/assets/images/demographics_nanobanana.png"),
+    ("🪐", "Orbital Dynamics & Formation", "dynamics", "/assets/images/dynamics_nanobanana.png"),
+    ("📈", "Astrostatistics & Astroinformatics", "astrostats", "/assets/images/astrostats_nanobanana.jpeg"),
+    ("💻", "High-Performance Computing", "hpc", "/assets/images/hpc_nanobanana.png"),
+    ("🌍", "Life in the Universe", "astrobiology", "/assets/images/astrobio_nanobanana.jpeg"),
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -866,12 +875,20 @@ Usage in research/index.md:
 function hfun_research_overview_cards()
     io = IOBuffer()
     write(io, """<div class="card-grid research-overview-grid">\n""")
-    for (emoji, title, slug) in RESEARCH_THEMES
-        write(io, """  <a class="card research-overview-card" href="/research/$slug/">
-    <div class="roc-emoji" aria-hidden="true">$emoji</div>
+    for (emoji, title, slug, img_path) in RESEARCH_THEMES
+        img_html = isempty(img_path) ? "" :
+                   """<img src="$img_path" alt="" aria-hidden="true" class="roc-img" loading="lazy">"""
+        write(
+            io,
+            """  <a class="card research-overview-card$(isempty(img_path) ? "" : " research-overview-card--has-img")" href="/research/$slug/">
+  <div class="roc-title-row">
+    <span class="roc-emoji" aria-hidden="true">$emoji</span>
     <h3>$title</h3>
-    <span class="roc-cta">Read more →</span>
-  </a>\n""")
+  </div>
+  <span class="roc-cta">Read more →</span>
+  $img_html
+</a>\n"""
+        )
     end
     write(io, "</div>\n")
     return String(take!(io))
@@ -895,7 +912,7 @@ function hfun_research_theme_header()
     # locvar reads @def variables from the page currently being rendered.
     # Falls back gracefully if the variable was not set.
     emoji = something(Franklin.locvar(:theme_emoji), "🔬")
-    title = something(Franklin.locvar(:title),       "Research Theme")
+    title = something(Franklin.locvar(:title), "Research Theme")
     return """<p class="rt-back"><a href="/research/" class="rt-back-link">← Research Themes</a></p>
 <div class="rt-heading">
   <h1 class="rt-title"> <span class="rt-emoji" aria-hidden="true">$emoji</span>
@@ -917,12 +934,12 @@ Usage in research/<slug>/index.md:
 """
 #function hfun_research_sibling_nav(params)
 function hfun_research_sibling_nav()
-    current  = something(locvar(:theme_slug), "")
+    current = something(locvar(:theme_slug), "")
     siblings = filter(t -> t[3] != current, RESEARCH_THEMES)
     sibling_links = join([
-        """    <a href="/research/$(t[3])/" class="rt-nav-link">$(t[1]) $(t[2])</a>"""
-        for t in siblings
-    ], "\n")
+            """    <a href="/research/$(t[3])/" class="rt-nav-link">$(t[1]) $(t[2])</a>"""
+            for t in siblings
+        ], "\n")
     return """<div class="rt-nav-strip">
   <a href="/research/" class="rt-nav-link rt-nav-link--back">← All Research Themes</a>
   <div class="rt-nav-siblings">
@@ -943,14 +960,26 @@ name optionally linked, description paragraph).
 """
 function project_card_html(data::Dict)
     name = get(data, "name", "")
-    url  = get(data, "url",  "")
+    url = get(data, "url", "")
     desc = get(data, "description", "")
+    thumbnail = get(data, "thumbnail", "")
     name_html = isempty(url) ? name : """<a href="$url">$name</a>"""
-    return """<div class="rt-project">
+    if isempty(thumbnail)
+        return """<div class="rt-project">
   <h3>$name_html</h3>
   <p>$desc</p>
 </div>
 """
+    else
+        return """<div class="rt-project rt-project--has-img">
+  <div class="rt-project-body">
+    <h3>$name_html</h3>
+    <p>$desc</p>
+  </div>
+  <img src="$thumbnail" alt="" aria-hidden="true" class="rt-project-img" loading="lazy">
+</div>
+"""
+    end
 end
 
 """
@@ -978,11 +1007,11 @@ function hfun_research_project_cards_from_dir(params)
     toml_files = filter(f -> endswith(f, ".toml"), readdir(dir))
     isempty(toml_files) && return ""
     entries = map(toml_files) do f
-        data  = TOML.parsefile(joinpath(dir, f))
+        data = TOML.parsefile(joinpath(dir, f))
         order = get(data, "sort_order", 999)
         (order, f, data)
     end
-    sort!(entries, by = e -> (e[1], e[2]))
+    sort!(entries, by=e -> (e[1], e[2]))
     io = IOBuffer()
     write(io, """<div class="rt-project-list">\n""")
     for (_, _, data) in entries
