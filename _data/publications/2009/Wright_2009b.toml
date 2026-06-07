@@ -1,0 +1,22 @@
+title = "Ten New and Updated Multiplanet Systems and a Survey of Exoplanetary Systems"
+author = "Wright, J.~T. and Upadhyay, S. and Marcy, G.~W. and Fischer, D.~A. and Ford, Eric B. and Johnson, John Asher"
+year = "2009"
+month = "mar"
+journal = "ApJ"
+volume = "693"
+number = "2"
+pages = "1084-1099"
+doi = "10.1088/0004-637X/693/2/1084"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...693.1084W"
+archiveprefix = "arXiv"
+eprint = "0812.1582"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We present the latest velocities for ten multiplanet systems, including a re-analysis of archival Keck and Lick data, resulting in improved velocities that supersede our previously published measurements. We derive updated orbital fits for 10 Lick and Keck systems, including two systems (HD 11964, HD 183263) for which we provide confirmation of second planets only tentatively identified elsewhere, and two others (HD 187123 and HD 217107) for which we provide a major revision of the outer planet's orbit. We compile orbital elements from the literature to generate a catalog of the 28 published multiple-planet systems around stars within 200 pc. From this catalog we find several intriguing patterns emerging: (1) including those systems with long-term radial velocity trends, at least 28% of known planetary systems appear to contain multiple planets; (2) planets in multiple-planet systems have somewhat smaller eccentricities than single planets; and (3) the distribution of orbital distances of planets in multiplanet systems and single planets are inconsistent: single-planet systems show a pileup at P ~ 3 days and a jump near 1 AU, while multiplanet systems show a more uniform distribution in log-period. In addition, among all planetary systems we find the following. (1) There may be an emerging, positive correlation between stellar mass and giant-planet semimajor axis. (2) Exoplanets with M sin i &gt; 1 M <SUB>Jup</SUB> more massive than Jupiter have eccentricities broadly distributed across 0 &lt; e &lt; 0.5, while lower mass exoplanets exhibit a distribution peaked near e = 0.\n"""
+tags = ["Demographics", "Keck", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multiplanet Systems", "Orbital Fitting", "Radial Velocity Data Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

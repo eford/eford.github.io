@@ -1,0 +1,21 @@
+title = "The NEID Earth Twin Survey. IV. Confirming an 89 d, $m\\sin i=10~\\mathrmM_⊕$ Planet Orbiting a Nearby Sun-like Star"
+author = "Giovinazzi, Mark R. and Fitzmaurice, Evan and Gupta, Arvind F. and Robertson, Paul and Mahadevan, Suvrath and Ford, Eric B. and Alvarado-Montes, Jaime A. and Bender, Chad F. and Blake, Cullen H. and Dong, Jiayin and Fernandes, Rachel B. and Halverson, Samuel and Han, Te and Kanodia, Shubham and Krolikowski, Daniel M. and Logsdon, Sarah E. and Ninan, Joe P. and Roy, Arpita and Schwab, Christian and Stefansson, Gudmundur and Terrien, Ryan C. and Wright, Jason T."
+year = "2025"
+month = "aug"
+journal = "arXiv e-prints"
+pages = "arXiv:2508.18169"
+doi = "10.48550/arXiv.2508.18169"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025arXiv250818169G"
+archiveprefix = "arXiv"
+eprint = "2508.18169"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the confirmation of HD 190360 d, a warm ($P=88.690^+0.051_-0.049~\\mathrmd$), low-mass ($m\\sin i=10.23^+0.81_-0.80~\\mathrmM_⊕$) planet orbiting the nearby ($d=16.0$ pc), Sun-like (G7) star HD 190360. We detect HD 190360 d at high statistical significance even though its radial velocity (RV) semi-amplitude is only $K=1.48±0.11~\\mathrm{m~s^-1}$. Such low-amplitude signals are often challenging to confirm due to potential confusion with low-amplitude stellar signals. The HD 190360 system previously had two known planets: the $1.7~\\mathrmM_J$ (true mass) HD 190360 b on a $7.9$ yr orbit and the $21~\\mathrmM_⊕$ (minimum mass) HD 190360 c on a $17.1$ d orbit. Here, we present an in-depth analysis of the HD 190360 planetary system that comprises more than 30 years of RV measurements and absolute astrometry from the Hipparcos and Gaia spacecrafts. Our analysis uses more than 1400 RVs, including nearly 100 from NEID. The proper motion anomaly as measured by these two astrometric missions solves for the dynamical mass of HD 190360 b and contributes to our understanding of the overall system architecture, while the long baseline of RVs enables the robust characterization of HD 190360 c and confirms the discovery of HD 190360 d.\n"""
+tags = ["Dynamics", "NEID", "Radial Velocity", "Stars"]
+research_themes = ["Planetary Architectures", "Radial Velocity Surveys"]
+eid = "arXiv:2508.18169"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Astrometry", "Gaia", "Near-Earth Stars"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

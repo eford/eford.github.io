@@ -1,0 +1,21 @@
+title = "A Bayesian Surrogate Model for Rapid Time Series Analysis and Application to Exoplanet Observations"
+author = "Ford, Eric B. and Moorhead, Althea V. and Veras, Dimitri"
+year = "2011"
+month = "jul"
+journal = "arXiv e-prints"
+pages = "arXiv:1107.4047"
+doi = "10.48550/arXiv.1107.4047"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011arXiv1107.4047F"
+archiveprefix = "arXiv"
+eprint = "1107.4047"
+primaryclass = "stat.ME"
+entrytype = "article"
+abstract = """We present a Bayesian surrogate model for the analysis of periodic or quasi-periodic time series data. We describe a computationally efficient implementation that enables Bayesian model comparison. We apply this model to simulated and real exoplanet observations. We discuss the results and demonstrate some of the challenges for applying our surrogate model to realistic exoplanet data sets. In particular, we find that analyses of real world data should pay careful attention to the effects of uneven spacing of observations and the choice of prior for the \"jitter\" parameter.\n"""
+tags = ["Kepler", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "High-Performance Computing"]
+eid = "arXiv:1107.4047"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Time Series Analysis", "Bayesian Methods", "Exoplanet Detection"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "High-Performance Computing"]

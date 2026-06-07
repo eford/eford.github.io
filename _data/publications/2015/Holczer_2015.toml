@@ -1,0 +1,23 @@
+title = "Time Variation of Kepler Transits Induced by Stellar Spots - A Way to Distinguish between Prograde and Retrograde Motion. II. Application to KOIs"
+author = "Holczer, Tomer and Shporer, Avi and Mazeh, Tsevi and Fabrycky, Daniel and Nachmani, Gil and McQuillan, Amy and Sanchis-Ojeda, Roberto and Orosz, Jerome A. and Welsh, William F. and Ford, Eric B. and Jontof-Hutter, Daniel"
+year = "2015"
+month = "jul"
+journal = "ApJ"
+volume = "807"
+number = "2"
+pages = "170"
+doi = "10.1088/0004-637X/807/2/170"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2015ApJ...807..170H"
+archiveprefix = "arXiv"
+eprint = "1504.04028"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """Mazeh et al. have presented an approach that can, in principle, use the derived transit timing variation (TTV) of some transiting planets observed by the Kepler mission to distinguish between the prograde and retrograde motion of their orbits with respect to their parent stars’ rotation. The approach utilizes TTVs induced by spot-crossing events that occur when the planet moves across a spot on the stellar surface, looking for a correlation between the derived TTVs and the stellar brightness derivatives at the corresponding transits. This can work even in data that cannot temporally resolve the spot-crossing events themselves. Here, we apply this approach to the Kepler KOIs, identifying nine systems where the photometric spot modulation is large enough and the transit timing accurate enough to allow detection of a TTV-brightness-derivatives correlation. Of those systems, five show highly significant prograde motion (Kepler-17b, Kepler-71b, KOI-883.01, KOI-895.01, and KOI-1074.01), while no system displays retrograde motion, consistent with the suggestion that planets orbiting cool stars have prograde motion. All five systems have impact parameter 0.2≲ b≲ 0.5, and all systems within that impact parameter range show significant correlation, except HAT-P-11b where the lack of a correlation follows its large stellar obliquity. Our search suffers from an observational bias against detection of high impact parameter cases, and the detected sample is extremely small. Nevertheless, our findings may suggest that stellar spots, or at least the larger ones, tend to be located at low stellar latitude, but not along the stellar equator, similar to the Sun.\n"""
+tags = ["Dynamics", "Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "170"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Spots", "Orbital Inclination", "Planet-Star Interaction"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

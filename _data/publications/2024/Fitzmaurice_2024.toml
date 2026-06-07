@@ -1,0 +1,23 @@
+title = "Astrometry and Precise Radial Velocities Yield a Complete Orbital Solution for the Nearby Eccentric Brown Dwarf LHS 1610 b"
+author = "Fitzmaurice, Evan and {Stef\\'ansson}, Gu\\djmundur and Kavanagh, Robert D. and Mahadevan, Suvrath and {Ca\\~nas}, Caleb I. and Winn, Joshua N. and Robertson, Paul and Ninan, Joe P. and Albrecht, Simon and Callingham, J.~R. and Cochran, William D. and Delamer, Megan and Ford, Eric B. and Kanodia, Shubham and Lin, Andrea S.~J. and Marcussen, Marcus L. and Pope, Benjamin J.~S. and Ramsey, Lawrence W. and Roy, Arpita and Vedantham, Harish and Wright, Jason T."
+year = "2024"
+month = "sep"
+journal = "AJ"
+volume = "168"
+number = "3"
+pages = "140"
+doi = "10.3847/1538-3881/ad57be"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024AJ....168..140F"
+archiveprefix = "arXiv"
+eprint = "2310.07827"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """The LHS 1610 system consists of a nearby (d = 9.7 pc) M5 dwarf hosting a candidate brown dwarf companion in a 10.6 days, eccentric (e ∼ 0.37) orbit. We confirm this brown dwarf designation and estimate its mass (<inline-formula> <mml:math overflow=\"scroll\"><mml:msubsup><mml:mrow><mml:mn>49.5</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>3.5</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>4.3</mml:mn></mml:mrow></mml:msubsup></mml:math> </inline-formula> M <SUB>Jup</SUB>) and inclination (114.5°<inline-formula> <mml:math overflow=\"scroll\"><mml:msubsup><mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>10.0</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>7.4</mml:mn></mml:mrow></mml:msubsup></mml:math> </inline-formula>) by combining discovery radial velocities (RVs) from the Tillinghast Reflector Echelle Spectrograph and new RVs from the Habitable-zone Planet Finder with the available Gaia astrometric two-body solution. We highlight a discrepancy between the measurement of the eccentricity from the Gaia two-body solution (e = 0.52 ± 0.03) and the RV-only solution (e = 0.3702 ± 0.0003). We discuss possible reasons for this discrepancy, which can be further probed when the Gaia astrometric time series become available as part of Gaia Data Release 4. As a nearby mid-M star hosting a massive short-period companion with a well-characterized orbit, LHS 1610 b is a promising target to look for evidence of sub-Alfvénic interactions and/or auroral emission at optical and radio wavelengths. LHS 1610 has a flare rate (0.28 ± 0.07 flares per day) on the higher end for its rotation period (84 ± 8 days), similar to other mid-M dwarf systems such as Proxima Cen and YZ Ceti that have recent radio detections compatible with star─planet interactions. While available Transiting Exoplanet Survey Satellite photometry is insufficient to determine an orbital phase dependence of the flares, our complete orbital characterization of this system makes it attractive to probe star─companion interactions with additional photometric and radio observations.\n"""
+tags = ["Binary Stars", "Radial Velocity", "Stars"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]
+eid = "140"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Brown Dwarf", "M Dwarf", "Astrometry"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

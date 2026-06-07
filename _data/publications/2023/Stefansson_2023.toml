@@ -1,0 +1,22 @@
+title = "A Neptune-mass exoplanet in close orbit around a very low-mass star challenges formation models"
+author = "{Stef\\'ansson}, Gu\\dhmundur and Mahadevan, Suvrath and Miguel, Yamila and Robertson, Paul and Delamer, Megan and Kanodia, Shubham and {Ca\\~nas}, Caleb I. and Winn, Joshua N. and Ninan, Joe P. and Terrien, Ryan C. and Holcomb, Rae and Ford, Eric B. and Zawadzki, Brianna and Bowler, Brendan P. and Bender, Chad F. and Cochran, William D. and Diddams, Scott and Endl, Michael and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Hill, Gary J. and Lin, Andrea S.~J. and Metcalf, Andrew J. and Monson, Andrew and Ramsey, Lawrence and Roy, Arpita and Schwab, Christian and Wright, Jason T. and Zeimann, Gregory"
+year = "2023"
+month = "dec"
+journal = "Science"
+volume = "382"
+number = "6674"
+pages = "1031-1035"
+doi = "10.1126/science.abo0233"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2023Sci...382.1031S"
+archiveprefix = "arXiv"
+eprint = "2303.13321"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Theories of planet formation predict that low-mass stars should rarely host exoplanets with masses exceeding that of Neptune. We used radial velocity observations to detect a Neptune-mass exoplanet orbiting LHS 3154, a star that is nine times less massive than the Sun. The exoplanet's orbital period is 3.7 days, and its minimum mass is 13.2 Earth masses. We used simulations to show that the high planet-to-star mass ratio (&gt;3.5 × 10<SUP>−3</SUP>) is not an expected outcome of either the core accretion or gravitational instability theories of planet formation. In the core-accretion simulations, we show that close-in Neptune-mass planets are only formed if the dust mass of the protoplanetary disk is an order of magnitude greater than typically observed around very low-mass stars.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Planetary Architectures", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Low-mass stars", "Exoplanet masses", "Core Accretion", "Protoplanetary Disks"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

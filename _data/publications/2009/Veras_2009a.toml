@@ -1,0 +1,22 @@
+title = "Formation, Survival, and Detectability of Planets Beyond 100 AU"
+author = "Veras, Dimitri and Crepp, Justin R. and Ford, Eric B."
+year = "2009"
+month = "may"
+journal = "ApJ"
+volume = "696"
+number = "2"
+pages = "1600-1611"
+doi = "10.1088/0004-637X/696/2/1600"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...696.1600V"
+archiveprefix = "arXiv"
+eprint = "0902.2779"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Direct imaging searches have begun to detect planetary and brown dwarf companions and to place constraints on the presence of giant planets at large separations from their host star. This work helps to motivate such planet searches by predicting a population of young giant planets that could be detectable by direct imaging campaigns. Both the classical core accretion and the gravitational instability model for planet formation are hard pressed to form long-period planets in situ. Here, we show that dynamical instabilities among planetary systems that originally formed multiple giant planets much closer to the host star could produce a population of giant planets at large (≈ 10<SUP>2</SUP>-10<SUP>5</SUP> AU) separations. We estimate the limits within which these planets may survive, quantify the efficiency of gravitational scattering into both stable and unstable wide orbits, and demonstrate that population analyses must take into account the age of the system. We predict that planet scattering creates detectable giant planets on wide orbits that decreases in number on timescales of ~ 10 Myr. We demonstrate that several members of such populations should be detectable with current technology, quantify the prospects for future instruments, and suggest how they could place interesting constraints on planet formation models.\n"""
+tags = ["Astrophysics", "Dynamics", "Planet-planet scattering"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Direct Imaging", "Brown Dwarfs", "Wide Orbits"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

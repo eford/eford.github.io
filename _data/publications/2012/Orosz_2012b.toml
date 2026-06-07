@@ -1,0 +1,22 @@
+title = "Kepler-47: A Transiting Circumbinary Multiplanet System"
+author = "Orosz, Jerome A. and Welsh, William F. and Carter, Joshua A. and Fabrycky, Daniel C. and Cochran, William D. and Endl, Michael and Ford, Eric B. and Haghighipour, Nader and MacQueen, Phillip J. and Mazeh, Tsevi and Sanchis-Ojeda, Roberto and Short, Donald R. and Torres, Guillermo and Agol, Eric and Buchhave, Lars A. and Doyle, Laurance R. and Isaacson, Howard and Lissauer, Jack J. and Marcy, Geoffrey W. and Shporer, Avi and Windmiller, Gur and Barclay, Thomas and Boss, Alan P. and Clarke, Bruce D. and Fortney, Jonathan and Geary, John C. and Holman, Matthew J. and Huber, Daniel and Jenkins, Jon M. and Kinemuchi, Karen and Kruse, Ethan and Ragozzine, Darin and Sasselov, Dimitar and Still, Martin and Tenenbaum, Peter and Uddin, Kamal and Winn, Joshua N. and Koch, David G. and Borucki, William J."
+year = "2012"
+month = "sep"
+journal = "Science"
+volume = "337"
+number = "6101"
+pages = "1511"
+doi = "10.1126/science.1228380"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012Sci...337.1511O"
+archiveprefix = "arXiv"
+eprint = "1208.5489"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We report the detection of Kepler-47, a system consisting of two planets orbiting around an eclipsing pair of stars. The inner and outer planets have radii 3.0 and 4.6 times that of Earth, respectively. The binary star consists of a Sun-like star and a companion roughly one-third its size, orbiting each other every 7.45 days. With an orbital period of 49.5 days, 18 transits of the inner planet have been observed, allowing a detailed characterization of its orbit and those of the stars. The outer planet’s orbital period is 303.2 days, and although the planet is not Earth-like, it resides within the classical “habitable zone,” where liquid water could exist on an Earth-like planet. With its two known planets, Kepler-47 establishes that close binary stars can host complete planetary systems.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eclipsing Binaries", "Multiplanet Systems", "Habitable Zones"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

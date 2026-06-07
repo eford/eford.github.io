@@ -1,0 +1,22 @@
+title = "The First Extrasolar Planet Discovered with a New-Generation High-Throughput Doppler Instrument"
+author = "Ge, Jian and van Eyken, Julian and Mahadevan, Suvrath and DeWitt, Curtis and Kane, Stephen R. and Cohen, Roger and Vanden Heuvel, Andrew and Fleming, Scott W. and Guo, Pengcheng and Henry, Gregory W. and Schneider, Donald P. and Ramsey, Lawrence W. and Wittenmyer, Robert A. and Endl, Michael and Cochran, William D. and Ford, Eric B. and {Mart\\'\\in}, Eduardo L. and Israelian, Garik and Valenti, Jeff and Montes, David"
+year = "2006"
+month = "sep"
+journal = "ApJ"
+volume = "648"
+number = "1"
+pages = "683-695"
+doi = "10.1086/505699"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2006ApJ...648..683G"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0605247"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We report the detection of the first extrasolar planet, ET-1 (HD 102195b), using the Exoplanet Tracker (ET), a new-generation Doppler instrument. The planet orbits HD 102195, a young star with solar metallicity that may be part of the local association. The planet imparts radial velocity variability to the star with a semiamplitude of 63.4+/-2.0 m s<SUP>-1</SUP> and a period of 4.11 days. The planetary minimum mass (msini) is 0.488M<SUB>J</SUB>+/-0.015M<SUB>J</SUB>. The planet was initially detected in the spring of 2005 with the Kitt Peak National Observatory (KPNO) 0.9 m coudé feed telescope. The detection was confirmed by radial velocity observations with the ET at the KPNO 2.1 m telescope and also at the 9 m Hobby-Eberly Telescope (HET) with its High Resolution Spectrograph. This planetary discovery with a 0.9 m telescope around a V=8.05 magnitude star was made possible by the high throughput of the instrument: 49% measured from the fiber output to the detector. The ET's interferometer-based approach is an effective method for planet detection. In addition, the ET concept is adaptable to multiple-object Doppler observations or very high precision observations with a cross-dispersed echelle spectrograph to separate stellar fringes over a broad wavelength band. In addition to spectroscopic observations of HD 102195, we obtained brightness measurements with one of the automated photometric telescopes at Fairborn Observatory. Those observations reveal that HD 102195 is a spotted variable star with an amplitude of ~0.015 mag and a 12.3+/-0.3 day period. This is consistent with spectroscopically observed Ca II H and K emission levels and line-broadening measurements but inconsistent with rotational modulation of surface activity as the cause of the radial velocity variability. Our photometric observations rule out transits of the planetary companion.\n"""
+tags = ["Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Doppler Spectroscopy", "Exoplanet Detection Methods", "Asteroseismology"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation"]

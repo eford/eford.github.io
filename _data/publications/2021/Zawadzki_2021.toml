@@ -1,0 +1,22 @@
+title = "Rapid formation of super-Earths around low-mass stars"
+author = "Zawadzki, Brianna and Carrera, Daniel and Ford, Eric B."
+year = "2021"
+month = "may"
+journal = "MNRAS"
+volume = "503"
+number = "1"
+pages = "1390-1406"
+doi = "10.1093/mnras/stab603"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1390Z"
+archiveprefix = "arXiv"
+eprint = "2103.01239"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """NASA's TESS mission is expected to discover hundreds of M dwarf planets. However, few studies focus on how planets form around low-mass stars. We aim to better characterize the formation process of M dwarf planets to fill this gap and aid in the interpretation of TESS results. We use ten sets of N-body planet formation simulations that vary in whether a gas disc is present, initial range of embryo semimajor axes, and initial solid surface density profile. Each simulation begins with 147 equal-mass embryos around a 0.2 solar mass star and runs for 100 Myr. We find that planets form rapidly, with most collisions occurring within the first 1 Myr. The presence of a gas disc reduces the final number of planets relative to a gas-free environment and causes planets to migrate inward. We find that roughly a quarter of planetary systems experience their final giant impact inside the gas disc, suggesting that some super-Earths may be able to reaccrete an extended gaseous envelope after their final giant impact, though these may be affected by additional processes such as photoevaporation. In addition, we find that the final distribution of planets does not retain a memory of the slope of the initial surface density profile, regardless of whether or not a gas disc is present. Thus, our results suggest that present-day observations are unlikely to provide sufficient information to accurately reverse-engineer the initial distribution of solids.\n"""
+tags = ["Dynamics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M dwarfs", "Low-mass stars", "Super-Earths", "N-body simulations"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

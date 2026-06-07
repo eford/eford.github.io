@@ -1,0 +1,23 @@
+title = "Planetary Candidates Observed by Kepler. III. Analysis of the First 16 Months of Data"
+author = "Batalha, Natalie M. and Rowe, Jason F. and Bryson, Stephen T. and Barclay, Thomas and Burke, Christopher J. and Caldwell, Douglas A. and Christiansen, Jessie L. and Mullally, Fergal and Thompson, Susan E. and Brown, Timothy M. and Dupree, Andrea K. and Fabrycky, Daniel C. and Ford, Eric B. and Fortney, Jonathan J. and Gilliland, Ronald L. and Isaacson, Howard and Latham, David W. and Marcy, Geoffrey W. and Quinn, Samuel N. and Ragozzine, Darin and Shporer, Avi and Borucki, William J. and Ciardi, David R. and Gautier, III, Thomas N. and Haas, Michael R. and Jenkins, Jon M. and Koch, David G. and Lissauer, Jack J. and Rapin, William and Basri, Gibor S. and Boss, Alan P. and Buchhave, Lars A. and Carter, Joshua A. and Charbonneau, David and Christensen-Dalsgaard, Joergen and Clarke, Bruce D. and Cochran, William D. and Demory, Brice-Olivier and Desert, Jean-Michel and Devore, Edna and Doyle, Laurance R. and Esquerdo, Gilbert A. and Everett, Mark and Fressin, Francois and Geary, John C. and Girouard, Forrest R. and Gould, Alan and Hall, Jennifer R. and Holman, Matthew J. and Howard, Andrew W. and Howell, Steve B. and Ibrahim, Khadeejah A. and Kinemuchi, Karen and Kjeldsen, Hans and Klaus, Todd C. and Li, Jie and Lucas, Philip W. and Meibom, S\\oren and Morris, Robert L. and {Pr{\\vs}a}, Andrej and Quintana, Elisa and Sanderfer, Dwight T. and Sasselov, Dimitar and Seader, Shawn E. and Smith, Jeffrey C. and Steffen, Jason H. and Still, Martin and Stumpe, Martin C. and Tarter, Jill C. and Tenenbaum, Peter and Torres, Guillermo and Twicken, Joseph D. and Uddin, Kamal and Van Cleve, Jeffrey and Walkowicz, Lucianne and Welsh, William F."
+year = "2013"
+month = "feb"
+journal = "ApJS"
+volume = "204"
+number = "2"
+pages = "24"
+doi = "10.1088/0067-0049/204/2/24"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJS..204...24B"
+archiveprefix = "arXiv"
+eprint = "1202.5852"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """New transiting planet candidates are identified in 16 months (2009 May-2010 September) of data from the Kepler spacecraft. Nearly 5000 periodic transit-like signals are vetted against astrophysical and instrumental false positives yielding 1108 viable new planet candidates, bringing the total count up to over 2300. Improved vetting metrics are employed, contributing to higher catalog reliability. Most notable is the noise-weighted robust averaging of multi-quarter photo-center offsets derived from difference image analysis that identifies likely background eclipsing binaries. Twenty-two months of photometry are used for the purpose of characterizing each of the candidates. Ephemerides (transit epoch, T <SUB>0</SUB>, and orbital period, P) are tabulated as well as the products of light curve modeling: reduced radius (R <SUB>P</SUB>/R <SUB>sstarf</SUB>), reduced semimajor axis (d/R <SUB>sstarf</SUB>), and impact parameter (b). The largest fractional increases are seen for the smallest planet candidates (201% for candidates smaller than 2 R <SUB>⊕</SUB> compared to 53% for candidates larger than 2 R <SUB>⊕</SUB>) and those at longer orbital periods (124% for candidates outside of 50 day orbits versus 86% for candidates inside of 50 day orbits). The gains are larger than expected from increasing the observing window from 13 months (Quarters 1-5) to 16 months (Quarters 1-6) even in regions of parameter space where one would have expected the previous catalogs to be complete. Analyses of planet frequencies based on previous catalogs will be affected by such incompleteness. The fraction of all planet candidate host stars with multiple candidates has grown from 17% to 20%, and the paucity of short-period giant planets in multiple systems is still evident. The progression toward smaller planets at longer orbital periods with each new catalog release suggests that Earth-size planets in the habitable zone are forthcoming if, indeed, such planets are abundant.\n"""
+tags = ["Binary Stars", "Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+eid = "24"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Photometry", "Transiting Exoplanets", "Kepler Spacecraft"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,22 @@
+title = "Observational biases in determining extrasolar planet eccentricities in single-planet systems"
+author = "Zakamska, Nadia L. and Pan, Margaret and Ford, Eric B."
+year = "2011"
+month = "jan"
+journal = "MNRAS"
+volume = "410"
+number = "3"
+pages = "1895-1910"
+doi = "10.1111/j.1365-2966.2010.17570.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011MNRAS.410.1895Z"
+archiveprefix = "arXiv"
+eprint = "1008.4152"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We investigate potential biases in the measurements of exoplanet orbital parameters obtained from radial velocity observations for single-planet systems. We create a mock catalogue of radial velocity data, choosing input planet masses, periods and observing patterns from actual radial velocity surveys and varying input eccentricities. We apply Markov chain Monte Carlo simulations and compare the resulting orbital parameters to the input values. We find that a combination of the effective signal-to-noise ratio of the data, the maximal gap in phase coverage, and the total number of periods covered by observations is a good predictor of the quality of derived orbit parameters. As eccentricity is positive definite, we find that eccentricities of planets on nearly circular orbits are preferentially overestimated, with typical bias of one to two times the median eccentricity uncertainty in a survey (e.g. 0.04 in the Butler et al. catalogue). When performing population analysis, we recommend using the mode of the marginalized posterior eccentricity distribution to minimize potential biases. While the Butler et al. catalogue reports eccentricities below 0.05 for just 17 per cent of single-planet systems, we estimate that the true fraction of e≤ 0.05 orbits is about f<SUB>0.05</SUB>= 38 ± 9 per cent. For planets with P &gt; 10 d, we find f<SUB>0.05</SUB>= 28 ± 8 per cent versus 10 per cent from Butler et al. These planets either never acquired a large eccentricity or were circularized following any significant eccentricity excitation.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Eccentricity", "Orbital Bias", "Markov Chain Monte Carlo"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation"]

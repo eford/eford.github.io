@@ -1,0 +1,21 @@
+title = "Role of Dynamical Research in the Detection and Characterization of Exoplanets"
+author = "Ford, Eric B. and Adams, Fred C. and Armitage, Phil and Gaudi, B. Scott and Malhotra, Renu and Holman, Mathew J. and Marcy, Geoffrey W. and Rasio, Frederic A. and Sigurdsson, Steinn"
+year = "2007"
+month = "may"
+journal = "arXiv e-prints"
+pages = "arXiv:0705.2781"
+doi = "10.48550/arXiv.0705.2781"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2007arXiv0705.2781F"
+archiveprefix = "arXiv"
+eprint = "0705.2781"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """(Abridged) The discovery of extrasolar planetary systems revealed an unexpected diversity of planetary systems that has revolutionized planet formation theory. A strong program of theoretical research is essential to maximize both the discovery potential and the scientific returns of future observational programs, so as to achieve a deeper understanding of the formation and evolution of planetary systems. We outline three broad categories of theoretical research: detailed studies of specific planetary systems, testing planet formation models by comparing their predictions to the observed exoplanet population, and detailed modeling of specific physical processes. We describe how such theoretical research plays an important role in analyzing observations for a wide range detection methods and contributes to understanding the Earth's place in the universe and the potential for Earth-like life beyond our solar system. In this white paper, we suggest how to maximize the scientific return of future exoplanet observations. Our recommendations include a strong theory program, support for multiple observational programs that will study a diverse set of planets and stars, significant observing time devoted to follow-up observations, and healthy collaboration between observers and theorists.\n"""
+tags = ["Dynamics", "Transit timing variations"]
+research_themes = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "arXiv:0705.2781"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Detection Methods", "Planet Formation Modeling", "Theoretical Astrophysics"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

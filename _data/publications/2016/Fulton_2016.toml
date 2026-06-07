@@ -1,0 +1,23 @@
+title = "Three Temperate Neptunes Orbiting Nearby Stars"
+author = "Fulton, Benjamin J. and Howard, Andrew W. and Weiss, Lauren M. and Sinukoff, Evan and Petigura, Erik A. and Isaacson, Howard and Hirsch, Lea and Marcy, Geoffrey W. and Henry, Gregory W. and Grunblatt, Samuel K. and Huber, Daniel and von Braun, Kaspar and Boyajian, Tabetha S. and Kane, Stephen R. and Wittrock, Justin and Horch, Elliott P. and Ciardi, David R. and Howell, Steve B. and Wright, Jason T. and Ford, Eric B."
+year = "2016"
+month = "oct"
+journal = "ApJ"
+volume = "830"
+number = "1"
+pages = "46"
+doi = "10.3847/0004-637X/830/1/46"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJ...830...46F"
+archiveprefix = "arXiv"
+eprint = "1607.00007"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the discovery of three modestly irradiated, roughly Neptune-mass planets orbiting three nearby Solar-type stars. HD 42618 b has a minimum mass of 15.4 ± 2.4 M<SUB>⊕ </SUB>, a semimajor axis of 0.55 au, an equilibrium temperature of 337 K, and is the first planet discovered to orbit the solar analogue host star, HD 42618. We also discover new planets orbiting the known exoplanet host stars HD 164922 and HD 143761 (ρ CrB). The new planet orbiting HD 164922 has a minimum mass of 12.9 ± 1.6 M<SUB>⊕ </SUB> and orbits interior to the previously known Jovian mass planet orbiting at 2.1 au. HD 164922 c has a semimajor axis of 0.34 au and an equilibrium temperature of 418 K. HD 143761 c orbits with a semimajor axis of 0.44 au, has a minimum mass of 25 ± 2 M<SUB>⊕ </SUB>, and is the warmest of the three new planets with an equilibrium temperature of 445 K. It orbits exterior to the previously known warm Jupiter in the system. A transit search using space-based CoRoT data and ground-based photometry from the Automated Photometric Telescopes (APTs) at Fairborn Observatory failed to detect any transits, but the precise, high-cadence APT photometry helped to disentangle planetary-reflex motion from stellar activity. These planets were discovered as part of an ongoing radial velocity survey of bright, nearby, chromospherically inactive stars using the Automated Planet Finder (APF) telescope at Lick Observatory. The high-cadence APF data combined with nearly two decades of radial velocity data from Keck Observatory and gives unprecedented sensitivity to both short-period low-mass, and long-period intermediate-mass planets. <P />Based on observations obtained at the W. M. Keck Observatory, which is operated jointly by the University of California and the California Institute of Technology. Keck time was granted for this project by the University of Hawai‘I, the University of California, and NASA.\n"""
+tags = ["Keck", "Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Solar Observations"]
+eid = "46"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Discovery", "Neptune-mass planets", "Ground-based Photometry"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Solar Observations"]

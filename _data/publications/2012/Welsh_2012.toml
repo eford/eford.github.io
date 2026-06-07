@@ -1,0 +1,22 @@
+title = "Transiting circumbinary planets Kepler-34 b and Kepler-35 b"
+author = "Welsh, William F. and Orosz, Jerome A. and Carter, Joshua A. and Fabrycky, Daniel C. and Ford, Eric B. and Lissauer, Jack J. and {Pr{\\vs}a}, Andrej and Quinn, Samuel N. and Ragozzine, Darin and Short, Donald R. and Torres, Guillermo and Winn, Joshua N. and Doyle, Laurance R. and Barclay, Thomas and Batalha, Natalie and Bloemen, Steven and Brugamyer, Erik and Buchhave, Lars A. and Caldwell, Caroline and Caldwell, Douglas A. and Christiansen, Jessie L. and Ciardi, David R. and Cochran, William D. and Endl, Michael and Fortney, Jonathan J. and Gautier, III, Thomas N. and Gilliland, Ronald L. and Haas, Michael R. and Hall, Jennifer R. and Holman, Matthew J. and Howard, Andrew W. and Howell, Steve B. and Isaacson, Howard and Jenkins, Jon M. and Klaus, Todd C. and Latham, David W. and Li, Jie and Marcy, Geoffrey W. and Mazeh, Tsevi and Quintana, Elisa V. and Robertson, Paul and Shporer, Avi and Steffen, Jason H. and Windmiller, Gur and Koch, David G. and Borucki, William J."
+year = "2012"
+month = "jan"
+journal = "Nature"
+volume = "481"
+number = "7382"
+pages = "475-479"
+doi = "10.1038/nature10768"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012Natur.481..475W"
+archiveprefix = "arXiv"
+eprint = "1204.3955"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Most Sun-like stars in the Galaxy reside in gravitationally bound pairs of stars (binaries). Although long anticipated, the existence of a `circumbinary planet' orbiting such a pair of normal stars was not definitively established until the discovery of the planet transiting (that is, passing in front of) Kepler-16. Questions remained, however, about the prevalence of circumbinary planets and their range of orbital and physical properties. Here we report two additional transiting circumbinary planets: Kepler-34 (AB)b and Kepler-35 (AB)b, referred to here as Kepler-34 b and Kepler-35 b, respectively. Each is a low-density gas-giant planet on an orbit closely aligned with that of its parent stars. Kepler-34 b orbits two Sun-like stars every 289 days, whereas Kepler-35 b orbits a pair of smaller stars (89% and 81% of the Sun's mass) every 131 days. The planets experience large multi-periodic variations in incident stellar radiation arising from the orbital motion of the stars. The observed rate of circumbinary planets in our sample implies that more than ~1% of close binary stars have giant planets in nearly coplanar orbits, yielding a Galactic population of at least several million.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Kepler", "Kepler"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Gas Giants", "Orbital Period"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

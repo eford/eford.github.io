@@ -1,0 +1,22 @@
+title = "Observational Constraints on Trojans of Transiting Extrasolar Planets"
+author = "Ford, Eric B. and Gaudi, B. Scott"
+year = "2006"
+month = "dec"
+journal = "ApJL"
+volume = "652"
+number = "2"
+pages = "L137-L140"
+doi = "10.1086/510235"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2006ApJ...652L.137F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0609298"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Theoretical studies predict that Trojans are likely a frequent by-product of planet formation and evolution. We present a novel method of detecting Trojan companions to transiting extrasolar planets that involves comparing the midtime of eclipse with the time of the stellar reflex velocity null. We demonstrate that this method offers the potential to detect terrestrial-mass Trojans using existing ground-based observatories. This method rules out Trojan companions to HD 209458b and HD 149026b more massive than ~=13 and ~=25 M<SUB>⊕</SUB> at a 99.9% confidence level. Such a Trojan would be dynamically stable, would not yet have been detected by photometric or spectroscopic monitoring, and would be unrecognizable from radial velocity observations alone. We outline the future prospects for this method and show that the detection of a ``Hot Trojan'' of any mass would place a significant constraint on theories of orbital migration.\n"""
+tags = ["Dynamics", "Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Trojans", "Extrasolar Planets"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

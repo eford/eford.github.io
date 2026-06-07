@@ -1,0 +1,23 @@
+title = "Characterizing the Orbital and Dynamical State of the HD 82943 Planetary System with Keck Radial Velocity Data"
+author = "Tan, Xianyu and Payne, Matthew J. and Lee, Man Hoi and Ford, Eric B. and Howard, Andrew W. and Johnson, John. A. and Marcy, Geoff W. and Wright, Jason T."
+year = "2013"
+month = "nov"
+journal = "ApJ"
+volume = "777"
+number = "2"
+pages = "101"
+doi = "10.1088/0004-637X/777/2/101"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJ...777..101T"
+archiveprefix = "arXiv"
+eprint = "1306.0687"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present an updated analysis of radial velocity data of the HD 82943 planetary system based on 10 yr of measurements obtained with the Keck telescope. Previous studies have shown that the HD 82943 system has two planets that are likely in 2:1 mean-motion resonance (MMR), with orbital periods about 220 and 440 days. However, alternative fits that are qualitatively different have also been suggested, with two planets in a 1:1 resonance or three planets in a Laplace 4:2:1 resonance. Here we use χ<SUP>2</SUP> minimization combined with a parameter grid search to investigate the orbital parameters and dynamical states of the qualitatively different types of fits, and we compare the results to those obtained with the differential evolution Markov chain Monte Carlo method. Our results support the coplanar 2:1 MMR configuration for the HD 82943 system, and show no evidence for either the 1:1 or three-planet Laplace resonance fits. The inclination of the system with respect to the sky plane is well constrained at 20^+4.9_-5.5 degrees, and the system contains two planets with masses of about 4.78 M <SUB>J</SUB> and 4.80 M <SUB>J</SUB> (where M <SUB>J</SUB> is the mass of Jupiter) and orbital periods of about 219 and 442 days for the inner and outer planet, respectively. The best fit is dynamically stable with both eccentricity-type resonant angles θ<SUB>1</SUB> and θ<SUB>2</SUB> librating around 0°. <P />Based on observations obtained at the W. M. Keck Observatory, which is operated jointly by the University of California and the California Institute of Technology.\n"""
+tags = ["Dynamics", "Keck", "Radial Velocity"]
+research_themes = []
+eid = "101"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanetary System Characterization", "Mean Motion Resonance", "Orbital Period Determination"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation"]

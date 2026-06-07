@@ -1,0 +1,23 @@
+title = "A Search for Exozodiacal Clouds with Kepler"
+author = "Stark, Christopher C. and Boss, Alan P. and Weinberger, Alycia J. and Jackson, Brian K. and Endl, Michael and Cochran, William D. and Johnson, Marshall and Caldwell, Caroline and Agol, Eric and Ford, Eric B. and Hall, Jennifer R. and Ibrahim, Khadeejah A. and Li, Jie"
+year = "2013"
+month = "feb"
+journal = "ApJ"
+volume = "764"
+number = "2"
+pages = "195"
+doi = "10.1088/0004-637X/764/2/195"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJ...764..195S"
+archiveprefix = "arXiv"
+eprint = "1301.6147"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """Planets embedded within dust disks may drive the formation of large scale clumpy dust structures by trapping dust into resonant orbits. Detection and subsequent modeling of the dust structures would help constrain the mass and orbit of the planet and the disk architecture, give clues to the history of the planetary system, and provide a statistical estimate of disk asymmetry for future exoEarth-imaging missions. Here, we present the first search for these resonant structures in the inner regions of planetary systems by analyzing the light curves of hot Jupiter planetary candidates identified by the Kepler mission. We detect only one candidate disk structure associated with KOI 838.01 at the 3σ confidence level, but subsequent radial velocity measurements reveal that KOI 838.01 is a grazing eclipsing binary and the candidate disk structure is a false positive. Using our null result, we place an upper limit on the frequency of dense exozodi structures created by hot Jupiters. We find that at the 90% confidence level, less than 21% of Kepler hot Jupiters create resonant dust clumps that lead and trail the planet by ~90° with optical depths &gt;~ 5 × 10<SUP>-6</SUP>, which corresponds to the resonant structure expected for a lone hot Jupiter perturbing a dynamically cold dust disk 50 times as dense as the zodiacal cloud.\n"""
+tags = ["Binary Stars", "Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "195"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exozodiacal Dust", "Hot Jupiters", "Planetary Dust Disks", "Resonance Dynamics"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

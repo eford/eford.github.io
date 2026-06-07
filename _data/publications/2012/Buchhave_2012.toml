@@ -1,0 +1,19 @@
+title = "An abundance of small exoplanets around stars with a wide range of metallicities"
+author = "Buchhave, Lars A. and Latham, David W. and Johansen, Anders and Bizzarro, Martin and Torres, Guillermo and Rowe, Jason F. and Batalha, Natalie M. and Borucki, William J. and Brugamyer, Erik and Caldwell, Caroline and Bryson, Stephen T. and Ciardi, David R. and Cochran, William D. and Endl, Michael and Esquerdo, Gilbert A. and Ford, Eric B. and Geary, John C. and Gilliland, Ronald L. and Hansen, Terese and Isaacson, Howard and Laird, John B. and Lucas, Philip W. and Marcy, Geoffrey W. and Morse, Jon A. and Robertson, Paul and Shporer, Avi and Stefanik, Robert P. and Still, Martin and Quinn, Samuel N."
+year = "2012"
+month = "jun"
+journal = "Nature"
+volume = "486"
+number = "7403"
+pages = "375-377"
+doi = "10.1038/nature11121"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012Natur.486..375B"
+entrytype = "article"
+abstract = """The abundance of heavy elements (metallicity) in the photospheres of stars similar to the Sun provides a `fossil' record of the chemical composition of the initial protoplanetary disk. Metal-rich stars are much more likely to harbour gas giant planets, supporting the model that planets form by accumulation of dust and ice particles. Recent ground-based surveys suggest that this correlation is weakened for Neptunian-sized planets. However, how the relationship between size and metallicity extends into the regime of terrestrial-sized exoplanets is unknown. Here we report spectroscopic metallicities of the host stars of 226 small exoplanet candidates discovered by NASA's Kepler mission, including objects that are comparable in size to the terrestrial planets in the Solar System. We find that planets with radii less than four Earth radii form around host stars with a wide range of metallicities (but on average a metallicity close to that of the Sun), whereas large planets preferentially form around stars with higher metallicities. This observation suggests that terrestrial planets may be widespread in the disk of the Galaxy, with no special requirement of enhanced metallicity for their formation.\n"""
+tags = ["Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Metallicity", "Exoplanet Sizes", "Small Exoplanets"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

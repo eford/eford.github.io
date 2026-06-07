@@ -1,0 +1,23 @@
+title = "GRASS. II. Simulations of Potential Granulation Noise Mitigation Methods"
+author = "Palumbo, Michael L. and Ford, Eric B. and Gonzalez, Elizabeth B. and Wright, Jason T. and Al Moulla, Khaled and Schlichenmaier, Rolf"
+year = "2024"
+month = "jul"
+journal = "AJ"
+volume = "168"
+number = "1"
+pages = "46"
+doi = "10.3847/1538-3881/ad4c6d"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024AJ....168...46P"
+archiveprefix = "arXiv"
+eprint = "2405.07945"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We present an updated version of the GRanulation And Spectrum Simulator (GRASS) which now uses an expanded library of 22 solar lines to empirically model time-resolved spectral variations arising from solar granulation. We show that our synthesis model accurately reproduces disk-integrated solar line profiles and bisectors, and we quantify the intrinsic granulation-driven radial-velocity (RV) variability for each of the 22 lines studied. We show that summary statistics of bisector shape (e.g., bisector inverse slope) are strongly correlated with the measured anomalous, variability-driven RV at high pixel signal-to-noise ratio SNR and spectral resolution. Further, the strength of the correlations varies both line by line and with the summary statistic used. These correlations disappear for individual lines at the typical spectral resolutions and SNRs achieved by current extremely precise radial velocity spectrographs; so we use simulations from GRASS to demonstrate that they can, in principle, be recovered by selectively binning lines that are similarly affected by granulation. In the best-case scenario (high SNR and large number of binned lines), we find that a ≲30% reduction in the granulation-induced root mean square RV can be achieved, but that the achievable reduction in variability is most strongly limited by the spectral resolution of the observing instrument. Based on our simulations, we predict that existing ultra-high-resolution spectrographs, namely, ESPRESSO and PEPSI, should be able to resolve convective variability in other, bright stars.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "46"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Solar Granulation", "Spectroscopy", "Doppler Shift"]
+# suggested_research_themes  = ["High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

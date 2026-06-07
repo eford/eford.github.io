@@ -1,0 +1,22 @@
+title = "Two Earth-sized planets orbiting Kepler-20"
+author = "Fressin, Francois and Torres, Guillermo and Rowe, Jason F. and Charbonneau, David and Rogers, Leslie A. and Ballard, Sarah and Batalha, Natalie M. and Borucki, William J. and Bryson, Stephen T. and Buchhave, Lars A. and Ciardi, David R. and {D\\'esert}, Jean-Michel and Dressing, Courtney D. and Fabrycky, Daniel C. and Ford, Eric B. and Gautier, III, Thomas N. and Henze, Christopher E. and Holman, Matthew J. and Howard, Andrew and Howell, Steve B. and Jenkins, Jon M. and Koch, David G. and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Quinn, Samuel N. and Ragozzine, Darin and Sasselov, Dimitar D. and Seager, Sara and Barclay, Thomas and Mullally, Fergal and Seader, Shawn E. and Still, Martin and Twicken, Joseph D. and Thompson, Susan E. and Uddin, Kamal"
+year = "2012"
+month = "feb"
+journal = "Nature"
+volume = "482"
+number = "7384"
+pages = "195-198"
+doi = "10.1038/nature10780"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012Natur.482..195F"
+archiveprefix = "arXiv"
+eprint = "1112.4550"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Since the discovery of the first extrasolar giant planets around Sun-like stars, evolving observational capabilities have brought us closer to the detection of true Earth analogues. The size of an exoplanet can be determined when it periodically passes in front of (transits) its parent star, causing a decrease in starlight proportional to its radius. The smallest exoplanet hitherto discovered has a radius 1.42 times that of the Earth's radius (R<SUB>⊕</SUB>), and hence has 2.9 times its volume. Here we report the discovery of two planets, one Earth-sized (1.03R<SUB>⊕</SUB>) and the other smaller than the Earth (0.87R<SUB>⊕</SUB>), orbiting the star Kepler-20, which is already known to host three other, larger, transiting planets. The gravitational pull of the new planets on the parent star is too small to measure with current instrumentation. We apply a statistical method to show that the likelihood of the planetary interpretation of the transit signals is more than three orders of magnitude larger than that of the alternative hypothesis that the signals result from an eclipsing binary star. Theoretical considerations imply that these planets are rocky, with a composition of iron and silicate. The outer planet could have developed a thick water vapour atmosphere.\n"""
+tags = ["Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Discovery", "Terrestrial Planets", "Atmosphere Characterization"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

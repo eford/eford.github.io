@@ -1,0 +1,21 @@
+title = "Kepler's Unparalleled Exploration of the Time Dimension"
+author = "Welsh, William and Bloemen, Steven and Conroy, Kyle and Doyle, Laurance and Fabrycky, Daniel C. and Ford, Eric B. and Haghighipour, Nader and Huber, Daniel and Kane, Stephen and Kirk, Brian and Kostov, Veselin and Kratter, Kaitlin and Mazeh, Tsevi and Orosz, Jerome and Pepper, Joshua and Prsa, Andrej and Shporer, Avi and Windmiller, Gur"
+year = "2013"
+month = "sep"
+journal = "arXiv e-prints"
+pages = "arXiv:1309.1176"
+doi = "10.48550/arXiv.1309.1176"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.1176W"
+archiveprefix = "arXiv"
+eprint = "1309.1176"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We show that the Kepler spacecraft in two-reaction wheel mode of operation is very well suited for the study of eclipsing binary star systems. Continued observations of the Kepler field will provide the most enduring and long-term valuable science. It will enable the discovery and characterization of eclipsing binaries with periods greater than 1 year - these are the most important, yet least understood binaries for habitable-zone planet background considerations. The continued mission will also enable the investigation of hierarchical multiple systems (discovered through eclipse timing variations), and provide drastically improved orbital parameters for circumbinary planetary systems.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "arXiv:1309.1176"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eclipsing Binaries", "Orbital Parameters"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

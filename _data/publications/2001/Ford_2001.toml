@@ -1,0 +1,22 @@
+title = "Dynamical Instabilities in Extrasolar Planetary Systems Containing Two Giant Planets"
+author = "Ford, Eric B. and Havlickova, Marketa and Rasio, Frederic A."
+year = "2001"
+month = "apr"
+journal = "Icarus"
+volume = "150"
+number = "2"
+pages = "303-313"
+doi = "10.1006/icar.2001.6588"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2001Icar..150..303F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0010178"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Instabilities and strong dynamical interactions between several giant planets have been proposed as a possible explanation for the surprising orbital properties of extrasolar planetary systems. In particular, dynamical instabilities seem to provide a natural mechanism for producing the highly eccentric orbits seen in many systems. Here we present results from a new set of numerical integrations for the dynamical evolution of planetary systems containing two identical giant planets in nearly circular orbits very close to the dynamical stability limit. We determine the statistical properties of the three main types of systems resulting from the development of an instability: systems containing one planet, following either a collision between the two initial planets, or the ejection of one of them to infinity, and systems containing two planets in a new, quasi-stable configuration. We discuss the implications of our results for the formation and evolution of observed extrasolar planetary systems. We conclude that the distributions of eccentricities and semimajor axes for observed systems cannot be explained easily by invoking dynamical interactions between two planets initially on circular orbits. While highly eccentric orbits can be produced naturally by these interactions, collisions between the two planets, which occur frequently in the range of observed semimajor axes, would result in many more nearly circular orbits than in the observed sample.\n"""
+tags = ["Dynamics", "Planet-planet scattering"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Extrasolar Planets", "Orbital Stability", "N-body Simulation"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

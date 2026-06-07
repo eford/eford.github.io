@@ -1,0 +1,23 @@
+title = "Transit Timing Observations from Kepler. I. Statistical Analysis of the First Four Months"
+author = "Ford, Eric B. and Rowe, Jason F. and Fabrycky, Daniel C. and Carter, Joshua A. and Holman, Matthew J. and Lissauer, Jack J. and Ragozzine, Darin and Steffen, Jason H. and Batalha, Natalie M. and Borucki, William J. and Bryson, Steve and Caldwell, Douglas A. and Dunham, Edward W. and Gautier, III, Thomas N. and Jenkins, Jon M. and Koch, David G. and Li, Jie and Lucas, Philip and Marcy, Geoffrey W. and McCauliff, Sean and Mullally, Fergal R. and Quintana, Elisa and Still, Martin and Tenenbaum, Peter and Thompson, Susan E. and Twicken, Joseph D."
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "2"
+doi = "10.1088/0067-0049/197/1/2"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197....2F"
+archiveprefix = "arXiv"
+eprint = "1102.0544"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The architectures of multiple planet systems can provide valuable constraints on models of planet formation, including orbital migration, and excitation of orbital eccentricities and inclinations. NASA's Kepler mission has identified 1235 transiting planet candidates. The method of transit timing variations (TTVs) has already confirmed seven planets in two planetary systems. We perform a transit timing analysis of the Kepler planet candidates. We find that at least ~11% of planet candidates currently suitable for TTV analysis show evidence suggestive of TTVs, representing at least ~65 TTV candidates. In all cases, the time span of observations must increase for TTVs to provide strong constraints on planet masses and/or orbits, as expected based on N-body integrations of multiple transiting planet candidate systems (assuming circular and coplanar orbits). We find the fraction of planet candidates showing TTVs in this data set does not vary significantly with the number of transiting planet candidates per star, suggesting significant mutual inclinations and that many stars with a single transiting planet should host additional non-transiting planets. We anticipate that Kepler could confirm (or reject) at least ~12 systems with multiple transiting planet candidates via TTVs. Thus, TTVs will provide a powerful tool for confirming transiting planets and characterizing the orbital dynamics of low-mass planets. If Kepler observations were extended to at least seven years, then TTVs would provide much more precise constraints on the dynamics of systems with multiple transiting planets and would become sensitive to planets with orbital periods extending into the habitable zone of solar-type stars.\n"""
+tags = ["Dynamics", "Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "2"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["TTV", "Planet Discovery", "Orbital Mechanics"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

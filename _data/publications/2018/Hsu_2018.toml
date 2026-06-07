@@ -1,0 +1,23 @@
+title = "Improving the Accuracy of Planet Occurrence Rates from Kepler Using Approximate Bayesian Computation"
+author = "Hsu, Danley C. and Ford, Eric B. and Ragozzine, Darin and Morehead, Robert C."
+year = "2018"
+month = "may"
+journal = "AJ"
+volume = "155"
+number = "5"
+pages = "205"
+doi = "10.3847/1538-3881/aab9a8"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2018AJ....155..205H"
+archiveprefix = "arXiv"
+eprint = "1803.10787"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a new framework to characterize the occurrence rates of planet candidates identified by Kepler based on hierarchical Bayesian modeling, approximate Bayesian computing (ABC), and sequential importance sampling. For this study, we adopt a simple 2D grid in planet radius and orbital period as our model and apply our algorithm to estimate occurrence rates for Q1-Q16 planet candidates orbiting solar-type stars. We arrive at significantly increased planet occurrence rates for small planet candidates (R <SUB> p </SUB> &lt; 1.25 R <SUB>⊕</SUB>) at larger orbital periods (P &gt; 80 day) compared to the rates estimated by the more common inverse detection efficiency method (IDEM). Our improved methodology estimates that the occurrence rate density of small planet candidates in the habitable zone of solar-type stars is 1.6<SUB>-0.5</SUB><SUP>+1.2</SUP> per factor of 2 in planet radius and orbital period. Additionally, we observe a local minimum in the occurrence rate for strong planet candidates marginalized over orbital period between 1.5 and 2 R <SUB>⊕</SUB> that is consistent with previous studies. For future improvements, the forward modeling approach of ABC is ideally suited to incorporating multiple populations, such as planets, astrophysical false positives, and pipeline false alarms, to provide accurate planet occurrence rates and uncertainties. Furthermore, ABC provides a practical statistical framework for answering complex questions (e.g., frequency of different planetary architectures) and providing sound uncertainties, even in the face of complex selection effects, observational biases, and follow-up strategies. In summary, ABC offers a powerful tool for accurately characterizing a wide variety of astrophysical populations.\n"""
+tags = ["Kepler", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Planetary Architectures"]
+eid = "205"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Bayesian Inference", "Approximate Bayesian Computation", "Kepler Data Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

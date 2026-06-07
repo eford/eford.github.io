@@ -1,0 +1,23 @@
+title = "Order-by-order Modeling of Exoplanet Radial Velocity Data"
+author = "Langford, Zachary and Blake, Cullen and Halverson, Samuel and Ford, Eric B. and Mahadevan, Suvrath and Giovinazzi, Mark R. and Gupta, Arvind F. and Robertson, Paul and Alvarado-Montes, Jaime A. and Bender, Chad F. and Krolikowski, Daniel M. and Roy, Arpita and Schwab, Christian and Terrien, Ryan C. and Wright, Jason T."
+year = "2025"
+month = "nov"
+journal = "PASP"
+volume = "137"
+number = "11"
+pages = "114503"
+doi = "10.1088/1538-3873/ae1640"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025PASP..137k4503L"
+archiveprefix = "arXiv"
+eprint = "2510.16139"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Precise radial velocity (RV) measurements are a crucial tool for exoplanet discovery and characterization. Today, the majority of these measurements are derived from Echelle spectra in the optical wavelength region using cross-correlation techniques. Although for certain stars these approaches can produce RVs with sub-1 m s<SUP>−1</SUP> measurement errors, for many others, we are now in a regime where instrumental precision is fundamentally below the intrinsic RV variations of the star that result from astrophysical processes that can be correlated in both time and wavelength. We explore new methods for measuring exoplanet orbital parameters that take advantage of the fact that RV data sets are fundamentally multi-wavelength. By analyzing NEID extremely precise radial velocity (EPRV) data of three known exoplanet systems, we show that fitting a single Keplerian model to multi-wavelength RVs can produce a factor of 1.5─6.8 better <inline-formula> <mml:math><mml:msub><mml:mrow><mml:mi>M</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mi>sin</mml:mi><mml:mi>i</mml:mi></mml:math> </inline-formula> uncertainties compared to fitting RVs that are derived from a weighted average across wavelength.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "114503"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet characterization", "Echelle spectra", "Multi-wavelength data analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

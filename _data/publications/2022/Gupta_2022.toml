@@ -1,0 +1,23 @@
+title = "Detection of p-mode Oscillations in HD 35833 with NEID and TESS"
+author = "Gupta, Arvind F. and Luhn, Jacob and Wright, Jason T. and Mahadevan, Suvrath and Ford, Eric B. and {Stef\\'ansson}, Gu\\djmundur and Bender, Chad F. and Blake, Cullen H. and Halverson, Samuel and Hearty, Fred and Kanodia, Shubham and Logsdon, Sarah E. and McElwain, Michael W. and Ninan, Joe P. and Robertson, Paul and Roy, Arpita and Schwab, Christian and Terrien, Ryan C."
+year = "2022"
+month = "dec"
+journal = "AJ"
+volume = "164"
+number = "6"
+pages = "254"
+doi = "10.3847/1538-3881/ac96f3"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022AJ....164..254G"
+archiveprefix = "arXiv"
+eprint = "2210.00544"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We report the results of observations of p-mode oscillations in the G0 subgiant star HD 35833 in both radial velocities and photometry with NEID and TESS, respectively. We achieve separate, robust detections of the oscillation signal with both instruments (radial velocity amplitude A <SUB>RV</SUB> = 1.11 ± 0.09 m s<SUP>-1</SUP>, photometric amplitude A <SUB>phot</SUB> = 6.42 ± 0.60 ppm, frequency of maximum power $ν _\\max =595.71± 17.28$ μHz, and mode spacing ∆ν = 36.65 ± 0.96 μHz) as well as a nondetection in a TESS sector concurrent with the NEID observations. These data shed light on our ability to mitigate the correlated noise impact of oscillations with radial velocities alone and on the robustness of commonly used asteroseismic scaling relations. The NEID data are used to validate models for the attenuation of oscillation signals for exposure times $t\\lt ν _\\max ^-1$ , and we compare our results to predictions from theoretical scaling relations and find that the observed amplitudes are weaker than expected by &gt;4σ, hinting at gaps in the underlying physical models.\n"""
+tags = ["NEID", "Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "254"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["p-mode oscillations", "asteroseismology", "TESS", "Photometry"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

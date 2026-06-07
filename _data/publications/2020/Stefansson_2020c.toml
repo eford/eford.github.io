@@ -1,0 +1,23 @@
+title = "A Sub-Neptune-sized Planet Transiting the M2.5 Dwarf G 9-40: Validation with the Habitable-zone Planet Finder"
+author = "Stefansson, Gudmundur and {Ca\\~nas}, Caleb and Wisniewski, John and Robertson, Paul and Mahadevan, Suvrath and Maney, Marissa and Kanodia, Shubham and Beard, Corey and Bender, Chad F. and Brunt, Peter and Clemens, J. Christopher and Cochran, William and Diddams, Scott A. and Endl, Michael and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Hebb, Leslie and Huehnerhoff, Joseph and Jennings, Jeff and Kaplan, Kyle and Levi, Eric and Lubar, Emily and Metcalf, Andrew J. and Monson, Andrew and Morris, Brett and Ninan, Joe P. and Nitroy, Colin and Ramsey, Lawrence and Roy, Arpita and Schwab, Christian and Sigurdsson, Steinn and Terrien, Ryan and Wright, Jason T."
+year = "2020"
+month = "mar"
+journal = "AJ"
+volume = "159"
+number = "3"
+pages = "100"
+doi = "10.3847/1538-3881/ab5f15"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....159..100S"
+archiveprefix = "arXiv"
+eprint = "1912.00291"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We validate the discovery of a 2-Earth-radii sub-Neptune-sized planet around the nearby high-proper-motion M2.5 dwarf G 9-40 (EPIC 212048748), using high-precision, near-infrared (NIR) radial velocity (RV) observations with the Habitable-zone Planet Finder (HPF), precision diffuser-assisted ground-based photometry with a custom narrowband photometric filter, and adaptive optics imaging. At a distance of d = 27.9 $ \\mathrmpc$ , G 9-40b is the second-closest transiting planet discovered by K2 to date. The planet's large transit depth (∼3500 ppm), combined with the proximity and brightness of the host star at NIR wavelengths (J = 10, K = 9.2), makes G 9-40b one of the most favorable sub-Neptune-sized planets orbiting an M dwarf for transmission spectroscopy with James Webb Space Telescope, ARIEL, and the upcoming Extremely Large Telescopes. The star is relatively inactive with a rotation period of ∼29 days determined from the K2 photometry. To estimate spectroscopic stellar parameters, we describe our implementation of an empirical spectral-matching algorithm using the high-resolution NIR HPF spectra. Using this algorithm, we obtain an effective temperature of $T_{\\mathrmeff}=3404± 73 {\\rmK}$ and metallicity of $[\\mathrmFe/{\\rmH}]=-0.08± 0.13$ . Our RVs, when coupled with the orbital parameters derived from the transit photometry, exclude planet masses above 11.7M<SUB>⊕</SUB> with 99.7% confidence assuming a circular orbit. From its radius, we predict a mass of $M=5.0_-1.9^+3.8M_⊕ $ and an RV semiamplitude of $K=4.1_-1.6^+3.1 {\\rmm} {{\\rms}}^-1$ , making its mass measurable with current RV facilities. We urge further RV follow-up observations to precisely measure its mass, to enable precise transmission spectroscopic measurements in the future.\n"""
+tags = ["HPF", "Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures", "Radial Velocity Surveys", "Transit Surveys"]
+eid = "100"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M Dwarf", "Sub-Neptune", "Transmission Spectroscopy"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures", "Radial Velocity Surveys", "Transit Surveys"]

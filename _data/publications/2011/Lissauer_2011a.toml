@@ -1,0 +1,23 @@
+title = "Architecture and Dynamics of Kepler's Candidate Multiple Transiting Planet Systems"
+author = "Lissauer, Jack J. and Ragozzine, Darin and Fabrycky, Daniel C. and Steffen, Jason H. and Ford, Eric B. and Jenkins, Jon M. and Shporer, Avi and Holman, Matthew J. and Rowe, Jason F. and Quintana, Elisa V. and Batalha, Natalie M. and Borucki, William J. and Bryson, Stephen T. and Caldwell, Douglas A. and Carter, Joshua A. and Ciardi, David and Dunham, Edward W. and Fortney, Jonathan J. and Gautier, III, Thomas N. and Howell, Steve B. and Koch, David G. and Latham, David W. and Marcy, Geoffrey W. and Morehead, Robert C. and Sasselov, Dimitar"
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "8"
+doi = "10.1088/0067-0049/197/1/8"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197....8L"
+archiveprefix = "arXiv"
+eprint = "1102.0543"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """About one-third of the ~1200 transiting planet candidates detected in the first four months of Kepler data are members of multiple candidate systems. There are 115 target stars with two candidate transiting planets, 45 with three, 8 with four, and 1 each with five and six. We characterize the dynamical properties of these candidate multi-planet systems. The distribution of observed period ratios shows that the vast majority of candidate pairs are neither in nor near low-order mean-motion resonances. Nonetheless, there are small but statistically significant excesses of candidate pairs both in resonance and spaced slightly too far apart to be in resonance, particularly near the 2:1 resonance. We find that virtually all candidate systems are stable, as tested by numerical integrations that assume a nominal mass-radius relationship. Several considerations strongly suggest that the vast majority of these multi-candidate systems are true planetary systems. Using the observed multiplicity frequencies, we find that a single population of planetary systems that matches the higher multiplicities underpredicts the number of singly transiting systems. We provide constraints on the true multiplicity and mutual inclination distribution of the multi-candidate systems, revealing a population of systems with multiple super-Earth-size and Neptune-size planets with low to moderate mutual inclinations.\n"""
+tags = ["Binary Stars", "Dynamics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "8"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet Systems", "Mean Motion Resonance", "Super-Earth", "Neptune"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

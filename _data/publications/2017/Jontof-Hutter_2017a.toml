@@ -1,0 +1,20 @@
+title = "Erratum: Secure TTV Mass Measurements: Ten Kepler Exoplanets between 3 and 8 M_⊕ with Diverse Densities and Incident Fluxes"
+author = "Jontof-Hutter, Daniel and Ford, Eric B. and Rowe, Jason F. and Lissauer, Jack J. and Fabrycky, Daniel C. and Van Laerhoven, Christa and Agol, Eric and Deck, Katherine M. and Holczer, Tomer and Mazeh, Tsevi"
+year = "2017"
+month = "nov"
+journal = "ApJ"
+volume = "849"
+number = "1"
+pages = "73"
+doi = "10.3847/1538-4357/aa8d19"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2017ApJ...849...73J"
+entrytype = "article"
+abstract = """\n"""
+tags = ["Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+eid = "73"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Mass Determination", "Planetary Density", "Incident Flux"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

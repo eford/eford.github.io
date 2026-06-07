@@ -1,0 +1,22 @@
+title = "Kepler-16: A Transiting Circumbinary Planet"
+author = "Doyle, Laurance R. and Carter, Joshua A. and Fabrycky, Daniel C. and Slawson, Robert W. and Howell, Steve B. and Winn, Joshua N. and Orosz, Jerome A. and {P{\\vr}sa}, Andrej and Welsh, William F. and Quinn, Samuel N. and Latham, David and Torres, Guillermo and Buchhave, Lars A. and Marcy, Geoffrey W. and Fortney, Jonathan J. and Shporer, Avi and Ford, Eric B. and Lissauer, Jack J. and Ragozzine, Darin and Rucker, Michael and Batalha, Natalie and Jenkins, Jon M. and Borucki, William J. and Koch, David and Middour, Christopher K. and Hall, Jennifer R. and McCauliff, Sean and Fanelli, Michael N. and Quintana, Elisa V. and Holman, Matthew J. and Caldwell, Douglas A. and Still, Martin and Stefanik, Robert P. and Brown, Warren R. and Esquerdo, Gilbert A. and Tang, Sumin and Furesz, Gabor and Geary, John C. and Berlind, Perry and Calkins, Michael L. and Short, Donald R. and Steffen, Jason H. and Sasselov, Dimitar and Dunham, Edward W. and Cochran, William D. and Boss, Alan and Haas, Michael R. and Buzasi, Derek and Fischer, Debra"
+year = "2011"
+month = "sep"
+journal = "Science"
+volume = "333"
+number = "6049"
+pages = "1602"
+doi = "10.1126/science.1210923"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011Sci...333.1602D"
+archiveprefix = "arXiv"
+eprint = "1109.3432"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the detection of a planet whose orbit surrounds a pair of low-mass stars. Data from the Kepler spacecraft reveal transits of the planet across both stars, in addition to the mutual eclipses of the stars, giving precise constraints on the absolute dimensions of all three bodies. The planet is comparable to Saturn in mass and size and is on a nearly circular 229-day orbit around its two parent stars. The eclipsing stars are 20 and 69% as massive as the Sun and have an eccentric 41-day orbit. The motions of all three bodies are confined to within 0.5° of a single plane, suggesting that the planet formed within a circumbinary disk.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Dynamics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Circumbinary Systems", "Low-Mass Stars"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

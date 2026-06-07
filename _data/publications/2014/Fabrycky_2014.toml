@@ -1,0 +1,23 @@
+title = "Architecture of Kepler's Multi-transiting Systems. II. New Investigations with Twice as Many Candidates"
+author = "Fabrycky, Daniel C. and Lissauer, Jack J. and Ragozzine, Darin and Rowe, Jason F. and Steffen, Jason H. and Agol, Eric and Barclay, Thomas and Batalha, Natalie and Borucki, William and Ciardi, David R. and Ford, Eric B. and Gautier, Thomas N. and Geary, John C. and Holman, Matthew J. and Jenkins, Jon M. and Li, Jie and Morehead, Robert C. and Morris, Robert L. and Shporer, Avi and Smith, Jeffrey C. and Still, Martin and Van Cleve, Jeffrey"
+year = "2014"
+month = "aug"
+journal = "ApJ"
+volume = "790"
+number = "2"
+pages = "146"
+doi = "10.1088/0004-637X/790/2/146"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2014ApJ...790..146F"
+archiveprefix = "arXiv"
+eprint = "1202.6328"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report on the orbital architectures of Kepler systems having multiple-planet candidates identified in the analysis of data from the first six quarters of Kepler data and reported by Batalha et al. (2013). These data show 899 transiting planet candidates in 365 multiple-planet systems and provide a powerful means to study the statistical properties of planetary systems. Using a generic mass-radius relationship, we find that only two pairs of planets in these candidate systems (out of 761 pairs total) appear to be on Hill-unstable orbits, indicating ~96% of the candidate planetary systems are correctly interpreted as true systems. We find that planet pairs show little statistical preference to be near mean-motion resonances. We identify an asymmetry in the distribution of period ratios near first-order resonances (e.g., 2:1, 3:2), with an excess of planet pairs lying wide of resonance and relatively few lying narrow of resonance. Finally, based upon the transit duration ratios of adjacent planets in each system, we find that the interior planet tends to have a smaller transit impact parameter than the exterior planet does. This finding suggests that the mode of the mutual inclinations of planetary orbital planes is in the range 1.°0-2.°2, for the packed systems of small planets probed by these observations.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "146"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Orbital Resonance", "Transit Photometry", "Planetary System Architecture"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

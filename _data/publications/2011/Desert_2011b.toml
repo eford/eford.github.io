@@ -1,0 +1,23 @@
+title = "The Atmospheres of the Hot-Jupiters Kepler-5b and Kepler-6b Observed during Occultations with Warm-Spitzer and Kepler"
+author = "{D\\'esert}, Jean-Michel and Charbonneau, David and Fortney, Jonathan J. and Madhusudhan, Nikku and Knutson, Heather A. and Fressin, Fran{\\cc}ois and Deming, Drake and Borucki, William J. and Brown, Timothy M. and Caldwell, Douglas and Ford, Eric B. and Gilliland, Ronald L. and Latham, David W. and Marcy, Geoffrey W. and Seager, Sara"
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "11"
+doi = "10.1088/0067-0049/197/1/11"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197...11D"
+archiveprefix = "arXiv"
+eprint = "1102.0555"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """This paper reports the detection and the measurements of occultations of the two transiting hot giant exoplanets Kepler-5b and Kepler-6b by their parent stars. The observations are obtained in the near-infrared with Warm-Spitzer Space Telescope and at optical wavelengths by combining more than a year of Kepler photometry. The investigation consists of constraining the eccentricities of these systems and of obtaining broadband emergent photometric data for individual planets. For both targets, the occultations are detected at the 3σ level at each wavelength with mid-occultation times consistent with circular orbits. The brightness temperatures of these planets are deduced from the infrared observations and reach T <SUB>Spitzer</SUB> = 1930 ± 100 K and T <SUB>Spitzer</SUB> = 1660 ± 120 K for Kepler-5b and Kepler-6b, respectively. We measure optical geometric albedos A<SUB>g</SUB> in the Kepler bandpass and find A<SUB>g</SUB> = 0.12 ± 0.04 for Kepler-5b and A<SUB>g</SUB> = 0.11 ± 0.04 for Kepler-6b, leading to upper an limit for the Bond albedo of A <SUB>B</SUB> &lt;= 0.17 in both cases. The observations for both planets are best described by models for which most of the incident energy is redistributed on the dayside, with only less than 10% of the absorbed stellar flux redistributed to the nightside of these planets.\n"""
+tags = ["Kepler"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+eid = "11"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Hot Jupiters", "Occultations", "Planetary Atmospheres", "Infrared Astronomy"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

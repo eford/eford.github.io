@@ -1,0 +1,23 @@
+title = "TOI-1728b: The Habitable-zone Planet Finder Confirms a Warm Super-Neptune Orbiting an M-dwarf Host"
+author = "Kanodia, Shubham and {Ca\\~nas}, Caleb I. and Stefansson, Gudmundur and Ninan, Joe P. and Hebb, Leslie and Lin, Andrea S.~J. and Baran, Helen and Maney, Marissa and Terrien, Ryan C. and Mahadevan, Suvrath and Cochran, William D. and Endl, Michael and Dong, Jiayin and Bender, Chad F. and Diddams, Scott A. and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Metcalf, Andrew J. and Monson, Andrew and Ramsey, Lawrence W. and Robertson, Paul and Roy, Arpita and Schwab, Christian and Wright, Jason T."
+year = "2020"
+month = "aug"
+journal = "ApJ"
+volume = "899"
+number = "1"
+pages = "29"
+doi = "10.3847/1538-4357/aba0a2"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020ApJ...899...29K"
+archiveprefix = "arXiv"
+eprint = "2006.14546"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We confirm the planetary nature of TOI-1728b using a combination of ground-based photometry, near-infrared Doppler velocimetry and spectroscopy with the Habitable-zone Planet Finder. TOI-1728 is an old, inactive M0 star with T<SUB>eff</SUB> = $3980_-32^+31$ K, which hosts a transiting super-Neptune at an orbital period of ∼3.49 days. Joint fitting of the radial velocities and TESS and ground-based transits yields a planetary radius of $5.05_-0.17^+0.16$ R<SUB>⊕</SUB>, mass $26.78_-5.13^+5.43$ M<SUB>⊕</SUB>, and eccentricity $0.057_-0.039^+0.054$ . We estimate the stellar properties, and perform a search for He 10830 Šabsorption during the transit of this planet and claim a null detection with an upper limit of 1.1% with 90% confidence. A deeper level of He 10830 Šabsorption has been detected in the planet atmosphere of GJ 3470b, a comparable gaseous planet. TOI-1728b is the largest super-Neptune—the intermediate subclass of planets between Neptune and the more massive gas-giant planets—discovered around an M dwarf. With its relatively large mass and radius, TOI-1728 represents a valuable data point in the M-dwarf exoplanet mass-radius diagram, bridging the gap between the lighter Neptune-sized planets and the heavier Jovian planets known to orbit M dwarfs. With a low bulk density of $1.14_-0.24^+0.26$ g cm<SUP>-3</SUP>, and orbiting a bright host star (J ∼ 9.6, V ∼ 12.4), TOI-1728b is also a promising candidate for transmission spectroscopy both from the ground and from space, which can be used to constrain planet formation and evolutionary models.\n"""
+tags = ["HPF", "Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Radial Velocity Surveys", "Transit Surveys"]
+eid = "29"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M-dwarf stars", "Super-Neptunes", "Transmission Spectroscopy", "Exoplanet Characterization"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys", "Transit Surveys"]

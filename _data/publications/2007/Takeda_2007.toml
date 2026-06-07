@@ -1,0 +1,22 @@
+title = "Structure and Evolution of Nearby Stars with Planets. II. Physical Properties of ~1000 Cool Stars from the SPOCS Catalog"
+author = "Takeda, Genya and Ford, Eric B. and Sills, Alison and Rasio, Frederic A. and Fischer, Debra A. and Valenti, Jeff A."
+year = "2007"
+month = "feb"
+journal = "ApJS"
+volume = "168"
+number = "2"
+pages = "297-318"
+doi = "10.1086/509763"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2007ApJS..168..297T"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0607235"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We derive detailed theoretical models for 1074 nearby stars from the SPOCS (Spectroscopic Properties of Cool Stars) Catalog. The California and Carnegie Planet Search has obtained high-quality (R~=70,000-90,000, S/N~=300-500) echelle spectra of over 1000 nearby stars taken with the Hamilton spectrograph at Lick Observatory, the HIRES spectrograph at Keck, and UCLES at the Anglo Australian Observatory. A uniform analysis of the high-resolution spectra has yielded precise stellar parameters (T<SUB>eff</SUB>, logg, vsini, [M/H], and individual elemental abundances for Fe, Ni, Si, Na, and Ti), enabling systematic error analyses and accurate theoretical stellar modeling. We have created a large database of theoretical stellar evolution tracks using the Yale Stellar Evolution Code (YREC) to match the observed parameters of the SPOCS stars. Our very dense grids of evolutionary tracks eliminate the need for interpolation between stellar evolutionary tracks and allow precise determinations of physical stellar parameters (mass, age, radius, size and mass of the convective zone, surface gravity, etc.). Combining our stellar models with the observed stellar atmospheric parameters and uncertainties, we compute the likelihood for each set of stellar model parameters separated by uniform time steps along the stellar evolutionary tracks. The computed likelihoods are used for a Bayesian analysis to derive posterior probability distribution functions for the physical stellar parameters of interest. We provide a catalog of physical parameters for 1074 stars that are based on a uniform set of high-quality spectral observations, a uniform spectral reduction procedure, and a uniform set of stellar evolutionary models. We explore this catalog for various possible correlations between stellar and planetary properties, which may help constrain the formation and dynamical histories of other planetary systems.\n"""
+tags = ["Keck", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Astrophysics", "Spectroscopy", "Stellar Evolution", "Cool Stars"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation"]

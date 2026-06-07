@@ -1,0 +1,18 @@
+title = "Future of High-Dimensional Data-Driven Exoplanet Science"
+author = "Ford, Eric B."
+year = "2016"
+month = "mar"
+volume = "699"
+pages = "012007"
+doi = "10.1088/1742-6596/699/1/012007"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016JPhCS.699a2007F"
+entrytype = "inproceedings"
+abstract = """The detection and characterization of exoplanets has come a long way since the 1990’s. For example, instruments specifically designed for Doppler planet surveys feature environmental controls to minimize instrumental effects and advanced calibration systems. Combining these instruments with powerful telescopes, astronomers have detected thousands of exoplanets. The application of Bayesian algorithms has improved the quality and reliability with which astronomers characterize the mass and orbits of exoplanets. Thanks to continued improvements in instrumentation, now the detection of extrasolar low-mass planets is limited primarily by stellar activity, rather than observational uncertainties. This presents a new set of challenges which will require cross-disciplinary research to combine improved statistical algorithms with an astrophysical understanding of stellar activity and the details of astronomical instrumentation. I describe these challenges and outline the roles of parameter estimation over high-dimensional parameter spaces, marginalizing over uncertainties in stellar astrophysics and machine learning for the next generation of Doppler planet searches.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability"]
+eid = "012007"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Characterization", "Bayesian Inference", "Stellar Activity", "Parameter Estimation"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability"]

@@ -1,0 +1,21 @@
+title = "TOI-1259Ab: A Warm Jupiter Orbiting a K-dwarf White-Dwarf Binary is on a Well-aligned Orbit"
+author = "Veldhuis, Hugo and Espinoza-Retamal, Juan I. and Stefansson, Gudmundur and Stephan, Alexander P. and Martin, David V. and Bruijne, David and Mahadevan, Suvrath and Winn, Joshua N. and Blake, Cullen H. and Dai, Fei and Fernandes, Rachel B. and Fitzmaurice, Evan and Ford, Eric B. and Giovinazzi, Mark R. and Gupta, Arvind F. and Halverson, Samuel and Han, Te and Krolikowski, Daniel and Ninan, Joe and Petrovich, Cristobal and Robertson, Paul and Roy, Arpita and Schwab, Christian and Terrien, Ryan"
+year = "2025"
+month = "jul"
+journal = "arXiv e-prints"
+pages = "arXiv:2507.07737"
+doi = "10.48550/arXiv.2507.07737"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025arXiv250707737V"
+archiveprefix = "arXiv"
+eprint = "2507.07737"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The evolution of one member of a stellar binary into a white dwarf has been proposed as a mechanism that triggers the formation of close-in gas giant planets. The star's asymmetric mass loss during the AGB stage gives it a \"kick\" that can initiate Eccentric Lidov-Kozai oscillations, potentially causing a planet around the secondary star to migrate inwards and perturbing the eccentricity and inclination of its orbit. Here we present a measurement of the stellar obliquity of TOI-1259Ab, a gas giant in a close-in orbit around a K star with a white dwarf companion about 1650 au away. By using the NEID spectrograph to detect the Rossiter-McLaughlin effect during the planetary transit, we find the sky-projected obliquity to be $λ= 6^+21_-22 ^°$. When combined with estimates of the stellar rotation period, radius, and projected rotation velocity, we find the true 3D obliquity to be $ψ= 24^+14_-12 ^°$ ($ψ&lt; 48^°$ at 95% confidence), revealing that the orbit of TOI-1259Ab is well aligned with the star's equatorial plane. Because the planet's orbit is too wide for tidal realignment to be expected, TOI-1259Ab might have formed quiescently in this well-aligned configuration. Alternatively, as we show with dynamical simulations, Eccentric Lidov-Kozai oscillations triggered by the evolution of the binary companion are expected to lead to a low obliquity with a probability of about $~$14%.\n"""
+tags = ["Binary Stars", "Dynamics", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures"]
+eid = "arXiv:2507.07737"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["White Dwarf", "Gas Giants", "Lidov-Kozai mechanism", "Stellar Obliquity"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

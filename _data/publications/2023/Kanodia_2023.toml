@@ -1,0 +1,23 @@
+title = "Beyond Two-dimensional Mass─Radius Relationships: A Nonparametric and Probabilistic Framework for Characterizing Planetary Samples in Higher Dimensions"
+author = "Kanodia, Shubham and He, Matthias Y. and Ford, Eric B. and Ghosh, Sujit K. and Wolfgang, Angie"
+year = "2023"
+month = "oct"
+journal = "ApJ"
+volume = "956"
+number = "2"
+pages = "76"
+doi = "10.3847/1538-4357/acf3e7"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2023ApJ...956...76K"
+archiveprefix = "arXiv"
+eprint = "2308.10615"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Fundamental to our understanding of planetary bulk compositions is the relationship between their masses and radii, two properties that are often not simultaneously known for most exoplanets. However, while many previous studies have modeled the two-dimensional relationship between planetary mass and radii, this approach largely ignores the dependencies on other properties that may have influenced the formation and evolution of the planets. In this work, we extend the existing nonparametric and probabilistic framework of MRExo to jointly model distributions beyond two dimensions. Our updated framework can now simultaneously model up to four observables, while also incorporating asymmetric measurement uncertainties and upper limits in the data. We showcase the potential of this multidimensional approach to three science cases: (i) a four-dimensional joint fit to planetary mass, radius, insolation, and stellar mass, hinting of changes in planetary bulk density across insolation and stellar mass; (ii) a three-dimensional fit to the California Kepler Survey sample showing how the planet radius valley evolves across different stellar masses; and (iii) a two-dimensional fit to a sample of Class-II protoplanetary disks in Lupus while incorporating the upper limits in dust mass measurements. In addition, we employ bootstrap and Monte Carlo sampling to quantify the impact of the finite sample size as well as measurement uncertainties on the predicted quantities. We update our existing open-source user-friendly MRExo Python package with these changes, which allows users to apply this highly flexible framework to a variety of data sets beyond what we have shown here.\n"""
+tags = ["Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys"]
+eid = "76"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Planetary Density", "Bulk Composition", "Multidimensional Modeling"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

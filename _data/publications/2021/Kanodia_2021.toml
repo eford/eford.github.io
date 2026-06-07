@@ -1,0 +1,23 @@
+title = "A Harsh Test of Far-field Scrambling with the Habitable-zone Planet Finder and the Hobby-Eberly Telescope"
+author = "Kanodia, Shubham and Halverson, Samuel and Ninan, Joe P. and Mahadevan, Suvrath and Stefansson, Gudmundur and Roy, Arpita and Ramsey, Lawrence W. and Bender, Chad F. and Janowiecki, Steven and Cochran, William D. and Diddams, Scott A. and Drory, Niv and Endl, Michael and Ford, Eric B. and Hearty, Fred and Metcalf, Andrew J. and Monson, Andrew and Robertson, Paul and Schwab, Christian and Terrien, Ryan C. and Wright, Jason T."
+year = "2021"
+month = "may"
+journal = "ApJ"
+volume = "912"
+number = "1"
+pages = "15"
+doi = "10.3847/1538-4357/abec83"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021ApJ...912...15K"
+archiveprefix = "arXiv"
+eprint = "2103.05148"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Habitable-zone Planet Finder (HPF) is a fiber-fed precise radial velocity (RV) spectrograph at the 10 m Hobby-Eberly Telescope (HET). Due to its fixed-altitude design, the HET pupil changes appreciably across a track, leading to significant changes of the fiber far-field illumination. HPF's fiber scrambler is designed to suppress the impact of these illumination changes on the RVs—but the residual impact on the RV measurements has yet to be probed on-sky. We use GJ 411, a bright early type (M2) M dwarf to probe the effects of far-field input trends due to these pupil variations on HPF RVs. These large changes (∼2x) in the pupil area and centroid present a harsh test of HPF's far-field scrambling. Our results show that the RVs are effectively decoupled from these extreme far-field input changes due to pupil centroid offsets, attesting to the effectiveness of the scrambler design. This experiment allows us to test the impact of these changes with large pupil variation on-sky, something we would not easily be able to do at a conventional optical telescope. While the pupil and illumination changes expected at these other telescopes are small, scaling from our results enables us to estimate and bound these effects, and show that they are controllable even for the new and next generation of RV instruments in their quest to beat down instrumental noise sources toward the goal of a few $ \\mathrmcm {{\\rms}}^-1$ .\n"""
+tags = ["HPF", "Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability"]
+eid = "15"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Spectrograph Design", "Telescope Instrumentation", "Stellar Astrophysics"]
+# suggested_research_themes  = ["Mitigating Stellar Variability"]

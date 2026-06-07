@@ -1,0 +1,23 @@
+title = "GRASS: Distinguishing Planet-induced Doppler Signatures from Granulation with a Synthetic Spectra Generator"
+author = "Palumbo, III, Michael L. and Ford, Eric B. and Wright, Jason T. and Mahadevan, Suvrath and Wise, Alexander W. and {L\\\"ohner-B\\\"ottcher}, Johannes"
+year = "2022"
+month = "jan"
+journal = "AJ"
+volume = "163"
+number = "1"
+pages = "11"
+doi = "10.3847/1538-3881/ac32c2"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022AJ....163...11P"
+archiveprefix = "arXiv"
+eprint = "2110.11839"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """Owing to recent advances in radial-velocity instrumentation and observation techniques, the detection of Earth-mass planets around Sun-like stars may soon be primarily limited by intrinsic stellar variability. Several processes contribute to this variability, including starspots, pulsations, and granulation. Although many previous studies have focused on techniques to mitigate signals from pulsations and other types of magnetic activity, granulation noise has to date only been partially addressed by empirically motivated observation strategies and magnetohydrodynamic simulations. To address this deficit, we present the GRanulation And Spectrum Simulator (GRASS), a new tool designed to create time-series synthetic spectra with granulation-driven variability from spatially and temporally resolved observations of solar absorption lines. In this work, we present GRASS, detail its methodology, and validate its model against disk-integrated solar observations. As a first-of-its-kind empirical model for spectral variability due to granulation in a star with perfectly known center-of-mass radial-velocity behavior, GRASS is an important tool for testing new methods of disentangling granular line-shape changes from true Doppler shifts.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "11"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Activity", "Doppler Spectroscopy", "Synthetic Spectra"]
+# suggested_research_themes  = ["High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

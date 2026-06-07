@@ -1,0 +1,23 @@
+title = "Exoplanet Diversity in the Era of Space-based Direct Imaging Missions"
+author = "Kopparapu, Ravi Kumar and Hebrard, Eric and Belikov, Rus and Batalha, Natalie M. and Mulders, Gijs D. and Stark, Chris and Teal, Dillon and Domagal-Goldman, Shawn and Gelino, Dawn and Mandell, Avi and Roberge, Aki and Rinehart, Stephen and Kane, Stephen R. and Hasegawa, Yasuhiro and Henning, Wade and Hicks, Brian and Adibekyan, Vardan and Schwieterman, Edward W. and Kohler, Erika and Teske, Johanna and Hinkel, Natalie and Nixon, Conor and France, Kevin and Danchi, William and Haqq-Misra, Jacob and Wolf, Eric T. and Guzewich, Scott D. and Charnay, Benjamin and Arney, Giada and Hartnett, Hilairy E. and Lopez, Eric D. and Minniti, Dante and Renaud, Joe and Airapetian, Vladimir and Dong, Chuanfei and Del Genio, Anthony D. and Trainer, Melissa and Rau, Gioia and Jensen, Adam and Way, Michael and Lisse, Carey M. and Lyra, Wladimir and Marchis, Franck and Jonthof-Hutter, Daniel and Young, Patrick and Pierrehumbert, Ray and Harman, Chester E. and Fortney, Jonathan and Moore, Bill and Beckwith, Steven and Shock, Everett and Desch, Steve and Mandt, Kathleen E. and Izenberg, Noam and Ford, Eric B. and Curry, Shannon and Scharf, Caleb and Anbar, Ariel"
+year = "2019"
+month = "may"
+journal = "\\baas"
+volume = "51"
+number = "3"
+pages = "12"
+doi = "10.48550/arXiv.1803.03812"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..12K"
+archiveprefix = "arXiv"
+eprint = "1803.03812"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """This whitepaper discusses the diversity of exoplanets that could be detected by future observations in the upcoming era of large space-based flagship missions. The primary focus will be on characterizing Earth-like worlds around Sun-like stars. However, we will also be able to characterize companion planets in the system simultaneously.\n"""
+tags = ["Astrobiology", "Demographics", "Kepler", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures"]
+eid = "12"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Direct Imaging", "Earth-like Worlds", "Space Missions"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures"]

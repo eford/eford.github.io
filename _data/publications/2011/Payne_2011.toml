@@ -1,0 +1,23 @@
+title = "An Analysis of Jitter and Transit Timing Variations in the HAT-P-13 System"
+author = "Payne, Matthew J. and Ford, Eric B."
+year = "2011"
+month = "mar"
+journal = "ApJ"
+volume = "729"
+number = "2"
+pages = "98"
+doi = "10.1088/0004-637X/729/2/98"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...729...98P"
+archiveprefix = "arXiv"
+eprint = "1103.0199"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """If the two planets in the HAT-P-13 system are coplanar, the orbital states provide a probe of the internal planetary structure. Previous analyses of radial velocity and transit timing data for the system suggested that the observational constraints on the orbital states were rather small. We reanalyze the available data, treating the jitter as an unknown MCMC parameter, and find that a wide range of jitter values are plausible, hence the system parameters are less well constrained than previously suggested. For slightly increased levels of jitter (~4.5 m s<SUP>-1</SUP>), the eccentricity of the inner planet can be in the range 0 &lt; e <SUB>inner</SUB> &lt; 0.07, the period and eccentricity of the outer planet can be 440 days &lt; P <SUB>outer</SUB> &lt; 470 days and 0.55 &lt; e <SUB>outer</SUB> &lt; 0.85, respectively, while the relative pericenter alignment, η, of the planets can take essentially any value -180° &lt; η &lt; +180°. It is therefore difficult to determine whether e <SUB>inner</SUB> and η have evolved to a fixed-point state or a limit cycle or to use e <SUB>inner</SUB> to probe the internal planetary structure. We perform various transit timing variation (TTV) analyses, demonstrating that current constraints merely restrict e <SUB>outer</SUB> &lt; 0.85, and rule out relative planetary inclinations within ~2° of i <SUB>rel</SUB> = 90°, but that future observations could significantly tighten the restriction on both these parameters. We demonstrate that TTV profiles can readily distinguish the theoretically favored inclinations of i <SUB>rel</SUB> = 0° and 45°, provided that sufficiently precise and frequent transit timing observations of HAT-P-13b can be made close to the pericenter passage of HAT-P-13c. We note the relatively high probability that HAT-P-13c transits and suggest observational dates and strategies.\n"""
+tags = ["Dynamics", "Transit timing variations"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "98"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["MCMC analysis", "Orbital parameters", "Planet inclination"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

@@ -1,0 +1,23 @@
+title = "Following Up the Kepler Field: Masses of Targets for Transit Timing and Atmospheric Characterization"
+author = "Jontof-Hutter, Daniel and Wolfgang, Angie and Ford, Eric B. and Lissauer, Jack J. and Fabrycky, Daniel C. and Rowe, Jason F."
+year = "2021"
+month = "may"
+journal = "AJ"
+volume = "161"
+number = "5"
+pages = "246"
+doi = "10.3847/1538-3881/abd93f"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021AJ....161..246J"
+archiveprefix = "arXiv"
+eprint = "2101.01202"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We identify a set of planetary systems observed by Kepler that merit transit-timing variation (TTV) analysis given the orbital periods of transiting planets, the uncertainties for their transit times, and the number of transits observed during the Kepler mission. We confirm the planetary nature of four Kepler Objects of Interest within multicandidate systems. We forward-model each of the planetary systems identified to determine which systems are likely to yield mass constraints that may be significantly improved upon with follow-up transit observations. We find projected TTVs diverge by more than 90 minutes after 6000 days in 27 systems, including 22 planets with orbital periods exceeding 25 days. Such targets would benefit the most from additional transit-timing data. TTV follow-up could push exoplanet characterization to lower masses, at greater orbital periods and at cooler equilibrium temperatures than is currently possible from the Kepler data set alone. Combining TTVs and recently revised stellar parameters, we characterize an ensemble of homogeneously selected planets and identify planets in the Kepler field with large-enough estimated transmission annuli for atmospheric characterization with James Webb Space Telescope.\n"""
+tags = ["Dynamics", "Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "246"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["James Webb Space Telescope", "Atmospheric Characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

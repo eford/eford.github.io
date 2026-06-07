@@ -1,0 +1,18 @@
+title = "The Small Exoplanet Mass-Radius Relation: Quantifying the Astrophysical Scatter"
+author = "Wolfgang, Angie and Rogers, Leslie A. and Ford, Eric B."
+year = "2016"
+month = "oct"
+journal = "IAU Focus Meeting"
+volume = "29A"
+pages = "223-223"
+doi = "10.1017/S174392131600291X"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016IAUFM..29A.223W"
+entrytype = "article"
+abstract = """The Kepler Mission has discovered thousands of planets with radii &lt;4 R ⊕, paving the way for the first statistical studies of super-Earth dynamics, formation, and evolution. These calculations often require planetary masses, and yet the vast majority of Kepler planet candidates do not have theirs measured. A key concern is therefore how to map the measured radii to mass estimates in a size range that lacks Solar System analogs. While previous works have derived one-to-one relationships between radius and mass, a realistic mass-radius (M-R) relation should account for the range of compositions that we expect within the population. This compositional diversity creates astrophysical scatter in the relation, which we quantify here.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Mass-Radius Relation", "Planetary Composition", "Super-Earths"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

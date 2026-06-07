@@ -1,0 +1,23 @@
+title = "Radio Interferometric Planet Search. II. Constraints on Sub-jupiter-mass Companions to GJ 896A"
+author = "Bower, Geoffrey C. and Bolatto, Alberto and Ford, Eric B. and Fries, Adam and Kalas, Paul and Sanchez, Karol and Sanderbeck, Phoebe and Viscomi, Vincent"
+year = "2011"
+month = "oct"
+journal = "ApJ"
+volume = "740"
+number = "1"
+pages = "32"
+doi = "10.1088/0004-637X/740/1/32"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...740...32B"
+archiveprefix = "arXiv"
+eprint = "1107.3180"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We present results from the Radio Interferometric Planet search for companions to the nearby star GJ 896A. We present 11 observations over 4.9 yr. Fitting astrometric parameters to the data reveals a residual with peak-to-peak amplitude of ~3 mas in right ascension. This residual is well fit by an acceleration term of 0.458 ± 0.032 mas yr<SUP>-2</SUP>. The parallax is fit to an accuracy of 0.2 mas and the proper motion terms are fit to accuracies of 0.01 mas yr<SUP>-1</SUP>. After fitting astrometric and acceleration terms, residuals are 0.26 mas in each coordinate, demonstrating that stellar jitter does not limit the ability to carry out radio astrometric planet detection and characterization. The acceleration term originates in part from the companion GJ 896B, but the amplitude of the acceleration in declination is not accurately predicted by the orbital model. The acceleration sets a mass upper limit of 0.15 M<SUB>J</SUB> at a semimajor axis of 2 AU for a planetary companion to GJ 896A. For semimajor axes between 0.3 and 2 AU upper limits are determined by the maximum angular separation; the upper limits scale from the minimum value in proportion to the inverse of the radius. Upper limits at larger radii are set by the acceleration and scale as the radius squared. An improved solution for the stellar binary system could improve the exoplanet mass sensitivity by an order of magnitude.\n"""
+tags = ["Binary Stars", "Stars"]
+research_themes = ["Exoplanet Surveys"]
+eid = "32"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Radio Interferometry", "Astrometry", "Exoplanet Characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

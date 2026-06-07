@@ -1,0 +1,22 @@
+title = "Traditional formation scenarios fail to explain 4:3 mean motion resonances"
+author = "Rein, Hanno and Payne, Matthew J. and Veras, Dimitri and Ford, Eric B."
+year = "2012"
+month = "oct"
+journal = "MNRAS"
+volume = "426"
+number = "1"
+pages = "187-202"
+doi = "10.1111/j.1365-2966.2012.21798.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012MNRAS.426..187R"
+archiveprefix = "arXiv"
+eprint = "1204.0974"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """At least two multi-planetary systems in a 4:3 mean motion resonance have been found by radial velocity surveys.<SUP>1</SUP> These planets are gas giants and the systems are only stable when protected by a resonance. Additionally the Kepler mission has detected at least four strong candidate planetary systems with a period ratio close to 4:3. <P />This paper investigates traditional dynamical scenarios for the formation of these systems. We systematically study migration scenarios with both N-body and hydrodynamic simulations. We investigate scenarios involving the in situ formation of two planets in resonance. We look at the results from finely tuned planet-planet scattering simulations with gas disc damping. Finally, we investigate a formation scenario involving isolation-mass embryos. <P />Although the combined planet-planet scattering and damping scenario seems promising, none of the above scenarios is successful in forming enough systems in 4:3 resonance with planetary masses similar to the observed ones. This is a negative result but it has important implications for planet formation. Previous studies were successful in forming 2:1 and 3:2 resonances. This is generally believed to be evidence of planet migration. We highlight the main differences between those studies and our failure in forming a 4:3 resonance. We also speculate on more exotic and complicated ideas. These results will guide future investigators towards exploring the above scenarios and alternative mechanisms in a more general framework.\n"""
+tags = ["Dynamics", "Kepler", "Planet-planet scattering", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Mean Motion Resonance", "Gas Giants", "Hydrodynamics", "In Situ Formation"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

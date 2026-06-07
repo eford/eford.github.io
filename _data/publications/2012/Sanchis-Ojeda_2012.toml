@@ -1,0 +1,22 @@
+title = "Alignment of the stellar spin with the orbits of a three-planet system"
+author = "Sanchis-Ojeda, Roberto and Fabrycky, Daniel C. and Winn, Joshua N. and Barclay, Thomas and Clarke, Bruce D. and Ford, Eric B. and Fortney, Jonathan J. and Geary, John C. and Holman, Matthew J. and Howard, Andrew W. and Jenkins, Jon M. and Koch, David and Lissauer, Jack J. and Marcy, Geoffrey W. and Mullally, Fergal and Ragozzine, Darin and Seader, Shawn E. and Still, Martin and Thompson, Susan E."
+year = "2012"
+month = "jul"
+journal = "Nature"
+volume = "487"
+number = "7408"
+pages = "449-453"
+doi = "10.1038/nature11301"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012Natur.487..449S"
+archiveprefix = "arXiv"
+eprint = "1207.5804"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Sun's equator and the planets' orbital planes are nearly aligned, which is presumably a consequence of their formation from a single spinning gaseous disk. For exoplanetary systems this well-aligned configuration is not guaranteed: dynamical interactions may tilt planetary orbits, or stars may be misaligned with the protoplanetary disk through chaotic accretion , magnetic interactions or torques from neighbouring stars. Indeed, isolated `hot Jupiters' are often misaligned and even orbiting retrograde. Here we report an analysis of transits of planets over starspots on the Sun-like star Kepler-30 (ref. 8), and show that the orbits of its three planets are aligned with the stellar equator. Furthermore, the orbits are aligned with one another to within a few degrees. This configuration is similar to that of our Solar System, and contrasts with the isolated hot Jupiters. The orderly alignment seen in the Kepler-30 system suggests that high obliquities are confined to systems that experienced disruptive dynamical interactions. Should this be corroborated by observations of other coplanar multi-planet systems, then star-disk misalignments would be ruled out as the explanation for the high obliquities of hot Jupiters, and dynamical interactions would be implicated as the origin of hot Jupiters.\n"""
+tags = ["Dynamics", "Kepler", "Stars", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Obliquity", "Planetary Orbits", "Stellar Spin"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

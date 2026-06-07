@@ -1,0 +1,22 @@
+title = "A Third Giant Planet Orbiting HIP 14810"
+author = "Wright, J.~T. and Fischer, D.~A. and Ford, Eric B. and Veras, D. and Wang, J. and Henry, G.~W. and Marcy, G.~W. and Howard, A.~W. and Johnson, John Asher"
+year = "2009"
+month = "jul"
+journal = "ApJL"
+volume = "699"
+number = "2"
+pages = "L97-L101"
+doi = "10.1088/0004-637X/699/2/L97"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...699L..97W"
+archiveprefix = "arXiv"
+eprint = "0906.0567"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We present new precision radial velocities and a three-planet Keplerian orbit fit for the V = 8.5, G5 V star HIP 14810. We began observing this star at Keck Observatory as part of the N2K Planet Search Project. Wright et al. announced the inner two planets to this system, and subsequent observations have revealed the outer planet and the proper orbital solution for the middle planet. The planets have minimum masses of 3.9, 1.3, and 0.6 M <SUB>Jup</SUB> and orbital periods of 6.67, 147.7, and 952 day, respectively. We have numerically integrated the family of orbital solutions consistent with the data and find that they are stable for at least 10<SUP>6</SUP> yr. Our photometric search shows that the inner planet does not transit.\n"""
+tags = ["Dynamics", "Keck", "Radial Velocity", "Stars"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Characterization", "Keplerian Orbit", "Orbital Stability"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

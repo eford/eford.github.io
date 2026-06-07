@@ -1,0 +1,23 @@
+title = "Time-resolved p-mode Oscillations for Subgiant HD 142091 with NEID at WIYN"
+author = "Luhn, Jacob K. and Robertson, Paul and Halverson, Samuel and Gupta, Arvind F. and Siegel, Jared C. and Wright, Jason T. and Ford, Eric B. and Mahadevan, Suvrath and Bedding, Timothy R. and Alvarado-Montes, Jaime A. and Bender, Chad F. and Dong, Jiayin and Hearty, Fred and Logsdon, Sarah E. and Monson, Andrew and McElwain, Michael W. and Ninan, Joe P. and Rajagopal, Jayadev and Roy, Arpita and Schwab, Christian and Stefansson, Gudmundur and Stevens, Daniel J. and Terrien, Ryan C. and Wang, Sharon Xuesong and Zhao, Jinglin"
+year = "2025"
+month = "jul"
+journal = "ApJ"
+volume = "987"
+number = "2"
+pages = "168"
+doi = "10.3847/1538-4357/adda44"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025ApJ...987..168L"
+archiveprefix = "arXiv"
+eprint = "2506.18989"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """Detections of Earth-analog planets in radial velocity (RV) observations are limited by stellar astrophysical variability occurring on a variety of timescales. Current state-of-the-art methods to disentangle potential planet signals from intrinsic stellar signals assume that stellar signals introduce asymmetries to the line profiles that can therefore be separated from the pure translational Doppler shifts of planets. Here, we examine this assumption using a time series of resolved stellar p-mode oscillations in HD 142091 (κ CrB), as observed on a single night with the NEID spectrograph at 2 minutes cadence and with 25 cm s<SUP>−1</SUP> precision. As an evolved subgiant star, this target has p-mode oscillations that are larger in amplitude (4─8 m s<SUP>−1</SUP>) and occur on longer timescales (80 minutes) than those of typical Sun-like stars of RV surveys, magnifying their corresponding effects on the stellar spectral profile. We show that for HD 142091, p-mode oscillations manifest primarily as pure Doppler shifts in the average line profile—measured by the cross-correlation function (CCF)—with \"shape-driven\" CCF variations as a higher-order effect. Specifically, we find that the amplitude of the shift varies across the CCF bisector, with 10% larger oscillation amplitudes closer to the core of the CCF and 25% smaller oscillation amplitudes for bisector velocities derived near the wings; we attribute this trend to larger oscillation velocities higher in the stellar atmosphere. Using a line-by-line analysis, we verify that a similar trend is seen as a function of average line depth, with deeper lines showing larger oscillation amplitudes. Finally, we find no evidence that p-mode oscillations have a chromatic dependence across the NEID bandpass beyond that due to intrinsic line depth differences across the spectrum.\n"""
+tags = ["NEID", "Stars"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "168"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Asteroseismology", "p-mode", "Stellar Oscillations", "Spectroscopy"]
+# suggested_research_themes  = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]

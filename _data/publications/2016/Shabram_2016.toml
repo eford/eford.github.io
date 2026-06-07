@@ -1,0 +1,23 @@
+title = "The Eccentricity Distribution of Short-period Planet Candidates Detected by Kepler in Occultation"
+author = "Shabram, Megan and Demory, Brice-Olivier and Cisewski, Jessi and Ford, Eric B. and Rogers, Leslie"
+year = "2016"
+month = "apr"
+journal = "ApJ"
+volume = "820"
+number = "2"
+pages = "93"
+doi = "10.3847/0004-637X/820/2/93"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJ...820...93S"
+archiveprefix = "arXiv"
+eprint = "1511.02861"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We characterize the eccentricity distribution of a sample of ∼50 short-period planet candidates using transit and occultation measurements from NASA’s Kepler Mission. First, we evaluate the sensitivity of our hierarchical Bayesian modeling and test its robustness to model misspecification using simulated data. When analyzing actual data assuming a Rayleigh distribution for eccentricity, we find that the posterior mode for the dispersion parameter is σ =0.081+/- <SUB>0.003</SUB><SUP>0.014</SUP>. We find that a two-component Gaussian mixture model for e cos ω and e sin ω provides a better model than either a Rayleigh or Beta distribution. Based on our favored model, we find that ∼90% of planet candidates in our sample come from a population with an eccentricity distribution characterized by a small dispersion (∼0.01), and ∼10% come from a population with a larger dispersion (∼0.22). Finally, we investigate how the eccentricity distribution correlates with selected planet and host star parameters. We find evidence that suggests systems around higher metallicity stars and planet candidates with smaller radii come from a more complex eccentricity distribution.\n"""
+tags = ["Demographics", "Dynamics", "Kepler"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "93"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eccentricity", "Planet Characterization", "Bayesian Inference"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

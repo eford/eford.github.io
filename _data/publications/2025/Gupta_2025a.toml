@@ -1,0 +1,23 @@
+title = "The NEID Earth Twin Survey. III. Survey Performance after Three Years on Sky"
+author = "Gupta, Arvind F. and Fitzmaurice, Evan and Mahadevan, Suvrath and Robertson, Paul and Luhn, Jacob K. and Wright, Jason T. and Logsdon, Sarah E. and Krolikowski, Daniel M. and Paredes, Leonardo A. and Bender, Chad F. and Giovinazzi, Mark R. and Lin, Andrea S.~J. and Blake, Cullen H. and {Ca\\~nas}, Caleb I. and Ford, Eric B. and Halverson, Samuel and Kanodia, Shubham and McElwain, Michael W. and Monson, Andrew and Ninan, Joe P. and Rajagopal, Jayadev and Roy, Arpita and Schwab, Christian and {Stef\\'ansson}, Gu\\dhmundur and Terrien, Ryan C."
+year = "2025"
+month = "nov"
+journal = "AJ"
+volume = "170"
+number = "5"
+pages = "264"
+doi = "10.3847/1538-3881/ae0339"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025AJ....170..264G"
+archiveprefix = "arXiv"
+eprint = "2506.23704"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The NEID Earth Twin Survey (NETS) has been delivering a rich set of precise radial velocity (RV) measurements for 41 bright, nearby main-sequence stars. Here, we describe the status of the survey after 3 yr on sky, and we present the full set of RV measurements and accompanying stellar activity indicators. We discuss intermediate survey diagnostics, including calibration of the known RV zero-point offset introduced following the Contreras fire in 2022 and the identification of an undiagnosed and previously unknown zero-point offset in 2021. An analysis of our data set using RVSearch demonstrates that for these target stars, NEID is independently sensitive to nearly all known planets with periods shorter than the NETS observing baseline. We also highlight a number of newly detected RV signals, which present exciting opportunities for future investigations.\n"""
+tags = ["NEID", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Radial Velocity Surveys"]
+eid = "264"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Radial Velocity Measurements", "Star Activity Indicators", "Data Calibration"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Radial Velocity Surveys"]

@@ -1,0 +1,22 @@
+title = "An automated method to detect transiting circumbinary planets"
+author = "Windemuth, Diana and Agol, Eric and Carter, Josh and Ford, Eric B. and Haghighipour, Nader and Orosz, Jerome A. and Welsh, William F."
+year = "2019"
+month = "nov"
+journal = "MNRAS"
+volume = "490"
+number = "1"
+pages = "1313-1324"
+doi = "10.1093/mnras/stz2637"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.1313W"
+archiveprefix = "arXiv"
+eprint = "1909.07443"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """To date a dozen transiting `Tatooines' or circumbinary planets (CBPs) have been discovered, by eye, in the data from the Kepler mission; by contrast, thousands of confirmed circumstellar planets orbiting around single stars have been detected using automated algorithms. Automated detection of CBPs is challenging because their transits are strongly aperiodic with irregular profiles. Here, we describe an efficient and automated technique for detecting circumbinary planets that transit their binary hosts in Kepler light curves. Our method accounts for large transit timing variations (TTVs) and transit duration variations (TDVs), induced by binary reflex motion, in two ways: (1) We directly correct for large-scale TTVs and TDVs in the light curves by using Keplerian models to approximate binary and CBP orbits; and (2) We allow additional aperiodicities on the corrected light curves by employing the Quasi-periodic Automated Transit Search algorithm. We demonstrate that our method dramatically improves detection significance using simulated data and two previously identified CBP systems, Kepler-35 and Kepler-64.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Light Curve Analysis", "Orbital Modeling"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,23 @@
+title = "The Kepler-19 System: A Transiting 2.2 R $_{{\\ensuremath⊕}}$ Planet and a Second Planet Detected via Transit Timing Variations"
+author = "Ballard, Sarah and Fabrycky, Daniel and Fressin, Francois and Charbonneau, David and Desert, Jean-Michel and Torres, Guillermo and Marcy, Geoffrey and Burke, Christopher J. and Isaacson, Howard and Henze, Christopher and Steffen, Jason H. and Ciardi, David R. and Howell, Steven B. and Cochran, William D. and Endl, Michael and Bryson, Stephen T. and Rowe, Jason F. and Holman, Matthew J. and Lissauer, Jack J. and Jenkins, Jon M. and Still, Martin and Ford, Eric B. and Christiansen, Jessie L. and Middour, Christopher K. and Haas, Michael R. and Li, Jie and Hall, Jennifer R. and McCauliff, Sean and Batalha, Natalie M. and Koch, David G. and Borucki, William J."
+year = "2011"
+month = "dec"
+journal = "ApJ"
+volume = "743"
+number = "2"
+pages = "200"
+doi = "10.1088/0004-637X/743/2/200"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...743..200B"
+archiveprefix = "arXiv"
+eprint = "1109.1561"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the discovery of the Kepler-19 planetary system, which we first identified from a 9.3 day periodic transit signal in the Kepler photometry. From high-resolution spectroscopy of the star, we find a stellar effective temperature T <SUB>eff</SUB> = 5541 ± 60 K, a metallicity [Fe/H] = -0.13 ± 0.06, and a surface gravity log(g) = 4.59 ± 0.10. We combine the estimate of T <SUB>eff</SUB> and [Fe/H] with an estimate of the stellar density derived from the photometric light curve to deduce a stellar mass of M <SUB>sstarf</SUB> = 0.936 ± 0.040 M <SUB>☉</SUB> and a stellar radius of R <SUB>sstarf</SUB> = 0.850 ± 0.018 R <SUB>☉</SUB> (these errors do not include uncertainties in the stellar models). We rule out the possibility that the transits result from an astrophysical false positive by first identifying the subset of stellar blends that reproduce the precise shape of the light curve. Using the additional constraints from the measured color of the system, the absence of a secondary source in the high-resolution spectrum, and the absence of a secondary source in the adaptive optics imaging, we conclude that the planetary scenario is more than three orders of magnitude more likely than a blend. The blend scenario is independently disfavored by the achromaticity of the transit: we measure a transit depth with Spitzer at 4.5 μm of 547<SUP>+113</SUP> <SUB>- 110</SUB> ppm, consistent with the depth measured in the Kepler optical bandpass of 567 ± 6 ppm (corrected for stellar limb darkening). We determine a physical radius of the planet Kepler-19b of R<SUB>p</SUB> = 2.209 ± 0.048 R <SUB>⊕</SUB> the uncertainty is dominated by uncertainty in the stellar parameters. From radial velocity observations of the star, we find an upper limit on the planet mass of 20.3 M <SUB>⊕</SUB>, corresponding to a maximum density of 10.4 g cm<SUP>-3</SUP>. We report a significant sinusoidal deviation of the transit times from a predicted linear ephemeris, which we conclude is due to an additional perturbing body in the system. We cannot uniquely determine the orbital parameters of the perturber, as various dynamical mechanisms match the amplitude, period, and shape of the transit timing signal and satisfy the host star's radial velocity limits. However, the perturber in these mechanisms has a period &lt;~ 160 days and mass &lt;~ 6 M <SUB>Jup</SUB>, confirming its planetary nature as Kepler-19c. We place limits on the presence of transits of Kepler-19c in the available Kepler data.\n"""
+tags = ["Kepler", "Radial Velocity", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "200"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet characterization", "Stellar parameter determination", "TTV analysis"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,23 @@
+title = "MARVELS-1: A Face-on Double-lined Binary Star Masquerading as a Resonant Planetary System and Consideration of Rare False Positives in Radial Velocity Planet Searches"
+author = "Wright, Jason T. and Roy, Arpita and Mahadevan, Suvrath and Wang, Sharon X. and Ford, Eric B. and Payne, Matt and Lee, Brian L. and Wang, Ji and Crepp, Justin R. and Gaudi, B. Scott and Eastman, Jason and Pepper, Joshua and Ge, Jian and Fleming, Scott W. and Ghezzi, Luan and {Gonz\\'alez-Hern\\'andez}, Jonay I. and Cargile, Phillip and Stassun, Keivan G. and Wisniewski, John and Dutra-Ferreira, Leticia and Porto de Mello, Gustavo F. and Maia, M\\'arcio A.~G. and Nicolaci da Costa, Luiz and Ogando, Ricardo L.~C. and Santiago, Basilio X. and Schneider, Donald P. and Hearty, Fred R."
+year = "2013"
+month = "jun"
+journal = "ApJ"
+volume = "770"
+number = "2"
+pages = "119"
+doi = "10.1088/0004-637X/770/2/119"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJ...770..119W"
+archiveprefix = "arXiv"
+eprint = "1305.0280"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We have analyzed new and previously published radial velocity (RV) observations of MARVELS-1, known to have an ostensibly substellar companion in a ~6 day orbit. We find significant (~100 m s<SUP>-1</SUP>) residuals to the best-fit model for the companion, and these residuals are naïvely consistent with an interior giant planet with a P = 1.965 days in a nearly perfect 3:1 period commensurability (|P<SUB>b</SUB> /P<SUB>c</SUB> - 3| &lt; 10<SUP>-4</SUP>). We have performed several tests for the reality of such a companion, including a dynamical analysis, a search for photometric variability, and a hunt for contaminating stellar spectra. We find many reasons to be critical of a planetary interpretation, including the fact that most of the three-body dynamical solutions are unstable. We find no evidence for transits, and no evidence of stellar photometric variability. We have discovered two apparent companions to MARVELS-1 with adaptive optics imaging at Keck; both are M dwarfs, one is likely bound, and the other is likely a foreground object. We explore false-alarm scenarios inspired by various curiosities in the data. Ultimately, a line profile and bisector analysis lead us to conclude that the ~100 m s<SUP>-1</SUP> residuals are an artifact of spectral contamination from a stellar companion contributing ~15%-30% of the optical light in the system. We conclude that origin of this contamination is the previously detected RV companion to MARVELS-1, which is not, as previously reported, a brown dwarf, but in fact a G dwarf in a face-on orbit.\n"""
+tags = ["Binary Stars", "Keck", "Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability"]
+eid = "119"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Contamination", "System Characterization", "Adaptive Optics"]
+# suggested_research_themes  = ["Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation"]

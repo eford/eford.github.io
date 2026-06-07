@@ -1,0 +1,23 @@
+title = "Evidence for Two Hot-Jupiter Formation Paths"
+author = "Nelson, Benjamin E. and Ford, Eric B. and Rasio, Frederic A."
+year = "2017"
+month = "sep"
+journal = "AJ"
+volume = "154"
+number = "3"
+pages = "106"
+doi = "10.3847/1538-3881/aa82b3"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2017AJ....154..106N"
+archiveprefix = "arXiv"
+eprint = "1703.09711"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Disk migration and high-eccentricity migration are two well-studied theories to explain the formation of hot Jupiters. The former predicts that these planets can migrate up until the planet-star Roche separation (a<SUB>Roche</SUB>) and the latter predicts they will tidally circularize at a minimum distance of 2 a<SUB>Roche</SUB>. Considering long-running radial velocity and transit surveys have identified a couple hundred hot Jupiters to date, we can revisit the classic question of hot-Jupiter formation in a data-driven manner. We approach this problem using data from several exoplanet surveys (radial velocity, Kepler, HAT, and WASP) allowing for either a single population or a mixture of populations associated with these formation channels, and applying a hierarchical Bayesian mixture model of truncated power laws of the form x<SUP>γ -1</SUP> to constrain the population-level parameters of interest (e.g., location of inner edges, γ, mixture fractions). Within the limitations of our chosen models, we find that the current radial velocity and Kepler sample of hot Jupiters can be well explained with a single truncated power-law distribution with a lower cutoff near 2 a<SUB>Roche</SUB>, a result that still holds after a decade, and γ =-0.51+/- <SUB>0.20</SUB><SUP>0.19</SUP>. However, the HAT and WASP data show evidence for multiple populations (Bayes factor ≈ 10<SUP>21</SUP>). We find that 15+/- <SUB>6</SUB><SUP>9</SUP> % reside in a component consistent with disk migration (γ =-0.04+/- <SUB>1.27</SUB><SUP>0.53</SUP>) and 85+/- <SUB>9</SUB><SUP>6</SUP> % in one consistent with high-eccentricity migration (γ =-1.38+/- <SUB>0.47</SUB><SUP>0.32</SUP>). We find no immediately strong connections with some observed host star properties and speculate on how future exoplanet surveys could improve upon hot-Jupiter population inference.\n"""
+tags = ["Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]
+eid = "106"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Hot Jupiters", "Disk Migration", "High Eccentricity Migration", "Bayesian Inference"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

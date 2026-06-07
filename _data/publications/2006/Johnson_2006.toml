@@ -1,0 +1,22 @@
+title = "The N2K Consortium. VI. Doppler Shifts without Templates and Three New Short-Period Planets"
+author = "Johnson, John Asher and Marcy, Geoffrey W. and Fischer, Debra A. and Laughlin, Gregory and Butler, R. Paul and Henry, Gregory W. and Valenti, Jeff A. and Ford, Eric B. and Vogt, Steven S. and Wright, Jason T."
+year = "2006"
+month = "aug"
+journal = "ApJ"
+volume = "647"
+number = "1"
+pages = "600-611"
+doi = "10.1086/505173"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2006ApJ...647..600J"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0604348"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We present a modification to the iodine cell Doppler technique that eliminates the need for an observed stellar template spectrum. For a given target star, we iterate toward a synthetic template spectrum beginning with an existing template of a similar star. We then perturb the shape of this first-guess template to match the program observation of the target star taken through an iodine cell. The elimination of a separate template observation saves valuable telescope time, a feature that is ideally suited for the quick-look strategy employed by the ``Next 2000 Stars'' (N2K) planet search program. Tests using Keck HIRES (High Resolution Echelle Spectrometer) spectra indicate that synthetic templates yield a short-term precision of 3 m s<SUP>-1</SUP> and a long-term, run-to-run precision of 5 m s<SUP>-1</SUP>. We used this new Doppler technique to discover three new planets: a 1.50M<SUB>J</SUB> planet in a 2.1375 day orbit around HD 86081; a 0.71M<SUB>J</SUB> planet in circular, 26.73 day orbit around HD 224693; and a Saturn-mass planet in an 18.179 day orbit around HD 33283. The remarkably short period of HD 86081b bridges the gap between the extremely short period planets detected in the Optical Gravitational Lensing Experiment (OGLE) survey and the 16 Doppler-detected hot Jupiters (P &lt; 15 days), which have an orbital period distribution that piles up at about 3 days. We have acquired photometric observations of two of the planetary host stars with the automated photometric telescopes at Fairborn Observatory. HD 86081 and HD 224693 both lack detectable brightness variability on their radial velocity periods, supporting planetary-reflex motion as the cause of the radial velocity variability. HD 86081 shows no evidence of planetary transits in spite of a 17.6% transit probability. We have too few photometric observations to detect or rule out transits for HD 224693. <P />Based on observations obtained at the W. M. Keck Observatory, which is operated jointly by the University of California and the California Institute of Technology.\n"""
+tags = ["Keck", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Iodine cell spectroscopy", "Synthetic template spectra", "Doppler shift measurement"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

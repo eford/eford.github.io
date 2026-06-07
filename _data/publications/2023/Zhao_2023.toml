@@ -1,0 +1,23 @@
+title = "The Extreme Stellar-signals Project. III. Combining Solar Data from HARPS, HARPS-N, EXPRES, and NEID"
+author = "Zhao, Lily L. and Dumusque, Xavier and Ford, Eric B. and Llama, Joe and Mortier, Annelies and Bedell, Megan and Al Moulla, Khaled and Bender, Chad F. and Blake, Cullen H. and Brewer, John M. and Collier Cameron, Andrew and Cosentino, Rosario and Figueira, Pedro and Fischer, Debra A. and Ghedina, Adriano and Gonzalez, Manuel and Halverson, Samuel and Kanodia, Shubham and Latham, David W. and Lin, Andrea S.~J. and Lo Curto, Gaspare and Lodi, Marcello and Logsdon, Sarah E. and Lovis, Christophe and Mahadevan, Suvrath and Monson, Andrew and Ninan, Joe P. and Pepe, Francesco and Roettenbacher, Rachael M. and Roy, Arpita and Santos, Nuno C. and Schwab, Christian and {Stef\\'ansson}, Gu\\djmundur and Szymkowiak, Andrew E. and Terrien, Ryan C. and Udry, Stephane and Weiss, Sam A. and Wildi, Fran{\\cc}ois and Wildi, Thibault and Wright, Jason T."
+year = "2023"
+month = "oct"
+journal = "AJ"
+volume = "166"
+number = "4"
+pages = "173"
+doi = "10.3847/1538-3881/acf83e"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2023AJ....166..173Z"
+archiveprefix = "arXiv"
+eprint = "2309.03762"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present an analysis of Sun-as-a-star observations from four different high-resolution, stabilized spectrographs-HARPS, HARPS-N, EXPRES, and NEID. With simultaneous observations of the Sun from four different instruments, we are able to gain insight into the radial velocity precision and accuracy delivered by each of these instruments and isolate instrumental systematics that differ from true astrophysical signals. With solar observations, we can completely characterize the expected Doppler shift contributed by orbiting Solar System bodies and remove them. This results in a data set with measured velocity variations that purely trace flows on the solar surface. Direct comparisons of the radial velocities measured by each instrument show remarkable agreement with residual intraday scatter of only 15-30 cm s<SUP>-1</SUP>. This shows that current ultra-stabilized instruments have broken through to a new level of measurement precision that reveals stellar variability with high fidelity and detail. We end by discussing how radial velocities from different instruments can be combined to provide powerful leverage for testing techniques to mitigate stellar signals.\n"""
+tags = ["EXPRES", "NEID", "Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "173"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Spectroscopy", "Doppler Shift", "Spectrographs"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

@@ -1,0 +1,21 @@
+title = "Modeling Stellar Oscillations and Granulation in Radial Velocity Time Series: A Fourier-based Method"
+author = "Guo, Zhao and Ford, Eric B. and Stello, Dennis and Luhn, Jacob K. and Mahadevan, Suvrath and Gupta, Arvind F. and Yu, Jie"
+year = "2022"
+month = "feb"
+journal = "arXiv e-prints"
+pages = "arXiv:2202.06094"
+doi = "10.48550/arXiv.2202.06094"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022arXiv220206094G"
+archiveprefix = "arXiv"
+eprint = "2202.06094"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """Tens of thousands of solar-like oscillating stars have been observed by space missions. Their photometric variability in the Fourier domain can be parameterized by a sum of two super-Lorentizian functions for granulation and a Gaussian-shaped power excess for oscillation. The photometric granulation/oscillation parameters scale with stellar parameters and they can also make predictions for corresponding parameters in radial velocity measurements. Based on scaling relations, we simulate realistic radial velocity time series and examine how the root-mean-square scatter of radial velocity measurements varies with stellar parameters and different observation strategies such as the length of integration time and gaps in the time series. Using stars with extensive spectroscopic observations from the spectrographs (SONG and HARPS), we measure the granulation amplitude and timescale from the power spectrum of the radial velocity time series. We compare these measurements with literature values based on Kepler photometry. We find that the granulation amplitude in radial velocity can be well predicted from the photometry and scaling relations. Both granulation timescales in radial velocity agree with those predicted from photometry for giants and sub-giants. However, for main-sequence stars, only one granulation timescale in radial velocity is in agreement with the photometric-based values, while the other timescale generally lies at lower frequencies compared to the result of photometry. In conclusion, we show the photometric scaling relations from Kepler photometry and the scaling relationship to Doppler observations can be very useful for predicting the photometric and radial velocity stellar variabilities due to stellar granulation and oscillation.\n"""
+tags = ["Kepler", "Stars", "Sun-as-a-star"]
+research_themes = ["Mitigating Stellar Variability", "Solar Observations"]
+eid = "arXiv:2202.06094"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Oscillations", "Granulation", "Time Series Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Solar Observations"]

@@ -1,0 +1,22 @@
+title = "Paths to robust exoplanet science yield margin for the Habitable Worlds Observatory"
+author = "Stark, Christopher C. and Mennesson, Bertrand and Bryson, Steve and Ford, Eric B. and Robinson, Tyler D. and Belikov, Ruslan and Bolcar, Matthew R. and Feinberg, Lee D. and Guyon, Olivier and Latouf, Natasha and Mandell, Avi M. and Rauscher, Bernard J. and Sirbu, Dan and Tuchow, Noah W."
+year = "2024"
+month = "jul"
+journal = "Journal of Astronomical Telescopes, Instruments, and Systems"
+volume = "10"
+pages = "034006"
+doi = "10.1117/1.JATIS.10.3.034006"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024JATIS..10c4006S"
+archiveprefix = "arXiv"
+eprint = "2405.19418"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Habitable Worlds Observatory (HWO) will seek to detect and characterize potentially Earth-like planets around other stars. To ensure that the mission achieves the Astro2020 Decadal's recommended goal of 25 exoEarth candidates (EECs), we must take into account the probabilistic nature of exoplanet detections and provide a \"science margin\" to budget for astrophysical uncertainties with a reasonable level of confidence. We explore the probabilistic distributions of yields to be expected from a blind exoEarth survey conducted by such a mission. We identify and estimate the impact of all major known sources of astrophysical uncertainty on the EEC yield. As expected, η<SUB>⊕</SUB> uncertainties dominate the uncertainty in EEC yield, but we show that sampling uncertainties inherent to a blind survey are another important source of uncertainty that should be budgeted for during mission design. We adopt the Large UV/Optical/IR Surveyor Design B (LUVOIR-B) as a baseline and modify the telescope diameter to estimate the science margin provided by a larger telescope. We then depart from the LUVOIR-B baseline design and identify six possible design changes that, when compiled, provide large gains in EEC yield and more than an order of magnitude reduction in exposure times for the highest priority targets. We conclude that a combination of telescope diameter increase and design improvements could provide robust exoplanet science margins for HWO.\n"""
+tags = ["Astrobiology", "Kepler", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Demographics", "Exoplanet Surveys"]
+eid = "034006"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Habitable Exoplanets", "Telescope Design", "Observational Astrophysics"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys"]

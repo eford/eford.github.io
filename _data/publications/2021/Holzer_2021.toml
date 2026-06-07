@@ -1,0 +1,23 @@
+title = "A Stellar Activity F-statistic for Exoplanet Surveys (SAFE)"
+author = "Holzer, Parker H. and Cisewski-Kehe, Jessi and Zhao, Lily and Ford, Eric B. and Gilbertson, Christian and Fischer, Debra A."
+year = "2021"
+month = "jun"
+journal = "AJ"
+volume = "161"
+number = "6"
+pages = "272"
+doi = "10.3847/1538-3881/abf5e0"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021AJ....161..272H"
+archiveprefix = "arXiv"
+eprint = "2104.04887"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """In the search for planets orbiting distant stars, the presence of stellar activity in the atmospheres of observed stars can obscure the radial velocity signal used to detect such planets. Furthermore, this stellar activity contamination is set by the star itself and cannot simply be avoided with better instrumentation. Various stellar activity indicators have been developed that may correlate with this contamination. We introduce a new stellar activity indicator called the Stellar Activity F-statistic for Exoplanet surveys (SAFE) that has higher statistical power (i.e., probability of detecting a true stellar activity signal) than many traditional stellar activity indicators in a simulation study of an active region on a Sun-like star with a moderate-to-high signal-to-noise ratio. Also through simulation, the SAFE is demonstrated to be associated with the projected area on the visible side of the star covered by active regions. We also demonstrate that the SAFE detects statistically significant stellar activity in most of the spectra for HD 22049, a star known to have high stellar variability. Additionally, the SAFE is calculated for recent observations of the three low-variability stars HD 34411, HD 10700, and HD 3651, the latter of which is known to have a planetary companion. As expected, the SAFE for these three only occasionally detects activity. Furthermore, initial exploration appears to indicate that the SAFE may be useful for disentangling stellar activity signals from planet-induced Doppler shifts.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "272"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Activity", "Spectroscopy", "Radial Velocity Signal"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

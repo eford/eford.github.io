@@ -1,0 +1,22 @@
+title = "An empirically derived three-dimensional Laplace resonance in the Gliese 876 planetary system"
+author = "Nelson, Benjamin E. and Robertson, Paul M. and Payne, Matthew J. and Pritchard, Seth M. and Deck, Katherine M. and Ford, Eric B. and Wright, Jason T. and Isaacson, Howard T."
+year = "2016"
+month = "jan"
+journal = "MNRAS"
+volume = "455"
+number = "3"
+pages = "2484-2499"
+doi = "10.1093/mnras/stv2367"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.2484N"
+archiveprefix = "arXiv"
+eprint = "1504.07995"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report constraints on the three-dimensional orbital architecture for all four planets known to orbit the nearby M dwarf Gliese 876 based solely on Doppler measurements and demanding long-term orbital stability. Our data set incorporates publicly available radial velocities taken with the ELODIE and CORALIE spectrographs, High Accuracy Radial velocity Planet Searcher (HARPS), and Keck HIgh Resolution Echelle Spectrometer (HIRES) as well as previously unpublished HIRES velocities. We first quantitatively assess the validity of the planets thought to orbit GJ 876 by computing the Bayes factors for a variety of different coplanar models using an importance sampling algorithm. We find that a four-planet model is preferred over a three-planet model. Next, we apply a Newtonian Markov chain Monte Carlo algorithm to perform a Bayesian analysis of the planet masses and orbits using an N-body model in three-dimensional space. Based on the radial velocities alone, we find that a 99 per cent credible interval provides upper limits on the mutual inclinations for the three resonant planets (Φ<SUB>cb</SUB> &lt; 6.20° for the c and b pair and Φ<SUB>be</SUB> &lt; 28.5° for the b and e pair). Subsequent dynamical integrations of our posterior sample find that the GJ 876 planets must be roughly coplanar (Φ<SUB>cb</SUB> &lt; 2.60° and Φ<SUB>be</SUB> &lt; 7.87°, suggesting that the amount of planet-planet scattering in the system has been low. We investigate the distribution of the respective resonant arguments of each planet pair and find that at least one argument for each planet pair and the Laplace argument librate. The libration amplitudes in our three-dimensional orbital model support the idea of the outer three planets having undergone significant past disc migration.\n"""
+tags = ["Dynamics", "Keck", "Planet-planet scattering", "Radial Velocity"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M dwarf", "Exoplanet System", "N-body modeling"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

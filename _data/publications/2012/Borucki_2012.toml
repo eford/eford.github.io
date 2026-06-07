@@ -1,0 +1,23 @@
+title = "Kepler-22b: A 2.4 Earth-radius Planet in the Habitable Zone of a Sun-like Star"
+author = "Borucki, William J. and Koch, David G. and Batalha, Natalie and Bryson, Stephen T. and Rowe, Jason and Fressin, Francois and Torres, Guillermo and Caldwell, Douglas A. and Christensen-Dalsgaard, J\\orgen and Cochran, William D. and DeVore, Edna and Gautier, Thomas N. and Geary, John C. and Gilliland, Ronald and Gould, Alan and Howell, Steve B. and Jenkins, Jon M. and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Sasselov, Dimitar and Boss, Alan and Charbonneau, David and Ciardi, David and Kaltenegger, Lisa and Doyle, Laurance and Dupree, Andrea K. and Ford, Eric B. and Fortney, Jonathan and Holman, Matthew J. and Steffen, Jason H. and Mullally, Fergal and Still, Martin and Tarter, Jill and Ballard, Sarah and Buchhave, Lars A. and Carter, Josh and Christiansen, Jessie L. and Demory, Brice-Olivier and {D\\'esert}, Jean-Michel and Dressing, Courtney and Endl, Michael and Fabrycky, Daniel and Fischer, Debra and Haas, Michael R. and Henze, Christopher and Horch, Elliott and Howard, Andrew W. and Isaacson, Howard and Kjeldsen, Hans and Johnson, John Asher and Klaus, Todd and Kolodziejczak, Jeffery and Barclay, Thomas and Li, Jie and Meibom, S\\oren and Prsa, Andrej and Quinn, Samuel N. and Quintana, Elisa V. and Robertson, Paul and Sherry, William and Shporer, Avi and Tenenbaum, Peter and Thompson, Susan E. and Twicken, Joseph D. and Van Cleve, Jeffrey and Welsh, William F. and Basu, Sarbani and Chaplin, William and Miglio, Andrea and Kawaler, Steven D. and Arentoft, Torben and Stello, Dennis and Metcalfe, Travis S. and Verner, Graham A. and Karoff, Christoffer and Lundkvist, Mia and Lund, Mikkel N. and Handberg, Rasmus and Elsworth, Yvonne and Hekker, Saskia and Huber, Daniel and Bedding, Timothy R. and Rapin, William"
+year = "2012"
+month = "feb"
+journal = "ApJ"
+volume = "745"
+number = "2"
+pages = "120"
+doi = "10.1088/0004-637X/745/2/120"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...745..120B"
+archiveprefix = "arXiv"
+eprint = "1112.1640"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """A search of the time-series photometry from NASA's Kepler spacecraft reveals a transiting planet candidate orbiting the 11th magnitude G5 dwarf KIC 10593626 with a period of 290 days. The characteristics of the host star are well constrained by high-resolution spectroscopy combined with an asteroseismic analysis of the Kepler photometry, leading to an estimated mass and radius of 0.970 ± 0.060 M <SUB>☉</SUB> and 0.979 ± 0.020 R <SUB>☉</SUB>. The depth of 492 ± 10 ppm for the three observed transits yields a radius of 2.38 ± 0.13 Re for the planet. The system passes a battery of tests for false positives, including reconnaissance spectroscopy, high-resolution imaging, and centroid motion. A full BLENDER analysis provides further validation of the planet interpretation by showing that contamination of the target by an eclipsing system would rarely mimic the observed shape of the transits. The final validation of the planet is provided by 16 radial velocities (RVs) obtained with the High Resolution Echelle Spectrometer on Keck I over a one-year span. Although the velocities do not lead to a reliable orbit and mass determination, they are able to constrain the mass to a 3σ upper limit of 124 M <SUB>⊕</SUB>, safely in the regime of planetary masses, thus earning the designation Kepler-22b. The radiative equilibrium temperature is 262 K for a planet in Kepler-22b's orbit. Although there is no evidence that Kepler-22b is a rocky planet, it is the first confirmed planet with a measured radius to orbit in the habitable zone of any star other than the Sun.\n"""
+tags = ["Keck", "Kepler", "Radial Velocity"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Transit Surveys"]
+eid = "120"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Habitable Zone", "Exoplanet Characterization", "Asteroseismology"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Transit Surveys"]

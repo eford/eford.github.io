@@ -1,0 +1,23 @@
+title = "Debiasing the Minimum-mass Extrasolar Nebula: On the Diversity of Solid Disk Profiles"
+author = "He, Matthias Y. and Ford, Eric B."
+year = "2022"
+month = "nov"
+journal = "AJ"
+volume = "164"
+number = "5"
+pages = "210"
+doi = "10.3847/1538-3881/ac93f4"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022AJ....164..210H"
+archiveprefix = "arXiv"
+eprint = "2208.09031"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """A foundational idea in the theory of in situ planet formation is the \"minimum-mass extrasolar nebula\" (MMEN), a surface density profile (Σ) of disk solids that is necessary to form the planets in their present locations. While most previous studies have fit a single power law to all exoplanets in an observed ensemble, it is unclear whether most exoplanetary systems form from a universal disk template. We use an advanced statistical model for the underlying architectures of multiplanet systems to reconstruct the MMEN. The simulated physical and Kepler-observed catalogs allow us to directly assess the role of detection biases, and in particular the effect of nontransiting or otherwise undetected planets, in altering the inferred MMEN. We find that fitting a power law of the form ${\\rmΣ }={{\\rmΣ }}₀^* {(a/a₀)}^β $ to each multiplanet system results in a broad distribution of disk profiles; ${{\\rmΣ }}₀^* =336_-291^+727$ g cm<SUP>-2</SUP> and $β =-1.98_-1.52^+1.55$ encompass the 16th-84th percentiles of the marginal distributions in an underlying population, where ${{\\rmΣ }}₀^* $ is the normalization at a <SUB>0</SUB> = 0.3 au. Around half of the inner planet-forming disks have minimum solid masses of ≳ 40M <SUB>⊕</SUB> within 1 au. While transit observations do not tend to bias the median β, they can lead to both significantly over- and underestimated ${{\\rmΣ }}₀^* $ and thus broaden the inferred distribution of disk masses. Nevertheless, detection biases cannot account for the full variance in the observed disk profiles; there is no universal MMEN if all planets formed in situ. The great diversity of solid disk profiles suggests that a substantial fraction (≳23%) of planetary systems experienced a history of migration.\n"""
+tags = ["Demographics", "Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "210"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Minimum-mass extrasolar nebula", "Disk profiles", "Planet formation efficiency"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

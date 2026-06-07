@@ -1,0 +1,23 @@
+title = "Probabilistic Mass-Radius Relationship for Sub-Neptune-Sized Planets"
+author = "Wolfgang, Angie and Rogers, Leslie A. and Ford, Eric B."
+year = "2016"
+month = "jul"
+journal = "ApJ"
+volume = "825"
+number = "1"
+pages = "19"
+doi = "10.3847/0004-637X/825/1/19"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJ...825...19W"
+archiveprefix = "arXiv"
+eprint = "1504.07557"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Kepler Mission has discovered thousands of planets with radii &lt;4 R<SUB>⊕ </SUB>, paving the way for the first statistical studies of the dynamics, formation, and evolution of these sub-Neptunes and super-Earths. Planetary masses are an important physical property for these studies, and yet the vast majority of Kepler planet candidates do not have theirs measured. A key concern is therefore how to map the measured radii to mass estimates in this Earth-to-Neptune size range where there are no Solar System analogs. Previous works have derived deterministic, one-to-one relationships between radius and mass. However, if these planets span a range of compositions as expected, then an intrinsic scatter about this relationship must exist in the population. Here we present the first probabilistic mass-radius relationship (M-R relation) evaluated within a Bayesian framework, which both quantifies this intrinsic dispersion and the uncertainties on the M-R relation parameters. We analyze how the results depend on the radius range of the sample, and on how the masses were measured. Assuming that the M-R relation can be described as a power law with a dispersion that is constant and normally distributed, we find that M/M<SUB>⊕ </SUB>=2.7{(R/R<SUB>⊕ </SUB>)}<SUP>1.3</SUP>, a scatter in mass of 1.9M<SUB>⊕ </SUB>, and a mass constraint to physically plausible densities, is the “best-fit” probabilistic M-R relation for the sample of RV-measured transiting sub-Neptunes (R <SUB>pl</SUB> &lt; 4 R<SUB>⊕ </SUB>). More broadly, this work provides a framework for further analyses of the M-R relation and its probable dependencies on period and stellar properties.\n"""
+tags = ["Demographics", "Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys"]
+eid = "19"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Mass-Radius Relation", "Sub-Neptunes", "Super-Earths", "Bayesian Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

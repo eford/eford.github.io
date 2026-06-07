@@ -1,0 +1,22 @@
+title = "Identifying non-resonant Kepler planetary systems"
+author = "Veras, Dimitri and Ford, Eric B."
+year = "2012"
+month = "feb"
+journal = "MNRAS"
+volume = "420"
+number = "1"
+pages = "L23-L27"
+doi = "10.1111/j.1745-3933.2011.01185.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012MNRAS.420L..23V"
+archiveprefix = "arXiv"
+eprint = "1111.0299"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Kepler mission has discovered a plethora of multiple transiting planet candidate exosystems, many of which feature putative pairs of planets near mean motion resonance commensurabilities. Identifying potentially resonant systems could help guide future observations and enhance our understanding of planetary formation scenarios. We develop and apply an algebraic method to determine which Kepler two-planet systems cannot be in a first-fourth order resonance, given the current, publicly available data. This method identifies when any potentially resonant angle of a system must circulate. We identify and list 70 near-resonant systems which cannot actually reside in resonance, assuming a widely used formulation for deriving planetary masses from their observed radii and that these systems do not contain unseen bodies that affect the interactions of the observed planets. This work strengthens the argument that a high fraction of exoplanetary systems may be near resonance but not actually in resonance.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Mean Motion Resonance", "N-body Simulations", "Kepler Photometry"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

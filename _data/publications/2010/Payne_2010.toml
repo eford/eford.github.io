@@ -1,0 +1,22 @@
+title = "Transit Timing Variations for Inclined and Retrograde Exoplanetary Systems"
+author = "Payne, Matthew J. and Ford, Eric B. and Veras, Dimitri"
+year = "2010"
+month = "mar"
+journal = "ApJL"
+volume = "712"
+number = "1"
+pages = "L86-L92"
+doi = "10.1088/2041-8205/712/1/L86"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2010ApJ...712L..86P"
+archiveprefix = "arXiv"
+eprint = "1003.2418"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We perform numerical calculations of the expected transit timing variations (TTVs) induced on a hot-Jupiter by an Earth-mass perturber. Motivated by the recent discoveries of retrograde transiting planets, we concentrate on an investigation of the effect of varying relative planetary inclinations, up to and including completely retrograde systems. We find that planets in low-order (e.g., 2:1) mean-motion resonances (MMRs) retain approximately constant TTV amplitudes for 0° &lt; i &lt; 170°, only reducing in amplitude for i&gt;170°. Systems in higher order MMRs (e.g., 5:1) increase in TTV amplitude as inclinations increase toward 45°, becoming approximately constant for 45° &lt; i &lt; 135°, and then declining for i&gt;135°. Planets away from resonance slowly decrease in TTV amplitude as inclinations increase from 0° to 180°, whereas planets adjacent to resonances can exhibit a huge range of variability in TTV amplitude as a function of both eccentricity and inclination. For highly retrograde systems (135° &lt; i &lt;= 180°), TTV signals will be undetectable across almost the entirety of parameter space, with the exceptions occurring when the perturber has high eccentricity or is very close to an MMR. This high inclination decrease in TTV amplitude (on and away from resonance) is important for the analysis of the known retrograde and multi-planet transiting systems, as inclination effects need to be considered if TTVs are to be used to exclude the presence of any putative planetary companions: absence of evidence is not evidence of absence.\n"""
+tags = ["Dynamics", "Transit timing variations"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Inclination", "Mean-Motion Resonance"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

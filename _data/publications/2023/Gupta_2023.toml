@@ -1,0 +1,23 @@
+title = "A High-Eccentricity Warm Jupiter Orbiting TOI-4127"
+author = "Gupta, Arvind F. and Jackson, Jonathan M. and {H\\'ebrard}, Guillaume and Lin, Andrea S.~J. and Stassun, Keivan G. and Dong, Jiayin and Villanueva, Steven and Dragomir, Diana and Mahadevan, Suvrath and Wright, Jason T. and Almenara, Jose M. and Blake, Cullen H. and Boisse, Isabelle and {Cort\\'es-Zuleta}, P\\'\\ia and Dalba, Paul A. and {D\\'\\iaz}, Rodrigo F. and Ford, Eric B. and Forveille, Thierry and Gagliano, Robert and Halverson, Samuel and Heidari, Neda and Kanodia, Shubham and Kiefer, Flavien and Latham, David w. and McElwain, Michael W. and Mireles, Ismael and Moutou, Claire and Pepper, Joshua and Ricker, George R. and Robertson, Paul and Roy, Arpita and Schlecker, Martin and Schwab, Christian and Seager, S. and Shporer, Avi and {Stef\\'ansson}, Gu\\djmundur and Terrien, Ryan C. and Ting, Eric B. and Winn, Joshua N. and Youngblood, Allison"
+year = "2023"
+month = "jun"
+journal = "AJ"
+volume = "165"
+number = "6"
+pages = "234"
+doi = "10.3847/1538-3881/accb9b"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2023AJ....165..234G"
+archiveprefix = "arXiv"
+eprint = "2303.14570"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the discovery of TOI-4127 b, which is a transiting, Jupiter-sized exoplanet on a long-period ( $P=56.39879_-0.00010^+0.00010$ days) and a high-eccentricity orbit around a late F-type dwarf star. This warm Jupiter was first detected and identified as a promising candidate from a search for single-transit signals in TESS Sector 20 data, and was later characterized as a planet following two subsequent transits (TESS Sectors 26 and 53) and follow-up ground-based RV observations with the NEID and SOPHIE spectrographs. We jointly fit the transit and RV data to constrain the physical ( $R_p=1.096_-0.032^+0.039R_{{\\rmJ}}$ , $M_p=2.30_-0.11^+0.11M_{{\\rmJ}}$ ) and orbital parameters of the exoplanet. Given its high orbital eccentricity ( $e=0.7471_-0.0086^+0.0078$ ), TOI-4127 b is a compelling candidate for studies of warm Jupiter populations and of hot Jupiter formation pathways. We show that the present periastron separation of TOI-4127 b is too large for high-eccentricity tidal migration to circularize its orbit, and that TOI-4127 b is unlikely to be a hot Jupiter progenitor unless it is undergoing angular momentum exchange with an undetected outer companion. Although we find no evidence for an external companion, the available observational data are insufficient to rule out the presence of a perturber that can excite eccentricity oscillations and facilitate tidal migration.\n"""
+tags = ["Radial Velocity", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "234"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Warm Jupiters", "High Eccentricity Planets", "Tidal Migration"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

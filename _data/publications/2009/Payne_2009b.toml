@@ -1,0 +1,17 @@
+title = "Dynamical Simulations of HD 69830"
+author = "Payne, Matthew J. and Ford, Eric B. and Wyatt, Mark C. and Booth, Mark"
+year = "2009"
+month = "feb"
+volume = "253"
+pages = "540-543"
+doi = "10.1017/S1743921308027154"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009IAUS..253..540P"
+entrytype = "inproceedings"
+abstract = """Previous studies have developed models for the growth and migration of three planets orbiting HD 69830. We perform n-body simulations using MERCURY (Chambers 1999) to explore the implications of these models for: 1) the excitation of planetary orbits via planet-planet interactions, 2) the accretion and clearing of a putative planetesimal disk, 3) the distribution of planetesimal orbits following migration, and 4) the implications for the origin of the observed infrared emission from the HD 69830 system. We report preliminary results that suggest new constraints on the formation of HD 69830.\n"""
+tags = ["Dynamics", "Planet-planet scattering"]
+research_themes = []
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["N-body simulation", "Disk evolution", "Exoplanet system modeling"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation"]

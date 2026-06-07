@@ -1,0 +1,23 @@
+title = "Kepler's First Rocky Planet: Kepler-10b"
+author = "Batalha, Natalie M. and Borucki, William J. and Bryson, Stephen T. and Buchhave, Lars A. and Caldwell, Douglas A. and Christensen-Dalsgaard, J\\orgen and Ciardi, David and Dunham, Edward W. and Fressin, Francois and Gautier, III, Thomas N. and Gilliland, Ronald L. and Haas, Michael R. and Howell, Steve B. and Jenkins, Jon M. and Kjeldsen, Hans and Koch, David G. and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Rowe, Jason F. and Sasselov, Dimitar D. and Seager, Sara and Steffen, Jason H. and Torres, Guillermo and Basri, Gibor S. and Brown, Timothy M. and Charbonneau, David and Christiansen, Jessie and Clarke, Bruce and Cochran, William D. and Dupree, Andrea and Fabrycky, Daniel C. and Fischer, Debra and Ford, Eric B. and Fortney, Jonathan and Girouard, Forrest R. and Holman, Matthew J. and Johnson, John and Isaacson, Howard and Klaus, Todd C. and Machalek, Pavel and Moorehead, Althea V. and Morehead, Robert C. and Ragozzine, Darin and Tenenbaum, Peter and Twicken, Joseph and Quinn, Samuel and VanCleve, Jeffrey and Walkowicz, Lucianne M. and Welsh, William F. and Devore, Edna and Gould, Alan"
+year = "2011"
+month = "mar"
+journal = "ApJ"
+volume = "729"
+number = "1"
+pages = "27"
+doi = "10.1088/0004-637X/729/1/27"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...729...27B"
+archiveprefix = "arXiv"
+eprint = "1102.0605"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """NASA's Kepler Mission uses transit photometry to determine the frequency of Earth-size planets in or near the habitable zone of Sun-like stars. The mission reached a milestone toward meeting that goal: the discovery of its first rocky planet, Kepler-10b. Two distinct sets of transit events were detected: (1) a 152 ± 4 ppm dimming lasting 1.811 ± 0.024 hr with ephemeris T [BJD] =2454964.57375<SUP>+0.00060</SUP> <SUB>-0.00082</SUB> + N*0.837495<SUP>+0.000004</SUP> <SUB>-0.000005</SUB> days and (2) a 376 ± 9 ppm dimming lasting 6.86 ± 0.07 hr with ephemeris T [BJD] =2454971.6761<SUP>+0.0020</SUP> <SUB>-0.0023</SUB> + N*45.29485<SUP>+0.00065</SUP> <SUB>-0.00076</SUB> days. Statistical tests on the photometric and pixel flux time series established the viability of the planet candidates triggering ground-based follow-up observations. Forty precision Doppler measurements were used to confirm that the short-period transit event is due to a planetary companion. The parent star is bright enough for asteroseismic analysis. Photometry was collected at 1 minute cadence for &gt;4 months from which we detected 19 distinct pulsation frequencies. Modeling the frequencies resulted in precise knowledge of the fundamental stellar properties. Kepler-10 is a relatively old (11.9 ± 4.5 Gyr) but otherwise Sun-like main-sequence star with T <SUB>eff</SUB> = 5627 ± 44 K, M <SUB>sstarf</SUB> = 0.895 ± 0.060 M <SUB>sun</SUB>, and R <SUB>sstarf</SUB> = 1.056 ± 0.021 R <SUB>sun</SUB>. Physical models simultaneously fit to the transit light curves and the precision Doppler measurements yielded tight constraints on the properties of Kepler-10b that speak to its rocky composition: M <SUB>P</SUB> = 4.56<SUP>+1.17</SUP> <SUB>-1.29</SUB> M <SUB>⊕</SUB>, R <SUB>P</SUB> = 1.416<SUP>+0.033</SUP> <SUB>-0.036</SUB> R <SUB>⊕</SUB>, and ρ<SUB>P</SUB> = 8.8<SUP>+2.1</SUP> <SUB>-2.9</SUB> g cm<SUP>-3</SUP>. Kepler-10b is the smallest transiting exoplanet discovered to date. <P />Based in part on observations obtained at the W. M. Keck Observatory, which is operated by the University of California and the California Institute of Technology.\n"""
+tags = ["Keck", "Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "27"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Characterization", "Asteroseismology", "Earth-size Planets"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

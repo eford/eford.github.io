@@ -1,0 +1,23 @@
+title = "The California Planet Survey. III. A Possible 2:1 Resonance in the Exoplanetary Triple System HD 37124"
+author = "Wright, J.~T. and Veras, Dimitri and Ford, Eric B. and Johnson, John Asher and Marcy, G.~W. and Howard, A.~W. and Isaacson, H. and Fischer, D.~A. and Spronck, J. and Anderson, J. and Valenti, J."
+year = "2011"
+month = "apr"
+journal = "ApJ"
+volume = "730"
+number = "2"
+pages = "93"
+doi = "10.1088/0004-637X/730/2/93"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...730...93W"
+archiveprefix = "arXiv"
+eprint = "1101.1097"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present new radial velocities from Keck Observatory and both Newtonian and Keplerian solutions for the triple-planet system orbiting HD 37124. The orbital solution for this system has improved dramatically since the third planet was first reported in Vogt et al. with an ambiguous orbital period. The period ambiguity is resolved, and the outer two planets have an apparent period commensurability of 2:1. A dynamical analysis finds both resonant and non-resonant configurations consistent with the radial velocity data and constrains the mutual inclinations of the planets to be &lt;~30°. We discuss HD 37124 in the context of the other 19 exoplanetary systems with apparent period commensurabilities, which we summarize in a table. We show that roughly one in three well-characterized multiplanet systems has a apparent low-order period commensurability, which is more than would naïvely be expected if the periods of exoplanets in known multiplanet systems were drawn randomly from the observed distribution of planetary orbital periods. <P />Based on observations obtained at the W. M. Keck Observatory, which is operated jointly by the University of California and the California Institute of Technology. The Keck Observatory was made possible by the generous financial support of the W. M. Keck Foundation.\n"""
+tags = ["Dynamics", "Keck", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "93"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Systems", "Orbital Resonance", "Keplerian Solution"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

@@ -1,0 +1,23 @@
+title = "Insights on the Spectral Signatures of Stellar Activity and Planets from PCA"
+author = "Davis, Allen B. and Cisewski, Jessi and Dumusque, Xavier and Fischer, Debra A. and Ford, Eric B."
+year = "2017"
+month = "sep"
+journal = "ApJ"
+volume = "846"
+number = "1"
+pages = "59"
+doi = "10.3847/1538-4357/aa8303"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2017ApJ...846...59D"
+archiveprefix = "arXiv"
+eprint = "1708.00491"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Photospheric velocities and stellar activity features such as spots and faculae produce measurable radial velocity signals that currently obscure the detection of sub-meter-per-second planetary signals. However, photospheric velocities are imprinted differently in a high-resolution spectrum than are Keplerian Doppler shifts. Photospheric activity produces subtle differences in the shapes of absorption lines due to differences in how temperature or pressure affects the atomic transitions. In contrast, Keplerian Doppler shifts affect every spectral line in the same way. With a high enough signal-to-noise (S/N) and resolution, statistical techniques can exploit differences in spectra to disentangle the photospheric velocities and detect lower-amplitude exoplanet signals. We use simulated disk-integrated time-series spectra and principal component analysis (PCA) to show that photospheric signals introduce spectral line variability that is distinct from that of Doppler shifts. We quantify the impact of instrumental resolution and S/N for this work.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "59"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Spectral Analysis", "Principal Component Analysis", "Photospheric Activity"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

@@ -1,0 +1,23 @@
+title = "On the Relative Sizes of Planets within Kepler Multiple-candidate Systems"
+author = "Ciardi, David R. and Fabrycky, Daniel C. and Ford, Eric B. and Gautier, III, T.~N. and Howell, Steve B. and Lissauer, Jack J. and Ragozzine, Darin and Rowe, Jason F."
+year = "2013"
+month = "jan"
+journal = "ApJ"
+volume = "763"
+number = "1"
+pages = "41"
+doi = "10.1088/0004-637X/763/1/41"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJ...763...41C"
+archiveprefix = "arXiv"
+eprint = "1212.1859"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a study of the relative sizes of planets within the multiple-candidate systems discovered with the Kepler mission. We have compared the size of each planet to the size of every other planet within a given planetary system after correcting the sample for detection and geometric biases. We find that for planet pairs for which one or both objects are approximately Neptune-sized or larger, the larger planet is most often the planet with the longer period. No such size-location correlation is seen for pairs of planets when both planets are smaller than Neptune. Specifically, if at least one planet in a planet pair has a radius of &gt;~ 3 R <SUB>⊕</SUB>, 68% ± 6% of the planet pairs have the inner planet smaller than the outer planet, while no preferred sequential ordering of the planets is observed if both planets in a pair are smaller than &lt;~ 3 R <SUB>⊕</SUB>.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "41"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Size Measurement", "Period-Size Correlation"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

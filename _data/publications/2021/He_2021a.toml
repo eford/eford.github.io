@@ -1,0 +1,23 @@
+title = "Friends and Foes: Conditional Occurrence Rates of Exoplanet Companions and Their Impact on Radial Velocity Follow-up Surveys"
+author = "He, Matthias Y. and Ford, Eric B. and Ragozzine, Darin"
+year = "2021"
+month = "nov"
+journal = "AJ"
+volume = "162"
+number = "5"
+pages = "216"
+doi = "10.3847/1538-3881/ac1db8"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021AJ....162..216H"
+archiveprefix = "arXiv"
+eprint = "2105.04703"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Population studies of Kepler's multiplanet systems have revealed a surprising degree of structure in their underlying architectures. Information from a detected transiting planet can be combined with a population model to make predictions about the presence and properties of additional planets in the system. Using a statistical model for the distribution of planetary systems, we compute the conditional occurrence of planets as a function of the period and radius of Kepler-detectable planets. About half (0.52 ± 0.03) of the time, the detected planet is not the planet with the largest semi-amplitude (K) in the system, so efforts to measure the mass of the transiting planet with radial velocity (RV) follow up will have to contend with additional planetary signals in the data. We simulate RV observations to show that assuming a single-planet model to measure the K of the transiting planet often requires significantly more observations than in the ideal case with no additional planets, due to systematic errors from unseen planet companions. Our results show that planets around 10 day periods with K close to the single-measurement RV precision (σ<SUB>1,obs</SUB>) typically require ~100 observations to measure their K to within 20% error. For a next generation RV instrument achieving σ<SUB>1,obs</SUB> = 10 cm s<SUP>-1</SUP>, about ~200 (600) observations are needed to measure the K of a transiting Venus in a Kepler-like system to better than 20% (10%) error, which is ~2.3 times as many as would be necessary for a Venus without any planetary companions.\n"""
+tags = ["Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]
+eid = "216"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Companion Planets", "System Characterization", "Statistical Inference"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

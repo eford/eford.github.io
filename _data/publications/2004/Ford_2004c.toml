@@ -1,0 +1,22 @@
+title = "Erratum: Secular Evolution of Hierarchical Triple Star Systems"
+author = "Ford, Eric B. and Kozinsky, Boris and Rasio, Frederic A."
+year = "2004"
+month = "apr"
+journal = "ApJ"
+volume = "605"
+number = "2"
+pages = "966-966"
+doi = "10.1086/382349"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2004ApJ...605..966F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/9905348"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We derive octupole-level secular perturbation equations for hierarchical triple systems, using classical Hamiltonian perturbation techniques. By extending previous work done to leading (quadrupole) order to octupole level (i.e., including terms of order alpha³, where alpha = a₁/a₂ &lt; 1 is the ratio of semimajor axes) we obtain expressions that are applicable to a much wider range of parameters. For triple systems containing a close inner binary, we also discuss the possible interaction between the classical Newtonian perturbations and the general relativistic precession of the inner orbit. In some cases we show that this interaction can lead to resonances and a significant increase in the maximum amplitude of eccentricity perturbations. We establish the validity of our analytic expressions by providing detailed comparisons with the results of direct numerical integrations of the three-body problem obtained for a large number of representative cases. We also discuss applications of the theory in the context of several observed triple systems of current interest, including the millisecond pulsar PSR B1620-26 in M4, the giant planet in 16 Cygni, and the protostellar binary TMR-1. [short version]\n"""
+tags = ["Binary Stars", "Dynamics", "Secular evolution"]
+research_themes = []
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Triple Star Systems", "General Relativity", "Hamiltonian Mechanics"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation"]

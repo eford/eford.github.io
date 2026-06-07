@@ -1,0 +1,23 @@
+title = "The Warm Neptune GJ 3470b Has a Polar Orbit"
+author = "{Stef\\`ansson}, Gu\\djmundur and Mahadevan, Suvrath and Petrovich, Cristobal and Winn, Joshua N. and Kanodia, Shubham and Millholland, Sarah C. and Maney, Marissa and {Ca\\~nas}, Caleb I. and Wisniewski, John and Robertson, Paul and Ninan, Joe P. and Ford, Eric B. and Bender, Chad F. and Blake, Cullen H. and Cegla, Heather and Cochran, William D. and Diddams, Scott A. and Dong, Jiayin and Endl, Michael and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Hebb, Leslie and Hirano, Teruyuki and Lin, Andrea S.~J. and Logsdon, Sarah E. and Lubar, Emily and McElwain, Michael W. and Metcalf, Andrew J. and Monson, Andrew and Rajagopal, Jayadev and Ramsey, Lawrence W. and Roy, Arpita and Schwab, Christian and Schweiker, Heidi and Terrien, Ryan C. and Wright, Jason T."
+year = "2022"
+month = "jun"
+journal = "ApJL"
+volume = "931"
+number = "2"
+pages = "L15"
+doi = "10.3847/2041-8213/ac6e3c"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022ApJ...931L..15S"
+archiveprefix = "arXiv"
+eprint = "2111.01295"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The warm Neptune GJ 3470b transits a nearby (d = 29 pc) bright slowly rotating M1.5-dwarf star. Using spectroscopic observations during two transits with the newly commissioned NEID spectrometer on the WIYN 3.5 m Telescope at Kitt Peak Observatory, we model the classical Rossiter-McLaughlin effect, yielding a sky-projected obliquity of $λ =98_-12^+15 ° $ and a $v\\sin i=0.85_-0.33^+0.27 \\mathrmkm {{\\rms}}^-1$ . Leveraging information about the rotation period and size of the host star, our analysis yields a true obliquity of $ψ =95_-8^+9 ° $ , revealing that GJ 3470b is on a polar orbit. Using radial velocities from HIRES, HARPS, and the Habitable-zone Planet Finder, we show that the data are compatible with a long-term radial velocity (RV) slope of $\\dotγ =-0.0022± 0.0011 {\\rmm} {{\\rms}}^-1 {\\mathrmday}^-1$ over a baseline of 12.9 yr. If the RV slope is due to acceleration from another companion in the system, we show that such a companion is capable of explaining the polar and mildly eccentric orbit of GJ 3470b using two different secular excitation models. The existence of an outer companion can be further constrained with additional RV observations, Gaia astrometry, and future high-contrast imaging observations. Lastly, we show that tidal heating from GJ 3470b's mild eccentricity has most likely inflated the radius of GJ 3470b by a factor of ~1.5-1.7, which could help account for its evaporating atmosphere.\n"""
+tags = ["Dynamics", "Radial Velocity", "Stars"]
+research_themes = ["Planetary Architectures", "Radial Velocity Surveys"]
+eid = "L15"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Tidal Heating", "Rossiter-McLaughlin Effect", "M-dwarf Stars"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

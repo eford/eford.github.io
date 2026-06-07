@@ -1,0 +1,22 @@
+title = "Statistical Methods for Exoplanet Detection with Radial Velocities"
+author = "Hara, Nathan C. and Ford, Eric B."
+year = "2023"
+month = "mar"
+journal = "Annual Review of Statistics and Its Application"
+volume = "10"
+number = "1"
+pages = "623-649"
+doi = "10.1146/annurev-statistics-033021-012225"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2023AnRSA..10..623H"
+archiveprefix = "arXiv"
+eprint = "2308.00701"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """Exoplanets can be detected with various observational techniques. Among them, radial velocity (RV) has the key advantages of revealing the architecture of planetary systems and measuring planetary mass and orbital eccentricities. RV observations are poised to play a key role in the detection and characterization of Earth twins. However, the detection of such small planets is not yet possible due to very complex, temporally correlated instrumental and astrophysical stochastic signals. Furthermore, exploring the large parameter space of RV models exhaustively and efficiently presents difficulties. In this review, we frame RV data analysis as a problem of detection and parameter estimation in unevenly sampled, multivariate time series. The objective of this review is two-fold: to introduce the motivation, methodological challenges, and numerical challenges of RV data analysis to nonspecialists, and to unify the existing advanced approaches in order to identify areas for improvement.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Planetary Architectures", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Time Series Analysis", "Exoplanet Detection", "Stochastic Processes"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

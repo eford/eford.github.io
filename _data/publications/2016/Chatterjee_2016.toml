@@ -1,0 +1,21 @@
+title = "Period Ratio Distribution of Near-Resonant Planets Indicates Planetesimal Scattering"
+author = "Chatterjee, Sourav and Krantzler, Seth O. and Ford, Eric B."
+year = "2016"
+month = "oct"
+journal = "IAU Focus Meeting"
+volume = "29A"
+pages = "30-37"
+doi = "10.1017/S1743921316002350"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016IAUFM..29A..30C"
+archiveprefix = "arXiv"
+eprint = "1510.08933"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """An intriguing trend among it Kepler's multi-planet systems is an overabundance of planet pairs with period ratios just wide of mean motion resonances (MMR) and a dearth of systems just narrow of them. In a recently published paper Chatterjee &amp; Ford (2015; henceforth CF15) has proposed that gas-disk migration traps planets in a MMR. After gas dispersal, orbits of these trapped planets are altered through interaction with a residual planetesimal disk. They found that for massive enough disks planet-planetesimal disk interactions can break resonances and naturally create moderate to large positive offsets from the initial period ratio for large ranges of planetesimal disk and planet properties. Divergence from resonance only happens if the mass of planetesimals that interact with the planets is at least a few percent of the total planet mass. This threshold, above which resonances are broken and the offset from resonances can grow, naturally explains why the asymmetric large offsets were not seen in more massive planet pairs found via past radial velocity surveys. In this article we will highlight some of the key findings of CF15. In addition, we report preliminary results from an extension of this study, that investigates the effects of planet-planetesimal disk interactions on initially non-resonant planet pairs. We find that planetesimal scattering typically increases period ratios of non-resonant planets. If the initial period ratios are below and in proximity of a resonance, under certain conditions, this increment in period ratios can create a deficit of systems with period ratios just below the exact integer corresponding to the MMR and an excess just above. From an initially uniform distribution of period ratios just below a 2:1 MMR, planetesimal interactions can create an asymmetric distribution across this MMR similar to what is observed for the kepler planet pairs.\n"""
+tags = ["Dynamics", "Kepler", "Planet-planet scattering"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Period Ratio", "Mean Motion Resonance (MMR)", "Planetesimal Scattering", "Disk Interaction"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

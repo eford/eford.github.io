@@ -1,0 +1,23 @@
+title = "The Discovery of HD 37605c and a Dispositive Null Detection of Transits of HD 37605b"
+author = "Wang, Sharon, Xuesong and Wright, Jason T. and Cochran, William and Kane, Stephen R. and Henry, Gregory W. and Payne, Matthew J. and Endl, Michael and MacQueen, Phillip J. and Valenti, Jeff A. and Antoci, Victoria and Dragomir, Diana and Matthews, Jaymie M. and Howard, Andrew W. and Marcy, Geoffrey W. and Isaacson, Howard and Ford, Eric B. and Mahadevan, Suvrath and von Braun, Kaspar"
+year = "2012"
+month = "dec"
+journal = "ApJ"
+volume = "761"
+number = "1"
+pages = "46"
+doi = "10.1088/0004-637X/761/1/46"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...761...46W"
+archiveprefix = "arXiv"
+eprint = "1210.6985"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the radial velocity discovery of a second planetary mass companion to the K0 V star HD 37605, which was already known to host an eccentric, P ~ 55 days Jovian planet, HD 37605b. This second planet, HD 37605c, has a period of ~7.5 years with a low eccentricity and an Msin i of ~3.4 M <SUB>Jup</SUB>. Our discovery was made with the nearly 8 years of radial velocity follow-up at the Hobby-Eberly Telescope and Keck Observatory, including observations made as part of the Transit Ephemeris Refinement and Monitoring Survey effort to provide precise ephemerides to long-period planets for transit follow-up. With a total of 137 radial velocity observations covering almost 8 years, we provide a good orbital solution of the HD 37605 system, and a precise transit ephemeris for HD 37605b. Our dynamic analysis reveals very minimal planet-planet interaction and an insignificant transit time variation. Using the predicted ephemeris, we performed a transit search for HD 37605b with the photometric data taken by the T12 0.8 m Automatic Photoelectric Telescope (APT) and the MOST satellite. Though the APT photometry did not capture the transit window, it characterized the stellar activity of HD 37605, which is consistent of it being an old, inactive star, with a tentative rotation period of 57.67 days. The MOST photometry enabled us to report a dispositive null detection of a non-grazing transit for this planet. Within the predicted transit window, we exclude an edge-on predicted depth of 1.9% at the Gt10σ level, and exclude any transit with an impact parameter b &gt; 0.951 at greater than 5σ. We present the BOOTTRAN package for calculating Keplerian orbital parameter uncertainties via bootstrapping. We made a comparison and found consistency between our orbital fit parameters calculated by the RVLIN package and error bars by BOOTTRAN with those produced by a Bayesian analysis using MCMC. <P />Based on observations obtained with the Hobby-Eberly Telescope, which is a joint project of the University of Texas at Austin, the Pennsylvania State University, Stanford University, Ludwig-Maximilians-Universität München, and Georg-August-Universität Göttingen, and observations obtained at the Keck Observatory, which is operated by the University of California. The Keck Observatory was made possible by the generous financial support of the W. M. Keck Foundation.\n"""
+tags = ["Dynamics", "Keck", "Radial Velocity", "Stars", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures"]
+eid = "46"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Detection", "TESS", "Orbital Solution"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

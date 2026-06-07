@@ -1,0 +1,23 @@
+title = "GJ 3929: High-precision Photometric and Doppler Characterization of an Exo-Venus and Its Hot, Mini-Neptune-mass Companion"
+author = "Beard, Corey and Robertson, Paul and Kanodia, Shubham and Lubin, Jack and {Ca\\~nas}, Caleb I. and Gupta, Arvind F. and Holcomb, Rae and Jones, Sinclaire and Libby-Roberts, Jessica E. and Lin, Andrea S.~J. and Mahadevan, Suvrath and {Stef\\'ansson}, Gu\\djmundur and Bender, Chad F. and Blake, Cullen H. and Cochran, William D. and Endl, Michael and Everett, Mark and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hebb, Leslie and Li, Dan and Logsdon, Sarah E. and Luhn, Jacob and McElwain, Michael W. and Metcalf, Andrew J. and Ninan, Joe P. and Rajagopal, Jayadev and Roy, Arpita and Schutte, Maria and Schwab, Christian and Terrien, Ryan C. and Wisniewski, John and Wright, Jason T."
+year = "2022"
+month = "sep"
+journal = "ApJ"
+volume = "936"
+number = "1"
+pages = "55"
+doi = "10.3847/1538-4357/ac8480"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022ApJ...936...55B"
+archiveprefix = "arXiv"
+eprint = "2207.10672"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We detail the follow-up and characterization of a transiting exo-Venus identified by TESS, GJ 3929b (TOI-2013b), and its nontransiting companion planet, GJ 3929c (TOI-2013c). GJ 3929b is an Earth-sized exoplanet in its star's Venus zone (P <SUB> b </SUB> = 2.616272 ± 0.000005 days; S<SUB> b </SUB> = $17.3_-0.7^+0.8$ S <SUB>⊕</SUB>) orbiting a nearby M dwarf. GJ 3929c is most likely a nontransiting sub-Neptune. Using the new, ultraprecise NEID spectrometer on the WIYN 3.5 m Telescope at Kitt Peak National Observatory, we are able to modify the mass constraints of planet b reported in previous works and consequently improve the significance of the mass measurement to almost 4σ confidence (M <SUB> b </SUB> = 1.75 ± 0.45 M <SUB>⊕</SUB>). We further adjust the orbital period of planet c from its alias at 14.30 ± 0.03 days to the likely true period of 15.04 ± 0.03 days, and we adjust its minimum mass to $m\\sin i$ = 5.71 ± 0.92 M <SUB>⊕</SUB>. Using the diffuser-assisted ARCTIC imager on the ARC 3.5 m telescope at Apache Point Observatory, in addition to publicly available TESS and LCOGT photometry, we are able to constrain the radius of planet b to R <SUB> p </SUB> = 1.09 ± 0.04 R <SUB>⊕</SUB>. GJ 3929b is a top candidate for transmission spectroscopy in its size regime (TSM = 14 ± 4), and future atmospheric studies of GJ 3929b stand to shed light on the nature of small planets orbiting M dwarfs.\n"""
+tags = ["Kepler", "Radial Velocity", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+eid = "55"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M dwarf", "Exo-Venus", "Sub-Neptune", "Atmospheric characterization"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

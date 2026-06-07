@@ -1,0 +1,23 @@
+title = "The Search for Extraterrestrial Civilizations with Large Energy Supplies. IV. The Signatures and Information Content of Transiting Megastructures"
+author = "Wright, Jason T. and Cartier, Kimberly M.~S. and Zhao, Ming and Jontof-Hutter, Daniel and Ford, Eric B."
+year = "2016"
+month = "jan"
+journal = "ApJ"
+volume = "816"
+number = "1"
+pages = "17"
+doi = "10.3847/0004-637X/816/1/17"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJ...816...17W"
+archiveprefix = "arXiv"
+eprint = "1510.04606"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Arnold, Forgan, and Korpela et al. noted that planet-sized artificial structures could be discovered with Kepler as they transit their host star. We present a general discussion of transiting megastructures, and enumerate 10 potential ways their anomalous silhouettes, orbits, and transmission properties would distinguish them from exoplanets. We also enumerate the natural sources of such signatures. Several anomalous objects, such as KIC 12557548 and CoRoT-29, have variability in depth consistent with Arnold’s prediction and/or an asymmetric shape consistent with Forgan’s model. Since well-motivated physical models have so far provided natural explanations for these signals, the ETI hypothesis is not warranted for these objects, but they still serve as useful examples of how non-standard transit signatures might be identified and interpreted in a SETI context. Boyajian et al. recently announced KIC 8462852, an object with a bizarre light curve consistent with a “swarm” of megastructures. We suggest that this is an outstanding SETI target. We develop the normalized information content statistic M to quantify the information content in a signal embedded in a discrete series of bounded measurements, such as variable transit depths, and show that it can be used to distinguish among constant sources, interstellar beacons, and naturally stochastic or artificial, information-rich signals. We apply this formalism to KIC 12557548 and a specific form of beacon suggested by Arnold to illustrate its utility.\n"""
+tags = ["Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Astrobiology", "Planetary Architectures", "Transit Surveys"]
+eid = "17"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["SETI", "Megastructures", "Artificial Signals"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Planetary Architectures", "Transit Surveys"]

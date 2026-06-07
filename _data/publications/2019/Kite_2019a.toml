@@ -1,0 +1,23 @@
+title = "Superabundance of Exoplanet Sub-Neptunes Explained by Fugacity Crisis"
+author = "Kite, Edwin S. and Fegley, Jr., Bruce and Schaefer, Laura and Ford, Eric B."
+year = "2019"
+month = "dec"
+journal = "ApJL"
+volume = "887"
+number = "2"
+pages = "L33"
+doi = "10.3847/2041-8213/ab59d9"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..33K"
+archiveprefix = "arXiv"
+eprint = "1912.02701"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Transiting planets with radii 2-3 R <SUB>⊕</SUB> are much more numerous than larger planets. We propose that this drop-off is so abrupt because at R ∼ 3 R <SUB>⊕</SUB> base-of-atmosphere pressure is high enough for the atmosphere to readily dissolve into magma, and this sequestration acts as a strong brake on further growth. The viability of this idea is demonstrated using a simple model. Our results support extensive magma-atmosphere equilibration on sub-Neptunes, with numerous implications for sub-Neptune formation and atmospheric chemistry.\n"""
+tags = ["Demographics", "Kepler"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "L33"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Sub-Neptunes", "Planetary Atmospheres", "Magma Ocean"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

@@ -1,0 +1,21 @@
+title = "The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS)"
+author = "Ferguson, Andrew and LaFleur, Marisa and Ruthotto, Lars and Thaler, Jesse and Ting, Yuan-Sen and Tiwary, Pratyush and Villar, Soledad and Alves, E. Paulo and Avigad, Jeremy and Billinge, Simon and Bilodeau, Camille and Brown, Keith and Candes, Emmanuel and Chattopadhyay, Arghya and Cheng, Bingqing and Clausen, Jonathan and Coley, Connor and Connolly, Andrew and Daum, Fred and Dong, Sijia and Xiyu Du, Chrisy and Dvorkin, Cora and Fanelli, Cristiano and Ford, Eric B. and Frutos, Luis Manuel and {Garc\\'\\ia Trillos}, Nicol\\'as and Garraffo, Cecilia and Ghrist, Robert and Gomez-Bombarelli, Rafael and Guadagni, Gianluca and Guggilam, Sreelekha and Gukov, Sergei and {Guti\\'errez}, Juan B. and Habib, Salman and Hachmann, Johannes and Hanin, Boris and Harris, Philip and Holland, Murray and Holm, Elizabeth and Huang, Hsin-Yuan and Hsu, Shih-Chieh and Jackson, Nick and Isayev, Olexandr and Ji, Heng and Katsaggelos, Aggelos and Kepner, Jeremy and Kevrekidis, Yannis and Kuchera, Michelle and Kutz, J. Nathan and Lalic, Branislava and Lee, Ann and LeBlanc, Matt and Lim, Josiah and Lindsey, Rebecca and Liu, Yongmin and Lu, Peter Y. and Malik, Sudhir and Mandic, Vuk and Manian, Vidya and Mazi, Emeka P. and Mehta, Pankaj and Melchior, Peter and {M\\'enard}, Brice and Ngadiuba, Jennifer and Offner, Stella and Olivetti, Elsa and Ong, Shyue Ping and Rackauckas, Christopher and Rigollet, Philippe and Risko, Chad and Romero, Philip and Rotskoff, Grant and Savoie, Brett and Seljak, Uros and Shih, David and Shiu, Gary and Shlyakhtenko, Dima and Silverstein, Eva and Sparks, Taylor and Strohmer, Thomas and Stubbs, Christopher and Thomas, Stephen and Vaikuntanathan, Suriyanarayanan and Vidal, Rene and Villaescusa-Navarro, Francisco and Voth, Gregory and Wandelt, Benjamin and Ward, Rachel and Weber, Melanie and Wechsler, Risa and Whitelam, Stephen and Wiest, Olaf and Williams, Mike and Yang, Zhuoran and Yingling, Yaroslava G. and Yu, Bin and Yue, Shuwen and Zabludoff, Ann and Zhao, Huimin and Zhang, Tong"
+year = "2025"
+month = "sep"
+journal = "arXiv e-prints"
+pages = "arXiv:2509.02661"
+doi = "10.48550/arXiv.2509.02661"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025arXiv250902661F"
+archiveprefix = "arXiv"
+eprint = "2509.02661"
+primaryclass = "cs.AI"
+entrytype = "article"
+abstract = """This community paper developed out of the NSF Workshop on the Future of Artificial Intelligence (AI) and the Mathematical and Physics Sciences (MPS), which was held in March 2025 with the goal of understanding how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. We present here a summary and snapshot of the MPS community's perspective, as of Spring/Summer 2025, in a rapidly developing field. The link between AI and MPS is becoming increasingly inextricable; now is a crucial moment to strengthen the link between AI and Science by pursuing a strategy that proactively and thoughtfully leverages the potential of AI for scientific discovery and optimizes opportunities to impact the development of AI by applying concepts from fundamental science. To achieve this, we propose activities and strategic priorities that: (1) enable AI+MPS research in both directions; (2) build up an interdisciplinary community of AI+MPS researchers; and (3) foster education and workforce development in AI for MPS researchers and students. We conclude with a summary of suggested priorities for funding agencies, educational institutions, and individual researchers to help position the MPS community to be a leader in, and take full advantage of, the transformative potential of AI+MPS.\n"""
+tags = ["High Performance Computing"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing"]
+eid = "arXiv:2509.02661"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Artificial Intelligence", "Mathematical Sciences", "Physics", "Materials Research"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing"]

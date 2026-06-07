@@ -1,0 +1,16 @@
+title = "From Discovery to Understanding: Principles for Maximizing Scientific Return on Exoplanet Research"
+author = "Ford, Eric B. and Adams, Fred C. and Agol, Eric and Armitage, Phil and Gaudi, B. Scott and Haghighipour, Nader and Holman, Mathew J. and Laughlin, Gregory and Lin, Doug N.~C. and Malhotra, Renu and Marcy, Geoffrey W. and Quillen, Alice C. and Rasio, Frederic A. and Sigurdsson, Steinn"
+year = "2009"
+month = "jan"
+volume = "2010"
+pages = "80"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009astro2010S..80F"
+entrytype = "inproceedings"
+abstract = """\n"""
+tags = ["Astrobiology", "Circumbinary Planets", "Kepler", "Transit timing variations"]
+research_themes = ["Astrobiology", "Astrophysics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Characterization", "Habitable Zone", "Telescope Optimization"]
+# suggested_research_themes  = ["Astrobiology", "Astrophysics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

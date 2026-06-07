@@ -1,0 +1,23 @@
+title = "Sensitivity Analyses of Exoplanet Occurrence Rates from Kepler and Gaia"
+author = "Shabram, Megan I. and Batalha, Natalie and Thompson, Susan E. and Hsu, Danley C. and Ford, Eric B. and Christiansen, Jessie L. and Huber, Daniel and Berger, Travis and Catanzarite, Joseph and Nelson, Benjamin E. and Bryson, Steve and Belikov, Ruslan and Burke, Chris and Caldwell, Doug"
+year = "2020"
+month = "jul"
+journal = "AJ"
+volume = "160"
+number = "1"
+pages = "16"
+doi = "10.3847/1538-3881/ab90fe"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....160...16S"
+archiveprefix = "arXiv"
+eprint = "1908.00203"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We infer the number of planets per star as a function of orbital period and planet size using Kepler archival data products with updated stellar properties from the Gaia Data Release 2. Using hierarchical Bayesian modeling and Hamiltonian Monte Carlo, we incorporate planet radius uncertainties into an inhomogeneous Poisson point process model. We demonstrate that this model captures the general features of the outcome of the planet formation and evolution around GK stars and provides an infrastructure to use the Kepler results to constrain analytic planet distribution models. We report an increased mean and variance in the marginal posterior distributions for the number of planets per GK star when including planet radius measurement uncertainties. We estimate the number of planets per GK star between 0.75 and 2.5 R<SUB>⊕</SUB> and with orbital periods of 50-300 days to have a 68% credible interval of 0.49-0.77 and a posterior mean of 0.63. This posterior has a smaller mean and a larger variance than the occurrence rate calculated in this work and in Burke et al. for the same parameter space using the Q1-Q16 (previous Kepler planet candidate and stellar catalog). We attribute the smaller mean to many of the instrumental false positives at longer orbital periods being removed from the DR25 catalog. We find that the accuracy and precision of our hierarchical Bayesian model posterior distributions are less sensitive to the total number of planets in the sample, and more so for the characteristics of the catalog completeness and reliability and the span of the planet parameter space.\n"""
+tags = ["Demographics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+eid = "16"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Gaia", "Bayesian Inference", "Planet Occurrence Rates", "GK Stars"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]

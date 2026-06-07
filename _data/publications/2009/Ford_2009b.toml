@@ -1,0 +1,17 @@
+title = "Characterizing the Eccentricities of Transiting Extrasolar Planets with Kepler and CoRoT"
+author = "Ford, Eric B. and Colón, Knicole D."
+year = "2009"
+month = "feb"
+volume = "253"
+pages = "111-119"
+doi = "10.1017/S1743921308026306"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009IAUS..253..111F"
+entrytype = "inproceedings"
+abstract = """Radial velocity planet searches have revealed that many giant planets have large eccentricities, in striking contrast with the giant planets in the solar system and prior theories of planet formation. The realization that many giant planets have large eccentricities raises a fundamental question: Do terrestrial-size planets of other stars typically have significantly eccentric orbits or nearly circular orbits like the Earth? While space-based missions such as CoRoT and Kepler will be capable of detecting nearly Earth-sized planets, it will be extremely challenging to measure their eccentricities using radial velocity observations. We review several ways that photometric measurements of transit light curves can constrain the eccentricity of transiting planets. In particular, photometric observations of transit durations can be used to characterize the distribution of orbital eccentricities for various populations of transiting planets (e.g., nearly Earth-sized planets in the habitable zone) without relying on radial velocity measurements. Applying this technique to rocky planets to be found by CoRoT and Kepler will enable constraints on theories for the excitation of eccentricities and tidal dissipation. We also remind observers that several short-period transiting planets are known to have significant eccentricities and caution that assuming they are on a circular orbit can reduce the probability of detecting transits, impact planning for follow-up observations, and adversely affect measurements of the physical parameters of the star and planet.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["CoRoT", "Exoplanet Eccentricity", "Transit Photometry", "Habitable Zone", "Tidal Dissipation"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

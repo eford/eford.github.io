@@ -1,0 +1,22 @@
+title = "Stellar Spin-Orbit Misalignment in a Multiplanet System"
+author = "Huber, Daniel and Carter, Joshua A. and Barbieri, Mauro and Miglio, Andrea and Deck, Katherine M. and Fabrycky, Daniel C. and Montet, Benjamin T. and Buchhave, Lars A. and Chaplin, William J. and Hekker, Saskia and {Montalb\\'an}, Josefina and Sanchis-Ojeda, Roberto and Basu, Sarbani and Bedding, Timothy R. and Campante, Tiago L. and Christensen-Dalsgaard, J\\orgen and Elsworth, Yvonne P. and Stello, Dennis and Arentoft, Torben and Ford, Eric B. and Gilliland, Ronald L. and Handberg, Rasmus and Howard, Andrew W. and Isaacson, Howard and Johnson, John Asher and Karoff, Christoffer and Kawaler, Steven D. and Kjeldsen, Hans and Latham, David W. and Lund, Mikkel N. and Lundkvist, Mia and Marcy, Geoffrey W. and Metcalfe, Travis S. and Silva Aguirre, Victor and Winn, Joshua N."
+year = "2013"
+month = "oct"
+journal = "Science"
+volume = "342"
+number = "6156"
+pages = "331-334"
+doi = "10.1126/science.1242066"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013Sci...342..331H"
+archiveprefix = "arXiv"
+eprint = "1310.4503"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Stars hosting hot Jupiters are often observed to have high obliquities, whereas stars with multiple coplanar planets have been seen to have low obliquities. This has been interpreted as evidence that hot-Jupiter formation is linked to dynamical disruption, as opposed to planet migration through a protoplanetary disk. We used asteroseismology to measure a large obliquity for Kepler-56, a red giant star hosting two transiting coplanar planets. These observations show that spin-orbit misalignments are not confined to hot-Jupiter systems. Misalignments in a broader class of systems had been predicted as a consequence of torques from wide-orbiting companions, and indeed radial velocity measurements revealed a third companion in a wide orbit in the Kepler-56 system.\n"""
+tags = ["Dynamics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Hot Jupiters", "Obliquity", "Asteroseismology", "Multiplanet Systems"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

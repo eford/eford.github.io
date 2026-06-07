@@ -1,0 +1,20 @@
+title = "Cadence optimisation and exoplanetary parameter sensitivity"
+author = "Kane, Stephen R. and Ford, Eric B. and Ge, Jian"
+year = "2008"
+month = "may"
+volume = "249"
+pages = "115-118"
+doi = "10.1017/S1743921308016487"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2008IAUS..249..115K"
+archiveprefix = "arXiv"
+eprint = "0712.0358"
+primaryclass = "astro-ph"
+entrytype = "inproceedings"
+abstract = """To achieve maximum planet yield for a given radial velocity survey, the observing strategy must be carefully considered. In particular, the adopted cadence can greatly affect the sensitivity to exoplanetary parameters such as period and eccentricity. Here we describe simulations which aim to maximise detections based upon the target parameter space of the survey.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Characterization", "Survey Optimization", "Observing Strategy"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Radial Velocity Surveys"]

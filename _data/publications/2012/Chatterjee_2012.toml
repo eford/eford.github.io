@@ -1,0 +1,22 @@
+title = "Planets in open clusters detectable by Kepler"
+author = "Chatterjee, Sourav and Ford, Eric B. and Geller, Aaron M. and Rasio, Frederic A."
+year = "2012"
+month = "dec"
+journal = "MNRAS"
+volume = "427"
+number = "2"
+pages = "1587-1602"
+doi = "10.1111/j.1365-2966.2012.22057.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012MNRAS.427.1587C"
+archiveprefix = "arXiv"
+eprint = "1207.3545"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """While hundreds of planets have been discovered around field stars, only a few are known in star clusters. To explain the lack of short-period giant planets in globular clusters (GCs), such as 47 Tucane and ω Centauri, it has been suggested that their low metallicities may have prevented planet formation. Alternatively, the high rates of close stellar encounters in these clusters may have influenced the formation and subsequent evolution of planetary systems. How common are planets in clusters around normal main-sequence stars? Here we consider whether this question can be addressed using data from the Kepler mission. The Kepler field of view contains four low-density (relative to GCs) open clusters where the metallicities are about solar (or even higher) and stellar encounters are much less frequent than in typical GCs. We provide detailed N-body models and show that most planets in Kepler-detectable orbits are not significantly perturbed by stellar encounters in these open clusters. We focus on the most massive cluster, NGC 6791, which has supersolar metallicity, and find that if planets formed in this cluster at the same frequency as observed in the field, Kepler could detect 1-20 transiting planets depending on the planet-size distribution and the duration of data collection. Due to the large distance to NGC 6791 Kepler will have to search relatively faint (K<SUB>p</SUB> &lt; 20) stars for the full extended mission to achieve such a yield.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Open Clusters", "Globular Clusters", "Metallicity", "N-body Simulation"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

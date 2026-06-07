@@ -1,0 +1,17 @@
+title = "Empirically Derived Dynamical Models for the 55 Cancri and GJ 876 Planetary Systems"
+author = "Nelson, Benjamin E. and Ford, Eric B. and Wright, Jason T. and Fischer, Debra A."
+year = "2014"
+month = "jul"
+volume = "310"
+pages = "93-95"
+doi = "10.1017/S1743921314007947"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2014IAUS..310...93N"
+entrytype = "inproceedings"
+abstract = """In this paper we present empirically derived dynamical models for the 55 Cancri and GJ 876 planetary systems.\n"""
+tags = ["Circumbinary Planets", "Dynamics"]
+research_themes = ["High-Performance Computing", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Dynamical Modeling", "Multi-star Systems"]
+# suggested_research_themes  = ["High-Performance Computing", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

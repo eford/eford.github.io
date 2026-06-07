@@ -1,0 +1,23 @@
+title = "Kepler-14b: A Massive Hot Jupiter Transiting an F Star in a Close Visual Binary"
+author = "Buchhave, Lars A. and Latham, David W. and Carter, Joshua A. and {D\\'esert}, Jean-Michel and Torres, Guillermo and Adams, Elisabeth R. and Bryson, Stephen T. and Charbonneau, David B. and Ciardi, David R. and Kulesa, Craig and Dupree, Andrea K. and Fischer, Debra A. and Fressin, Fran{\\cc}ois and Gautier, III, Thomas N. and Gilliland, Ronald L. and Howell, Steve B. and Isaacson, Howard and Jenkins, Jon M. and Marcy, Geoffrey W. and McCarthy, Donald W. and Rowe, Jason F. and Batalha, Natalie M. and Borucki, William J. and Brown, Timothy M. and Caldwell, Douglas A. and Christiansen, Jessie L. and Cochran, William D. and Deming, Drake and Dunham, Edward W. and Everett, Mark and Ford, Eric B. and Fortney, Jonathan J. and Geary, John C. and Girouard, Forrest R. and Haas, Michael R. and Holman, Matthew J. and Horch, Elliott and Klaus, Todd C. and Knutson, Heather A. and Koch, David G. and Kolodziejczak, Jeffrey and Lissauer, Jack J. and Machalek, Pavel and Mullally, Fergal and Still, Martin D. and Quinn, Samuel N. and Seager, Sara and Thompson, Susan E. and Van Cleve, Jeffrey"
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "3"
+doi = "10.1088/0067-0049/197/1/3"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197....3B"
+archiveprefix = "arXiv"
+eprint = "1106.5510"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the discovery of a hot Jupiter transiting an F star in a close visual (0farcs3 sky projected angular separation) binary system. The dilution of the host star's light by the nearly equal magnitude stellar companion (~0.5 mag fainter) significantly affects the derived planetary parameters, and if left uncorrected, leads to an underestimate of the radius and mass of the planet by 10% and 60%, respectively. Other published exoplanets, which have not been observed with high-resolution imaging, could similarly have unresolved stellar companions and thus have incorrectly derived planetary parameters. Kepler-14b (KOI-98) has a period of P = 6.790 days and, correcting for the dilution, has a mass of M<SUB>p</SUB> = 8.40<SUP>+0.35</SUP> <SUB> - 0.34</SUB> M <SUB>J</SUB> and a radius of R<SUB>p</SUB> = 1.136<SUP>+0.073</SUP> <SUB> - 0.054</SUB> R <SUB>J</SUB>, yielding a mean density of ρ<SUB> p </SUB> = 7.1 ± 1.1 g cm<SUP>-3</SUP>.\n"""
+tags = ["Binary Stars", "Kepler"]
+research_themes = ["Planetary Architectures", "Transit Surveys"]
+eid = "3"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Hot Jupiters", "Stellar Companions", "Orbital Parameter Estimation"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

@@ -1,0 +1,22 @@
+title = "Quantifying the Uncertainty in the Orbits of Extrasolar Planets"
+author = "Ford, Eric B."
+year = "2005"
+month = "mar"
+journal = "AJ"
+volume = "129"
+number = "3"
+pages = "1706-1717"
+doi = "10.1086/427962"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2005AJ....129.1706F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0305441"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Precise radial velocity measurements have led to the discovery of ~100 extrasolar planetary systems. We investigate the uncertainty in the orbital solutions that have been fitted to these observations. Understanding these uncertainties will become more and more important as the discovery space for extrasolar planets shifts to longer and longer periods. While detections of short-period planets can be rapidly refined, planets with long orbital periods will require observations spanning decades to constrain the orbital parameters precisely. Already in some cases, multiple distinct orbital solutions provide similarly good fits, particularly in multiple-planet systems. We present a method for quantifying the uncertainties in orbital fits and addressing specific questions directly from the observational data rather than relying on best-fit orbital solutions. This Markov chain Monte Carlo (MCMC) technique has the advantage that it is well suited to the high-dimensional parameter spaces necessary for the multiple-planet systems. We apply the MCMC technique to several extrasolar planetary systems, assessing the uncertainties in orbital elements for several systems. Our MCMC simulations demonstrate that for some systems there are strong correlations between orbital parameters and/or significant non-Gaussianities in parameter distributions, even though the measurement errors are nearly Gaussian. Once these effects are considered, the actual uncertainties in orbital elements can be significantly larger or smaller than the published uncertainties. We also present simple applications of our methods, such as predicting the times of possible transits for GJ 876.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Orbit Determination", "MCMC Methods", "Orbital Parameter Estimation"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

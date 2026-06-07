@@ -1,0 +1,21 @@
+title = "Extreme Precision Radial Velocity Working Group Final Report"
+author = "Crass, Jonathan and Gaudi, B. Scott and Leifer, Stephanie and Beichman, Charles and Bender, Chad and Blackwood, Gary and Burt, Jennifer A. and Callas, John L. and Cegla, Heather M. and Diddams, Scott A. and Dumusque, Xavier and Eastman, Jason D. and Ford, Eric B. and Fulton, Benjamin and Gibson, Rose and Halverson, Samuel and Haywood, Rapha\\\"elle D. and Hearty, Fred and Howard, Andrew W. and Latham, David W. and {L\\\"ohner-B\\\"ottcher}, Johannes and Mamajek, Eric E. and Mortier, Annelies and Newman, Patrick and Plavchan, Peter and Quirrenbach, Andreas and Reiners, Ansgar and Robertson, Paul and Roy, Arpita and Schwab, Christian and Seifahrt, Andres and Szentgyorgyi, Andy and Terrien, Ryan and Teske, Johanna K. and Thompson, Samantha and Vasisht, Gautam"
+year = "2021"
+month = "jul"
+journal = "arXiv e-prints"
+pages = "arXiv:2107.14291"
+doi = "10.48550/arXiv.2107.14291"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021arXiv210714291C"
+archiveprefix = "arXiv"
+eprint = "2107.14291"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """Precise mass measurements of exoplanets discovered by the direct imaging or transit technique are required to determine planet bulk properties and potential habitability. Furthermore, it is generally acknowledged that, for the foreseeable future, the Extreme Precision Radial Velocity (EPRV) measurement technique is the only method potentially capable of detecting and measuring the masses and orbits of habitable-zone Earths orbiting nearby F, G, and K spectral-type stars from the ground. In particular, EPRV measurements with a precision of better than approximately 10 cm/s (with a few cm/s stability over many years) are required. Unfortunately, for nearly a decade, PRV instruments and surveys have been unable to routinely reach RV accuracies of less than roughly 1 m/s. Making EPRV science and technology development a critical component of both NASA and NSF program plans is crucial for reaching the goal of detecting potentially habitable Earthlike planets and supporting potential future exoplanet direct imaging missions such as the Habitable Exoplanet Observatory (HabEx) or the Large Ultraviolet Optical Infrared Surveyor (LUVOIR). In recognition of these facts, the 2018 National Academy of Sciences (NAS) Exoplanet Science Strategy (ESS) report recommended the development of EPRV measurements as a critical step toward the detection and characterization of habitable, Earth-analog planets. In response to the NAS-ESS recommendation, NASA and NSF commissioned the EPRV Working Group to recommend a ground-based program architecture and implementation plan to achieve the goal intended by the NAS. This report documents the activities, findings, and recommendations of the EPRV Working Group.\n"""
+tags = ["Astrobiology", "Radial Velocity", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures", "Radial Velocity Surveys"]
+eid = "arXiv:2107.14291"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Detection", "Habitable Zone", "Radial Velocity Instruments"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures", "Radial Velocity Surveys"]

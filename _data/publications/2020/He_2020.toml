@@ -1,0 +1,23 @@
+title = "Architectures of Exoplanetary Systems. III. Eccentricity and Mutual Inclination Distributions of AMD-stable Planetary Systems"
+author = "He, Matthias Y. and Ford, Eric B. and Ragozzine, Darin and Carrera, Daniel"
+year = "2020"
+month = "dec"
+journal = "AJ"
+volume = "160"
+number = "6"
+pages = "276"
+doi = "10.3847/1538-3881/abba18"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....160..276H"
+archiveprefix = "arXiv"
+eprint = "2007.14473"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The angular momentum deficit (AMD) of a planetary system is a measure of its orbital excitation and a predictor of long-term stability. We adopt the AMD-stability criterion to constrain the orbital architectures for exoplanetary systems. Previously, He et al. showed through forward modeling (SysSim) that the observed multiplicity distribution can be well reproduced by two populations consisting of a low and a high mutual inclination component. Here, we show that a broad distribution of mutual inclinations arising from systems at the AMD-stability limit can also match the observed Kepler population. We show that distributing a planetary system's maximum AMD among its planets results in a multiplicity-dependent distribution of eccentricities and mutual inclinations. Systems with intrinsically more planets have lower median eccentricities and mutual inclinations, and this trend is well described by power-law functions of the intrinsic planet multiplicity (n): ${\\tildeμ }_e,n\\propto n^{-1.74_-0.07^+0.11}$ and ${\\tildeμ }_i,n\\propto n^{-1.73_-0.08^+0.09}$ , where ${\\tildeμ }_e,n$ and ${\\tildeμ }_i,n$ are the medians of the eccentricity and inclination distributions. We also find that intrinsic single planets have higher eccentricities (σ<SUB>e,1</SUB> ∼ 0.25) than multiplanet systems and that the trends with multiplicity appear in the observed distributions of period-normalized transit duration ratios. We show that the observed preferences for planet-size orderings and uniform spacings are more extreme than what can be produced by the detection biases of the Kepler mission alone. Finally, we find that for systems with detected transiting planets between 5 and 10 days, there is another planet with a greater radial velocity signal ≃53% of the time.\n"""
+tags = ["Dynamics", "Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "276"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Mutual Inclination", "Eccentricity Distribution", "Angular Momentum Deficit (AMD)"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

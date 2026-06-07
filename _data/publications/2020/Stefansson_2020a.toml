@@ -1,0 +1,20 @@
+title = "A Mini-Neptune and a Radius Valley Planet Orbiting the Nearby M2 Dwarf TOI-1266 in Its Venus Zone: Validation with the Habitable-zone Planet Finder"
+author = "{Stef\\'ansson}, Gu\\dhmundur and Kopparapu, Ravi and Lin, Andrea and Mahadevan, Suvrath and {Ca\\~nas}, Caleb I. and Kanodia, Shubham and Ninan, Joe P. and Cochran, William D. and Endl, Michael and Hebb, Leslie and Wisniewski, John and Gupta, Arvind and Everett, Mark and Bender, Chad F. and Diddams, Scott A. and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Levi, Eric and Maney, Marissa and Metcalf, Andrew J. and Monson, Andrew and Ramsey, Lawrence W. and Robertson, Paul and Roy, Arpita and Schwab, Christian and Terrien, Ryan C. and Wright, Jason T."
+year = "2020"
+month = "dec"
+journal = "AJ"
+volume = "160"
+number = "6"
+pages = "259"
+doi = "10.3847/1538-3881/abbe19"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....160..259S"
+entrytype = "article"
+abstract = """We report on the validation of two planets orbiting the nearby (36 pc) M2 dwarf TOI-1266 observed by the TESS mission. This system is one of a few M dwarf multiplanet systems with close-in planets where the inner planet is substantially larger than the outer planet. The inner planet is sub-Neptune-sized (R = 2.46 ± 0.08 R<SUB>⊕</SUB>) with an orbital period of 10.9 days, while the outer planet has a radius of $1.67_-0.11^+0.09$ R<SUB>⊕</SUB> and resides in the exoplanet radius valley—the transition region between rocky and gaseous planets. With an orbital period of 18.8 days, the outer planet receives an insolation flux of 2.4 times that of Earth, similar to the insolation of Venus. Using precision near-infrared radial velocities with the Habitable-zone Planet Finder Spectrograph, we place upper mass limits of 15.9 and 6.4 M<SUB>⊕</SUB> at 95% confidence for the inner and outer planet, respectively. A more precise mass constraint of both planets, achievable with current radial velocity instruments given the host star brightness (V = 12.9, J = 9.7), will yield further insights into the dominant processes sculpting the exoplanet radius valley.\n"""
+tags = ["HPF", "Radial Velocity"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures", "Radial Velocity Surveys"]
+eid = "259"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M Dwarf Stars", "Sub-Neptunes", "Exoplanet Radius Valley"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

@@ -1,4 +1,4 @@
 name        = "Correlated Noise in EPRV Time Series"
-url         = ""
+#url         = ""
 description = "Achieving the mass precision needed to characterize Earth-analog planets requires careful treatment of correlated noise in radial velocity time series. Our work (Luhn et al. 2023) quantified how correlated stellar and instrumental noise propagates into planet mass uncertainties, establishing realistic limits on what current and future EPRV surveys can achieve and informing observing strategy for detecting Earth-mass planets."
 sort_order  = 4

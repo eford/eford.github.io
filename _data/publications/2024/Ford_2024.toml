@@ -1,0 +1,21 @@
+title = "Earths within Reach: Evaluation of Strategies for Mitigating Solar Variability using 3.5 years of NEID Sun-as-a-Star Observations"
+author = "Ford, Eric B. and Bender, Chad F. and Blake, Cullen H. and Gupta, Arvind F. and Kanodia, Shubham and Lin, Andrea S.~J. and Logsdon, Sarah E. and Luhn, Jacob K. and Mahadevan, Suvrath and Palumbo, III, Michael L. and Terrien, Ryan C. and Wright, Jason T. and Zhao, Jinglin and Halverson, Samuel and Hunting, Emily and Robertson, Paul and Roy, Arpita and Stefansson, Gudmundur"
+year = "2024"
+month = "aug"
+journal = "arXiv e-prints"
+pages = "arXiv:2408.13318"
+doi = "10.48550/arXiv.2408.13318"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024arXiv240813318F"
+archiveprefix = "arXiv"
+eprint = "2408.13318"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We present the results of Sun-as-a-star observations by the NEID Solar Telescope at WIYN Observatory, spanning January 1, 2021 through June 30, 2024. We identify 117,060 observations which are unlikely to be significantly affected by weather, hardware or major calibration issues. We describe several high-level data products being made available to the community to aid in the interpretation and inter comparisons of NEID solar observations. Solar observations demonstrate excellent performance of NEID, including radial velocity (RV) accuracy and long-term stability of better than $~eq 0.37$ m s$^-1$ over $~eq 3.5$ years, even though NEID was not originally designed or optimized for daytime observations of the Sun. Currently, intrinsic stellar variability is the primary barrier to detecting Earth-analog planets for most nearby, Sun-like stars. We present a comparison of the effectiveness of several methods proposed to mitigate the effects of solar variability on the Sun's estimated RV. We find that the Scalpels algorithm performs particularly well and substantially reduces the RMS RV of solar spectra from over 2 m s$^-1$ to 0.277 m s$^-1$. Even when training on a subset of days with NEID solar observations and testing on a held-out sample, the RMS of cleaned RV is 0.34-0.42 m s$^-1$. This is significantly better than previous attempts at removing solar variability and suggests that the current generation of EPRV instruments are technically capable of detecting Earth-mass planets orbiting a solar twin if provided with sufficient observing time allocations ($~ 10³$ nights of observations).\n"""
+tags = ["NEID", "Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "arXiv:2408.13318"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Solar Variability", "Spectroscopy", "Radial Velocity Measurement"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

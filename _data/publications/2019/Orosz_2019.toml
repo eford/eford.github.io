@@ -1,0 +1,23 @@
+title = "Discovery of a Third Transiting Planet in the Kepler-47 Circumbinary System"
+author = "Orosz, Jerome A. and Welsh, William F. and Haghighipour, Nader and Quarles, Billy and Short, Donald R. and Mills, Sean M. and Satyal, Suman and Torres, Guillermo and Agol, Eric and Fabrycky, Daniel C. and Jontof-Hutter, Daniel and Windmiller, Gur and {M\\\"uller}, Tobias W.~A. and Hinse, Tobias C. and Cochran, William D. and Endl, Michael and Ford, Eric B. and Mazeh, Tsevi and Lissauer, Jack J."
+year = "2019"
+month = "may"
+journal = "AJ"
+volume = "157"
+number = "5"
+pages = "174"
+doi = "10.3847/1538-3881/ab0ca0"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019AJ....157..174O"
+archiveprefix = "arXiv"
+eprint = "1904.07255"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Of the nine confirmed transiting circumbinary planet systems, only Kepler-47 is known to contain more than one planet. Kepler-47 b (the “inner planet”) has an orbital period of 49.5 days and a radius of about 3 R <SUB>⊕</SUB>. Kepler-47 c (the “outer planet”) has an orbital period of 303.2 days and a radius of about 4.7 R <SUB>⊕</SUB>. Here we report the discovery of a third planet, Kepler-47 d (the “middle planet”), which has an orbital period of 187.4 days and a radius of about 7 R <SUB>⊕</SUB>. The presence of the middle planet allows us to place much better constraints on the masses of all three planets, where the 1σ ranges are less than 26 M <SUB>⊕</SUB>, between 7-43 M <SUB>⊕</SUB>, and between 2-5 M <SUB>⊕</SUB> for the inner, middle, and outer planets, respectively. The middle and outer planets have low bulk densities, with ρ <SUB>middle</SUB>}&lt; 0.68 g cm<SUP>-3</SUP> and ρ <SUB>outer</SUB> &lt; 0.26 g cm<SUP>-3</SUP> at the 1σ level. The two outer planets are “tightly packed,” assuming the nominal masses, meaning no other planet could stably orbit between them. All of the orbits have low eccentricities and are nearly coplanar, disfavoring violent scattering scenarios and suggesting gentle migration in the protoplanetary disk.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "174"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet systems", "Orbital stability", "Protoplanetary disks"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

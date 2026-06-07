@@ -1,0 +1,22 @@
+title = "Early-Type Stars: Most Favorable Targets for Astrometrically Detectable Planets in the Habitable Zone"
+author = "Gould, Andrew and Ford, Eric B. and Fischer, Debra A."
+year = "2003"
+month = "jul"
+journal = "ApJL"
+volume = "591"
+number = "2"
+pages = "L155-L158"
+doi = "10.1086/377147"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2003ApJ...591L.155G"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0302559"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Early-type stars appear to be a difficult place to look for planets astrometrically. First, they are relatively heavy, and for fixed planetary mass the astrometric signal falls inversely as the stellar mass. Second, they are relatively rare (and so tend to be more distant), and for fixed orbital separation the astrometric signal falls inversely as the distance. Nevertheless, because early-type stars are relatively more luminous, their habitable zones are at larger semimajor axis. Since astrometric signal scales directly as orbital size, this gives early-type stars a strong advantage, which more than compensates for the other two factors. Using the Hipparcos Catalog, we show that F and A stars constitute the majority of viable targets for astrometric searches for planets with semimajor axes currently in the habitable zone. Thus, astrometric surveys are complementary to transit searches, which are primarily sensitive to habitable planets around late-type stars.\n"""
+tags = ["Stars"]
+research_themes = ["Astrobiology", "Exoplanet Demographics", "Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Astrometry", "Habitable Zone"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

@@ -1,0 +1,23 @@
+title = "The Death of Vulcan: NEID Reveals That the Planet Candidate Orbiting HD 26965 Is Stellar Activity"
+author = "Burrows, Abigail and Halverson, Samuel and Siegel, Jared C. and Gilbertson, Christian and Luhn, Jacob and Burt, Jennifer and Bender, Chad F. and Roy, Arpita and Terrien, Ryan C. and Vangstein, Selma and Mahadevan, Suvrath and Wright, Jason T. and Robertson, Paul and Ford, Eric B. and {Stef\\'ansson}, Gumundur and Ninan, Joe P. and Blake, Cullen H. and McElwain, Michael W. and Schwab, Christian and Zhao, Jinglin"
+year = "2024"
+month = "may"
+journal = "AJ"
+volume = "167"
+number = "5"
+pages = "243"
+doi = "10.3847/1538-3881/ad34d5"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024AJ....167..243B"
+archiveprefix = "arXiv"
+eprint = "2404.17494"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We revisit the long-studied radial velocity (RV) target HD 26965 using recent observations from the NASA-NSF \"NEID\" precision Doppler facility. Leveraging a suite of classical activity indicators, combined with line-by-line RV analyses, we demonstrate that the claimed 45-day signal previously identified as a planet candidate is most likely an activity-induced signal. Correlating the bulk (spectrally averaged) RV with canonical line activity indicators confirms a multiday \"lag\" between the observed activity indicator time series and the measured RV. When accounting for this lag, we show that much of the observed RV signal can be removed by a linear detrending of the data. Investigating activity at the line-by-line level, we find a depth-dependent correlation between individual line RVs and the bulk RVs, further indicative of periodic suppression of convective blueshift causing the observed RV variability, rather than an orbiting planet. We conclude that the combined evidence of the activity correlations and depth dependence is consistent with an RV signature dominated by a rotationally modulated activity signal at a period of ∼42 days. We hypothesize that this activity signature is due to a combination of spots and convective blueshift suppression. The tools applied in our analysis are broadly applicable to other stars and could help paint a more comprehensive picture of the manifestations of stellar activity in future Doppler RV surveys. <SUP>*</SUP> HD 26965 is also known as 40 Eridani A, which is the host star of the planet Vulcan in the Star Trek universe.\n"""
+tags = ["NEID", "Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "243"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Activity", "Doppler Spectroscopy", "Line Profile Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

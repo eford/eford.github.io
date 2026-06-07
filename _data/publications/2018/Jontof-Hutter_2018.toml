@@ -1,0 +1,20 @@
+title = "Dynamical Constraints on Nontransiting Planets Orbiting TRAPPIST-1"
+author = "Jontof-Hutter, Daniel and Truong, Vinh H. and Ford, Eric B. and Robertson, Paul and Terrien, Ryan C."
+year = "2018"
+month = "jun"
+journal = "AJ"
+volume = "155"
+number = "6"
+pages = "239"
+doi = "10.3847/1538-3881/aabee8"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2018AJ....155..239J"
+entrytype = "article"
+abstract = """We derive lower bounds on the orbital distance and inclination of a putative planet beyond the transiting seven planets of TRAPPIST-1, for a range of masses ranging from 0.08 M <SUB>Jup</SUB> to 3.5 M <SUB>Jup</SUB>. While the outer architecture of this system will ultimately be constrained by radial velocity measurements over time, we present dynamical constraints from the remarkably coplanar configuration of the seven transiting planets, which is sensitive to modestly inclined perturbers. We find that the observed configuration is unlikely if a Jovian-mass planet inclined by ≥3° to the transiting planet exists within 0.53 au, exceeding any constraints from transit timing variations (TTV) induced in the known planets from an undetected perturber. Our results will inform RV programs targeting TRAPPIST-1, and for near coplanar outer planets, tighter constraints are anticipated for radial velocity (RV) precisions of ≲140 m s<SUP>-1</SUP>. At higher inclinations, putative planets are ruled out to greater orbital distances with orbital periods up to a few years.\n"""
+tags = ["Dynamics", "Radial Velocity", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "239"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Systems", "Orbital Inclination", "TRAPPIST-1"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

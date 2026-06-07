@@ -1,0 +1,17 @@
+title = "Dynamics and instabilities in exoplanetary systems"
+author = "Ford, Eric B."
+year = "2008"
+month = "may"
+volume = "249"
+pages = "441-446"
+doi = "10.1017/S1743921308016955"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2008IAUS..249..441F"
+entrytype = "inproceedings"
+abstract = """Extrasolar planet surveys have discovered over two dozen multiple planet systems. As radial velocity searches push towards higher precisions and longer survey durations, they can be expected to discover an even higher fraction of multiple planet systems. Combined with radial velocity data, dynamical studies of these systems can constrain planet masses and inclinations, measure the significance of resonant and secular interactions, and provide insights into the formation and evolution of these systems. Here, we review the dynamical properties of known extrasolar multiple planet systems and their implications for planet formation theory. We conclude by outlining pressing questions to be addressed by a combination of future observations and theoretical research.\n"""
+tags = ["Dynamics", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multiple Planet Systems", "Exoplanetary Dynamics"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys"]

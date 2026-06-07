@@ -1,0 +1,23 @@
+title = "RUN DMC: An Efficient, Parallel Code for Analyzing Radial Velocity Observations Using N-body Integrations and Differential Evolution Markov Chain Monte Carlo"
+author = "Nelson, Benjamin and Ford, Eric B. and Payne, Matthew J."
+year = "2014"
+month = "jan"
+journal = "ApJS"
+volume = "210"
+number = "1"
+pages = "11"
+doi = "10.1088/0067-0049/210/1/11"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2014ApJS..210...11N"
+archiveprefix = "arXiv"
+eprint = "1311.5229"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """In the 20+ years of Doppler observations of stars, scientists have uncovered a diverse population of extrasolar multi-planet systems. A common technique for characterizing the orbital elements of these planets is the Markov Chain Monte Carlo (MCMC), using a Keplerian model with random walk proposals and paired with the Metropolis-Hastings algorithm. For approximately a couple of dozen planetary systems with Doppler observations, there are strong planet-planet interactions due to the system being in or near a mean-motion resonance (MMR). An N-body model is often required to accurately describe these systems. Further computational difficulties arise from exploring a high-dimensional parameter space (~7 × number of planets) that can have complex parameter correlations, particularly for systems near a MMR. To surmount these challenges, we introduce a differential evolution MCMC (DEMCMC) algorithm applied to radial velocity data while incorporating self-consistent N-body integrations. Our Radial velocity Using N-body DEMCMC (RUN DMC) algorithm improves upon the random walk proposal distribution of the traditional MCMC by using an ensemble of Markov chains to adaptively improve the proposal distribution. RUN DMC can sample more efficiently from high-dimensional parameter spaces that have strong correlations between model parameters. We describe the methodology behind the algorithm, along with results of tests for accuracy and performance. We find that most algorithm parameters have a modest effect on the rate of convergence. However, the size of the ensemble can have a strong effect on performance. We show that the optimal choice depends on the number of planets in a system, as well as the computer architecture used and the resulting extent of parallelization. While the exact choices of optimal algorithm parameters will inevitably vary due to the details of individual planetary systems (e.g., number of planets, number of observations, orbital periods, and signal-to-noise of each planet), we offer recommendations for choosing the DEMCMC algorithm's algorithmic parameters that result in excellent performance for a wide variety of planetary systems.\n"""
+tags = ["Dynamics", "High Performance Computing", "Radial Velocity"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]
+eid = "11"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["N-body Simulation", "Markov Chain Monte Carlo", "Differential Evolution", "Multi-planet Systems"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

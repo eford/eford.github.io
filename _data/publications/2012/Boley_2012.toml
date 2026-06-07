@@ -1,0 +1,23 @@
+title = "Interactions between Moderate- and Long-period Giant Planets: Scattering Experiments for Systems in Isolation and with Stellar Flybys"
+author = "Boley, Aaron C. and Payne, Matthew J. and Ford, Eric B."
+year = "2012"
+month = "jul"
+journal = "ApJ"
+volume = "754"
+number = "1"
+pages = "57"
+doi = "10.1088/0004-637X/754/1/57"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...754...57B"
+archiveprefix = "arXiv"
+eprint = "1204.5187"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The chance that a planetary system will interact with another member of its host star's nascent cluster would be greatly increased if gas giant planets form in situ on wide orbits. In this paper, we explore the outcomes of planet-planet scattering for a distribution of multi-planet systems that all have one of the planets on an initial orbit of 100 AU. The scattering experiments are run with and without stellar flybys. We convolve the outcomes with distributions for protoplanetary disk and stellar cluster sizes to generalize the results where possible. We find that the frequencies of large mutual inclinations and high eccentricities are sensitive to the number of planets in a system, but not strongly to stellar flybys. However, flybys do play a role in changing the low and moderate portions of the mutual inclination distributions, and erase dynamically cold initial conditions on average. Wide-orbit planets can be mixed throughout the planetary system, and in some cases, can potentially become hot Jupiters, which we demonstrate using scattering experiments that include a tidal damping model. If planets form in situ on wide orbits, then there will be discernible differences in the proper-motion distributions of a sample of wide-orbit planets compared with a pure scattering formation mechanism. Stellar flybys can enhance the frequency of ejections in planetary systems, but autoionization is likely to remain the dominant source of free-floating planets.\n"""
+tags = ["Dynamics", "Planet-planet scattering"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "57"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Giant Planets", "Wide Orbit Planets", "Stellar Flybys"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

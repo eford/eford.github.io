@@ -1,0 +1,23 @@
+title = "Planetesimal Interactions Can Explain the Mysterious Period Ratios of Small Near-Resonant Planets"
+author = "Chatterjee, Sourav and Ford, Eric B."
+year = "2015"
+month = "apr"
+journal = "ApJ"
+volume = "803"
+number = "1"
+pages = "33"
+doi = "10.1088/0004-637X/803/1/33"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2015ApJ...803...33C"
+archiveprefix = "arXiv"
+eprint = "1406.0521"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """An intriguing trend among Kepler’s multi-planet systems is an overabundance of planet pairs with period ratios just wide of a mean motion resonance (MMR) and a dearth of systems just narrow of them. Traditional planet formation models are at odds with these observations. They are also in contrast with the period ratios of radial-velocity-discovered multi-planet systems which tend to pile up at 2:1 MMR. We propose that gas-disk migration traps planets in an MMR. After gas dispersal, orbits of these trapped planets are altered through interaction with a residual planetesimal disk. We study the effects of planetesimal disk interactions on planet pairs trapped in 2:1 MMR using planets of mass typical of the Kepler planet candidates and explore large ranges for the mass, and density profile of the planetesimal disk. We find that planet-planetesimal disk interactions naturally create the observed asymmetry in period-ratio distribution for large ranges of planetesimal disk and planet properties. If the planetesimal disk mass is above a threshold of ≈0.2× the planet mass, these interactions typically disrupt MMR. Afterwards, the planets migrate in such a way that the final period-ratio is slightly higher than the integer ratio corresponding to the initial MMR. Below this threshold these interactions typically cannot disrupt the resonance and the period ratio stays close to the integer ratio. The threshold explains why the more massive planet pairs found by RV surveys are still in resonance. We encourage future research to explore how significantly the associated accretion would change the planets’ atmospheric and surface properties.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "33"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Planetesimal Disk", "Mean Motion Resonance", "Migration"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

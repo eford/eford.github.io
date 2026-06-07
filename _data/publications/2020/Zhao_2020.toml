@@ -1,0 +1,20 @@
+title = "The EXPRES Stellar-signals Project. I. Description of Data"
+author = "Zhao, Lily and Fischer, Debra A. and Ford, Eric B. and Henry, Gregory W. and Roettenbacher, Rachael M. and Brewer, John M."
+year = "2020"
+month = "sep"
+journal = "Research Notes of the American Astronomical Society"
+volume = "4"
+number = "9"
+pages = "156"
+doi = "10.3847/2515-5172/abb8d0"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020RNAAS...4..156Z"
+entrytype = "article"
+abstract = """The EXPRES Stellar-Signals Project is providing sets of high-fidelity, spectroscopic and photometric observations to enable direct comparisons of various approaches for disentangling stellar signals and true radial velocities (RVs). We will provide all EXPRES RVs, meta data, and activity indicators as well as high-precision photometric data from the Fairborn Automatic Photoelectric Telescopes (APTs) for HD 101501, HD 34411, HD 217014, and HD 10700. Intrinsic stellar variability and the resulting apparent RVs are widely believed to dominate the error budget for extremely precise radial-velocity (EPRV) measurements. Several new methods to disentangle photospheric velocities from Keplerian velocities are being developed throughout the EPRV community. In addition to releasing data sets for testing these methods, the EXPRES Stellar-Signals Project will publish a summary of the current state of the field circa 2020 to guide next steps toward mitigating photospheric velocities in EPRV data. More information can be found on http://exoplanets.astro.yale.edu/science/activity.php.\n"""
+tags = ["EXPRES", "Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "156"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Spectroscopy", "Photometry", "Stellar Activity"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

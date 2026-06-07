@@ -1,0 +1,23 @@
+title = "A Dynamical Analysis of the Kepler-80 System of Five Transiting Planets"
+author = "MacDonald, Mariah G. and Ragozzine, Darin and Fabrycky, Daniel C. and Ford, Eric B. and Holman, Matthew J. and Isaacson, Howard T. and Lissauer, Jack J. and Lopez, Eric D. and Mazeh, Tsevi and Rogers, Leslie and Rowe, Jason F. and Steffen, Jason H. and Torres, Guillermo"
+year = "2016"
+month = "oct"
+journal = "AJ"
+volume = "152"
+number = "4"
+pages = "105"
+doi = "10.3847/0004-6256/152/4/105"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016AJ....152..105M"
+archiveprefix = "arXiv"
+eprint = "1607.07540"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Kepler has discovered hundreds of systems with multiple transiting exoplanets which hold tremendous potential both individually and collectively for understanding the formation and evolution of planetary systems. Many of these systems consist of multiple small planets with periods less than ∼50 days known as Systems with Tightly spaced Inner Planets, or STIPs. One especially intriguing STIP, Kepler-80 (KOI-500), contains five transiting planets: f, d, e, b, and c with periods of 1.0, 3.1, 4.6, 7.1, and 9.5 days, respectively. We provide measurements of transit times and a transit timing variation (TTV) dynamical analysis. We find that TTVs cannot reliably detect eccentricities for this system, though mass estimates are not affected. Restricting the eccentricity to a reasonable range, we infer masses for the outer four planets (d, e, b, and c) to be 6.75<SUB>-0.51</SUB><SUP>+0.69</SUP>, 4.13<SUB>-0.95</SUB><SUP>+0.81</SUP>, 6.93<SUB>-0.70</SUB><SUP>+1.05</SUP>, and 6.74<SUB>-0.86</SUB><SUP>+1.23</SUP> Earth masses, respectively. The similar masses but different radii are consistent with terrestrial compositions for d and e and ∼2% H/He envelopes for b and c. We confirm that the outer four planets are in a rare dynamical configuration with four interconnected three-body resonances that are librating with few degree amplitudes. We present a formation model that can reproduce the observed configuration by starting with a multi-resonant chain and introducing dissipation. Overall, the information-rich Kepler-80 planets provide an important perspective into exoplanetary systems.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "105"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanetary Atmospheres", "Planetary Formation Models", "Multi-planet Systems"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

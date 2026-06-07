@@ -1,0 +1,23 @@
+title = "The Neptune-sized Circumbinary Planet Kepler-38b"
+author = "Orosz, Jerome A. and Welsh, William F. and Carter, Joshua A. and Brugamyer, Erik and Buchhave, Lars A. and Cochran, William D. and Endl, Michael and Ford, Eric B. and MacQueen, Phillip and Short, Donald R. and Torres, Guillermo and Windmiller, Gur and Agol, Eric and Barclay, Thomas and Caldwell, Douglas A. and Clarke, Bruce D. and Doyle, Laurance R. and Fabrycky, Daniel C. and Geary, John C. and Haghighipour, Nader and Holman, Matthew J. and Ibrahim, Khadeejah A. and Jenkins, Jon M. and Kinemuchi, Karen and Li, Jie and Lissauer, Jack J. and {Pr{\\vs}a}, Andrej and Ragozzine, Darin and Shporer, Avi and Still, Martin and Wade, Richard A."
+year = "2012"
+month = "oct"
+journal = "ApJ"
+volume = "758"
+number = "2"
+pages = "87"
+doi = "10.1088/0004-637X/758/2/87"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...758...87O"
+archiveprefix = "arXiv"
+eprint = "1208.3712"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """We discuss the discovery and characterization of the circumbinary planet Kepler-38b. The stellar binary is single-lined, with a period of 18.8 days, and consists of a moderately evolved main-sequence star (M<SUB>A</SUB> = 0.949 ± 0.059 M <SUB>☉</SUB> and R<SUB>A</SUB> = 1.757 ± 0.034 R <SUB>☉</SUB>) paired with a low-mass star (M<SUB>B</SUB> = 0.249 ± 0.010 M <SUB>☉</SUB> and R<SUB>B</SUB> = 0.2724 ± 0.0053 R <SUB>☉</SUB>) in a mildly eccentric (e = 0.103) orbit. A total of eight transits due to a circumbinary planet crossing the primary star were identified in the Kepler light curve (using Kepler Quarters 1-11), from which a planetary period of 105.595 ± 0.053 days can be established. A photometric dynamical model fit to the radial velocity curve and Kepler light curve yields a planetary radius of 4.35 ± 0.11 R <SUB>⊕</SUB>, or equivalently 1.12 ± 0.03 R <SUB>Nep</SUB>. Since the planet is not sufficiently massive to observably alter the orbit of the binary from Keplerian motion, we can only place an upper limit on the mass of the planet of 122 M <SUB>⊕</SUB> (7.11 M <SUB>Nep</SUB> or equivalently 0.384 M <SUB>Jup</SUB>) at 95% confidence. This upper limit should decrease as more Kepler data become available. <P />Based on observations obtained with the Hobby-Eberly Telescope, which is a joint project of the University of Texas at Austin, the Pennsylvania State University, Stanford University, Ludwig-Maximilians-Universität München, and Georg-August-Universität Göttingen.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "87"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Circumbinary Systems", "Photometry", "Multi-star Systems"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

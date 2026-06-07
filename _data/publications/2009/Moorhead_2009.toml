@@ -1,0 +1,21 @@
+title = "Type II migration of planets on eccentric orbits"
+author = "Moorhead, Althea V. and Ford, Eric B."
+year = "2009"
+month = "apr"
+journal = "arXiv e-prints"
+pages = "arXiv:0904.3336"
+doi = "10.48550/arXiv.0904.3336"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009arXiv0904.3336M"
+archiveprefix = "arXiv"
+eprint = "0904.3336"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The observed extrasolar planets possess both large masses (with a median M sin i of 1.65 MJ) and a wide range in orbital eccentricity (0 &lt; e &lt; 0.94). As planets are thought to form in circumstellar disks, one important question in planet formation is determining whether, and to what degree, a gaseous disk affects an eccentric planet's orbit. Recent studies have probed the interaction between a disk and a terrestrial planet on an eccentric orbit, and the interaction between a disk and a gas giant on a nearly circular orbit, but little is known about the interaction between a disk and an eccentric gas giant. Such a scenario could arise due to scattering while the disk is still present, or perhaps through planet formation via gravitational instability. We fill this gap with simulations of eccentric, massive (gap-forming) planets in disks using the hydrodynamical code FARGO. Although the long-term orbital evolution of the planet depends on disk properties, including the boundary conditions used, the disk always acts to damp eccentricity when the planet is released into the disk. This eccentricity damping takes place on a timescale of 40 years, 15 times faster than the migration timescale.\n"""
+tags = ["Dynamics", "High Performance Computing", "Planet-planet scattering"]
+research_themes = ["Orbital Dynamics & Planet Formation"]
+eid = "arXiv:0904.3336"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Disk Interaction", "Eccentricity Damping", "Exoplanet Migration"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation"]

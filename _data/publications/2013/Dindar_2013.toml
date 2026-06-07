@@ -1,0 +1,21 @@
+title = "Swarm-NG: A CUDA library for Parallel n-body Integrations with focus on simulations of planetary systems"
+author = "Dindar, Saleh and Ford, Eric B. and Juric, Mario and Yeo, Young In and Gao, Jianwei and Boley, Aaron C. and Nelson, Benjamin and Peters, J\\\"org"
+year = "2013"
+month = "oct"
+journal = "\\na"
+volume = "23"
+pages = "6-18"
+doi = "10.1016/j.newast.2013.01.002"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013NewA...23....6D"
+archiveprefix = "arXiv"
+eprint = "1208.1157"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present Swarm-NG, a C++ library for the efficient direct integration of many n-body systems using a Graphics Processing Unit (GPU), such as NVIDIA's Tesla T10 and M2070 GPUs. While previous studies have demonstrated the benefit of GPUs for n-body simulations with thousands to millions of bodies, Swarm-NG focuses on many few-body systems, e.g., thousands of systems with 3…15 bodies each, as is typical for the study of planetary systems. Swarm-NG parallelizes the simulation, including both the numerical integration of the equations of motion and the evaluation of forces using NVIDIA's \"Compute Unified Device Architecture\" (CUDA) on the GPU. Swarm-NG includes optimized implementations of 4th order time-symmetrized Hermite integration and mixed variable symplectic integration, as well as several sample codes for other algorithms to illustrate how non-CUDA-savvy users may themselves introduce customized integrators into the Swarm-NG framework. To optimize performance, we analyze the effect of GPU-specific parameters on performance under double precision. For an ensemble of 131072 planetary systems, each containing three bodies, the NVIDIA Tesla M2070 GPU outperforms a 6-core Intel Xeon X5675 CPU by a factor of ∼2.75. Thus, we conclude that modern GPUs offer an attractive alternative to a cluster of CPUs for the integration of an ensemble of many few-body systems. Applications of Swarm-NG include studying the late stages of planet formation, testing the stability of planetary systems and evaluating the goodness-of-fit between many planetary system models and observations of extrasolar planet host stars (e.g., radial velocity, astrometry, transit timing). While Swarm-NG focuses on the parallel integration of many planetary systems, the underlying integrators could be applied to a wide variety of problems that require repeatedly integrating a set of ordinary differential equations many times using different initial conditions and/or parameter values.\n"""
+tags = ["Dynamics", "High Performance Computing"]
+research_themes = ["High-Performance Computing", "Orbital Dynamics & Planet Formation"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["N-body simulations", "CUDA", "Planetary Dynamics", "Ordinary Differential Equations"]
+# suggested_research_themes  = ["High-Performance Computing", "Orbital Dynamics & Planet Formation"]

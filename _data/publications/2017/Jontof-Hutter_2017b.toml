@@ -1,0 +1,23 @@
+title = "Outer Architecture of Kepler-11: Constraints from Coplanarity"
+author = "Jontof-Hutter, Daniel and Weaver, Brian P. and Ford, Eric B. and Lissauer, Jack J. and Fabrycky, Daniel C."
+year = "2017"
+month = "may"
+journal = "AJ"
+volume = "153"
+number = "5"
+pages = "227"
+doi = "10.3847/1538-3881/aa6afd"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2017AJ....153..227J"
+archiveprefix = "arXiv"
+eprint = "1703.08829"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The outer architectures of Kepler’s compact systems of multiple transiting planets remain poorly constrained, and few of these systems have lower bounds on the orbital distance of any massive outer planets. We infer a minimum orbital distance and upper limits on the inclination of a hypothetical Jovian-mass planet orbiting exterior to the six transiting planets at Kepler-11. Our constraints are derived from dynamical models together with observations provided by the Kepler mission. First, the lack of transit timing variations (TTV) in the outermost transiting planet Kepler-11 g imply that the system does not contain a Jovian-mass perturber within 2 au from the star. Second, we test under what initial conditions a Jovian-mass planet moderately inclined from the transiting planets would make their co-transiting configuration unlikely. The transiting planets are secularly coupled and exhibit small mutual inclinations over long timescales, although the outermost transiting planet, Kepler-11 g, is weakly coupled to the inner five. We rule out a Jovian-mass planet on a 3° inclination within 3.0 au, and higher inclinations out to farther orbital distances, unless an undetected planet exists orbiting in the dynamical gap between Kepler-11 f and Kepler-11 g. Our constraints depend little on whether we assume the six transiting planets of Kepler-11 were initially perfectly coplanar or whether a minimum initial mutual inclination between the transiting planets is adopted based on the measured impact parameters of the transiting planets.\n"""
+tags = ["Dynamics", "Kepler", "Secular evolution", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "227"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Orbital Inclination", "Multi-planet Systems"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
