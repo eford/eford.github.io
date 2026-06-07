@@ -67,34 +67,34 @@ Ultimately, my research aims to improve our understanding of planet formation & 
        <a href="https://neid.psu.edu/">NEID</a> and <a href="https://hpf.psu.edu/">HPF</a>,
        including data-driven approaches to mitigate stellar variability using 3.5 years of
        Sun-as-a-Star observations from the NEID Solar Telescope.</p>
-    <a class="spotlight-link" href="/research/#extremely_precise_radial_velocity_surveys">Read the research </a>
+    <a class="spotlight-link" href="/research/eprv/">Read the research </a>
   </div>
 </figure>
 
 <!-- Existing 6-up grid (unchanged) -->
 <div class="card-grid">
   <div class="card">
-    <h3>🔭 <a href="research/#extremely_precise_radial_velocity_surveys">Extremely Precise Radial Velocities</a></h3>
+    <h3>🔭 <a href="research/eprv/">Extremely Precise Radial Velocities</a></h3>
     <p>Developing methods to detect Earth-like planets using next-generation spectrographs like <a href="https://neid.psu.edu/">NEID</a> and <a href="https://hpf.psu.edu/">HPF</a>, including data-driven methods to mitigate stellar variability using Sun-as-a-star observations.</p>
   </div>
   <div class="card">
-    <h3>📊 <a href="research/#exoplanet_demographics">Exoplanet Demographics</a></h3>
+    <h3>📊 <a href="research/demographics/">Exoplanet Demographics</a></h3>
     <p>Measuring occurrence rates of exoplanets and the planetary system architectures using data from NASA's <a href="https://science.nasa.gov/mission/kepler/">Kepler mission</a>. Incorporating Bayesian methods, hierarchical models, Approximate Bayesian Computing, and simulation-based inference.</p>
   </div>
   <div class="card">
-    <h3>🪐 <a href="research/#orbital_dynamics_planet_formation">Orbital Dynamics &amp; Formation</a></h3>
+    <h3>🪐 <a href="research/dynamics/">Orbital Dynamics &amp; Formation</a></h3>
     <p>Transit timing variations, planet-planet scattering, secular evolution of multiple planet systems, orbital migration, and planets in binary systems, and the dynamical processes that shape planetary system architectures.</p>
   </div>
   <div class="card">
-    <h3>📈 <a href="research/#astrostatistics_data_science_methods">Astrostatistics &amp; Astroinformatics</a></h3>
+    <h3>📈 <a href="research/astrostats/">Astrostatistics &amp; Astroinformatics</a></h3>
     <p>Bayesian inference, MCMC methods, Gaussian processes, and Approximate Bayesian Computation, and Scientific Machine Learning for improving exoplanet science.</p>
   </div>
   <div class="card">
-    <h3>💻 <a href="research/#high-performance_computing_for_astrophysics">High-Performance Computing</a></h3>
+    <h3>💻 <a href="research/hpc/">High-Performance Computing</a></h3>
     <p>GPU computing, parallel algorithms, and the Julia programming language for computationally intensive astrophysical problems and reproducible research.</p>
   </div>
   <div class="card">
-    <h3>🌍 <a href="research/#astrobiology">Life in the Universe</a></h3>
+    <h3>🌍 <a href="research/astrobiology/">Life in the Universe</a></h3>
     <p>Placing our Solar System in context, strategies to characterize potentially habitable worlds, and evaluating the prospects for life around other stars.</p>
   </div>
 </div>
