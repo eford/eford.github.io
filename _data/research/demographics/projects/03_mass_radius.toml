@@ -1,0 +1,4 @@
+name        = "Mass-Radius Relationships"
+#url         = "https://github.com/shbhuk/mrexo"
+description = "Connecting planet masses to radii requires probabilistic models that handle measurement uncertainties, upper limits, and dependence on additional variables such as stellar irradiation and host-star mass. Our work ranges from early probabilistic mass-radius relations for sub-Neptune-sized planets (Wolfgang, Rogers & Ford 2016) to the MRExo package, which uses non-parametric Bayesian methods to jointly model up to four observables simultaneously, revealing how bulk-composition trends evolve with insolation and stellar mass."
+sort_order  = 3

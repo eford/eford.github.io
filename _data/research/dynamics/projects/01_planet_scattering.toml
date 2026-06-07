@@ -1,0 +1,4 @@
+name        = "Planet-Planet Scattering"
+url         = ""
+description = "Gravitational scattering between giant planets during the late stages of system assembly can produce the eccentric and hot Jupiters we observe today. We use N-body simulations and statistical comparisons with observed eccentricity distributions to quantify how often scattering occurs and what outcomes it produces, building on early work showing that planet-planet scattering is a key channel for generating hot-Jupiters and the broad eccentricity distribution of giant exoplanets (Rasio & Ford 1996; Ford & Rasio 2008; Chatterjee et al. 2008)."
+sort_order  = 4

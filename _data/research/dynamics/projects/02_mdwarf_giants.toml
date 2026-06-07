@@ -1,0 +1,4 @@
+name        = "Giant Planets around M Dwarfs"
+url         = ""
+description = "The existence of Jupiter- and Neptune-mass planets around very low-mass stars places strong constraints on core-accretion and disk-instability models. We study these systems theoretically and in connection with the Searching for GEMS (Giant Exoplanets around M-dwarf Stars) survey, which uses TESS photometry and radial velocity follow-up to measure the occurrence and bulk properties of giant planets around low-mass stars (Stefansson et al. 2023; Kanodia et al. 2024)."
+sort_order  = 2

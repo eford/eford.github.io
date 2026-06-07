@@ -1,0 +1,4 @@
+name        = "Analysis of Extremely Precise Radial Velocity Observations"
+url         = "https://github.com/RvSpectML"
+description = "Extracting precise radial velocities from high-resolution spectra involves fitting thousands of spectral lines across hundreds of observations per star.  This is computationally intensive even for a single target, and demanding at survey scale. Our RvSpectML ecosystem provides Julia tools for line-by-line modeling, telluric correction, and stellar variability characterization. "
+sort_order  = 2

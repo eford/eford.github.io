@@ -1,0 +1,4 @@
+name        = "Occurrence Rates"
+url         = ""
+description = "We use Bayesian hierarchical models and Approximate Bayesian Computation (ABC) to measure how common planets are around FGK stars and M dwarfs, rigorously accounting for survey completeness, detection efficiency, and measurement uncertainties. We improved estimates of η⊕, the frequency of Earth-analogs in the habitable zones of Sun-like stars, by rigorously accounting for interaction of detection biases and measurement uncertainties.  Current work includes the Searching for GEMS survey (Giant Exoplanets around M-dwarf Stars) to constrain the occurrence and bulk densities of giant planets around low-mass stars.  "
+sort_order  = 1

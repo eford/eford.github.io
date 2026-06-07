@@ -1,0 +1,4 @@
+name        = "Reviews & Methodology"
+url         = "https://doi.org/10.1146/annurev-statistics-033021-112856"
+description = "I have contributed to review articles and methodological frameworks that survey the state of the art in statistical exoplanet science. Hara & Ford (Annual Review of Statistics and Its Application, 2023) frames radial velocity analysis as detection and parameter estimation in unevenly-sampled multivariate time series with correlated stochastic signals. I also contributed to community planning for AI in the Mathematical and Physical Sciences (Ferguson et al. 2025)."
+sort_order  = 1

@@ -1,0 +1,4 @@
+name        = "Population Synthesis Computing"
+url         = "https://github.com/ExoJulia/ExoplanetsSysSim.jl"
+description = "Forward-modeling planetary populations requires jointly sampling over millions of synthetic planetary systems and comparing them to survey data.   Our group developed the ExoplanetsSysSim ecosystem (ExoplanetsSysSim.jl, SysSimExClusters, SysSimPyMMEN) in Julia, exploiting surrogate models, multi-threading, and distributed computing to make demographic inference with state-of-the-art population models tractable on the Penn State Roar Collab cluster."
+sort_order  = 1

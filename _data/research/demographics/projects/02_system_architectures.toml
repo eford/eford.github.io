@@ -1,0 +1,4 @@
+name        = "Planetary System Architectures (SysSim)"
+#url         = "https://github.com/ExoJulia/ExoplanetsSysSim.jl"
+description = "Our SysSim forward-modeling framework characterizes the distribution of planetay system *architectures*, that is features of planetary *systems* rather than individual planets (e.g., distributions of planet multiplicities, relative sizes, orbital spacing, and mutual inclinations. The latest version combines AMD-stable clustered architectures with photoevaporation-driven envelope mass loss, producing the first single multi-planet model to simultaneously reproduce the Kepler radius valley and the observed intra-system size similarity (the \"peas-in-a-pod\" pattern). SysSim also underpins \"friends and foes\" studies of how the presence of one planet conditions the occurrence of additional companions."
+sort_order  = 2

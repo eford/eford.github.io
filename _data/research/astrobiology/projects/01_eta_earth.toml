@@ -1,0 +1,4 @@
+name        = "Frequency of Earth-like Planets (η⊕)"
+url         = ""
+description = "Quantifying η⊕, the occurrence rate of Earth-analogs in the habitable zones of Sun-like stars, and characterizing the uncertainties that limit it. Reliable estimates are a prerequisite for defensible mission yield calculations. Our work includes Bayesian analyses of Kepler data (Hsu et al. 2020), population-synthesis constraints from SysSim (He et al. 2026), and a review of why published estimates disagree and what observations are needed to converge (Fernandes et al. 2025)."
+sort_order  = 1

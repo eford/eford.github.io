@@ -18,7 +18,7 @@ julia --project=. scripts/build_local.jl</code></pre> <h3 id=import_publications
 
 </ol>
 <h3 id=key_data_directories ><a href="#key_data_directories" class=header-anchor >Key Data Directories</a></h3>
-<table><tr><th align=right >Directory<th align=right >Content<tr><td align=right ><code>_data/members/</code><td align=right >PI, postdocs, grad students, former members — each a TOML file<tr><td align=right ><code>_data/courses/psu_recent/</code><td align=right >Course cards &#40;title, emoji, description, archive_url&#41;<tr><td align=right ><code>_data/software/</code><td align=right >Software projects grouped by category subdirectory<tr><td align=right ><code>_data/publications/YYYY/</code><td align=right >Publication entries by year &#40;parsed from ADS BibTeX&#41;</table>
+<table><tr><th align=right >Directory<th align=right >Content<tr><td align=right ><code>_data/members/</code><td align=right >PI, postdocs, grad students, former members — each a TOML file<tr><td align=right ><code>_data/courses/psu_recent/</code><td align=right >Course cards &#40;title, emoji, description, archive_url&#41;<tr><td align=right ><code>_data/software/</code><td align=right >Software projects grouped by category subdirectory<tr><td align=right ><code>_data/publications/YYYY/</code><td align=right >Publication entries by year &#40;parsed from ADS BibTeX&#41;<tr><td align=right ><code>_data/research/RESEARCH_AREA/projects/</code><td align=right >Key research proejcts within RESEARCH_AREA</table>
 <h3 id=franklin_helper_functions_utilsjl ><a href="#franklin_helper_functions_utilsjl" class=header-anchor >Franklin Helper Functions &#40;<code>utils.jl</code>&#41;</a></h3>
 <table><tr><th align=right >Function<th align=right >Purpose<tr><td align=right ><code>hfun_member_cards_from_dir</code><td align=right >Render all member TOMLs from a directory<tr><td align=right ><code>hfun_course_cards_from_dir</code><td align=right >Render course cards from a directory<tr><td align=right ><code>hfun_software_cards_from_dir</code><td align=right >Render software cards from a directory<tr><td align=right ><code>hfun_publication_list</code><td align=right >Filter &amp; render publications by <code>research_theme</code> and/or <code>tags</code><tr><td align=right ><code>format_citation</code><td align=right >Format a single publication TOML as HTML citation</table>
 <h3 id=publication_toml_fields ><a href="#publication_toml_fields" class=header-anchor >Publication TOML Fields</a></h3>
@@ -32,6 +32,8 @@ julia --project=. scripts/build_local.jl</code></pre> <h3 id=import_publications
 <li><p><strong>New software</strong>: add <code>_data/software/&lt;category&gt;/&lt;name&gt;.toml</code></p>
 
 <li><p><strong>New publication</strong>: add <code>_data/publications/&lt;year&gt;/&lt;key&gt;.toml</code> &#40;or run <code>parse_publications.jl</code> &#41;</p>
+
+<li><p><strong>New research project</strong>: add <code>_data/research/&lt;research_area&gt;/projects/&lt;name&gt;.toml</code></p>
 
 </ul>
 <h3 id=layouts_styles ><a href="#layouts_styles" class=header-anchor >Layouts &amp; Styles</a></h3>
@@ -48,7 +50,7 @@ julia --project=. scripts/build_local.jl</code></pre> <h3 id=import_publications
 <footer class=site-footer >
   <div class=footer-inner >
     <p>&copy; 2024–2026 Eric B. Ford &middot;
-    Last updated May 18, 2026. &middot; 
+    Last updated June 7, 2026. &middot; 
     Built with <a href="https://julialang.org/">Julia</a>, <a href="https://franklinjl.org/">Franklin.jl</a>, <a href="https://github.com/">GitHub</a>, and <a href="https://claude.ai">Claude</a> 
     <br>If you find errors or would like to suggest an improvement, please open a pull request in the <a href="https://github.com/eford/eford.github.io">GitHub source</a> repository.
     </p>

@@ -1,0 +1,4 @@
+name        = "MCMC for Exoplanet Analysis"
+url         = ""
+description = "Our group has a long history of applying Markov chain Monte Carlo methods to radial velocity exoplanet surveys, beginning with early work on incorporating MCMC into RV analysis (Ford 2005, 2006). This continues with differential-evolution MCMC and Bayesian evidence estimation for multi-planet radial-velocity systems (Nelson et al. 2014, 2020), enabling robust detection and characterization of planetary signals in the presence of stellar noise."
+sort_order  = 2

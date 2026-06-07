@@ -1,0 +1,4 @@
+name        = "Spin-Orbit Angles & Rossiter-McLaughlin Measurements"
+url         = ""
+description = "We measure the alignment between planetary orbits and their host star's rotation axis using the Rossiter-McLaughlin effect with NEID and HPF. These measurements reveal how planets arrived at their current orbits: well-aligned systems suggest quiescent disk migration, while misaligned or polar orbits point to dynamical processes such as Kozai-Lidov oscillations or planet-planet scattering. Recent results include a polar orbit for the warm Neptune GJ 3470b and well-aligned warm Jupiters in unusual binary configurations."
+sort_order  = 3

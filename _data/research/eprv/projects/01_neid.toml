@@ -1,0 +1,4 @@
+name        = "NEID Solar Telescope"
+url         = "https://neid.psu.edu/"
+description = "A state-of-the-art radial velocity spectrograph on the WIYN 3.5m telescope at Kitt Peak National Observatory. Our group contributes to the NEID science team, particularly in the analysis of data from the NEID Solar Telescope that observes the Sun-as-a-star.  This provides a unique dataset for developing and evaluating methods to characterize and mitigate stellar variability."
+sort_order  = 1
