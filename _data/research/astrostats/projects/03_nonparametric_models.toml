@@ -1,0 +1,4 @@
+name        = "Multi-Dimensional Nonparametric Models"
+url         = "https://github.com/shbhuk/mrexo"
+description = "The MRExo package implements nonparametric and probabilistic frameworks for jointly modeling planet observables such as mass, radius, insolation, and stellar mass. Kanodia et al. (2023) generalized earlier mass-radius relationships to handle up to four observables simultaneously, with asymmetric uncertainties and upper limits, revealing how composition trends evolve with insolation and host-star mass."
+sort_order  = 3

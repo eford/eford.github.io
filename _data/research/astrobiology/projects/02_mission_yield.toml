@@ -1,0 +1,4 @@
+name        = "Exoplanet Survey Design & Mission Yield"
+url         = ""
+description = "Probabilistic yield analyses and design trades for exoplanet surveys and future characterization missions such as the Habitable Worlds Observatory (HWO). We model how astrophysical uncertainties in stellar properties, planet occurrence, and zodiacal dust translate into the science margin for a mission that aim to characterize 25 or more exoEarth candidates. This work informs observatory design choices and helps quantify the risk of falling short of science requirements."
+sort_order  = 2

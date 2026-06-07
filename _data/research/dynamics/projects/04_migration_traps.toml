@@ -1,0 +1,4 @@
+name        = "Migration Traps & the Kepler Dichotomy"
+url         = ""
+description = "Pebble-accretion and migration simulations show that planet traps near disk transitions naturally produce a population of dynamically cool, near-resonant short-period systems. This provides a plausible resolution to the long-standing dichotomy in Kepler multiplicities, where some stars host tightly packed multi-planet systems while others appear to host only single transiting planets (Zawadzki et al. 2021, 2022)."
+sort_order  = 4

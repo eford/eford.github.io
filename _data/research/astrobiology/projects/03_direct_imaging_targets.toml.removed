@@ -1,0 +1,4 @@
+name        = "Target Selection for Direct Imaging"
+url         = ""
+description = "Identifying the best nearby stars for direct-imaging follow-up of habitable-zone planets discovered via radial velocity. The most compelling current target is GJ 251 c, a candidate habitable-zone super-Earth around a nearby M dwarf discovered with HPF that is currently the best northern-sky candidate for terrestrial habitable-zone imaging with next-generation 30-m class telescopes."
+sort_order  = 3

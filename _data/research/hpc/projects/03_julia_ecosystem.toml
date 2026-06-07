@@ -1,0 +1,4 @@
+name        = "Julia Ecosystem Contributions"
+url         = "https://julialang.org/"
+description = "Beyond our science-domain packages, our group contributes general-purpose Julia tools that benefit the broader community. For example, ExpectationMaximizationPCA.jl provides robust PCA for data with missing values, useful for large spectral datasets. PlutoTeachingTools.jl extends the Pluto notebook environment with interactive pedagogical widgets, supporting reproducible, computation-heavy course materials in astrophysics and data science."
+sort_order  = 3

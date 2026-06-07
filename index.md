@@ -36,14 +36,13 @@
 
 <!-- ===== UPGRADE #1 — Pull quote opener ===== -->
 <blockquote class="pull-quote">
-  <p>Our research group adapts modern statistical, computational, and AI/ML tools to improve the analysis and interpretation of exoplanet observations.</p>
+  <p>Our research group combines theoretical modeling of planetary systems with modern statistical, computational, and machine learning methods to improve the interpretation of exoplanet observations. </p>
   <!-- <cite>— Eric Ford</cite> -->
 </blockquote>
 ~~~
 
 ## About
 My research centers around **exoplanets**, with the long-term goal of improving our understanding of planet formation and the dynamical evolution of planetary systems.
-My research group combines theoretical modeling of planetary systems and modern statistical and machine learning methods to improve the interpretation of exoplanet observations.
 We emphasize the interface between theory and observation, incorporating a variety of techniques for characterizing extrasolar planets, statistical methods for analyzing extrasolar planet observations and exoplanet demographics, and the approaches for improving the design of extrasolar planet surveys.
 Ultimately, my research aims to improve our understanding of planet formation & evolution, both in our Solar System and beyond.
 

@@ -35,11 +35,8 @@ Our group is actively involved in developing the observational strategies, data 
 
 ## Selected Publications
 
-Publications are pulled automatically from `_data/publications/` where
-`research_themes` includes `"eprv"`.
-
 ~~~
-{{publication_list eprv}}
+{{publication_list "Radial Velocity Surveys"}}
 ~~~
 
 ## Software

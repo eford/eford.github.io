@@ -1,0 +1,4 @@
+name        = "Photometric Characterization of Earth-like Planets"
+url         = ""
+description = "Developing methods to characterize the surfaces and climates of potentially Earth-like planets through photometric variability. Future direct imaging missions will collect time-resolved reflected light from exoplanets. We develop the statistical tools needed to extract surface inhomogeneities, constrain cloud cover fractions, and probe atmospheric conditions from these sparse, noisy light curves."
+sort_order  = 4

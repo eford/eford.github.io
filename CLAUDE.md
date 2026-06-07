@@ -51,6 +51,7 @@ All dynamic content is stored as **TOML files** in `_data/` and rendered via cus
 | `_data/courses/psu_recent/` | Course cards (title, emoji, description, archive_url) |
 | `_data/software/` | Software projects grouped by category subdirectory |
 | `_data/publications/YYYY/` | Publication entries by year (parsed from ADS BibTeX) |
+| `_data/research/RESEARCH_AREA/projects/` | Key research proejcts within RESEARCH_AREA |
 
 ### Franklin Helper Functions (`utils.jl`)
 
@@ -73,6 +74,7 @@ Optional: `doi`, `adsurl`, `tags` (array), `research_themes` (array), `pages`, `
 - **New course**: add `_data/courses/psu_recent/<course>.toml`
 - **New software**: add `_data/software/<category>/<name>.toml`
 - **New publication**: add `_data/publications/<year>/<key>.toml` (or run `parse_publications.jl` )
+- **New research project**: add `_data/research/<research_area>/projects/<name>.toml`
 
 ### Layouts & Styles
 
