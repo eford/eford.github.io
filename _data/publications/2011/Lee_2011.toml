@@ -1,0 +1,23 @@
+title = "MARVELS-1b: A Short-period, Brown Dwarf Desert Candidate from the SDSS-III Marvels Planet Search"
+author = "Lee, Brian L. and Ge, Jian and Fleming, Scott W. and Stassun, Keivan G. and Gaudi, B. Scott and Barnes, Rory and Mahadevan, Suvrath and Eastman, Jason D. and Wright, Jason and Siverd, Robert J. and Gary, Bruce and Ghezzi, Luan and Laws, Chris and Wisniewski, John P. and Porto de Mello, G.~F. and Ogando, Ricardo L.~C. and Maia, Marcio A.~G. and Nicolaci da Costa, Luiz and Sivarani, Thirupathi and Pepper, Joshua and Nguyen, Duy Cuong and Hebb, Leslie and De Lee, Nathan and Wang, Ji and Wan, Xiaoke and Zhao, Bo and Chang, Liang and Groot, John and Varosi, Frank and Hearty, Fred and Hanna, Kevin and van Eyken, J.~C. and Kane, Stephen R. and Agol, Eric and Bizyaev, Dmitry and Bochanski, John J. and Brewington, Howard and Chen, Zhiping and Costello, Erin and Dou, Liming and Eisenstein, Daniel J. and Fletcher, Adam and Ford, Eric B. and Guo, Pengcheng and Holtzman, Jon A. and Jiang, Peng and French Leger, R. and Liu, Jian and Long, Daniel C. and Malanushenko, Elena and Malanushenko, Viktor and Malik, Mohit and Oravetz, Daniel and Pan, Kaike and Rohan, Pais and Schneider, Donald P. and Shelden, Alaina and Snedden, Stephanie A. and Simmons, Audrey and Weaver, B.~A. and Weinberg, David H. and Xie, Ji-Wei"
+year = "2011"
+month = "feb"
+journal = "ApJ"
+volume = "728"
+number = "1"
+pages = "32"
+doi = "10.1088/0004-637X/728/1/32"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...728...32L"
+archiveprefix = "arXiv"
+eprint = "1011.5170"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a new short-period brown dwarf (BD) candidate around the star TYC 1240-00945-1. This candidate was discovered in the first year of the Multi-object APO Radial Velocity Exoplanets Large-area Survey (MARVELS), which is part of the Sloan Digital Sky Survey (SDSS) III, and we designate the BD as MARVELS-1b. MARVELS uses the technique of dispersed fixed-delay interferometery to simultaneously obtain radial velocity (RV) measurements for 60 objects per field using a single, custom-built instrument that is fiber fed from the SDSS 2.5 m telescope. From our 20 RV measurements spread over a ~370 day time baseline, we derive a Keplerian orbital fit with semi-amplitude K = 2.533 ± 0.025 km s<SUP>-1</SUP>, period P = 5.8953 ± 0.0004 days, and eccentricity consistent with circular. Independent follow-up RV data confirm the orbit. Adopting a mass of 1.37 ± 0.11 M <SUB>sun</SUB> for the slightly evolved F9 host star, we infer that the companion has a minimum mass of 28.0 ± 1.5 M <SUB>Jup</SUB>, a semimajor axis 0.071 ± 0.002 AU assuming an edge-on orbit, and is probably tidally synchronized. We find no evidence for coherent intrinsic variability of the host star at the period of the companion at levels greater than a few millimagnitudes. The companion has an a priori transit probability of ~14%. Although we find no evidence for transits, we cannot definitively rule them out for companion radii lsim1 R <SUB>Jup</SUB>.\n"""
+tags = ["Binary Stars", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys"]
+eid = "32"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Brown Dwarfs", "Brown Dwarf Candidates", "Tidal Locking", "Sloan Digital Sky Survey"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

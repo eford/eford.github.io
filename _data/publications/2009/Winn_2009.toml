@@ -1,0 +1,22 @@
+title = "The Transit Ingress and the Tilted Orbit of the Extraordinarily Eccentric Exoplanet HD 80606b"
+author = "Winn, Joshua N. and Howard, Andrew W. and Johnson, John Asher and Marcy, Geoffrey W. and Gazak, J. Zachary and Starkey, Donn and Ford, Eric B. and Colón, Knicole D. and Reyes, Francisco and Nortmann, Lisa and Dreizler, Stefan and Odewahn, Stephen and Welsh, William F. and Kadakia, Shimonee and Vanderbei, Robert J. and Adams, Elisabeth R. and Lockhart, Matthew and Crossfield, Ian J. and Valenti, Jeff A. and Dantowitz, Ronald and Carter, Joshua A."
+year = "2009"
+month = "oct"
+journal = "ApJ"
+volume = "703"
+number = "2"
+pages = "2091-2100"
+doi = "10.1088/0004-637X/703/2/2091"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...703.2091W"
+archiveprefix = "arXiv"
+eprint = "0907.5205"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the results of a transcontinental campaign to observe the 2009 June 5 transit of the exoplanet HD 80606b. We report the first detection of the transit ingress, revealing the transit duration to be 11.64 ± 0.25 hr and allowing more robust determinations of the system parameters. Keck spectra obtained at midtransit exhibit an anomalous blueshift, giving definitive evidence that the stellar spin axis and planetary orbital axis are misaligned. The Keck data show that the projected spin-orbit angle λ is between 32° and 87° with 68.3% confidence and between 14° and 142° with 99.73% confidence. Thus, the orbit of this planet is not only highly eccentric (e = 0.93) but is also tilted away from the equatorial plane of its parent star. A large tilt had been predicted, based on the idea that the planet's eccentric orbit was caused by the Kozai mechanism. Independently of the theory, it is worth noting that all three exoplanetary systems with known spin-orbit misalignments have massive planets on eccentric orbits, suggesting that those systems migrate through a different channel than lower mass planets on circular orbits.\n"""
+tags = ["Dynamics", "Keck"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eccentric Orbits", "Orbital Misalignment", "Kozai Mechanism"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

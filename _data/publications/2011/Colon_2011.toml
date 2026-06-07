@@ -1,0 +1,22 @@
+title = "Vetting Kepler Planet Candidates with Multicolor Photometry from the GTC: Identification of an Eclipsing Binary Star Near KOI 565"
+author = "Colón, Knicole D. and Ford, Eric B."
+year = "2011"
+month = "dec"
+journal = "PASP"
+volume = "123"
+number = "910"
+pages = "1391"
+doi = "10.1086/663352"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011PASP..123.1391C"
+archiveprefix = "arXiv"
+eprint = "1110.4385"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the discovery of an eclipsing binary star (KIC 7025851) near KOI 565 (KIC 7025846) based on photometric observations of KOI 565 and several nearby stars acquired in two narrow bandpasses (790.2 and 794.3 ± 2.0 nm) nearly simultaneously with the GTC/OSIRIS. We use the individual photometry in each bandpass, as well as the colors of KOI 565 and other nearby stars, to determine that the source of the transit signal initially detected by Kepler is not due to a super-Earth-size planet around KOI 565. Instead, we find the source to be a background eclipsing binary star located ∼15″ to the north of KOI 565. We discuss future prospects for using high-precision multicolor photometry from the GTC to determine whether additional Kepler planet candidates have a planetary nature or are instead false positives (e.g., foreground or background eclipsing binaries or hierarchical triple systems). Our approach is complementary to multicolor follow-up observations of Kepler planet candidates currently being conducted with the Spitzer in the infrared, as well as to other follow-up techniques.\n"""
+tags = ["Binary Stars", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eclipsing Binaries", "Photometry", "False Positives"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

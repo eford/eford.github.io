@@ -1,0 +1,21 @@
+title = "A Habitable Zone Census via Transit Timing and the Imperative for Continuing to Observe the Kepler Field"
+author = "Fabrycky, Daniel C. and Ford, Eric B. and Payne, Matthew J. and Steffen, Jason and Ragozzine, Darin and Mazeh, Tsevi and Lissauer, Jack J. and Welsh, William"
+year = "2013"
+month = "sep"
+journal = "arXiv e-prints"
+pages = "arXiv:1309.1177"
+doi = "10.48550/arXiv.1309.1177"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.1177F"
+archiveprefix = "arXiv"
+eprint = "1309.1177"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We propose a scientific program to complete a census of planets, characterizing their masses, orbital properties, and dynamical histories using continued observations of the Kepler field of view with the Kepler spacecraft in a two reaction wheel mission. Even with a significantly reduced photometric precision, extending time-domain observations of this field is uniquely capable of pursuing several critical science goals: 1) measuring the architectures of planetary systems by identifying non-transiting planets interleaved among known transiting planets, 2) establishing the mass-radius relationship for planets in the important transition region between small, gas-rich sub-Neptune planets and large, rocky super-Earths, and 3) uncovering dynamical evidence of the formation and evolution of the inner regions of planetary systems. To meet these objectives, the unique multi-object observing capabilities of Kepler will be used in a set of concurrent campaigns with specific motivations. These campaigns focus largely on the ability to interpret Transit Timing Variations (TTVs) that result from dynamical interactions among planets in a system and include: 1) observations of systems that exhibit large TTVs and are particularly rich in dynamical information, 2) observations of systems where additional transit times will yield mass measurements of the constituent planets, 3) observations of systems where the TTV signal evolves over very long timescales, and 4) observations of systems with long-period planet candidates where additional transits will remove orbital period ambiguities caused by gaps in the original Kepler data.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "arXiv:1309.1177"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Mass-Radius Relation", "Sub-Neptunes", "Super-Earths"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

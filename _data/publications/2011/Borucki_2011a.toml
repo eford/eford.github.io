@@ -1,0 +1,23 @@
+title = "Characteristics of Planetary Candidates Observed by Kepler. II. Analysis of the First Four Months of Data"
+author = "Borucki, William J. and Koch, David G. and Basri, Gibor and Batalha, Natalie and Brown, Timothy M. and Bryson, Stephen T. and Caldwell, Douglas and Christensen-Dalsgaard, J\\orgen and Cochran, William D. and DeVore, Edna and Dunham, Edward W. and Gautier, III, Thomas N. and Geary, John C. and Gilliland, Ronald and Gould, Alan and Howell, Steve B. and Jenkins, Jon M. and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Rowe, Jason and Sasselov, Dimitar and Boss, Alan and Charbonneau, David and Ciardi, David and Doyle, Laurance and Dupree, Andrea K. and Ford, Eric B. and Fortney, Jonathan and Holman, Matthew J. and Seager, Sara and Steffen, Jason H. and Tarter, Jill and Welsh, William F. and Allen, Christopher and Buchhave, Lars A. and Christiansen, Jessie L. and Clarke, Bruce D. and Das, Santanu and {D\\'esert}, Jean-Michel and Endl, Michael and Fabrycky, Daniel and Fressin, Francois and Haas, Michael and Horch, Elliott and Howard, Andrew and Isaacson, Howard and Kjeldsen, Hans and Kolodziejczak, Jeffery and Kulesa, Craig and Li, Jie and Lucas, Philip W. and Machalek, Pavel and McCarthy, Donald and MacQueen, Phillip and Meibom, S\\oren and Miquel, Thibaut and Prsa, Andrej and Quinn, Samuel N. and Quintana, Elisa V. and Ragozzine, Darin and Sherry, William and Shporer, Avi and Tenenbaum, Peter and Torres, Guillermo and Twicken, Joseph D. and Van Cleve, Jeffrey and Walkowicz, Lucianne and Witteborn, Fred C. and Still, Martin"
+year = "2011"
+month = "jul"
+journal = "ApJ"
+volume = "736"
+number = "1"
+pages = "19"
+doi = "10.1088/0004-637X/736/1/19"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...736...19B"
+archiveprefix = "arXiv"
+eprint = "1102.0541"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """On 2011 February 1 the Kepler mission released data for 156,453 stars observed from the beginning of the science observations on 2009 May 2 through September 16. There are 1235 planetary candidates with transit-like signatures detected in this period. These are associated with 997 host stars. Distributions of the characteristics of the planetary candidates are separated into five class sizes: 68 candidates of approximately Earth-size (R <SUB>p</SUB> &lt; 1.25 R <SUB>⊕</SUB>), 288 super-Earth-size (1.25 R <SUB>⊕</SUB> &lt;= R <SUB>p</SUB> &lt; 2 R <SUB>⊕</SUB>), 662 Neptune-size (2 R <SUB>⊕</SUB> &lt;= R <SUB>p</SUB> &lt; 6 R <SUB>⊕</SUB>), 165 Jupiter-size (6 R <SUB>⊕</SUB> &lt;= R <SUB>p</SUB> &lt; 15 R <SUB>⊕</SUB>), and 19 up to twice the size of Jupiter (15 R <SUB>⊕</SUB> &lt;= R <SUB>p</SUB> &lt; 22 R <SUB>⊕</SUB>). In the temperature range appropriate for the habitable zone, 54 candidates are found with sizes ranging from Earth-size to larger than that of Jupiter. Six are less than twice the size of the Earth. Over 74% of the planetary candidates are smaller than Neptune. The observed number versus size distribution of planetary candidates increases to a peak at two to three times the Earth-size and then declines inversely proportional to the area of the candidate. Our current best estimates of the intrinsic frequencies of planetary candidates, after correcting for geometric and sensitivity biases, are 5% for Earth-size candidates, 8% for super-Earth-size candidates, 18% for Neptune-size candidates, 2% for Jupiter-size candidates, and 0.1% for very large candidates; a total of 0.34 candidates per star. Multi-candidate, transiting systems are frequent; 17% of the host stars have multi-candidate systems, and 34% of all the candidates are part of multi-candidate systems.\n"""
+tags = ["Demographics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "19"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Planetary Radius Distribution", "Exoplanet Statistics", "Habitable Zone Candidates"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]

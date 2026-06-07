@@ -1,0 +1,22 @@
+title = "A sub-Mercury-sized exoplanet"
+author = "Barclay, Thomas and Rowe, Jason F. and Lissauer, Jack J. and Huber, Daniel and Fressin, Fran{\\cc}ois and Howell, Steve B. and Bryson, Stephen T. and Chaplin, William J. and {D\\'esert}, Jean-Michel and Lopez, Eric D. and Marcy, Geoffrey W. and Mullally, Fergal and Ragozzine, Darin and Torres, Guillermo and Adams, Elisabeth R. and Agol, Eric and Barrado, David and Basu, Sarbani and Bedding, Timothy R. and Buchhave, Lars A. and Charbonneau, David and Christiansen, Jessie L. and Christensen-Dalsgaard, J\\orgen and Ciardi, David and Cochran, William D. and Dupree, Andrea K. and Elsworth, Yvonne and Everett, Mark and Fischer, Debra A. and Ford, Eric B. and Fortney, Jonathan J. and Geary, John C. and Haas, Michael R. and Handberg, Rasmus and Hekker, Saskia and Henze, Christopher E. and Horch, Elliott and Howard, Andrew W. and Hunter, Roger C. and Isaacson, Howard and Jenkins, Jon M. and Karoff, Christoffer and Kawaler, Steven D. and Kjeldsen, Hans and Klaus, Todd C. and Latham, David W. and Li, Jie and Lillo-Box, Jorge and Lund, Mikkel N. and Lundkvist, Mia and Metcalfe, Travis S. and Miglio, Andrea and Morris, Robert L. and Quintana, Elisa V. and Stello, Dennis and Smith, Jeffrey C. and Still, Martin and Thompson, Susan E."
+year = "2013"
+month = "feb"
+journal = "Nature"
+volume = "494"
+number = "7438"
+pages = "452-454"
+doi = "10.1038/nature11914"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013Natur.494..452B"
+archiveprefix = "arXiv"
+eprint = "1305.5587"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Since the discovery of the first exoplanets, it has been known that other planetary systems can look quite unlike our own. Until fairly recently, we have been able to probe only the upper range of the planet size distribution, and, since last year, to detect planets that are the size of Earth or somewhat smaller. Hitherto, no planets have been found that are smaller than those we see in the Solar System. Here we report a planet significantly smaller than Mercury. This tiny planet is the innermost of three that orbit the Sun-like host star, which we have designated Kepler-37. Owing to its extremely small size, similar to that of the Moon, and highly irradiated surface, the planet, Kepler-37b, is probably rocky with no atmosphere or water, similar to Mercury.\n"""
+tags = ["Kepler", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Terrestrial Planets", "Exoplanet Characterization", "Planetary Atmospheres"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

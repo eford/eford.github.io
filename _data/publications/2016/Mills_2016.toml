@@ -1,0 +1,22 @@
+title = "A resonant chain of four transiting, sub-Neptune planets"
+author = "Mills, Sean M. and Fabrycky, Daniel C. and Migaszewski, Cezary and Ford, Eric B. and Petigura, Erik and Isaacson, Howard"
+year = "2016"
+month = "may"
+journal = "Nature"
+volume = "533"
+number = "7604"
+pages = "509-512"
+doi = "10.1038/nature17445"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016Natur.533..509M"
+archiveprefix = "arXiv"
+eprint = "1612.07376"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Surveys have revealed many multi-planet systems containing super-Earths and Neptunes in orbits of a few days to a few months. There is debate whether in situ assembly or inward migration is the dominant mechanism of the formation of such planetary systems. Simulations suggest that migration creates tightly packed systems with planets whose orbital periods may be expressed as ratios of small integers (resonances), often in a many-planet series (chain). In the hundreds of multi-planet systems of sub-Neptunes, more planet pairs are observed near resonances than would generally be expected, but no individual system has hitherto been identified that must have been formed by migration. Proximity to resonance enables the detection of planets perturbing each other. Here we report transit timing variations of the four planets in the Kepler-223 system, model these variations as resonant-angle librations, and compute the long-term stability of the resonant chain. The architecture of Kepler-223 is too finely tuned to have been formed by scattering, and our numerical simulations demonstrate that its properties are natural outcomes of the migration hypothesis. Similar systems could be destabilized by any of several mechanisms, contributing to the observed orbital-period distribution, where many planets are not in resonances. Planetesimal interactions in particular are thought to be responsible for establishing the current orbits of the four giant planets in the Solar System by disrupting a theoretical initial resonant chain similar to that observed in Kepler-223.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Resonances", "Orbital Resonance", "Planetary Migration"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

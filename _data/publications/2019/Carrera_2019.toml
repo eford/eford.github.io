@@ -1,0 +1,22 @@
+title = "Formation of short-period planets by disc migration"
+author = "Carrera, Daniel and Ford, Eric B. and Izidoro, Andre"
+year = "2019"
+month = "jul"
+journal = "MNRAS"
+volume = "486"
+number = "3"
+pages = "3874-3885"
+doi = "10.1093/mnras/stz974"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.3874C"
+archiveprefix = "arXiv"
+eprint = "1903.02004"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Protoplanetary discs are thought to be truncated at orbital periods of around 10 d. Therefore, the origin of rocky short-period planets with P &lt; 10 d is a puzzle. We propose that many of these planets may form through the Type-I migration of planets locked into a chain of mutual mean motion resonances. We ran N-body simulations of planetary embryos embedded in a protoplanetary disc. The embryos experienced gravitational scatterings, collisions, disc torques, and dampening of orbital eccentricity and inclination. We then modelled Kepler observations of these planets using a forward model of both the transit probability and the detection efficiency of the Kepler pipeline. We found that planets become locked into long chains of mean motion resonances that migrate in unison. When the chain reaches the edge of the disc, the inner planets are pushed past the edge due to the disc torques acting on the planets farther out in the chain. Our simulated systems successfully reproduce the observed period distribution of short-period Kepler planets between 1 and 2 R<SUB>⊕</SUB>. However, we obtain fewer closely packed short-period planets than in the Kepler sample. Our results provide valuable insight into the planet formation process, and suggests that resonance locks, migration, and dynamical instabilities play important roles in the formation and evolution of close-in small exoplanets.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Protoplanetary Disks", "Planetary Migration", "Mean Motion Resonance"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

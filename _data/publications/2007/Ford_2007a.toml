@@ -1,0 +1,22 @@
+title = "Using Transit Timing Observations to Search for Trojans of Transiting Extrasolar Planets"
+author = "Ford, Eric B. and Holman, Matthew J."
+year = "2007"
+month = "jul"
+journal = "ApJL"
+volume = "664"
+number = "1"
+pages = "L51-L54"
+doi = "10.1086/520579"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2007ApJ...664L..51F"
+archiveprefix = "arXiv"
+eprint = "0705.0356"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Theoretical studies predict that Trojans are likely a frequent by-product of planet formation and evolution. We examine the sensitivity of transit timing observations for detecting Trojan companions to transiting extrasolar planets. We demonstrate that this method offers the potential to detect terrestrial-mass Trojans using existing ground-based observatories. We compare the transit timing variation (TTV) method with other techniques for detecting extrasolar Trojans and outline the future prospects for this method.\n"""
+tags = ["Dynamics", "Transit timing variations"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Trojans", "Extrasolar Planets", "Planetary Formation"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

@@ -1,0 +1,23 @@
+title = "Validation of Kepler's Multiple Planet Candidates. II. Refined Statistical Framework and Descriptions of Systems of Special Interest"
+author = "Lissauer, Jack J. and Marcy, Geoffrey W. and Bryson, Stephen T. and Rowe, Jason F. and Jontof-Hutter, Daniel and Agol, Eric and Borucki, William J. and Carter, Joshua A. and Ford, Eric B. and Gilliland, Ronald L. and Kolbl, Rea and Star, Kimberly M. and Steffen, Jason H. and Torres, Guillermo"
+year = "2014"
+month = "mar"
+journal = "ApJ"
+volume = "784"
+number = "1"
+pages = "44"
+doi = "10.1088/0004-637X/784/1/44"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2014ApJ...784...44L"
+archiveprefix = "arXiv"
+eprint = "1402.6352"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We extend the statistical analysis performed by Lissauer et al. in 2012, which demonstrates that the overwhelming majority of Kepler candidate multiple transiting systems (multis) represents true transiting planets, and we develop therefrom a procedure to validate large numbers of planet candidates in multis as bona fide exoplanets. We show that this statistical framework correctly estimates the abundance of false positives already identified around Kepler targets with multiple sets of transit-like signatures based on their abundance around targets with single sets of transit-like signatures. We estimate the number of multis that represent split systems of one or more planets orbiting each component of a binary star system. We use the high reliability rate for multis to validate more than one dozen particularly interesting multi-planet systems herein. Hundreds of additional multi-planet systems are validated in a companion paper by Rowe et al. We note that few very short period (P &lt; 1.6 days) planets orbit within multiple transiting planet systems and discuss possible reasons for their absence. There also appears to be a shortage of planets with periods exceeding a few months in multis.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "44"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Validation", "Statistical Inference", "Multi-planet Systems"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

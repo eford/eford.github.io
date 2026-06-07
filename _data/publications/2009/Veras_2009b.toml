@@ -1,0 +1,17 @@
+title = "Identifying Non-transiting Terrestrial Planets with Transit Timing Data"
+author = "Veras, Dimitri and Ford, Eric B."
+year = "2009"
+month = "feb"
+volume = "253"
+pages = "486-489"
+doi = "10.1017/S1743921308027002"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009IAUS..253..486V"
+entrytype = "inproceedings"
+abstract = """Both ground and space-based transit observatories are poised to significantly increase the number of known transiting planets and the number of precisely measured transit times. A planet's transit times represent a clock that can be used to infer the presence of additional planets. Although modeling the transit time variations (TTVs) of a known system is simple, interpreting those variations in terms of the mass and orbital elements of a perturbing planet is much more challenging. Because mutual planetary perturbations are often the dominant source of TTVs, the observable signal can be extremely complex. In these proceedings, we present early results based on a simplistic analysis of the root-mean-square TTV deviation amplitude. We are preparing a more thorough analysis based on a computationally efficient surrogate Bayesian model, which may be combined with analytic approximations and n-body integrations in order to establish the sensitivity of TTV observations to terrestrial-like planets as a function of the system architecture. Besides aiding the interpretation of future transit timing observations, we hope our results can help maximize the productivity of transit timing follow-up campaigns by guiding survey design decisions such as the choice of targets, required precision, and desired number/time span of TTV observations.\n"""
+tags = ["Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Terrestrial Planets", "N-body Integration", "Bayesian Inference"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

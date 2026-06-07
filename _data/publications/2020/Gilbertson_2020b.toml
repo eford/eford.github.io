@@ -1,0 +1,23 @@
+title = "Toward Extremely Precise Radial Velocities. I. Simulated Solar Spectra for Testing Exoplanet Detection Algorithms"
+author = "Gilbertson, Christian and Ford, Eric B. and Dumusque, Xavier"
+year = "2020"
+month = "apr"
+journal = "Research Notes of the American Astronomical Society"
+volume = "4"
+number = "4"
+pages = "59"
+doi = "10.3847/2515-5172/ab8d44"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020RNAAS...4...59G"
+archiveprefix = "arXiv"
+eprint = "2005.01489"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """Recent and upcoming stabilized spectrographs are pushing the frontier for Doppler spectroscopy to detect and characterize low-mass planets. Specifications for these instruments are so impressive that intrinsic stellar variability is expected to limit their Doppler precision for most target stars (Fischer et al. 2016). To realize their full potential, astronomers must develop new strategies for distinguishing true Doppler shifts from intrinsic stellar variability. Stellar variability due to star spots, faculae and other rotationally-linked variability are particularly concerning, as the stellar rotation period is often included in the range of potential planet orbital periods. To robustly detect and accurately characterize low-mass planets via Doppler planet surveys, the exoplanet community must develop statistical models capable of jointly modeling planetary perturbations and intrinsic stellar variability. Towards this effort, this note presents simulations of extremely high resolution, solar-like spectra created with SOAP 2.0 (arXiv:1409.3594) that includes multiple evolving star spots. We anticipate this data set will contribute to future studies developing, testing, and comparing statistical methods for measuring physical radial velocities amid contamination by stellar variability.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "59"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Spectroscopy", "Stellar Variability", "Doppler Spectroscopy"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

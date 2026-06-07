@@ -1,0 +1,22 @@
+title = "Radio Interferometric Planet Search. I. First Constraints On Planetary Companions For Nearby, Low-Mass Stars From Radio Astrometry"
+author = "Bower, Geoffrey C. and Bolatto, Alberto and Ford, Eric B. and Kalas, Paul"
+year = "2009"
+month = "aug"
+journal = "ApJ"
+volume = "701"
+number = "2"
+pages = "1922-1939"
+doi = "10.1088/0004-637X/701/2/1922"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...701.1922B"
+archiveprefix = "arXiv"
+eprint = "0907.1680"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Radio astrometry of nearby, low-mass stars has the potential to be a powerful tool for the discovery and characterization of planetary companions. We present a Very Large Array survey of 172 active M dwarfs at distances of less than 10 pc. Twenty-nine stars were detected with flux densities greater than 100 μJy. We observed seven of these stars with the Very Long Baseline Array at milliarcsecond resolution in three separate epochs. With a detection threshold of 500 μJy in images of sensitivity 1σ ~ 100 μJy, we detected three stars three times (GJ 65B, GJ 896A, GJ 4247), one star twice (GJ 285), and one star once (GJ 803). Two stars were undetected (GJ 412B and GJ 1224). For the four stars detected in multiple epochs, residuals from the optically determined apparent motions have an root-mean-square deviation of ~0.2 milliarcseconds, consistent with statistical noise limits. Combined with previous optical astrometry, these residuals provide acceleration upper limits that allow us to exclude planetary companions more massive than 3-6 M <SUB>Jup</SUB> at a distance of ~1 AU with a 99% confidence level.\n"""
+tags = ["Binary Stars", "Dynamics", "Stars"]
+research_themes = ["Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Radio Astronomy", "Astrometry", "M Dwarf Stars"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

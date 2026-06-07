@@ -1,0 +1,16 @@
+title = "The Next Steps for Understanding Habitability of Exoplanet Waterworlds"
+author = "Kite, Edwin S. and Ford, Eric B."
+year = "2019"
+month = "mar"
+pages = "130-082"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019absc.conf13082K"
+entrytype = "inproceedings"
+abstract = """Geochemical cycles are thought to be central to sustained surface habitability on shallow-ocean planets. By contrast, on deep-water planets (bottom row), atmosphere-interior cycling is curtailed by high seafloor pressure; the (atmosphere/ocean)&lt;--&gt;interior exchange timescale can be &gt;10 Gyr. Under such circumstances, long-term geochemical cycling between the atmosphere and the convecting silicate-rock mantle does not matter for determining whether or not the planet has habitable surface water for Gyr. Instead, the duration of habitable surface water is set by (i) atmosphere-ocean partitioning of C, and (ii) the initial cation content of the water ocean as it emerges from the first 100 Myr of giant impacts, late-stage delivery of C, and early crust formation.\n"""
+tags = ["Astrobiology"]
+research_themes = ["Astrobiology", "Planetary Architectures"]
+eid = "130-082"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Water Worlds", "Geochemistry", "Planetary Habitability"]
+# suggested_research_themes  = ["Astrobiology", "Planetary Architectures"]

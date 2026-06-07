@@ -1,0 +1,22 @@
+title = "Origins of Eccentric Extrasolar Planets: Testing the Planet-Planet Scattering Model"
+author = "Ford, Eric B. and Rasio, Frederic A."
+year = "2008"
+month = "oct"
+journal = "ApJ"
+volume = "686"
+number = "1"
+pages = "621-636"
+doi = "10.1086/590926"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2008ApJ...686..621F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0703163"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """In planetary systems with two or more giant planets, dynamical instabilities can lead to collisions or ejections through strong planet-planet scattering. Previous studies for initial conditions with two equal-mass planets revealed two discrepancies between the results of simulations and the observed orbits of exoplanets: potentially frequent collisions between giant planets and a narrow distribution of final eccentricities. We show that simulations with two unequal-mass planets starting on nearly circular orbits predict fewer collisions and a broader range of final eccentricities. Thus, the two-planet scattering model can reproduce the observed eccentricities with a plausible distribution of planet mass ratios. The model also predicts a maximum eccentricity of simeq0.8, independent of the distribution of planet mass ratios, provided that both planets are initially placed on nearly circular orbits. This compares favorably with observations and will be tested by future planet discoveries. Moreover, the combination of planet-planet scattering and tidal circularization may explain the existence of some giant planets with very short period orbits. Orbital migration due to planet scattering could play an important role in explaining the distribution of orbital periods found by radial velocity surveys. We also reexamine and discuss various possible correlations between eccentricities and other properties of exoplanets. We find that radial velocity observations are consistent with planet eccentricities being correlated with the ratio of the escape velocity from the planet's surface relative to the escape velocity from the host star at the planet's location. We demonstrate that the observed distribution of planet masses, periods, and eccentricities can provide constraints for models of planet formation and evolution.\n"""
+tags = ["Dynamics", "Planet-planet scattering"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Orbit Modeling", "Planetary Migration"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

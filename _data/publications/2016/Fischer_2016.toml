@@ -1,0 +1,22 @@
+title = "State of the Field: Extreme Precision Radial Velocities"
+author = "Fischer, Debra A. and Anglada-Escude, Guillem and Arriagada, Pamela and Baluev, Roman V. and Bean, Jacob L. and Bouchy, Francois and Buchhave, Lars A. and Carroll, Thorsten and Chakraborty, Abhijit and Crepp, Justin R. and Dawson, Rebekah I. and Diddams, Scott A. and Dumusque, Xavier and Eastman, Jason D. and Endl, Michael and Figueira, Pedro and Ford, Eric B. and Foreman-Mackey, Daniel and Fournier, Paul and {F{\\Hu}r\\'esz}, Gabor and Gaudi, B. Scott and Gregory, Philip C. and Grundahl, Frank and Hatzes, Artie P. and {H\\'ebrard}, Guillaume and Herrero, Enrique and Hogg, David W. and Howard, Andrew W. and Johnson, John A. and Jorden, Paul and Jurgenson, Colby A. and Latham, David W. and Laughlin, Greg and Loredo, Thomas J. and Lovis, Christophe and Mahadevan, Suvrath and McCracken, Tyler M. and Pepe, Francesco and Perez, Mario and Phillips, David F. and Plavchan, Peter P. and Prato, Lisa and Quirrenbach, Andreas and Reiners, Ansgar and Robertson, Paul and Santos, Nuno C. and Sawyer, David and Segransan, Damien and Sozzetti, Alessandro and Steinmetz, Tilo and Szentgyorgyi, Andrew and Udry, St\\'ephane and Valenti, Jeff A. and Wang, Sharon X. and Wittenmyer, Robert A. and Wright, Jason T."
+year = "2016"
+month = "jun"
+journal = "PASP"
+volume = "128"
+number = "964"
+pages = "066001"
+doi = "10.1088/1538-3873/128/964/066001"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F"
+archiveprefix = "arXiv"
+eprint = "1602.07939"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """The Second Workshop on Extreme Precision Radial Velocities defined circa 2015 the state of the art Doppler precision and identified the critical path challenges for reaching 10 cm s<SUP>-1</SUP> measurement precision. The presentations and discussion of key issues for instrumentation and data analysis and the workshop recommendations for achieving this bold precision are summarized here. Beginning with the High Accuracy Radial Velocity Planet Searcher spectrograph, technological advances for precision radial velocity (RV) measurements have focused on building extremely stable instruments. To reach still higher precision, future spectrometers will need to improve upon the state of the art, producing even higher fidelity spectra. This should be possible with improved environmental control, greater stability in the illumination of the spectrometer optics, better detectors, more precise wavelength calibration, and broader bandwidth spectra. Key data analysis challenges for the precision RV community include distinguishing center of mass (COM) Keplerian motion from photospheric velocities (time correlated noise) and the proper treatment of telluric contamination. Success here is coupled to the instrument design, but also requires the implementation of robust statistical and modeling techniques. COM velocities produce Doppler shifts that affect every line identically, while photospheric velocities produce line profile asymmetries with wavelength and temporal dependencies that are different from Keplerian signals. Exoplanets are an important subfield of astronomy and there has been an impressive rate of discovery over the past two decades. However, higher precision RV measurements are required to serve as a discovery technique for potentially habitable worlds, to confirm and characterize detections from transit missions, and to provide mass measurements for other space-based missions. The future of exoplanet science has very different trajectories depending on the precision that can ultimately be achieved with Doppler measurements.\n"""
+tags = ["Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Mitigating Stellar Variability", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Doppler Spectroscopy", "Spectrograph Instrumentation", "Telluric Contamination"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

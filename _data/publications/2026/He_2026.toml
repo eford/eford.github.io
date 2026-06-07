@@ -1,0 +1,21 @@
+title = "Architectures of Exoplanetary Systems. IV: A Multi-planet Model for Reproducing the Radius Valley and Intra-system Size Similarity of Planets around Kepler's FGK Dwarfs"
+author = "He, Matthias Y. and Ford, Eric B."
+year = "2026"
+month = "jan"
+journal = "arXiv e-prints"
+pages = "arXiv:2601.13480"
+doi = "10.48550/arXiv.2601.13480"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2026arXiv260113480H"
+archiveprefix = "arXiv"
+eprint = "2601.13480"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Kepler-observed distribution of planet sizes have revealed two distinct patterns: (1) a radius valley separating super-Earths and sub-Neptunes and (2) a preference for intra-system size similarity. We present a new model for the exoplanet population observed by Kepler, which is a \"hybrid\" of a clustered multi-planet model in which the orbital architectures are set by the angular momentum deficit (AMD) stability (He et al. 2020; arXiv:2007.14473) and a joint mass-radius-period model involving envelope mass-loss driven by photoevaporation (Neil &amp; Rogers 2020; arXiv:1911.03582). We find that the models that produce the deepest radius valleys have a primordial population of planets with initial radii peaking at $~ 2.1 R_⊕$, which is subsequently sculpted by photoevaporation into a bimodal distribution of final planet radii. The hybrid model requires strongly clustered initial planet masses in order to match the distributions of the size similarity metrics. Thus, the preference for intra-system radius similarity is well explained by a clustering in the primordial mass distribution. The hybrid model also naturally reproduces the observed radius cliff (steep drop-off beyond $~ 2.5 R_⊕$). Our hybrid model is the latest installment of the SysSim forward models, and is the first multi-planet model capable of simultaneously reproducing the observed radius valley and the intra-system size similarity patterns. We compute occurrence rates and fractions of stars with planets for a variety of planet types, and find that the occurrence of Venus and Earth-like planets drops by a factor of $~ 2$-4 for the hybrid models compared to previous clustered models in which there is no envelope mass-loss.\n"""
+tags = ["Demographics", "Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "arXiv:2601.13480"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet systems", "Photoevaporation", "Planet size distribution"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

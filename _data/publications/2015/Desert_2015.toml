@@ -1,0 +1,23 @@
+title = "Low False Positive Rate of Kepler Candidates Estimated From A Combination Of Spitzer And Follow-Up Observations"
+author = "{D\\'esert}, Jean-Michel and Charbonneau, David and Torres, Guillermo and Fressin, Fran{\\cc}ois and Ballard, Sarah and Bryson, Stephen T. and Knutson, Heather A. and Batalha, Natalie M. and Borucki, William J. and Brown, Timothy M. and Deming, Drake and Ford, Eric B. and Fortney, Jonathan J. and Gilliland, Ronald L. and Latham, David W. and Seager, Sara"
+year = "2015"
+month = "may"
+journal = "ApJ"
+volume = "804"
+number = "1"
+pages = "59"
+doi = "10.1088/0004-637X/804/1/59"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2015ApJ...804...59D"
+archiveprefix = "arXiv"
+eprint = "1503.03173"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """NASA’s Kepler mission has provided several thousand transiting planet candidates during the 4 yr of its nominal mission, yet only a small subset of these candidates have been confirmed as true planets. Therefore, the most fundamental question about these candidates is the fraction of bona fide planets. Estimating the rate of false positives of the overall Kepler sample is necessary to derive the planet occurrence rate. We present the results from two large observational campaigns that were conducted with the Spitzer Space Telescope during the the Kepler mission. These observations are dedicated to estimating the false positive rate (FPR) among the Kepler candidates. We select a sub-sample of 51 candidates, spanning wide ranges in stellar, orbital, and planetary parameter space, and we observe their transits with Spitzer at 4.5 μm. We use these observations to measures the candidate’s transit depths and infrared magnitudes. An authentic planet produces an achromatic transit depth (neglecting the modest effect of limb darkening). Conversely a bandpass-dependent depth alerts us to the potential presence of a blending star that could be the source of the observed eclipse: a false positive scenario. For most of the candidates (85%), the transit depths measured with Kepler are consistent with the transit depths measured with Spitzer as expected for planetary objects, while we find that the most discrepant measurements are due to the presence of unresolved stars that dilute the photometry. The Spitzer constraints on their own yield FPRs between 5% and depending on the Kepler Objects of Interest. By considering the population of the Kepler field stars, and by combining follow-up observations (imaging) when available, we find that the overall FPR of our sample is low. The measured upper limit on the FPR of our sample is 8.8% at a confidence level of 3σ. This observational result, which uses the achromatic property of planetary transit signals that is not investigated by the Kepler observations, provides an independent indication that Kepler’s FPR is low.\n"""
+tags = ["Binary Stars", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+eid = "59"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Spitzer Telescope", "False Positive Rate", "Photometry", "Infrared Astronomy"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Transit Surveys"]

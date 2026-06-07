@@ -1,0 +1,22 @@
+title = "Constraining the false positive rate for Kepler planet candidates with multicolour photometry from the GTC"
+author = "Colón, Knicole D. and Ford, Eric B. and Morehead, Robert C."
+year = "2012"
+month = "oct"
+journal = "MNRAS"
+volume = "426"
+number = "1"
+pages = "342-353"
+doi = "10.1111/j.1365-2966.2012.21711.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012MNRAS.426..342C"
+archiveprefix = "arXiv"
+eprint = "1207.2481"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Using the Optical System for Imaging and low Resolution Integrated Spectroscopy (OSIRIS) instrument installed on the 10.4-m Gran Telescopio Canarias (GTC), we acquired multicolour transit photometry of four small (Rp≲5 R⊕) short-period (P ≲ 6 d) planet candidates recently identified by the Kepler space mission. These observations are part of a programme to constrain the false positive rate for small, short-period Kepler planet candidates. Since planetary transits should be largely achromatic when observed at different wavelengths (excluding the small colour changes due to stellar limb darkening), we use the observed transit colour to identify candidates as either false positives (e.g. a blend with a stellar eclipsing binary either in the background/foreground or bound to the target star) or validated planets. Our results include the identification of KOI 225.01 and KOI 1187.01 as false positives and the tentative validation of KOI 420.01 and KOI 526.01 as planets. The probability of identifying two false positives out of a sample of four targets is less than 1 per cent, assuming an overall false positive rate for Kepler planet candidates of 10 per cent (as estimated by Morton &amp; Johnson). Therefore, these results suggest a higher false positive rate for the small, short-period Kepler planet candidates than has been theoretically predicted by other studies which consider the Kepler planet candidate sample as a whole. Furthermore, our results are consistent with a recent Doppler study of short-period giant Kepler planet candidates. We also investigate how the false positive rate for our sample varies with different planetary and stellar properties. Our results suggest that the false positive rate varies significantly with orbital period and is largest at the shortest orbital periods (P &lt; 3 d), where there is a corresponding rise in the number of detached eclipsing binary stars (i.e. systems that can easily mimic planetary transits) that have been discovered by Kepler. However, we do not find significant correlations between the false positive rate and other planetary or stellar properties. Our sample size is not yet large enough to determine if orbital period plays the largest role in determining the false positive rate, but we discuss plans for future observations of additional Kepler candidates and compare our programme focusing on relatively faint Kepler targets from the GTC with follow-up of Kepler targets that has been done with warm-Spitzer.\n"""
+tags = ["Binary Stars", "Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Photometry", "Telescope Instrumentation", "False Positive Identification"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,22 @@
+title = "Dynamical Outcomes of Planet-Planet Scattering"
+author = "Chatterjee, Sourav and Ford, Eric B. and Matsumura, Soko and Rasio, Frederic A."
+year = "2008"
+month = "oct"
+journal = "ApJ"
+volume = "686"
+number = "1"
+pages = "580-602"
+doi = "10.1086/590227"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2008ApJ...686..580C"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0703166"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Observations in the past decade have revealed extrasolar planets with a wide range of orbital semimajor axes and eccentricities. Based on the present understanding of planet formation via core accretion and oligarchic growth, we expect that giant planets often form in closely packed configurations. While the protoplanets are embedded in a protoplanetary gas disk, dissipation can prevent eccentricity growth and suppress instabilities from becoming manifest. However, once the disk dissipates, eccentricities can grow rapidly, leading to close encounters between planets. Strong planet-planet gravitational scattering could produce both high eccentricities and, after tidal circularization, very short period planets, as observed in the exoplanet population. We present new results for this scenario based on extensive dynamical integrations of systems containing three giant planets, both with and without residual gas disks. We assign the initial planetary masses and orbits in a realistic manner following the core accretion model of planet formation. We show that, with realistic initial conditions, planet-planet scattering can reproduce quite well the observed eccentricity distribution. Our results also make testable predictions for the orbital inclinations of short-period giant planets formed via strong planet scattering followed by tidal circularization.\n"""
+tags = ["Dynamics", "Planet-planet scattering"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Dynamics", "Core Accretion"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

@@ -1,0 +1,23 @@
+title = "A First Comparison of Kepler Planet Candidates in Single and Multiple Systems"
+author = "Latham, David W. and Rowe, Jason F. and Quinn, Samuel N. and Batalha, Natalie M. and Borucki, William J. and Brown, Timothy M. and Bryson, Stephen T. and Buchhave, Lars A. and Caldwell, Douglas A. and Carter, Joshua A. and Christiansen, Jessie L. and Ciardi, David R. and Cochran, William D. and Dunham, Edward W. and Fabrycky, Daniel C. and Ford, Eric B. and Gautier, III, Thomas N. and Gilliland, Ronald L. and Holman, Matthew J. and Howell, Steve B. and Ibrahim, Khadeejah A. and Isaacson, Howard and Jenkins, Jon M. and Koch, David G. and Lissauer, Jack J. and Marcy, Geoffrey W. and Quintana, Elisa V. and Ragozzine, Darin and Sasselov, Dimitar and Shporer, Avi and Steffen, Jason H. and Welsh, William F. and Wohler, Bill"
+year = "2011"
+month = "may"
+journal = "ApJL"
+volume = "732"
+number = "2"
+pages = "L24"
+doi = "10.1088/2041-8205/732/2/L24"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...732L..24L"
+archiveprefix = "arXiv"
+eprint = "1103.3896"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """In this Letter, we present an overview of the rich population of systems with multiple candidate transiting planets found in the first four months of Kepler data. The census of multiples includes 115 targets that show two candidate planets, 45 with three, eight with four, and one each with five and six, for a total of 170 systems with 408 candidates. When compared to the 827 systems with only one candidate, the multiples account for 17% of the total number of systems, and one-third of all the planet candidates. We compare the characteristics of candidates found in multiples with those found in singles. False positives due to eclipsing binaries are much less common for the multiples, as expected. Singles and multiples are both dominated by planets smaller than Neptune; 69<SUP>+2</SUP> <SUB> - 3</SUB>% for singles and 86<SUP>+2</SUP> <SUB> - 5</SUB>% for multiples. This result, that systems with multiple transiting planets are less likely to include a transiting giant planet, suggests that close-in giant planets tend to disrupt the orbital inclinations of small planets in flat systems, or maybe even prevent the formation of such systems in the first place.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Demographics", "Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "L24"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet Systems", "Systematics", "Kepler Data Analysis"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

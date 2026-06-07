@@ -1,0 +1,23 @@
+title = "Atmosphere Origins for Exoplanet Sub-Neptunes"
+author = "Kite, Edwin S. and Fegley, Jr., Bruce and Schaefer, Laura and Ford, Eric B."
+year = "2020"
+month = "mar"
+journal = "ApJ"
+volume = "891"
+number = "2"
+pages = "111"
+doi = "10.3847/1538-4357/ab6ffb"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020ApJ...891..111K"
+archiveprefix = "arXiv"
+eprint = "2001.09269"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Planets with 2 R<SUB>⊕</SUB> &lt; R &lt; 3 R<SUB>⊕</SUB> and orbital period &lt;100 days are abundant; these sub-Neptune exoplanets are not well understood. For example, Kepler sub-Neptunes are likely to have deep magma oceans in contact with their atmospheres, but little is known about the effect of the magma on the atmosphere. Here we study this effect using a basic model, assuming that volatiles equilibrate with magma at T ∼ 3000 K. For our Fe-Mg-Si-O-H model system, we find that chemical reactions between the magma and the atmosphere and dissolution of volatiles into the magma are both important. Thus, magma matters. For H, most moles go into the magma, so the mass target for both H<SUB>2</SUB> accretion and H<SUB>2</SUB> loss models is weightier than is usually assumed. The known span of magma oxidation states can produce sub-Neptunes that have identical radius but with total volatile masses varying by 20-fold. Thus, planet radius is a proxy for atmospheric composition but not for total volatile content. This redox diversity degeneracy can be broken by measurements of atmosphere mean molecular weight. We emphasize H<SUB>2</SUB> supply by nebula gas, but also consider solid-derived H<SUB>2</SUB>O. We find that adding H<SUB>2</SUB>O to Fe probably cannot make enough H<SUB>2</SUB> to explain sub-Neptune radii because &gt;10<SUP>3</SUP> km thick outgassed atmospheres have high mean molecular weight. The hypothesis of magma-atmosphere equilibration links observables such as atmosphere H<SUB>2</SUB>O/H<SUB>2</SUB> ratio to magma FeO content and planet formation processes. Our model's accuracy is limited by the lack of experiments (lab and/or numerical) that are specific to sub-Neptunes; we advocate for such experiments.\n"""
+tags = ["Kepler"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "111"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Sub-Neptune", "Magma Ocean", "Atmospheric Composition", "Planetary Atmospheres"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

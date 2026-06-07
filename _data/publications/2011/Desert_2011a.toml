@@ -1,0 +1,23 @@
+title = "The Hot-Jupiter Kepler-17b: Discovery, Obliquity from Stroboscopic Starspots, and Atmospheric Characterization"
+author = "{D\\'esert}, Jean-Michel and Charbonneau, David and Demory, Brice-Olivier and Ballard, Sarah and Carter, Joshua A. and Fortney, Jonathan J. and Cochran, William D. and Endl, Michael and Quinn, Samuel N. and Isaacson, Howard T. and Fressin, Fran{\\cc}ois and Buchhave, Lars A. and Latham, David W. and Knutson, Heather A. and Bryson, Stephen T. and Torres, Guillermo and Rowe, Jason F. and Batalha, Natalie M. and Borucki, William J. and Brown, Timothy M. and Caldwell, Douglas A. and Christiansen, Jessie L. and Deming, Drake and Fabrycky, Daniel C. and Ford, Eric B. and Gilliland, Ronald L. and Gillon, Micha\\\"el and Haas, Micha\\\"el R. and Jenkins, Jon M. and Kinemuchi, Karen and Koch, David and Lissauer, Jack J. and Lucas, Philip and Mullally, Fergal and MacQueen, Phillip J. and Marcy, Geoffrey W. and Sasselov, Dimitar D. and Seager, Sara and Still, Martin and Tenenbaum, Peter and Uddin, Kamal and Winn, Joshua N."
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "14"
+doi = "10.1088/0067-0049/197/1/14"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197...14D"
+archiveprefix = "arXiv"
+eprint = "1107.5750"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """This paper reports the discovery and characterization of the transiting hot giant exoplanet Kepler-17b. The planet has an orbital period of 1.486 days, and radial velocity measurements from the Hobby-Eberly Telescope show a Doppler signal of 419.5<SUP>+13.3</SUP> <SUB>-15.6</SUB> m s<SUP>-1</SUP>. From a transit-based estimate of the host star's mean density, combined with an estimate of the stellar effective temperature T <SUB>eff</SUB> = 5630 ± 100 from high-resolution spectra, we infer a stellar host mass of 1.06 ± 0.07 M <SUB>☉</SUB> and a stellar radius of 1.02 ± 0.03 R <SUB>☉</SUB>. We estimate the planet mass and radius to be M <SUB>P</SUB> = 2.45 ± 0.11 M <SUB>J</SUB> and R <SUB>P</SUB> = 1.31 ± 0.02 R <SUB>J</SUB>. The host star is active, with dark spots that are frequently occulted by the planet. The continuous monitoring of the star reveals a stellar rotation period of 11.89 days, eight times the planet's orbital period; this period ratio produces stroboscopic effects on the occulted starspots. The temporal pattern of these spot-crossing events shows that the planet's orbit is prograde and the star's obliquity is smaller than 15°. We detected planetary occultations of Kepler-17b with both the Kepler and Spitzer Space Telescopes. We use these observations to constrain the eccentricity, e, and find that it is consistent with a circular orbit (e &lt; 0.011). The brightness temperatures of the planet's infrared bandpasses are T_{3.6  μ m} = 1880 ± 100 K and T_{4.5  μ m} = 1770 ± 150 K. We measure the optical geometric albedo A<SUB>g</SUB> in the Kepler bandpass and find A<SUB>g</SUB> = 0.10 ± 0.02. The observations are best described by atmospheric models for which most of the incident energy is re-radiated away from the day side.\n"""
+tags = ["Kepler"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+eid = "14"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Hot Jupiters", "Stellar Obliquity", "Atmospheric Characterization"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

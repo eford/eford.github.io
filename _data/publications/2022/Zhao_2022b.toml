@@ -1,0 +1,23 @@
+title = "The EXPRES Stellar Signals Project II. State of the Field in Disentangling Photospheric Velocities"
+author = "Zhao, Lily L. and Fischer, Debra A. and Ford, Eric B. and Wise, Alex and Cretignier, Micha\\\"el and Aigrain, Suzanne and Barragan, Oscar and Bedell, Megan and Buchhave, Lars A. and Camacho, Jo\\~ao D. and Cegla, Heather M. and Cisewski-Kehe, Jessi and Collier Cameron, Andrew and de Beurs, Zoe L. and Dodson-Robinson, Sally and Dumusque, Xavier and Faria, Jo\\~ao P. and Gilbertson, Christian and Haley, Charlotte and Harrell, Justin and Hogg, David W. and Holzer, Parker and John, Ancy Anna and Klein, Baptiste and Lafarga, Marina and Lienhard, Florian and Maguire-Rajpaul, Vinesh and Mortier, Annelies and Nicholson, Belinda and Palumbo, Michael L. and Ramirez Delgado, Victor and Shallue, Christopher J. and Vanderburg, Andrew and Viana, Pedro T.~P. and Zhao, Jinglin and Zicher, Norbert and Cabot, Samuel H.~C. and Henry, Gregory W. and Roettenbacher, Rachael M. and Brewer, John M. and Llama, Joe and Petersburg, Ryan R. and Szymkowiak, Andrew E."
+year = "2022"
+month = "apr"
+journal = "AJ"
+volume = "163"
+number = "4"
+pages = "171"
+doi = "10.3847/1538-3881/ac5176"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022AJ....163..171Z"
+archiveprefix = "arXiv"
+eprint = "2201.10639"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Measured spectral shifts due to intrinsic stellar variability (e.g., pulsations, granulation) and activity (e.g., spots, plages) are the largest source of error for extreme-precision radial-velocity (EPRV) exoplanet detection. Several methods are designed to disentangle stellar signals from true center-of-mass shifts due to planets. The Extreme-precision Spectrograph (EXPRES) Stellar Signals Project (ESSP) presents a self-consistent comparison of 22 different methods tested on the same extreme-precision spectroscopic data from EXPRES. Methods derived new activity indicators, constructed models for mapping an indicator to the needed radial-velocity (RV) correction, or separated out shape- and shift-driven RV components. Since no ground truth is known when using real data, relative method performance is assessed using the total and nightly scatter of returned RVs and agreement between the results of different methods. Nearly all submitted methods return a lower RV rms than classic linear decorrelation, but no method is yet consistently reducing the RV rms to sub-meter-per-second levels. There is a concerning lack of agreement between the RVs returned by different methods. These results suggest that continued progress in this field necessitates increased interpretability of methods, high-cadence data to capture stellar signals at all timescales, and continued tests like the ESSP using consistent data sets with more advanced metrics for method performance. Future comparisons should make use of various well-characterized data sets-such as solar data or data with known injected planetary and/or stellar signals-to better understand method performance and whether planetary signals are preserved.\n"""
+tags = ["EXPRES", "Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "171"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Activity", "Pulsations", "Spectroscopic Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

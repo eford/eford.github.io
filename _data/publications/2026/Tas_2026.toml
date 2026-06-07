@@ -1,0 +1,22 @@
+title = "An Earth-sized planet on a 5.4 h orbit around a nearby K dwarf"
+author = "{Tas}, Kaya Han and Stefansson, Gudmundur and Fariz, Syarief N.~M. and Garg, Esha and Espinoza-Retamal, Juan I. and Koo, Elise and Bruijne, David and Luhn, Jacob K. and Ford, Eric B. and Mahadevan, Suvrath and Logsdon, Sarah E. and {Ca\\~nas}, Caleb I. and Han, Te and Everett, Mark E. and Alvarado-Montes, Jaime A. and Blake, Cullen and Cochran, William D. and Dong, Jiayin and Fernandes, Rachel B. and Giovinazzi, Mark R. and Halverson, Samuel and Kanodia, Shubham and Krolikowski, Daniel and McElwain, Michael and Ninan, Joe and Paredes, Leonardo A. and Robertson, Paul and Schwab, Christian"
+year = "2026"
+month = "mar"
+journal = "A&A"
+volume = "707"
+pages = "A238"
+doi = "10.1051/0004-6361/202556365"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2026A&A...707A.238T"
+archiveprefix = "arXiv"
+eprint = "2507.08464"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """\n"""
+tags = ["Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures"]
+eid = "A238"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["K dwarf", "Habitable Zone"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

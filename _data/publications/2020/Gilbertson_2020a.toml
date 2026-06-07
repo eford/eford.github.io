@@ -1,0 +1,23 @@
+title = "Toward Extremely Precise Radial Velocities. II. A Tool for Using Multivariate Gaussian Processes to Model Stellar Activity"
+author = "Gilbertson, Christian and Ford, Eric B. and Jones, David E. and Stenning, David C."
+year = "2020"
+month = "dec"
+journal = "ApJ"
+volume = "905"
+number = "2"
+pages = "155"
+doi = "10.3847/1538-4357/abc627"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020ApJ...905..155G"
+archiveprefix = "arXiv"
+eprint = "2009.01085"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """The radial velocity method is one of the most successful techniques for the discovery and characterization of exoplanets. Modern spectrographs promise measurement precision of 0.2-0.5 m s<SUP>-1</SUP> for an ideal target star. However, the intrinsic variability of stellar spectra can mimic and obscure true planet signals at these levels. Rajpaul et al. and Jones et al. proposed applying a physically motivated, multivariate Gaussian process (GP) to jointly model the apparent Doppler shift and multiple indicators of stellar activity as a function of time, so as to separate the planetary signal from various forms of stellar variability. These methods are promising, but performing the necessary calculations can be computationally intensive and algebraically tedious. In this work, we present a flexible and computationally efficient software package, GPLinearODEMaker.jl, for modeling multivariate time series using a linear combination of univariate GPs and their derivatives. The package allows users to easily and efficiently apply various multivariate GP models and different covariance kernel functions. We demonstrate GPLinearODEMaker.jl by applying the Jones et al. model to fit measurements of the apparent Doppler shift and activity indicators derived from simulated active solar spectra time series affected by many evolving starspots. We show how GPLinearODEMaker.jl makes it easy to explore the effect of different choices for the GP kernel. We find that local kernels could significantly increase the sensitivity and precision of Doppler planet searches relative to the widely used quasiperiodic kernel.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "155"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Gaussian Processes", "Doppler Shift Measurement", "Spectroscopy"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

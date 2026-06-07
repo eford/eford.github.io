@@ -7,7 +7,7 @@ Manifest.toml
 node_modules/
 .env
 .ads_config
-_data/publications*
+_data/publications_*
 *_old.md
 *.bib
 highlight

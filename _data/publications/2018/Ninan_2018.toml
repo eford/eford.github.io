@@ -1,0 +1,18 @@
+title = "The Habitable-Zone Planet Finder: improved flux image generation algorithms for H2RG up-the-ramp data"
+author = "Ninan, J.~P. and Bender, Chad F. and Mahadevan, Suvrath and Ford, Eric B. and Monson, Andrew J. and Kaplan, Kyle F. and Terrien, Ryan C. and Roy, Arpita and Robertson, Paul M. and Kanodia, Shubham and Stefansson, Gudmundur K."
+year = "2018"
+month = "aug"
+volume = "10709"
+pages = "107092U"
+doi = "10.1117/12.2312787"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2018SPIE10709E..2UN"
+entrytype = "inproceedings"
+abstract = """Noise and stability of current state of the art near-infrared (NIR) array detectors are still substantially worse than optical science grade CCDs used in astronomy. Obtaining the maximum signal-to-noise ratio in flux image is important for many NIR instruments, as is stable well understood data reduction and extraction. The Habitable- zone Planet Finder (HPF) is a near-infrared ultra stable precision radial velocity (RV) spectrograph commissioned on 10-m Hobby-Eberly Telescope (HET), McDonald Observatory, Texas, USA. HPF uses a Teledyne H2RG array detector. In order to achieve the high-precision ( 1 m/s) RV measurements from the NIR spectrum of HPF's science target stars, it is vital to maximize the signal-to-noise ratio and to accurately propagate the uncertainties. Here we present the algorithms we have developed to significantly improve the quality of flux images calculated from the up-the-ramp readout mode of H2RG. The algorithms in the tool HxRGproc presented in this manuscript are used for HPF's bias noise removal, non-linearity correction, cosmic ray correction, slope/flux and variance image calculation.\n"""
+tags = ["HPF", "Radial Velocity", "Stars"]
+research_themes = ["Radial Velocity Surveys"]
+eid = "107092U"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Near-Infrared Astronomy", "Detector Technology", "Spectroscopy"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Radial Velocity Surveys"]

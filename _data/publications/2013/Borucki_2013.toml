@@ -1,0 +1,22 @@
+title = "Kepler-62: A Five-Planet System with Planets of 1.4 and 1.6 Earth Radii in the Habitable Zone"
+author = "Borucki, William J. and Agol, Eric and Fressin, Francois and Kaltenegger, Lisa and Rowe, Jason and Isaacson, Howard and Fischer, Debra and Batalha, Natalie and Lissauer, Jack J. and Marcy, Geoffrey W. and Fabrycky, Daniel and {D\\'esert}, Jean-Michel and Bryson, Stephen T. and Barclay, Thomas and Bastien, Fabienne and Boss, Alan and Brugamyer, Erik and Buchhave, Lars A. and Burke, Chris and Caldwell, Douglas A. and Carter, Josh and Charbonneau, David and Crepp, Justin R. and Christensen-Dalsgaard, J\\orgen and Christiansen, Jessie L. and Ciardi, David and Cochran, William D. and DeVore, Edna and Doyle, Laurance and Dupree, Andrea K. and Endl, Michael and Everett, Mark E. and Ford, Eric B. and Fortney, Jonathan and Gautier, Thomas N. and Geary, John C. and Gould, Alan and Haas, Michael and Henze, Christopher and Howard, Andrew W. and Howell, Steve B. and Huber, Daniel and Jenkins, Jon M. and Kjeldsen, Hans and Kolbl, Rea and Kolodziejczak, Jeffery and Latham, David W. and Lee, Brian L. and Lopez, Eric and Mullally, Fergal and Orosz, Jerome A. and Prsa, Andrej and Quintana, Elisa V. and Sanchis-Ojeda, Roberto and Sasselov, Dimitar and Seader, Shawn and Shporer, Avi and Steffen, Jason H. and Still, Martin and Tenenbaum, Peter and Thompson, Susan E. and Torres, Guillermo and Twicken, Joseph D. and Welsh, William F. and Winn, Joshua N."
+year = "2013"
+month = "may"
+journal = "Science"
+volume = "340"
+number = "6132"
+pages = "587-590"
+doi = "10.1126/science.1234702"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013Sci...340..587B"
+archiveprefix = "arXiv"
+eprint = "1304.7387"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the detection of five planets—Kepler-62b, c, d, e, and f—of size 1.31, 0.54, 1.95, 1.61 and 1.41 Earth radii (R<SUB>⊕</SUB>), orbiting a K2V star at periods of 5.7, 12.4, 18.2, 122.4, and 267.3 days, respectively. The outermost planets, Kepler-62e and -62f, are super-Earth-size (1.25 R<SUB>⊕</SUB> &lt; planet radius ≤ 2.0 R<SUB>⊕</SUB>) planets in the habitable zone of their host star, respectively receiving 1.2 ± 0.2 times and 0.41 ± 0.05 times the solar flux at Earth’s orbit. Theoretical models of Kepler-62e and -62f for a stellar age of ~7 billion years suggest that both planets could be solid, either with a rocky composition or composed of mostly solid water in their bulk.\n"""
+tags = ["Astrobiology", "Kepler"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Habitable Zone", "Super-Earth", "Exoplanet Characterization"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

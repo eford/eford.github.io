@@ -1,0 +1,22 @@
+title = "The 55 Cancri planetary system: fully self-consistent N-body constraints and a dynamical analysis"
+author = "Nelson, Benjamin E. and Ford, Eric B. and Wright, Jason T. and Fischer, Debra A. and von Braun, Kaspar and Howard, Andrew W. and Payne, Matthew J. and Dindar, Saleh"
+year = "2014"
+month = "jun"
+journal = "MNRAS"
+volume = "441"
+number = "1"
+pages = "442-451"
+doi = "10.1093/mnras/stu450"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2014MNRAS.441..442N"
+archiveprefix = "arXiv"
+eprint = "1402.6343"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present an updated study of the planets known to orbit 55 Cancri A using 1 418 high-precision radial velocity observations from four observatories (Lick, Keck, Hobby-Eberly Telescope, Harlan J. Smith Telescope) and transit time/durations for the inner-most planet, 55 Cancri `e' (Winn et al. 2011). We provide the first posterior sample for the masses and orbital parameters based on self-consistent N-body orbital solutions for the 55 Cancri planets, all of which are dynamically stable (for at least 10<SUP>8</SUP> yr). We apply a GPU version of Radial velocity Using N-body Differential evolution Markov Chain Monte Carlo (RUN DMC; Nelson, Ford &amp; Payne) to perform a Bayesian analysis of the radial velocity and transit observations. Each of the planets in this remarkable system has unique characteristics. Our investigation of high-cadence radial velocities and priors based on space-based photometry yields an updated mass estimate for planet `e' (8.09 ± 0.26 M<SUB>⊕</SUB>), which affects its density (5.51±<SUP>1.32</SUP><SUB>1.00</SUB> g cm<SUP>-3</SUP>) and inferred bulk composition. Dynamical stability dictates that the orbital plane of planet `e' must be aligned to within 60° of the orbital plane of the outer planets (which we assume to be coplanar). The mutual interactions between the planets `b' and `c' may develop an apsidal lock about 180°. We find 36-45 per cent of all our model systems librate about the anti-aligned configuration with an amplitude of 51° ± 6°;₁0°. Other cases showed short-term perturbations in the libration of ϖ<SUB>b</SUB> - ϖ<SUB>c</SUB>, circulation, and nodding, but we find the planets are not in a 3:1 mean-motion resonance. A revised orbital period and eccentricity for planet `d' pushes it further towards the closest known Jupiter analogue in the exoplanet population.\n"""
+tags = ["Dynamics", "High Performance Computing", "Keck", "Radial Velocity"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet systems", "Orbital resonance", "Exoplanet characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

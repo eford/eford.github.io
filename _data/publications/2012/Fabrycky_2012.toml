@@ -1,0 +1,23 @@
+title = "Transit Timing Observations from Kepler. IV. Confirmation of Four Multiple-planet Systems by Simple Physical Models"
+author = "Fabrycky, Daniel C. and Ford, Eric B. and Steffen, Jason H. and Rowe, Jason F. and Carter, Joshua A. and Moorhead, Althea V. and Batalha, Natalie M. and Borucki, William J. and Bryson, Steve and Buchhave, Lars A. and Christiansen, Jessie L. and Ciardi, David R. and Cochran, William D. and Endl, Michael and Fanelli, Michael N. and Fischer, Debra and Fressin, Francois and Geary, John and Haas, Michael R. and Hall, Jennifer R. and Holman, Matthew J. and Jenkins, Jon M. and Koch, David G. and Latham, David W. and Li, Jie and Lissauer, Jack J. and Lucas, Philip and Marcy, Geoffrey W. and Mazeh, Tsevi and McCauliff, Sean and Quinn, Samuel and Ragozzine, Darin and Sasselov, Dimitar and Shporer, Avi"
+year = "2012"
+month = "may"
+journal = "ApJ"
+volume = "750"
+number = "2"
+pages = "114"
+doi = "10.1088/0004-637X/750/2/114"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...750..114F"
+archiveprefix = "arXiv"
+eprint = "1201.5415"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Eighty planetary systems of two or more planets are known to orbit stars other than the Sun. For most, the data can be sufficiently explained by non-interacting Keplerian orbits, so the dynamical interactions of these systems have not been observed. Here we present four sets of light curves from the Kepler spacecraft, each which of shows multiple planets transiting the same star. Departure of the timing of these transits from strict periodicity indicates that the planets are perturbing each other: the observed timing variations match the forcing frequency of the other planet. This confirms that these objects are in the same system. Next we limit their masses to the planetary regime by requiring the system remain stable for astronomical timescales. Finally, we report dynamical fits to the transit times, yielding possible values for the planets' masses and eccentricities. As the timespan of timing data increases, dynamical fits may allow detailed constraints on the systems' architectures, even in cases for which high-precision Doppler follow-up is impractical.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "114"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet Systems", "Orbital Period Fitting"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

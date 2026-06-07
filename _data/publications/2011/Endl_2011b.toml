@@ -1,0 +1,21 @@
+title = "The First Kepler Mission Planet Confirmed With The Hobby-Eberly Telescope: Kepler-15b, a Hot Jupiter Enriched In Heavy Elements"
+author = "Endl, Michael and MacQueen, Phillip J. and Cochran, William D. and Brugamyer, Erik and Buchhave, Lars A. and Rowe, Jason and Lucas, Phillip and Issacson, Howard and Bryson, Steve and Howell, Steve B. and Fortney, Jonathan J. and Hansen, Terese and Borucki, William J. and Caldwell, Douglas and Christiansen, Jessie L. and Ciardi, David R. and Demory, Brice-Olivier and Everett, Mark and Ford, Eric B. and Haas, Michael R. and Holman, Matthew J. and Horch, Elliot and Jenkins, Jon M. and Koch, David J. and Lissauer, Jack J. and Machalek, Pavel and Still, Martin and Welsh, William F. and Sanderfer, Dwight T. and Seader, Shawn E. and Smith, Jeffrey C. and Thompson, Susan E. and Twicken, Joseph D."
+year = "2011"
+month = "jul"
+journal = "arXiv e-prints"
+pages = "arXiv:1107.2596"
+doi = "10.48550/arXiv.1107.2596"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011arXiv1107.2596E"
+archiveprefix = "arXiv"
+eprint = "1107.2596"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the discovery of Kepler-15b, a new transiting exoplanet detected by NASA's Kepler mission. The transit signal with a period of 4.94 days was detected in the quarter 1 (Q1) Kepler photometry. For the first time, we have used the High-Resolution-Spectrograph (HRS) at the Hobby-Eberly Telescope (HET) to determine the mass of a Kepler planet via precise radial velocity (RV) measurements. The 24 HET/HRS radial velocities (RV) and 6 additional measurements from the FIES spectrograph at the Nordic Optical Telescope (NOT) reveal a Doppler signal with the same period and phase as the transit ephemeris. We used one HET/HRS spectrum of Kepler-15 taken without the iodine cell to determine accurate stellar parameters. The host star is a metal-rich ([Fe/H]=0.36+/-0.07) G-type main sequence star with T_eff=5515+/-124 K. The amplitude of the RV-orbit yields a mass of the planet of 0.66+/-0.1 M_Jup. The planet has a radius of 0.96+/-0.06 R_Jup and a mean bulk density of 0.9+/-0.2 g/cm³. The planetary radius resides on the lower envelope for transiting planets with similar mass and irradiation level. This suggests significant enrichment of the planet with heavy elements. We estimate a heavy element mass of 30-40 M_Earth within Kepler-15b.\n"""
+tags = ["Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "arXiv:1107.2596"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Hot Jupiters", "Heavy Element Enrichment", "Exoplanet Characterization"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

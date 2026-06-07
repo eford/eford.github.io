@@ -1,0 +1,23 @@
+title = "Occurrence Rates of Planets Orbiting FGK Stars: Combining Kepler DR25, Gaia DR2, and Bayesian Inference"
+author = "Hsu, Danley C. and Ford, Eric B. and Ragozzine, Darin and Ashby, Keir"
+year = "2019"
+month = "sep"
+journal = "AJ"
+volume = "158"
+number = "3"
+pages = "109"
+doi = "10.3847/1538-3881/ab31ab"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019AJ....158..109H"
+archiveprefix = "arXiv"
+eprint = "1902.01417"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We characterize the occurrence rate of planets, ranging in size from 0.5 to 16 R <SUB>⊕</SUB>, orbiting FGK stars with orbital periods from 0.5 to 500 days. Our analysis is based on results from the “DR25” catalog of planet candidates produced by NASA’s Kepler mission and stellar radii from Gaia “DR2.” We incorporate additional Kepler data products to accurately characterize the efficiency of planets being recognized as “threshold crossing events” by Kepler’s Transiting Planet Search pipeline and labeled as planet candidates by the robovetter. Using a hierarchical Bayesian model, we derive planet occurrence rates for a wide range of planet sizes and orbital periods. For planets with sizes 0.75-1.5 R <SUB>⊕</SUB> and orbital periods of 237-500 days, we find a rate of planets per FGK star of &lt;0.27 (84.13th percentile). While the true rate of such planets could be lower by a factor of ∼2 (primarily due to potential contamination of planet candidates by false alarms), the upper limits on the occurrence rate of such planets are robust to ∼10%. We recommend that mission concepts aiming to characterize potentially rocky planets in or near the habitable zone of Sun-like stars prepare compelling science programs that would be robust for a true rate in the range f <SUB> R,P </SUB> = 0.03-0.40 for 0.75-1.5 R <SUB>⊕</SUB> planets with orbital periods in 237-500 days, or a differential rate of {{Γ }}<SUB>⊕ </SUB>\\equiv (d<SUP>2</SUP>f)/[d(lnP) d(lnR<SUB>p</SUB>)]= 0.06-0.76.\n"""
+tags = ["Kepler", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+eid = "109"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Gaia", "Exoplanet Occurrence Rate", "Bayesian Inference", "FGK Stars"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

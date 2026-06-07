@@ -1,0 +1,23 @@
+title = "The California Planet Survey IV: A Planet Orbiting the Giant Star HD 145934 and Updates to Seven Systems with Long-period Planets"
+author = "Feng, Y. Katherina and Wright, Jason T. and Nelson, Benjamin and Wang, Sharon X. and Ford, Eric B. and Marcy, Geoffrey W. and Isaacson, Howard and Howard, Andrew W."
+year = "2015"
+month = "feb"
+journal = "ApJ"
+volume = "800"
+number = "1"
+pages = "22"
+doi = "10.1088/0004-637X/800/1/22"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2015ApJ...800...22F"
+archiveprefix = "arXiv"
+eprint = "1501.00633"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present an update to seven stars with long-period planets or planetary candidates using new and archival radial velocities from Keck-HIRES and literature velocities from other telescopes. Our updated analysis better constrains orbital parameters for these planets, four of which are known multi-planet systems. HD 24040 b and HD 183263 c are super-Jupiters with circular orbits and periods longer than 8 yr. We present a previously unseen linear trend in the residuals of HD 66428 indicative of an additional planetary companion. We confirm that GJ 849 is a multi-planet system and find a good orbital solution for the c component: it is a 1 M <SUB>Jup</SUB> planet in a 15 yr orbit (the longest known for a planet orbiting an M dwarf). We update the HD 74156 double-planet system. We also announce the detection of HD 145934 b, a 2 M <SUB>Jup</SUB> planet in a 7.5 yr orbit around a giant star. Two of our stars, HD 187123 and HD 217107, at present host the only known examples of systems comprising a hot Jupiter and a planet with a well constrained period greater than 5 yr, and with no evidence of giant planets in between. Our enlargement and improvement of long-period planet parameters will aid future analysis of origins, diversity, and evolution of planetary systems. <P />Based in part on observations obtained at the W. M. Keck Observatory, which is operated by the University of California and the California Institute of Technology.\n"""
+tags = ["Keck", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures"]
+eid = "22"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Long-period Planets", "Super-Jupiters", "M-dwarf planets"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

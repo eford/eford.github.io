@@ -1,0 +1,23 @@
+title = "Observing the Sun as a Star: Design and Early Results from the NEID Solar Feed"
+author = "Lin, Andrea S.~J. and Monson, Andrew and Mahadevan, Suvrath and Ninan, Joe P. and Halverson, Samuel and Nitroy, Colin and Bender, Chad F. and Logsdon, Sarah E. and Kanodia, Shubham and Terrien, Ryan C. and Roy, Arpita and Luhn, Jacob K. and Gupta, Arvind F. and Ford, Eric B. and Hearty, Fred and Laher, Russ R. and Hunting, Emily and McBride, William R. and Salazar Rivera, Noah Isaac and Rajagopal, Jayadev and Wolf, Marsha J. and Robertson, Paul and Wright, Jason T. and Blake, Cullen H. and {Ca\\~nas}, Caleb I. and Lubar, Emily and McElwain, Michael W. and Ramsey, Lawrence W. and Schwab, Christian and Stefansson, Gudmundur"
+year = "2022"
+month = "apr"
+journal = "AJ"
+volume = "163"
+number = "4"
+pages = "184"
+doi = "10.3847/1538-3881/ac5622"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022AJ....163..184L"
+archiveprefix = "arXiv"
+eprint = "2112.05711"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """Efforts with extreme-precision radial velocity (EPRV) instruments to detect small-amplitude planets are largely limited, on many timescales, by the effects of stellar variability and instrumental systematics. One avenue for investigating these effects is the use of small solar telescopes which direct disk-integrated sunlight to these EPRV instruments, observing the Sun at high cadence over months or years. We have designed and built a solar feed system to carry out \"Sun-as-a-star\" observations with NEID, a very high precision Doppler spectrometer recently commissioned at the WIYN 3.5 m Telescope at Kitt Peak National Observatory. The NEID solar feed has been taking observations nearly every day since 2020 December; data is publicly available at the NASA Exoplanet Science Institute NEID Solar Archive: https://neid.ipac.caltech.edu/search_solar.php. In this paper, we present the design of the NEID solar feed and explanations behind our design intent. We also present early radial velocity (RV) results which demonstrate NEID's RV stability on the Sun over 4 months of commissioning: 0.66 m s<SUP>-1</SUP> rms under good sky conditions and improving to 0.41 m s<SUP>-1</SUP> rms under best conditions.\n"""
+tags = ["NEID", "Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "184"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Doppler Spectroscopy", "Stellar Variability", "Radial Velocity Stability"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

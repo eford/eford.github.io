@@ -1,0 +1,23 @@
+title = "Searching for Low-mass Exoplanets amid Stellar Variability with a Fixed Effects Linear Model of Line-by-line Shape Changes"
+author = "Salzer, Joseph and Cisewski-Kehe, Jessi and Ford, Eric B. and Zhao, Lily L."
+year = "2025"
+month = "sep"
+journal = "AJ"
+volume = "170"
+number = "3"
+pages = "179"
+doi = "10.3847/1538-3881/adf29d"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025AJ....170..179S"
+archiveprefix = "arXiv"
+eprint = "2502.11930"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The radial velocity (RV) method, also known as Doppler spectroscopy, is a powerful technique for exoplanet discovery and characterization. In recent years, progress has been made thanks to the improvements in the quality of spectra from new extreme-precision RV spectrometers. However, detecting the RV signals of Earth-like exoplanets remains challenging, as the spectroscopic signatures of low-mass planets can be obscured or confused with intrinsic stellar variability. Changes in the shapes of spectral lines across time can provide valuable information for disentangling stellar activity from true Doppler shifts caused by low-mass exoplanets. In this work, we present a fixed effects linear model to estimate RV signals that controls for changes in line shapes by aggregating information from hundreds of spectral lines. Our methodology is fast and flexible, allowing us to use cross validation to evaluate model performance on unseen data. We evaluate the model's ability to remove stellar activity using solar observations from the NEID spectrograph, as the Sun's true center-of-mass motion is precisely known. Including line shape-change covariates reduces the RV rms errors by approximately 76% (from 1.722 to 0.403 m s<SUP>−1</SUP>) relative to using only the line-by-line Doppler shifts. The magnitude of the residuals is significantly less than that from traditional cross-correlation function-based RV estimators and comparable to other state-of-the-art methods for mitigating stellar variability.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "179"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Detection", "Spectral Line Analysis", "Fixed Effects Modeling"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

@@ -1,0 +1,23 @@
+title = "Discovery of a Nearby Habitable Zone Super-Earth Candidate Amenable to Direct Imaging"
+author = "Beard, Corey and Robertson, Paul and Lubin, Jack and Ford, Eric B. and Mahadevan, Suvrath and Stefansson, Gudmundur and Wright, Jason T. and Wolf, Eric and Kofman, Vincent and Venkatesan, Vidya and Kopparapu, Ravi and Arendtsz, Roan and Holcomb, Rae and Martinez, Raquel A. and Sallum, Stephanie and Luhn, Jacob K. and Bender, Chad F. and Blake, Cullen H. and Cochran, William D. and Delamer, Megan and Diddams, Scott A. and Endl, Michael and Halverson, Samuel and Kanodia, Shubham and Krolikowski, Daniel M. and Lin, Andrea S.~J. and Logsdon, Sarah E. and McElwain, Michael W. and Monson, Andrew and Ninan, Joe P. and Rajagopal, Jayadev and Roy, Arpita and Schwab, Christian and Terrien, Ryan C."
+year = "2025"
+month = "nov"
+journal = "AJ"
+volume = "170"
+number = "5"
+pages = "279"
+doi = "10.3847/1538-3881/ae0e20"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025AJ....170..279B"
+archiveprefix = "arXiv"
+eprint = "2510.19956"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the discovery of GJ 251 c, a candidate super-Earth orbiting in the habitable zone (HZ) of its M dwarf host star. Using high-precision Habitable-zone Planet Finder and NEID RVs, in conjunction with archival RVs from the Keck I High Resolution Echelle Spectrometer, the Calar Alto High-resolution Search for M dwarfs with Exoearths with Near-infrared and optical Echelle Spectrograph, and the Spectropolarimétre Infrarouge, we improve the measured parameters of the known planet, GJ 251 b (P<SUB>b</SUB> = 14.2370 days; <inline-formula> <mml:math><mml:mi>m</mml:mi><mml:mi>sin</mml:mi><mml:mo>(</mml:mo><mml:mi>i</mml:mi><mml:mo>)</mml:mo></mml:math> </inline-formula> = 3.85<inline-formula> <mml:math><mml:msubsup><mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>0.33</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.35</mml:mn></mml:mrow></mml:msubsup></mml:math> </inline-formula> M<SUB>⊕</SUB>), and we significantly constrain the minimum mass of GJ 251 c, placing it in a plausibly terrestrial regime (P<SUB>c</SUB> = 53.647 ± 0.044 days; <inline-formula> <mml:math><mml:mi>m</mml:mi><mml:mi>sin</mml:mi><mml:msub><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:math> </inline-formula> = 3.84 ± 0.75 M<SUB>⊕</SUB>). Using activity mitigation techniques that leverage chromatic information content, we perform a color-dependent analysis of the system and a detailed comparison of more than 50 models that describe the nature of the planets and stellar activity in the system. Due to GJ 251's proximity to Earth (5.5 pc), next generation, 30 meter class telescopes will likely be able to image terrestrial planets in GJ 251's HZ. In fact, GJ 251 c is currently the best candidate for terrestrial, HZ planet imaging in the northern sky.\n"""
+tags = ["HPF", "Keck", "NEID", "Radial Velocity"]
+research_themes = ["Astrobiology", "Exoplanet Demographics", "Mitigating Stellar Variability", "Planetary Architectures", "Radial Velocity Surveys"]
+eid = "279"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Super-Earth", "Habitable Zone", "Direct Imaging", "M Dwarfs"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Demographics", "Mitigating Stellar Variability", "Planetary Architectures", "Radial Velocity Surveys"]

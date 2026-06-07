@@ -1,0 +1,22 @@
+title = "Transit timing observations from Kepler - VII. Confirmation of 27 planets in 13 multiplanet systems via transit timing variations and orbital stability"
+author = "Steffen, Jason H. and Fabrycky, Daniel C. and Agol, Eric and Ford, Eric B. and Morehead, Robert C. and Cochran, William D. and Lissauer, Jack J. and Adams, Elisabeth R. and Borucki, William J. and Bryson, Steve and Caldwell, Douglas A. and Dupree, Andrea and Jenkins, Jon M. and Robertson, Paul and Rowe, Jason F. and Seader, Shawn and Thompson, Susan and Twicken, Joseph D."
+year = "2013"
+month = "jan"
+journal = "MNRAS"
+volume = "428"
+number = "2"
+pages = "1077-1087"
+doi = "10.1093/mnras/sts090"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.1077S"
+archiveprefix = "arXiv"
+eprint = "1208.3499"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We confirm 27 planets in 13 planetary systems by showing the existence of statistically significant anticorrelated transit timing variations, which demonstrates that the planet candidates are in the same system, and long-term dynamical stability, which places limits on the masses of the candidates - showing that they are planetary. All of these newly confirmed planetary systems have orbital periods that place them near first-order mean motion resonances (MMRs), including six systems near the 2:1 MMR, five near 3:2, and one each near 4:3, 5:4 and 6:5. In addition, several unconfirmed planet candidates exist in some systems (that cannot be confirmed with this method at this time). A few of these candidates would also be near first-order MMRs with either the confirmed planets or other candidates. One system of particular interest, Kepler-56 (KOI-1241), is a pair of planets orbiting a twelfth magnitude, giant star with radius over three times that of the Sun and effective temperature of 4900 K - among the largest stars known to host a transiting exoplanetary system.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Mean Motion Resonances", "Exoplanet System Characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

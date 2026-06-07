@@ -1,0 +1,23 @@
+title = "Kepler-20: A Sun-like Star with Three Sub-Neptune Exoplanets and Two Earth-size Candidates"
+author = "Gautier, III, Thomas N. and Charbonneau, David and Rowe, Jason F. and Marcy, Geoffrey W. and Isaacson, Howard and Torres, Guillermo and Fressin, Francois and Rogers, Leslie A. and {D\\'esert}, Jean-Michel and Buchhave, Lars A. and Latham, David W. and Quinn, Samuel N. and Ciardi, David R. and Fabrycky, Daniel C. and Ford, Eric B. and Gilliland, Ronald L. and Walkowicz, Lucianne M. and Bryson, Stephen T. and Cochran, William D. and Endl, Michael and Fischer, Debra A. and Howell, Steve B. and Horch, Elliott P. and Barclay, Thomas and Batalha, Natalie and Borucki, William J. and Christiansen, Jessie L. and Geary, John C. and Henze, Christopher E. and Holman, Matthew J. and Ibrahim, Khadeejah and Jenkins, Jon M. and Kinemuchi, Karen and Koch, David G. and Lissauer, Jack J. and Sanderfer, Dwight T. and Sasselov, Dimitar D. and Seager, Sara and Silverio, Kathryn and Smith, Jeffrey C. and Still, Martin and Stumpe, Martin C. and Tenenbaum, Peter and Van Cleve, Jeffrey"
+year = "2012"
+month = "apr"
+journal = "ApJ"
+volume = "749"
+number = "1"
+pages = "15"
+doi = "10.1088/0004-637X/749/1/15"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...749...15G"
+archiveprefix = "arXiv"
+eprint = "1112.4514"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the discovery of the Kepler-20 planetary system, which we initially identified through the detection of five distinct periodic transit signals in the Kepler light curve of the host star 2MASS J19104752+4220194. From high-resolution spectroscopy of the star, we find a stellar effective temperature T <SUB>eff</SUB> = 5455 ± 100 K, a metallicity of [Fe/H] = 0.01 ± 0.04, and a surface gravity of log g = 4.4 ± 0.1. We combine these estimates with an estimate of the stellar density derived from the transit light curves to deduce a stellar mass of M <SUB>sstarf</SUB> = 0.912 ± 0.034 M <SUB>☉</SUB> and a stellar radius of R <SUB>sstarf</SUB> = 0.944<SUP>+0.060</SUP> <SUB>-0.095</SUB> R <SUB>☉</SUB>. For three of the transit signals, we demonstrate that our results strongly disfavor the possibility that these result from astrophysical false positives. We accomplish this by first identifying the subset of stellar blends that reproduce the precise shape of the light curve and then using the constraints on the presence of additional stars from high angular resolution imaging, photometric colors, and the absence of a secondary component in our spectroscopic observations. We conclude that the planetary scenario is more likely than that of an astrophysical false positive by a factor of 2 × 10<SUP>5</SUP> (Kepler-20b), 1 × 10<SUP>5</SUP> (Kepler-20c), and 1.1 × 10<SUP>3</SUP> (Kepler-20d), sufficient to validate these objects as planetary companions. For Kepler-20c and Kepler-20d, the blend scenario is independently disfavored by the achromaticity of the transit: from Spitzer data gathered at 4.5 μm, we infer a ratio of the planetary to stellar radii of 0.075 ± 0.015 (Kepler-20c) and 0.065 ± 0.011 (Kepler-20d), consistent with each of the depths measured in the Kepler optical bandpass. We determine the orbital periods and physical radii of the three confirmed planets to be 3.70 days and 1.91<SUP>+0.12</SUP> <SUB>-0.21</SUB> R <SUB>⊕</SUB> for Kepler-20b, 10.85 days and 3.07<SUP>+0.20</SUP> <SUB>-0.31</SUB> R <SUB>⊕</SUB> for Kepler-20c, and 77.61 days and 2.75<SUP>+0.17</SUP> <SUB>-0.30</SUB> R <SUB>⊕</SUB> for Kepler-20d. From multi-epoch radial velocities, we determine the masses of Kepler-20b and Kepler-20c to be 8.7 ± 2.2 M <SUB>⊕</SUB> and 16.1 ± 3.5 M <SUB>⊕</SUB>, respectively, and we place an upper limit on the mass of Kepler-20d of 20.1 M <SUB>⊕</SUB> (2σ).\n"""
+tags = ["Kepler", "Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Solar Observations", "Transit Surveys"]
+eid = "15"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Sub-Neptune Planets", "Exoplanet Characterization", "Stellar Metallicity"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Solar Observations", "Transit Surveys"]

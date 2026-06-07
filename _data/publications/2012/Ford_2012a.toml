@@ -1,0 +1,23 @@
+title = "Transit Timing Observations from Kepler. V. Transit Timing Variation Candidates in the First Sixteen Months from Polynomial Models"
+author = "Ford, Eric B. and Ragozzine, Darin and Rowe, Jason F. and Steffen, Jason H. and Barclay, Thomas and Batalha, Natalie M. and Borucki, William J. and Bryson, Stephen T. and Caldwell, Douglas A. and Fabrycky, Daniel C. and Gautier, Thomas N. and Holman, Matthew J. and Ibrahim, Khadeejah A. and Kjeldsen, Hans and Kinemuchi, Karen and Koch, David G. and Lissauer, Jack J. and Still, Martin and Tenenbaum, Peter and Uddin, Kamal and Welsh, William"
+year = "2012"
+month = "sep"
+journal = "ApJ"
+volume = "756"
+number = "2"
+pages = "185"
+doi = "10.1088/0004-637X/756/2/185"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...756..185F"
+archiveprefix = "arXiv"
+eprint = "1201.1892"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Transit timing variations provide a powerful tool for confirming and characterizing transiting planets, as well as detecting non-transiting planets. We report the results of an updated transit timing variation (TTV) analysis for 1481 planet candidates based on transit times measured during the first sixteen months of Kepler observations. We present 39 strong TTV candidates based on long-term trends (2.8% of suitable data sets). We present another 136 weaker TTV candidates (9.8% of suitable data sets) based on the excess scatter of TTV measurements about a linear ephemeris. We anticipate that several of these planet candidates could be confirmed and perhaps characterized with more detailed TTV analyses using publicly available Kepler observations. For many others, Kepler has observed a long-term TTV trend, but an extended Kepler mission will be required to characterize the system via TTVs. We find that the occurrence rate of planet candidates that show TTVs is significantly increased (~68%) for planet candidates transiting stars with multiple transiting planet candidates when compared to planet candidates transiting stars with a single transiting planet candidate.\n"""
+tags = ["Dynamics", "Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "185"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Kepler Space Telescope", "Exoplanet Characterization", "Transit Photometry"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,22 @@
+title = "The Formation of Ice Giants in a Packed Oligarchy: Instability and Aftermath"
+author = "Ford, Eric B. and Chiang, Eugene I."
+year = "2007"
+month = "may"
+journal = "ApJ"
+volume = "661"
+number = "1"
+pages = "602-615"
+doi = "10.1086/513598"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2007ApJ...661..602F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0701745"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """As many as five ice giants-Neptune-mass planets composed of ~90% ice and rock and ~10% hydrogen-are thought to form at heliocentric distances of ~10-25 AU on closely packed orbits spaced ~5 Hill radii apart. Such oligarchies are ultimately unstable. Once the parent disk of planetesimals is sufficiently depleted, oligarchs perturb one another onto crossing orbits. We explore both the onset and outcome of the instability through numerical integrations, including dynamical friction cooling of planets by a planetesimal disk whose properties are held fixed. To trigger instability and the ejection of the first ice giant in systems having an original surface density in oligarchs of Σ~1 g cm<SUP>-2</SUP>, the disk surface density σ must fall below ~0.1 g cm<SUP>-2</SUP>. Ejections are predominantly by Jupiter and occur within ~10<SUP>7</SUP> yr. To eject more than one oligarch requires σ&lt;~0.03 g cm<SUP>-2</SUP>. For certain choices of σ and initial semimajor axes of planets, systems starting with up to four oligarchs in addition to Jupiter and Saturn can readily yield solar system-like outcomes in which two surviving ice giants lie inside 30 AU and have their orbits circularized by dynamical friction. Our findings support the idea that planetary systems begin in more crowded and compact configurations, like those of shear-dominated oligarchies. In contrast to previous studies, we identify σ&lt;~0.1Σ as the regime relevant for understanding the evolution of the outer solar system, and we encourage future studies to concentrate on this regime while relaxing our assumption of a fixed planetesimal disk. Whether evidence of the instability can be found in Kuiper Belt objects (KBOs) is unclear, since in none of our simulations do marauding oligarchs excite as large a proportion of KBOs having inclinations &gt;~20° as is observed.\n"""
+tags = ["Dynamics", "High Performance Computing", "Planet-planet scattering"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Ice Giants", "Planetesimal Disk Dynamics", "Orbital Instability"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

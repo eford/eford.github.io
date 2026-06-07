@@ -1,0 +1,23 @@
+title = "Searching for GEMS: The Occurrence of Giant Planets Orbiting M Dwarfs within 100 pc"
+author = "Glusman, Rowen I. and {Ca\\~nas}, Caleb I. and Kanodia, Shubham and Han, Te and Fernandes, Rachel B. and {Stef\\'ansson}, Gu\\djmundur and Ford, Eric B. and Maney, Marissa and Monson, Andrew and Hotnisky, Andrew and Mahadevan, Suvrath and Rodruck, Michael and Ment, Kristo and McWilliam, Andrew and Cochran, William D. and Colón, Knicole D. and Giovinazzi, Mark R. and Alvarado-Montes, Jaime A. and Bender, Chad F. and Blake, Cullen H. and Boone, Alexandra and Diddams, Scott A. and Gupta, Arvind F. and Halverson, Samuel and Krolikowski, Daniel and Lin, Andrea S.~J. and Ninan, Joe P. and Robertson, Paul and Roy, Arpita and Schwab, Christian and Terrien, Ryan and Teske, Johanna and Wright, Jason T."
+year = "2026"
+month = "mar"
+journal = "AJ"
+volume = "171"
+number = "3"
+pages = "146"
+doi = "10.3847/1538-3881/ae2fbb"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2026AJ....171..146G"
+archiveprefix = "arXiv"
+eprint = "2509.08773"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present results from a systematic search for transiting short-period giant exoplanets around M dwarf stars (GEMS; P &lt; 10 days, R<SUB>p</SUB> ≳ 8R<SUB>⊕</SUB>) within a distance-limited 100 pc sample of 149,316 M dwarfs using TESS-Gaia Light Curve (or TGLC) data. We describe the development and application of the TESS-miner package and associated vetting procedures used in this analysis. To assess detection completeness, we conducted ∼72 million injection-recovery tests across ∼26,000 stars with an average of ∼3 sectors of data per star, subdivided into early-type (M0─M2.5), mid-type (M2.5─M4), and late-type (M4 or later) M dwarfs. Our pipeline demonstrates high sensitivity across all subtypes within the injection bounds. We estimate the occurrence rates of short-period GEMS as a function of stellar mass, and combine our measured rates with those derived for FGK stars, fitting an exponential trend with stellar mass, consistent with core-accretion theory predictions. We find GEMS occurrence rates of 0.118% ± 0.068% for early-type M dwarfs, 0.153% ± 0.069% for mid-type M dwarfs, and 0.036% ± 0.024% for late-type M dwarfs, with a mean rate of 0.068% ± 0.024% across the full sample. While our search spanned 1.0 day &lt; P &lt; 10.0 days, these rates were calculated using planets orbiting with 1.0 day &lt; P &lt; 5.0 days. This work establishes the basis for future occurrence-rate studies of transiting GEMS.\n"""
+tags = ["High Performance Computing", "Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+eid = "146"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M Dwarf Stars", "Exoplanet Occurrence Rate", "TESS Data Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

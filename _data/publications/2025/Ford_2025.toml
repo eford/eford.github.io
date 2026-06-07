@@ -1,0 +1,17 @@
+title = "Enhancing Exoplanet Surveys via Physics-informed Machine Learning"
+author = "Ford, Eric B."
+year = "2025"
+month = "aug"
+volume = "19"
+pages = "1-10"
+doi = "10.1017/S174392132300128X"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025IAUS..368....1F"
+entrytype = "inproceedings"
+abstract = """Since the last 1990s, Doppler spectroscopy has been one of the most prolific methods of detecting and characterizing exoplanets (Fischer et al. 2016). The latest generation of stabilized spectrographs can achieve impressive levels of precision and stability, approaching that needed to detect the motion of a Sun-like star due to the gravity of an Earth-mass planet in its habitable zone (Crass et al. 2021). However, the exoplanet detection power of modern radial velocity (RV) exoplanet surveys is typically limited by the spectral variability of the target star. Machine learning (ML) has the potential to significantly improve the ability of RV exoplanet surveys to distinguish planets for stellar variability. Astronomers have begun making applying a wide variety of ML techniques, from principal component analysis and multilinear regression to convolutional neural networks. This paper reviews the state of the field for mitigating stellar variability in RV exoplanet surveys from a ML perspective. Early results show that relatively simple ML techniques paired with well-engineered features often perform comparable to much more complex ML models, while providing improved interpretability and explainability. These are likely to be critical factors for establishing the credibility and robustness of any future detections of potentially Earth-like planets.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Machine Learning", "Spectroscopy", "Exoplanet Detection"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

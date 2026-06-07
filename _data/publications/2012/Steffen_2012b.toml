@@ -1,0 +1,22 @@
+title = "Transit timing observations from Kepler - III. Confirmation of four multiple planet systems by a Fourier-domain study of anticorrelated transit timing variations"
+author = "Steffen, Jason H. and Fabrycky, Daniel C. and Ford, Eric B. and Carter, Joshua A. and {D\\'esert}, Jean-Michel and Fressin, Francois and Holman, Matthew J. and Lissauer, Jack J. and Moorhead, Althea V. and Rowe, Jason F. and Ragozzine, Darin and Welsh, William F. and Batalha, Natalie M. and Borucki, William J. and Buchhave, Lars A. and Bryson, Steve and Caldwell, Douglas A. and Charbonneau, David and Ciardi, David R. and Cochran, William D. and Endl, Michael and Everett, Mark E. and Gautier, Thomas N. and Gilliland, Ron L. and Girouard, Forrest R. and Jenkins, Jon M. and Horch, Elliott and Howell, Steve B. and Isaacson, Howard and Klaus, Todd C. and Koch, David G. and Latham, David W. and Li, Jie and Lucas, Philip and MacQueen, Phillip J. and Marcy, Geoffrey W. and McCauliff, Sean and Middour, Christopher K. and Morris, Robert L. and Mullally, Fergal R. and Quinn, Samuel N. and Quintana, Elisa V. and Shporer, Avi and Still, Martin and Tenenbaum, Peter and Thompson, Susan E. and Twicken, Joseph D. and Van Cleve, Jeffery"
+year = "2012"
+month = "apr"
+journal = "MNRAS"
+volume = "421"
+number = "3"
+pages = "2342-2354"
+doi = "10.1111/j.1365-2966.2012.20467.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012MNRAS.421.2342S"
+archiveprefix = "arXiv"
+eprint = "1201.5412"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a method to confirm the planetary nature of objects in systems with multiple transiting exoplanet candidates. This method involves a Fourier-domain analysis of the deviations in the transit times from a constant period that result from dynamical interactions within the system. The combination of observed anticorrelations in the transit times and mass constraints from dynamical stability allow us to claim the discovery of four planetary systems, Kepler-25, Kepler-26, Kepler-27 and Kepler-28, containing eight planets and one additional planet candidate.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Fourier analysis", "Multi-planet systems"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

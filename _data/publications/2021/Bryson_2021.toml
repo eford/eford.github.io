@@ -1,0 +1,23 @@
+title = "The Occurrence of Rocky Habitable-zone Planets around Solar-like Stars from Kepler Data"
+author = "Bryson, Steve and Kunimoto, Michelle and Kopparapu, Ravi K. and Coughlin, Jeffrey L. and Borucki, William J. and Koch, David and Aguirre, Victor Silva and Allen, Christopher and Barentsen, Geert and Batalha, Natalie M. and Berger, Travis and Boss, Alan and Buchhave, Lars A. and Burke, Christopher J. and Caldwell, Douglas A. and Campbell, Jennifer R. and Catanzarite, Joseph and Chandrasekaran, Hema and Chaplin, William J. and Christiansen, Jessie L. and Christensen-Dalsgaard, J\\orgen and Ciardi, David R. and Clarke, Bruce D. and Cochran, William D. and Dotson, Jessie L. and Doyle, Laurance R. and Duarte, Eduardo Seperuelo and Dunham, Edward W. and Dupree, Andrea K. and Endl, Michael and Fanson, James L. and Ford, Eric B. and Fujieh, Maura and Gautier, III, Thomas N. and Geary, John C. and Gilliland, Ronald L. and Girouard, Forrest R. and Gould, Alan and Haas, Michael R. and Henze, Christopher E. and Holman, Matthew J. and Howard, Andrew W. and Howell, Steve B. and Huber, Daniel and Hunter, Roger C. and Jenkins, Jon M. and Kjeldsen, Hans and Kolodziejczak, Jeffery and Larson, Kipp and Latham, David W. and Li, Jie and Mathur, Savita and Meibom, S\\oren and Middour, Chris and Morris, Robert L. and Morton, Timothy D. and Mullally, Fergal and Mullally, Susan E. and Pletcher, David and Prsa, Andrej and Quinn, Samuel N. and Quintana, Elisa V. and Ragozzine, Darin and Ramirez, Solange V. and Sanderfer, Dwight T. and Sasselov, Dimitar and Seader, Shawn E. and Shabram, Megan and Shporer, Avi and Smith, Jeffrey C. and Steffen, Jason H. and Still, Martin and Torres, Guillermo and Troeltzsch, John and Twicken, Joseph D. and Uddin, Akm Kamal and Van Cleve, Jeffrey E. and Voss, Janice and Weiss, Lauren M. and Welsh, William F. and Wohler, Bill and Zamudio, Khadeejah A."
+year = "2021"
+month = "jan"
+journal = "AJ"
+volume = "161"
+number = "1"
+pages = "36"
+doi = "10.3847/1538-3881/abc418"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021AJ....161...36B"
+archiveprefix = "arXiv"
+eprint = "2010.14812"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the occurrence rates for rocky planets in the habitable zones (HZs) of main-sequence dwarf stars based on the Kepler DR25 planet candidate catalog and Gaia-based stellar properties. We provide the first analysis in terms of star-dependent instellation flux, which allows us to track HZ planets. We define η<SUB>⊕</SUB> as the HZ occurrence of planets with radii between 0.5 and 1.5 R<SUB>⊕</SUB> orbiting stars with effective temperatures between 4800 and 6300 K. We find that η<SUB>⊕</SUB> for the conservative HZ is between $0.37_-0.21^+0.48$ (errors reflect 68% credible intervals) and $0.60_-0.36^+0.90$ planets per star, while the optimistic HZ occurrence is between $0.58_-0.33^+0.73$ and $0.88_-0.51^+1.28$ planets per star. These bounds reflect two extreme assumptions about the extrapolation of completeness beyond orbital periods where DR25 completeness data are available. The large uncertainties are due to the small number of detected small HZ planets. We find similar occurrence rates between using Poisson likelihood Bayesian analysis and using Approximate Bayesian Computation. Our results are corrected for catalog completeness and reliability. Both completeness and the planet occurrence rate are dependent on stellar effective temperature. We also present occurrence rates for various stellar populations and planet size ranges. We estimate with 95% confidence that, on average, the nearest HZ planet around G and K dwarfs is ∼6 pc away and there are ∼4 HZ rocky planets around G and K dwarfs within 10 pc of the Sun.\n"""
+tags = ["Astrophysics", "Kepler", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Demographics", "Exoplanet Surveys"]
+eid = "36"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Habitable Zone", "Planetary Occurrence Rate", "Stellar Characterization"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys"]

@@ -1,0 +1,22 @@
+title = "Structure and Evolution of Nearby Stars with Planets. I. Short-Period Systems"
+author = "Ford, Eric B. and Rasio, Frederic A. and Sills, Alison"
+year = "1999"
+month = "mar"
+journal = "ApJ"
+volume = "514"
+number = "1"
+pages = "411-429"
+doi = "10.1086/306935"
+adsurl = "https://ui.adsabs.harvard.edu/abs/1999ApJ...514..411F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/9807085"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Using the Yale stellar evolution code, we have calculated theoretical models for nearby stars with planetary-mass companions in short-period nearly circular orbits: 51 Pegasi, τ Bootis, υ Andromedae, ρ<SUP>1</SUP> Cancri, and ρ Coronae Borealis. We present tables listing key stellar parameters such as mass, radius, age, and size of the convective envelope as a function of the observable parameters (luminosity, effective temperature, and metallicity), as well as the unknown helium fraction. For each star we construct best models based on recently published spectroscopic data and the present understanding of galactic chemical evolution. We discuss our results in the context of planet formation theory and, in particular, tidal dissipation effects and stellar metallicity enhancements.\n"""
+tags = ["Binary Stars", "Stars"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Evolution", "Planetary Companions", "Metallicity"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

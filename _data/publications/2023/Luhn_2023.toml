@@ -1,0 +1,23 @@
+title = "Impact of Correlated Noise on the Mass Precision of Earth-analog Planets in Radial Velocity Surveys"
+author = "Luhn, Jacob K. and Ford, Eric B. and Guo, Zhao and Gilbertson, Christian and Newman, Patrick and Plavchan, Peter and Burt, Jennifer A. and Teske, Johanna and Gupta, Arvind F."
+year = "2023"
+month = "mar"
+journal = "AJ"
+volume = "165"
+number = "3"
+pages = "98"
+doi = "10.3847/1538-3881/acad08"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2023AJ....165...98L"
+archiveprefix = "arXiv"
+eprint = "2204.12512"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Characterizing the masses and orbits of near-Earth-mass planets is crucial for interpreting observations from future direct imaging missions (e.g., HabEx, LUVOIR). Therefore, the Exoplanet Science Strategy report recommended further research so future extremely precise radial velocity surveys could contribute to the discovery and/or characterization of near-Earth-mass planets in the habitable zones of nearby stars prior to the launch of these future imaging missions. Newman et al. (2023) simulated such 10 yr surveys under various telescope architectures, demonstrating they can precisely measure the masses of potentially habitable Earth-mass planets in the absence of stellar variability. Here, we investigate the effect of stellar variability on the signal-to-noise ratio (S/N) of the planet mass measurements in these simulations. We find that correlated noise due to active regions has the largest effect on the observed mass S/N, reducing the S/N by a factor of ~5.5 relative to the no-variability scenario; granulation reduces by a factor of ~3, while p-mode oscillations has little impact on the proposed survey strategies. We show that in the presence of correlated noise, 5 cm s<SUP>-1</SUP> instrumental precision offers little improvement over 10 cm s<SUP>-1</SUP> precision, highlighting the need to mitigate astrophysical variability. With our noise models, extending the survey to 15 yr doubles the number of Earth-analogs with mass S/N &gt; 10, and reaching this threshold for any Earth-analog orbiting a star &gt;0.76 M <SUB>☉</SUB> in a 10 yr survey would require an increase in the number of observations per star from that in Newman et al. (2023).\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "98"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Activity", "Radial Velocity Noise Modeling"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

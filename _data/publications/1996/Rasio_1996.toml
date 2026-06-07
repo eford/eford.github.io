@@ -1,0 +1,18 @@
+title = "Dynamical instabilities and the formation of extrasolar planetary systems"
+author = "Rasio, Frederic A. and Ford, Eric B."
+year = "1996"
+month = "nov"
+journal = "Science"
+volume = "274"
+pages = "954-956"
+doi = "10.1126/science.274.5289.954"
+adsurl = "https://ui.adsabs.harvard.edu/abs/1996Sci...274..954R"
+entrytype = "article"
+abstract = """The existence of a dominant massive planet, Jupiter, in our solar system, although perhaps essential for long-term dynamical stability and the development of life, may not be typical of planetary systems that form around other stars. In a system containing two Jupiter-like planets, the possibility exists that a dynamical instability will develop. Computer simulations suggest that in many cases this instability leads to the ejection of one planet while the other is left in a smaller, eccentric orbit. In extreme cases, the eccentric orbit has a small enough periastron distance that it may circularize at an orbital period as short as a few days through tidal dissipation. This may explain the recently detected Jupiter-mass planets in very tight circular orbits and wider eccentric orbits around nearby stars.\n"""
+tags = ["Dynamics", "Planet-planet scattering"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Dynamics", "Orbital Stability"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

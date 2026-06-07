@@ -1,0 +1,22 @@
+title = "Benefits of Ground-Based Photometric Follow-Up for Transiting Extrasolar Planets Discovered with Kepler and CoRoT"
+author = "Colón, Knicole D. and Ford, Eric B."
+year = "2009"
+month = "sep"
+journal = "ApJ"
+volume = "703"
+number = "1"
+pages = "1086-1095"
+doi = "10.1088/0004-637X/703/1/1086"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...703.1086C"
+archiveprefix = "arXiv"
+eprint = "0907.5193"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Currently, over 40 transiting planets have been discovered by ground-based photometric surveys, and space-based missions such as Kepler and CoRoT are expected to detect hundreds more. Follow-up photometric observations from the ground will play an important role in constraining both orbital and physical parameters for newly discovered planets, especially those with small radii (R<SUB>p</SUB> lsim 4R <SUB>⊕</SUB>) and/or intermediate-to-long orbital periods (Pgsim 30 days). Here, we simulate transit light curves (LCs) from Kepler-like photometry and ground-based observations in the near-infrared (NIR) to determine how jointly modeling space-based and ground-based LCs can improve measurements of the transit duration and planet-star radius ratio. We find that adding observations of at least one ground-based transit to space-based observations can significantly improve the accuracy for measuring the transit duration and planet-star radius ratio of small planets (R<SUB>p</SUB> lsim 4R <SUB>⊕</SUB>) in long-period (~1 year) orbits, largely thanks to the reduced effect of limb darkening in the NIR. We also demonstrate that multiple ground-based observations are needed to gain a substantial improvement in the measurement accuracy for small planets with short orbital periods (~3 days). Finally, we consider the role that higher ground-based precisions will play in constraining parameter measurements for typical Kepler targets. Our results can help inform the priorities of transit follow-up programs (including both primary and secondary transit of planets discovered with Kepler and CoRoT), leading to improved constraints for transit durations, planet sizes, and orbital eccentricities.\n"""
+tags = ["Kepler", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Ground-based Photometry", "Near-Infrared (NIR)", "Exoplanet Characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Transit Surveys"]

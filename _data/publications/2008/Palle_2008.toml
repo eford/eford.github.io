@@ -1,0 +1,22 @@
+title = "Identifying the Rotation Rate and the Presence of Dynamic Weather on Extrasolar Earth-like Planets from Photometric Observations"
+author = "{Pall\\'e}, E. and Ford, Eric B. and Seager, S. and {Monta\\~n\\'es-Rodr\\'\\iguez}, P. and Vazquez, M."
+year = "2008"
+month = "apr"
+journal = "ApJ"
+volume = "676"
+number = "2"
+pages = "1319-1329"
+doi = "10.1086/528677"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2008ApJ...676.1319P"
+archiveprefix = "arXiv"
+eprint = "0802.1836"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """With the recent discoveries of hundreds of extrasolar planets, the search for planets like Earth and life in the universe is quickly gaining momentum. In the future, large space observatories could directly detect the light scattered from rocky planets, but they would not be able to spatially resolve a planet's surface. Using reflectance models and real cloud data from satellite observations, here we show that, despite Earth's dynamic weather patterns, the light scattered by the Earth to a hypothetical distant observer as a function of time contains sufficient information to accurately measure Earth's rotation period. This is because ocean currents and continents result in relatively stable averaged global cloud patterns. The accuracy of these measurements will vary with the viewing geometry and other observational constraints. If the rotation period can be measured with accuracy, data spanning several months could be coherently combined to obtain spectroscopic information about individual regions of the planetary surface. Moreover, deviations from a periodic signal can be used to infer the presence of relatively short-lived structures in its atmosphere (i.e., clouds). This could provide a useful technique for recognizing exoplanets that have active weather systems, changing on a timescale comparable to their rotation. Such variability is likely to be related to the atmospheric temperature and pressure being near a phase transition and could support the possibility of liquid water on the planet's surface.\n"""
+tags = ["Dynamics"]
+research_themes = ["Astrobiology", "Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Photometry", "Planetary Atmospheres", "Weather Modeling"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys"]

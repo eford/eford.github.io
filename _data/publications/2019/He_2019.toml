@@ -1,0 +1,22 @@
+title = "Architectures of exoplanetary systems - I. A clustered forward model for exoplanetary systems around Kepler's FGK stars"
+author = "He, Matthias Y. and Ford, Eric B. and Ragozzine, Darin"
+year = "2019"
+month = "dec"
+journal = "MNRAS"
+volume = "490"
+number = "4"
+pages = "4575-4605"
+doi = "10.1093/mnras/stz2869"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4575H"
+archiveprefix = "arXiv"
+eprint = "1907.07773"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Observations of exoplanetary systems provide clues about the intrinsic distribution of planetary systems, their architectures, and how they formed. We develop a forward modelling framework for generating populations of planetary systems and `observed' catalogues by simulating the Kepler detection pipeline (SysSim). We compare our simulated catalogues to the Kepler DR25 catalogue of planet candidates, updated to include revised stellar radii from Gaia DR2. We constrain our models based on the observed 1D marginal distributions of orbital periods, period ratios, transit depths, transit depth ratios, transit durations, transit duration ratios, and transit multiplicities. Models assuming planets with independent periods and sizes do not adequately account for the properties of the multiplanet systems. Instead, a clustered point process model for exoplanet periods and sizes provides a significantly better description of the Kepler population, particularly the observed multiplicity and period ratio distributions. We find that 0.56^+0.18_-0.15 of FGK stars have at least one planet larger than 0.5R<SUB>⊕</SUB> between 3 and 300 d. Most of these planetary systems (∼ 98{ per cent}) consist of one or two clusters with a median of three planets per cluster. We find that the Kepler dichotomy is evidence for a population of highly inclined planetary systems and is unlikely to be solely due to a population of intrinsically single planet systems. We provide a large ensemble of simulated physical and observed catalogues of planetary systems from our models, as well as publicly available code for generating similar catalogues given user-defined parameters.\n"""
+tags = ["Demographics", "Kepler"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Forward Modeling", "Planetary System Architectures", "Clustered Point Process"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

@@ -1,0 +1,22 @@
+title = "The Formation Mechanism of Gas Giants on Wide Orbits"
+author = "Dodson-Robinson, Sarah E. and Veras, Dimitri and Ford, Eric B. and Beichman, C.~A."
+year = "2009"
+month = "dec"
+journal = "ApJ"
+volume = "707"
+number = "1"
+pages = "79-88"
+doi = "10.1088/0004-637X/707/1/79"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009ApJ...707...79D"
+archiveprefix = "arXiv"
+eprint = "0909.2662"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The recent discoveries of massive planets on ultra-wide orbits of HR 8799 and Fomalhaut present a new challenge for planet formation theorists. Our goal is to figure out which of three giant planet formation mechanisms—core accretion (with or without migration), scattering from the inner disk, or gravitational instability—could be responsible for Fomalhaut b, HR 8799 b, c and d, and similar planets discovered in the future. This paper presents the results of numerical experiments comparing the long-period planet formation efficiency of each possible mechanism in model A star, G star, and M star disks. First, a simple core accretion simulation shows that planet cores forming beyond 35 AU cannot reach critical mass, even under the most favorable conditions one can construct. Second, a set of N-body simulations demonstrates that planet-planet scattering does not create stable, wide-orbit systems such as HR 8799. Finally, a linear stability analysis verifies previous work showing that global spiral instabilities naturally arise in high-mass disks. We conclude that massive gas giants on stable orbits with semimajor axes a gsim 35 AU form by gravitational instability in the disk. We recommend that observers examine the planet detection rate as a function of stellar age, controlling for the planets' dimming with time. Any age trend would indicate that planets on wide orbits are transient relics of scattering from the inner disk. If planet detection rate is found to be independent of stellar age, it would confirm our prediction that gravitational instability is the dominant mode of producing detectable planets on wide orbits. We also predict that the occurrence ratio of long-period to short-period gas giants should be highest for M dwarfs due to the inefficiency of core accretion and the expected small fragment mass (~10 M <SUB>Jup</SUB>) in their disks.\n"""
+tags = ["Dynamics", "High Performance Computing", "Planet-planet scattering"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Gas Giants", "Wide-orbit planets", "Gravitational Instability"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation"]

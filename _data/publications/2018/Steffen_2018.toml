@@ -1,0 +1,21 @@
+title = "The crucial role of ground-based, Doppler measurements for the future of exoplanet science"
+author = "Steffen, Jason H. and Plavchan, Peter and Brown, Timothy and Ford, Eric B. and Howard, Andrew W. and Jang-Condell, Hannah and Latham, David W. and Lissauer, Jack J. and Nelson, Benjamin E. and Newman, Patrick and Ragozzine, Darin"
+year = "2018"
+month = "mar"
+journal = "arXiv e-prints"
+pages = "arXiv:1803.06057"
+doi = "10.48550/arXiv.1803.06057"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2018arXiv180306057S"
+archiveprefix = "arXiv"
+eprint = "1803.06057"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """We outline the important role that ground-based, Doppler monitoring of exoplanetary systems will play in advancing our theories of planet formation and dynamical evolution. A census of planetary systems requires a well designed survey to be executed over the course of a decade or longer. A coordinated survey to monitor several thousand targets each at ~1000 epochs (~3-5 million new observations) will require roughly 40 dedicated spectrographs. We advocate for improvements in data management, data sharing, analysis techniques, and software testing, as well as possible changes to the funding structures for exoplanet science.\n"""
+tags = ["Dynamics", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys"]
+eid = "arXiv:1803.06057"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Doppler spectroscopy", "Ground-based astronomy", "Data management"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

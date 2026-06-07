@@ -1,0 +1,22 @@
+title = "Theoretical Implications of the PSR B1620-26 Triple System and Its Planet"
+author = "Ford, Eric B. and Joshi, Kriten J. and Rasio, Frederic A. and Zbarsky, Boris"
+year = "2000"
+month = "jan"
+journal = "ApJ"
+volume = "528"
+number = "1"
+pages = "336-350"
+doi = "10.1086/308167"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2000ApJ...528..336F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/9905347"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We present a new theoretical analysis of the PSR B1620-26 triple system in the globular cluster M4, based on the latest radio pulsar timing data, which now include measurements of five time derivatives of the pulse frequency. These data allow us to determine the mass and orbital parameters of the second companion completely (up to the usual unknown orbital inclination angle i<SUB>2</SUB>). The current best-fit parameters correspond to a second companion of planetary mass, m<SUB>2</SUB>sini<SUB>2</SUB>~=7×10<SUP>-3</SUP> M<SUB>solar</SUB> , in an orbit of eccentricity e<SUB>2</SUB>~=0.45 and semimajor axis a<SUB>2</SUB>~=60 AU. Using numerical scattering experiments, we study a possible formation scenario for the triple system, which involves a dynamical exchange interaction between the binary pulsar and a primordial star-planet system. The current orbital parameters of the triple are consistent with such a dynamical origin and suggest that the separation of the parent star-planet system was very large, &gt;~50 AU. We also examine the possible origin of the anomalously high eccentricity of the inner binary pulsar. While this eccentricity could have been induced during the same dynamical interaction that created the triple, we find that it could equally well arise from long-term secular perturbation effects in the triple, combining the general relativistic precession of the inner orbit with the Newtonian gravitational perturbation of the planet. The detection of a planet in this system may be taken as evidence that large numbers of extrasolar planetary systems, not unlike those discovered recently in the solar neighborhood, also exist in old star clusters.\n"""
+tags = ["Binary Stars", "Circumbinary Planets", "Dynamics", "Secular evolution"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Pulsar Timing", "Globular Clusters", "Dynamical Interactions"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

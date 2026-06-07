@@ -1,0 +1,17 @@
+title = "Quantifying the Uncertainty in the Orbits of Extrasolar Planets with Markov Chain Monte Carlo"
+author = "Ford, Eric B."
+year = "2004"
+month = "jun"
+volume = "713"
+pages = "27-30"
+doi = "10.1063/1.1774494"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2004AIPC..713...27F"
+entrytype = "inproceedings"
+abstract = """Precise radial velocity measurements have led to the discovery of ~ 100 extrasolar planetary systems. It is important to understand the uncertainties in the orbital elements that have been fit to these data. While detections of short-period planets can be rapidly refined, planets with long orbital periods will require decades of observations to constrain the orbital parameters precisely. Already, in some cases, very different orbital solutions provide similarly good fits, particularly for long-period and multiple planet systems. Thus, it will become increasingly important to quantify the uncertainties in orbital parameters, as future discoveries are likely to include many planets with long orbital periods and in multiple planet systems. <P />Markov chain Monte Carlo (MCMC) provides a computationally efficient way to quantify the uncertainties in orbital elements and to address specific questions directly from the observational data rather than relying on best-fit orbital solutions. MCMC simulations reveal that for some systems there are strong correlations between orbital parameters and/or significant non-Gaussianities in parameter distributions, even though the observational errors are Gaussian. Once these effects are considered the actual uncertainties in orbital elements can differ significantly from the published uncertainties. This has implications for the interpretation of the orbits of extrasolar planets.\n"""
+tags = ["Dynamics", "High Performance Computing", "Radial Velocity"]
+research_themes = []
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Markov Chain Monte Carlo", "Orbital Parameter Estimation"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation"]

@@ -1,0 +1,23 @@
+title = "Quantifying the Bayesian Evidence for a Planet in Radial Velocity Data"
+author = "Nelson, Benjamin E. and Ford, Eric B. and Buchner, Johannes and Cloutier, Ryan and {D\\'\\iaz}, Rodrigo F. and Faria, Jo\\~ao P. and Hara, Nathan C. and Rajpaul, Vinesh M. and Rukdee, Surangkhana"
+year = "2020"
+month = "feb"
+journal = "AJ"
+volume = "159"
+number = "2"
+pages = "73"
+doi = "10.3847/1538-3881/ab5190"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....159...73N"
+archiveprefix = "arXiv"
+eprint = "1806.04683"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present results from a data challenge posed to the radial velocity (RV) community: namely, to quantify the Bayesian \"evidence\" for n = 0, 1, 2, 3 planets in a set of synthetically generated RV data sets containing a range of planet signals. Participating teams were provided the same likelihood function and set of priors to use in their analysis. They applied a variety of methods to estimate $\\widehat{ \\mathcal Z }$ , the marginal likelihood for each n-planet model, including cross-validation, the Laplace approximation, importance sampling, and nested sampling. We found the dispersion in $\\widehat{ \\mathcal Z }$ across different methods grew with increasing n-planet models: ∼3 for zero planets, ∼10 for one planet, ∼10<SUP>2</SUP>-10<SUP>3</SUP> for two planets, and &gt;10<SUP>4</SUP> for three planets. Most internal estimates of uncertainty in $\\widehat{ \\mathcal Z }$ for individual methods significantly underestimated the observed dispersion across all methods. Methods that adopted a Monte Carlo approach by comparing estimates from multiple runs yielded plausible uncertainties. Finally, two classes of numerical algorithms (those based on importance and nested samplers) arrived at similar conclusions regarding the ratio of $\\widehat{ \\mathcal Z }{\\rms}$ for n- and (n + 1)-planet models. One analytic method (the Laplace approximation) demonstrated comparable performance. We express both optimism and caution: we demonstrate that it is practical to perform rigorous Bayesian model comparison for models of ≤3 planets, yet robust planet discoveries require researchers to better understand the uncertainty in $\\widehat{ \\mathcal Z }$ and its connections to model selection.\n"""
+tags = ["Radial Velocity"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Radial Velocity Surveys"]
+eid = "73"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Bayesian Inference", "Model Comparison", "Marginal Likelihood"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Radial Velocity Surveys"]

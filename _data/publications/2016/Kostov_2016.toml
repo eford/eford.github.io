@@ -1,0 +1,23 @@
+title = "Kepler-1647b: The Largest and Longest-period Kepler Transiting Circumbinary Planet"
+author = "Kostov, Veselin B. and Orosz, Jerome A. and Welsh, William F. and Doyle, Laurance R. and Fabrycky, Daniel C. and Haghighipour, Nader and Quarles, Billy and Short, Donald R. and Cochran, William D. and Endl, Michael and Ford, Eric B. and Gregorio, Joao and Hinse, Tobias C. and Isaacson, Howard and Jenkins, Jon M. and Jensen, Eric L.~N. and Kane, Stephen and Kull, Ilya and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Mazeh, Tsevi and {M\\\"uller}, Tobias W.~A. and Pepper, Joshua and Quinn, Samuel N. and Ragozzine, Darin and Shporer, Avi and Steffen, Jason H. and Torres, Guillermo and Windmiller, Gur and Borucki, William J."
+year = "2016"
+month = "aug"
+journal = "ApJ"
+volume = "827"
+number = "1"
+pages = "86"
+doi = "10.3847/0004-637X/827/1/86"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJ...827...86K"
+archiveprefix = "arXiv"
+eprint = "1512.00189"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the discovery of a new Kepler transiting circumbinary planet (CBP). This latest addition to the still-small family of CBPs defies the current trend of known short-period planets orbiting near the stability limit of binary stars. Unlike the previous discoveries, the planet revolving around the eclipsing binary system Kepler-1647 has a very long orbital period (∼1100 days) and was at conjunction only twice during the Kepler mission lifetime. Due to the singular configuration of the system, Kepler-1647b is not only the longest-period transiting CBP at the time of writing, but also one of the longest-period transiting planets. With a radius of 1.06 ± 0.01 R <SUB>Jup</SUB>, it is also the largest CBP to date. The planet produced three transits in the light curve of Kepler-1647 (one of them during an eclipse, creating a syzygy) and measurably perturbed the times of the stellar eclipses, allowing us to measure its mass, 1.52 ± 0.65 M <SUB>Jup</SUB>. The planet revolves around an 11-day period eclipsing binary consisting of two solar-mass stars on a slightly inclined, mildly eccentric (e <SUB>bin</SUB> = 0.16), spin-synchronized orbit. Despite having an orbital period three times longer than Earth’s, Kepler-1647b is in the conservative habitable zone of the binary star throughout its orbit.\n"""
+tags = ["Astrobiology", "Binary Stars", "Circumbinary Planets", "Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "86"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eclipsing Binaries", "Giant Planets", "Habitable Zone"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

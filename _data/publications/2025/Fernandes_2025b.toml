@@ -1,0 +1,23 @@
+title = "Searching for GEMS: Confirmation of TOI-5573 b, a Cool, Saturn-like Planet Orbiting an M Dwarf"
+author = "Fernandes, Rachel B. and Kanodia, Shubham and Delamer, Megan and Hotnisky, Andrew and Han, Te and {Ca\\~nas}, Caleb I. and Libby-Roberts, Jessica and Reji, Varghese and Gupta, Arvind F. and Alvarado-Montes, Jaime A. and Bender, Chad F. and Blake, Cullen H. and Cochran, William D. and de Beurs, Zo\\\"e L. and Diddams, Scott A. and Dong, Jiayin and Everett, Mark E. and Ford, Eric B. and Halverson, Samuel and Higuera, Jesus and Kobulnicky, Henry A. and Krolikowski, Daniel M. and Larsen, Alexander and Lin, Andrea S.~J. and Mahadevan, Suvrath and McElwain, Michael W. and Monson, Andrew and Ninan, Joe P. and Paredes, Leonardo A. and Patel, Yatrik G. and Robertson, Paul and Ross, Gabrielle and Roy, Arpita and Schwab, Christian and Stefansson, Gudmundur and Stevens, Daniel J. and Vanderburg, Andrew M. and Wright, Jason"
+year = "2025"
+month = "jul"
+journal = "AJ"
+volume = "170"
+number = "1"
+pages = "55"
+doi = "10.3847/1538-3881/addc51"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025AJ....170...55F"
+archiveprefix = "arXiv"
+eprint = "2505.08947"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the confirmation of TOI-5573 b, a Saturn-sized exoplanet on an 8.79 days orbit around an early M dwarf (3790 K, 0.59 R<SUB>⊙</SUB>, 0.61 M<SUB>⊙</SUB>, 12.30 Jmag). TOI-5573 b has a mass of <inline-formula> <mml:math><mml:mn>11</mml:mn><mml:msubsup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>19</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>18</mml:mn></mml:mrow></mml:msubsup></mml:math> </inline-formula> M<SUB>⊕</SUB>(0.35 ± 0.06 M<SUB>Jup</SUB>) and a radius of 9.75 ± 0.47 R<SUB>⊕</SUB>(0.87 ± 0.04 R<SUB>Jup</SUB>), resulting in a density of <inline-formula> <mml:math><mml:mn>0.6</mml:mn><mml:msubsup><mml:mrow><mml:mn>6</mml:mn></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>0.13</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.16</mml:mn></mml:mrow></mml:msubsup></mml:math> </inline-formula> g cm<SUP>−3</SUP>, akin to that of Saturn. The planet was initially discovered by the Transiting Exoplanet Survey Satellite (TESS) and confirmed using a combination of 11 transits from four TESS Sectors (20, 21, 47, and 74), ground-based photometry from the Red Buttes Observatory, and high-precision radial velocity data from the Habitable-zone Planet Finder and NN-EXPLORE Exoplanet Investigations with Doppler spectrographs, achieving a 5σ precision on the planet's mass. TOI-5573 b is one of the coolest Saturn-like exoplanets discovered around an M-dwarf, with an equilibrium temperature of only 528 ± 10 K, making it a valuable target for atmospheric characterization. Saturn-like exoplanets around M dwarfs likely form through core accretion, with increased disk opacity slowing gas accretion and limiting their mass. The host star's supersolar metallicity supports core accretion, but uncertainties in M-dwarf metallicity estimates complicate definitive conclusions. Compared to other GEMS (Giant Exoplanets around M-dwarf Stars) orbiting metal-rich stars, TOI-5573 b aligns with the observed pattern that giant planets preferentially form around M-dwarfs with supersolar metallicity. Further high-resolution spectroscopic observations are needed to explore the role of stellar metallicity in shaping the formation and properties of giant exoplanets like TOI-5573 b. *Based on observations obtained with the Hobby─Eberly Telescope (HET), which is a joint project of the University of Texas at Austin, the Pennsylvania State University, Ludwig-Maximillians-Universitaet Muenchen, and Georg-August Universitaet Goettingen. The HET is named in honor of its principal benefactors, William P. Hobby and Robert E. Eberly\n"""
+tags = ["HPF", "Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+eid = "55"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M Dwarf", "Exoplanet Characterization", "Atmospheric Temperature", "TESS"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

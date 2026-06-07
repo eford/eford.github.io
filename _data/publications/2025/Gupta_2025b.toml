@@ -1,0 +1,23 @@
+title = "The NEID Earth Twin Survey. I. Confirmation of a 31 Day Planet Orbiting HD 86728"
+author = "Gupta, Arvind F. and Luhn, Jacob K. and Wright, Jason T. and Mahadevan, Suvrath and Robertson, Paul and Krolikowski, Daniel M. and Ford, Eric B. and {Ca\\~nas}, Caleb I. and Halverson, Samuel and Lin, Andrea S.~J. and Kanodia, Shubham and Fitzmaurice, Evan and Gilbertson, Christian and Bender, Chad F. and Blake, Cullen H. and Dong, Jiayin and Giovinazzi, Mark R. and Logsdon, Sarah E. and Monson, Andrew and Ninan, Joe P. and Rajagopal, Jayadev and Roy, Arpita and Schwab, Christian and {Stef\\'ansson}, Gu\\djmundur"
+year = "2025"
+month = "jan"
+journal = "AJ"
+volume = "169"
+number = "1"
+pages = "1"
+doi = "10.3847/1538-3881/ad89bf"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025AJ....169....1G"
+archiveprefix = "arXiv"
+eprint = "2409.12315"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """With close to 3 yr of observations in hand, the NEID Earth Twin Survey (NETS) is starting to unearth new astrophysical signals for a curated sample of bright, radial velocity (RV)-quiet stars. We present the discovery of the first NETS exoplanet, HD 86728b, a <inline-formula> </inline-formula> planet on a circular, <inline-formula> </inline-formula> day orbit, thereby confirming a candidate signal identified by L. A. Hirsch et al. We confirm the planetary origin of the detected signal, which has a semi-amplitude of just <inline-formula> </inline-formula> m s<SUP>−1</SUP>, via careful analysis of the NEID RVs and spectral activity indicators, and we constrain the mass and orbit via fits to NEID and archival RV measurements. The host star is intrinsically quiet at the ∼1 m s<SUP>−1</SUP> level, with the majority of this variability likely stemming from short-timescale granulation. HD 86728b is among the small fraction of exoplanets with similar masses and periods that have no known planetary siblings.\n"""
+tags = ["NEID", "Radial Velocity", "Stars"]
+research_themes = ["Astrophysics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "1"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Detection", "Radial Velocity Method", "Stellar Activity Indicators"]
+# suggested_research_themes  = ["Astrophysics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

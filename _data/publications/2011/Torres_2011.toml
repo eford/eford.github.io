@@ -1,0 +1,23 @@
+title = "Modeling Kepler Transit Light Curves as False Positives: Rejection of Blend Scenarios for Kepler-9, and Validation of Kepler-9 d, A Super-earth-size Planet in a Multiple System"
+author = "Torres, Guillermo and Fressin, Fran{\\cc}ois and Batalha, Natalie M. and Borucki, William J. and Brown, Timothy M. and Bryson, Stephen T. and Buchhave, Lars A. and Charbonneau, David and Ciardi, David R. and Dunham, Edward W. and Fabrycky, Daniel C. and Ford, Eric B. and Gautier, III, Thomas N. and Gilliland, Ronald L. and Holman, Matthew J. and Howell, Steve B. and Isaacson, Howard and Jenkins, Jon M. and Koch, David G. and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Monet, David G. and Prsa, Andrej and Quinn, Samuel N. and Ragozzine, Darin and Rowe, Jason F. and Sasselov, Dimitar D. and Steffen, Jason H. and Welsh, William F."
+year = "2011"
+month = "jan"
+journal = "ApJ"
+volume = "727"
+number = "1"
+pages = "24"
+doi = "10.1088/0004-637X/727/1/24"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...727...24T"
+archiveprefix = "arXiv"
+eprint = "1008.4393"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Light curves from the Kepler Mission contain valuable information on the nature of the phenomena producing the transit-like signals. To assist in exploring the possibility that they are due to an astrophysical false positive, we describe a procedure (BLENDER) to model the photometry in terms of a \"blend\" rather than a planet orbiting a star. A blend may consist of a background or foreground eclipsing binary (or star-planet pair) whose eclipses are attenuated by the light of the candidate and possibly other stars within the photometric aperture. We apply BLENDER to the case of Kepler-9 (KIC 3323887), a target harboring two previously confirmed Saturn-size planets (Kepler-9 b and Kepler-9 c) showing transit timing variations, and an additional shallower signal with a 1.59 day period suggesting the presence of a super-Earth-size planet. Using BLENDER together with constraints from other follow-up observations we are able to rule out all blends for the two deeper signals and provide independent validation of their planetary nature. For the shallower signal, we rule out a large fraction of the false positives that might mimic the transits. The false alarm rate for remaining blends depends in part (and inversely) on the unknown frequency of small-size planets. Based on several realistic estimates of this frequency, we conclude with very high confidence that this small signal is due to a super-Earth-size planet (Kepler-9 d) in a multiple system, rather than a false positive. The radius is determined to be 1.64<SUP>+0.19</SUP> <SUB>-0.14</SUB> R <SUB>⊕</SUB>, and current spectroscopic observations are as yet insufficient to establish its mass.\n"""
+tags = ["Binary Stars", "Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "24"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["False Positive Identification", "Eclipsing Binaries", "Super-Earths", "Photometry Modeling"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

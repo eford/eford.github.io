@@ -1,0 +1,23 @@
+title = "Planetary Candidates Observed by Kepler. VIII. A Fully Automated Catalog with Measured Completeness and Reliability Based on Data Release 25"
+author = "Thompson, Susan E. and Coughlin, Jeffrey L. and Hoffman, Kelsey and Mullally, Fergal and Christiansen, Jessie L. and Burke, Christopher J. and Bryson, Steve and Batalha, Natalie and Haas, Michael R. and Catanzarite, Joseph and Rowe, Jason F. and Barentsen, Geert and Caldwell, Douglas A. and Clarke, Bruce D. and Jenkins, Jon M. and Li, Jie and Latham, David W. and Lissauer, Jack J. and Mathur, Savita and Morris, Robert L. and Seader, Shawn E. and Smith, Jeffrey C. and Klaus, Todd C. and Twicken, Joseph D. and Van Cleve, Jeffrey E. and Wohler, Bill and Akeson, Rachel and Ciardi, David R. and Cochran, William D. and Henze, Christopher E. and Howell, Steve B. and Huber, Daniel and {Pr{\\vs}a}, Andrej and {Ram\\'\\irez}, Solange V. and Morton, Timothy D. and Barclay, Thomas and Campbell, Jennifer R. and Chaplin, William J. and Charbonneau, David and Christensen-Dalsgaard, J\\orgen and Dotson, Jessie L. and Doyle, Laurance and Dunham, Edward W. and Dupree, Andrea K. and Ford, Eric B. and Geary, John C. and Girouard, Forrest R. and Isaacson, Howard and Kjeldsen, Hans and Quintana, Elisa V. and Ragozzine, Darin and Shabram, Megan and Shporer, Avi and Silva Aguirre, Victor and Steffen, Jason H. and Still, Martin and Tenenbaum, Peter and Welsh, William F. and Wolfgang, Angie and Zamudio, Khadeejah A. and Koch, David G. and Borucki, William J."
+year = "2018"
+month = "apr"
+journal = "ApJS"
+volume = "235"
+number = "2"
+pages = "38"
+doi = "10.3847/1538-4365/aab4f9"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2018ApJS..235...38T"
+archiveprefix = "arXiv"
+eprint = "1710.06758"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present the Kepler Object of Interest (KOI) catalog of transiting exoplanets based on searching 4 yr of Kepler time series photometry (Data Release 25, Q1-Q17). The catalog contains 8054 KOIs, of which 4034 are planet candidates with periods between 0.25 and 632 days. Of these candidates, 219 are new, including two in multiplanet systems (KOI-82.06 and KOI-2926.05) and 10 high-reliability, terrestrial-size, habitable zone candidates. This catalog was created using a tool called the Robovetter, which automatically vets the DR25 threshold crossing events (TCEs). The Robovetter also vetted simulated data sets and measured how well it was able to separate TCEs caused by noise from those caused by low signal-to-noise transits. We discuss the Robovetter and the metrics it uses to sort TCEs. For orbital periods less than 100 days the Robovetter completeness (the fraction of simulated transits that are determined to be planet candidates) across all observed stars is greater than 85%. For the same period range, the catalog reliability (the fraction of candidates that are not due to instrumental or stellar noise) is greater than 98%. However, for low signal-to-noise candidates between 200 and 500 days around FGK-dwarf stars, the Robovetter is 76.7% complete and the catalog is 50.5% reliable. The KOI catalog, the transit fits, and all of the simulated data used to characterize this catalog are available at the NASA Exoplanet Archive.\n"""
+tags = ["Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+eid = "38"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanets", "Transit Photometry", "Automated Vetting"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Transit Surveys"]

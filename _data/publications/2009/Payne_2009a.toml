@@ -1,0 +1,22 @@
+title = "Dynamical simulations of the planetary system HD69830"
+author = "Payne, Matthew J. and Ford, Eric B. and Wyatt, Mark C. and Booth, Mark"
+year = "2009"
+month = "mar"
+journal = "MNRAS"
+volume = "393"
+number = "4"
+pages = "1219-1234"
+doi = "10.1111/j.1365-2966.2008.14338.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009MNRAS.393.1219P"
+archiveprefix = "arXiv"
+eprint = "0812.2475"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """The star HD69830 exhibits radial velocity variations attributed to three planets as well as infrared emission at 8-35μm attributed to a warm debris disc. Previous studies by Alibert et al. and Wyatt et al. have developed models for the planet migration and mass growth and the replenishment of warm grains. In this paper, we perform n-body integrations in order to explore the implications of these models for (1) the excitation of planetary eccentricity, (2) the accretion and clearing of a putative planetesimal disc, (3) the distribution of planetesimal orbits following migration and (4) the implications for the origin of the infrared emission from the HD69830 system. <P />We find that (i) it is not possible to explain the observed planetary eccentricities (~0.1) purely as the result of planetary perturbations during migration unless the planetary systems nearly face-on. However, the presence of gas damping in the system only serves to exacerbate the problem again. (ii) The rate of accretion of planetesimals on to planets in our N-body simulations is significantly different to that assumed in the semi-analytic models, with our inner planet accreting at a rate an order of magnitude greater than the outer ones, suggesting that one cannot successfully treat planetesimal accretion in the simplified manner of Alibert et al. (iii) We find that the eccentricity damping of planetesimals does not act as an insurmountable obstacle to the existence of an excited eccentric disc: all simulations result in a significant fraction (~15 per cent) of the total planetesimal disc mass, corresponding to ~25M<SUB>⊕</SUB>, remaining bound in the region ~1-9au, even after all three planets have migrated through the region. (iv) This swarm of planetesimals has orbital distributions that are size sorted by gas drag, with the largest planetesimals (~1000km), which may contain a large proportion of the system mass, preferentially occupying the highest eccentricity (and thus longest lived) orbits. Although such planetesimals would be expected to collide and produce a disc of warm dust, further work will be required to understand whether these eccentricity distributions are high enough to explain the level of dust emission observed despite mass loss via steady state collisional evolution.\n"""
+tags = ["Dynamics", "Radial Velocity"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Debris Disks", "N-body Simulations", "Planetesimal Accretion"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

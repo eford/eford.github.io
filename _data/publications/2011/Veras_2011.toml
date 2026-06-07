@@ -1,0 +1,23 @@
+title = "Quantifying the Challenges of Detecting Unseen Planetary Companions with Transit Timing Variations"
+author = "Veras, Dimitri and Ford, Eric B. and Payne, Matthew J."
+year = "2011"
+month = "feb"
+journal = "ApJ"
+volume = "727"
+number = "2"
+pages = "74"
+doi = "10.1088/0004-637X/727/2/74"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...727...74V"
+archiveprefix = "arXiv"
+eprint = "1011.1466"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Both ground- and space-based transit observatories are poised to significantly increase the number of known transiting planets and the number of precisely measured transit times. The variation in a planet's transit times may be used to infer the presence of additional planets. Deducing the masses and orbital parameters of such planets from transit time variations (TTVs) alone is a rich and increasingly relevant dynamical problem. In this work, we evaluate the extent of the degeneracies in this process, systematically explore the dependence of TTV signals on several parameters, and provide phase space plots that could aid observers in planning future observations. Our explorations are focused on a likely-to-be prevalent situation: a known transiting short-period Neptune- or Jupiter-sized planet and a suspected external low-mass perturber on a nearly coplanar orbit. Through ~10<SUP>7</SUP> N-body simulations, we demonstrate how TTV signal amplitudes may vary by orders of magnitude due to slight variations in any one orbital parameter (10<SUP>-3</SUP> AU in a semimajor axis, 0.005 in eccentricity, or a few degrees in orbital angles), and quantify the number of consecutive transit observations necessary in order to obtain a reasonable opportunity of characterizing the unseen planet (gsim50 observations). Planets in or near period commensurabilities of the form p:q, where p &lt;= 20 and q &lt;= 3, produce distinct TTV signatures, regardless of whether the planets are actually locked in a mean motion resonance. We distinguish these systems from the secular systems in our explorations. Additionally, we find that computing the autocorrelation function of a TTV signal can provide a useful diagnostic for identifying possible orbits for additional planets and suggest that this method could aid integration of TTV signals in future studies of particular exosystems.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "74"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["N-body simulation", "Orbital resonance", "Planet characterization"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Transit Surveys"]

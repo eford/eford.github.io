@@ -1,0 +1,23 @@
+title = "Kepler-68: Three Planets, One with a Density between that of Earth and Ice Giants"
+author = "Gilliland, Ronald L. and Marcy, Geoffrey W. and Rowe, Jason F. and Rogers, Leslie and Torres, Guillermo and Fressin, Francois and Lopez, Eric D. and Buchhave, Lars A. and Christensen-Dalsgaard, J\\orgen and {D\\'esert}, Jean-Michel and Henze, Christopher E. and Isaacson, Howard and Jenkins, Jon M. and Lissauer, Jack J. and Chaplin, William J. and Basu, Sarbani and Metcalfe, Travis S. and Elsworth, Yvonne and Handberg, Rasmus and Hekker, Saskia and Huber, Daniel and Karoff, Christoffer and Kjeldsen, Hans and Lund, Mikkel N. and Lundkvist, Mia and Miglio, Andrea and Charbonneau, David and Ford, Eric B. and Fortney, Jonathan J. and Haas, Michael R. and Howard, Andrew W. and Howell, Steve B. and Ragozzine, Darin and Thompson, Susan E."
+year = "2013"
+month = "mar"
+journal = "ApJ"
+volume = "766"
+number = "1"
+pages = "40"
+doi = "10.1088/0004-637X/766/1/40"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJ...766...40G"
+archiveprefix = "arXiv"
+eprint = "1302.2596"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """NASA's Kepler Mission has revealed two transiting planets orbiting Kepler-68. Follow-up Doppler measurements have established the mass of the innermost planet and revealed a third Jovian-mass planet orbiting beyond the two transiting planets. Kepler-68b, in a 5.4 day orbit, has M_P=8.3^+2.2_-2.4 M <SUB>⊕</SUB>, R_P=2.31^+0.06_-0.09 R <SUB>⊕</SUB>, and ρ _P=3.32^+0.86_-0.98 g cm<SUP>-3</SUP>, giving Kepler-68b a density intermediate between that of the ice giants and Earth. Kepler-68c is Earth-sized, with a radius R_P=0.953^+0.037_-0.042 R <SUB>⊕</SUB> and transits on a 9.6 day orbit; validation of Kepler-68c posed unique challenges. Kepler-68d has an orbital period of 580 ± 15 days and a minimum mass of M <SUB>P</SUB>sin i = 0.947 ± 0.035M<SUB>J</SUB> . Power spectra of the Kepler photometry at one minute cadence exhibit a rich and strong set of asteroseismic pulsation modes enabling detailed analysis of the stellar interior. Spectroscopy of the star coupled with asteroseismic modeling of the multiple pulsation modes yield precise measurements of stellar properties, notably T <SUB>eff</SUB> = 5793 ± 74 K, M <SUB>sstarf</SUB> = 1.079 ± 0.051 M <SUB>☉</SUB>, R <SUB>sstarf</SUB> = 1.243 ± 0.019 R <SUB>☉</SUB>, and ρ<SUB>sstarf</SUB> = 0.7903 ± 0.0054 g cm<SUP>-3</SUP>, all measured with fractional uncertainties of only a few percent. Models of Kepler-68b suggest that it is likely composed of rock and water, or has a H and He envelope to yield its density ~3 g cm<SUP>-3</SUP>.\n"""
+tags = ["Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "40"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Density", "Asteroseismology", "Kepler Mission Data Analysis"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

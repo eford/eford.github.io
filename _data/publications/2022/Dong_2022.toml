@@ -1,0 +1,23 @@
+title = "NEID Rossiter-McLaughlin Measurement of TOI-1268b: A Young Warm Saturn Aligned with Its Cool Host Star"
+author = "Dong, Jiayin and Huang, Chelsea X. and Zhou, George and Dawson, Rebekah I. and {Stef\\'ansson}, Gumundur K. and Bender, Chad F. and Blake, Cullen H. and Ford, Eric B. and Halverson, Samuel and Kanodia, Shubham and Mahadevan, Suvrath and McElwain, Michael W. and Ninan, Joe P. and Robertson, Paul and Roy, Arpita and Schwab, Christian and Stevens, Daniel J. and Terrien, Ryan C. and Vanderburg, Andrew and Kraus, Adam L. and Douglas, Stephanie and Newton, Elisabeth and Rampalli, Rayna and Krolikowski, Daniel M. and Collins, Karen A. and Rodriguez, Joseph E. and Feliz, Dax L. and Srdoc, Gregor and Ziegler, Carl and Barkaoui, Khalid and Pozuelos, Francisco J. and Jehin, Emmanuel and {Micha\\\"el}, C. and Benkhaldoun, Zouhair and Lewin, Pablo and {For\\'es-Toribio}, Raquel and {Mu\\~noz}, Jose A. and McLeod, Kim K. and {\\\"Ozyurt}, Fiona Powers and Horta, Ferran Grau and Murgas, Felipe and Latham, David W. and Quinn, Samuel N. and Bieryla, Allyson and Howell, Steve B. and Gnilka, Crystal L. and Ciardi, David R. and Lund, Michael B. and Dressing, Courtney D. and Giacalone, Steven and Savel, Arjun B. and Strakhov, Ivan A. and Belinski, Alexander A. and Ricker, George R. and Seager, S. and Winn, Joshua N. and Jenkins, Jon M. and Torres, Guillermo and Paegert, Martin"
+year = "2022"
+month = "feb"
+journal = "ApJL"
+volume = "926"
+number = "2"
+pages = "L7"
+doi = "10.3847/2041-8213/ac4da0"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022ApJ...926L...7D"
+archiveprefix = "arXiv"
+eprint = "2201.12836"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Close-in gas giants present a surprising range of stellar obliquity, the angle between a planet's orbital axis and its host star's spin axis. It is unclear whether the obliquities reflect the planets' dynamical history (e.g., aligned for in situ formation or disk migration versus misaligned for high-eccentricity tidal migration) or whether other mechanisms (e.g., primordial misalignment or planet-star interactions) are more important in sculpting the obliquity distribution. Here we present the stellar obliquity measurement of TOI-1268 (TIC-142394656, V <SUB>mag</SUB> ~ 10.9), a young K-type dwarf hosting an 8.2 day period, Saturn-sized planet. TOI-1268's lithium abundance and rotation period suggest the system age between the ages of the Pleiades cluster (~120 Myr) and the Prasepe cluster (~670 Myr). Using the newly commissioned NEID spectrograph, we constrain the stellar obliquity of TOI-1268 via the Rossiter-McLaughlin effect from both radial velocity and Doppler tomography signals. The 3σ upper bounds of the projected stellar obliquity ∣λ∣ from both models are below 60°. The large host star separation (a/R <SUB>⋆</SUB> ~ 17), combined with the system's young age, makes it unlikely that the planet has realigned its host star. The stellar obliquity measurement of TOI-1268 probes the architecture of a young gas giant beyond the reach of tidal realignment (a/R <SUB>⋆</SUB> ≳ 10) and reveals an aligned or slightly misaligned system.\n"""
+tags = ["Dynamics", "NEID", "Radial Velocity", "Stars"]
+research_themes = ["Planetary Architectures"]
+eid = "L7"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Obliquity", "Gas Giants", "TOI-1268"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

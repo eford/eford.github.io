@@ -1,0 +1,23 @@
+title = "Identifying Inflated Super-Earths and Photo-evaporated Cores"
+author = "Carrera, Daniel and Ford, Eric B. and Izidoro, Andre and Jontof-Hutter, Daniel and Raymond, Sean N. and Wolfgang, Angie"
+year = "2018"
+month = "oct"
+journal = "ApJ"
+volume = "866"
+number = "2"
+pages = "104"
+doi = "10.3847/1538-4357/aadf8a"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2018ApJ...866..104C"
+archiveprefix = "arXiv"
+eprint = "1804.05069"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present empirical evidence, supported by a planet formation model, to show that the curve R/R<SUB>⊕ </SUB>=1.05{(F/F<SUB>⊕ </SUB>)}<SUP>0.11</SUP> approximates the location of the so-called photo-evaporation valley. Planets below that curve are likely to have experienced complete photo-evaporation, and planets just above it appear to have inflated radii; thus we identify a new population of inflated super-Earths and mini-Neptunes. Our N-body simulations are set within an evolving protoplanetary disk and include prescriptions for orbital migration, gas accretion, and atmospheric loss due to giant impacts. Our simulated systems broadly match the sizes and periods of super-Earths in the Kepler catalog. They also reproduce the relative sizes of adjacent planets in the same system, with the exception of planet pairs that straddle the photo-evaporation valley. This latter group is populated by planet pairs with either very large or very small size ratios (R <SUB>out</SUB>/R <SUB>in</SUB> ≫ 1 or R <SUB>out</SUB>/R <SUB>in</SUB> ≪ 1) and a dearth of size ratios near unity. It appears that this feature could be reproduced if the planet outside the photo-evaporation valley (typically the outer planet, but sometimes not) has its atmosphere significantly expanded by stellar irradiation. This new population of planets may be ideal targets for future transit spectroscopy observations with the upcoming James Webb Space Telescope.\n"""
+tags = ["Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "104"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Super-Earths", "Mini-Neptunes", "Photoevaporation", "Atmospheric Loss", "Stellar Irradiation"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

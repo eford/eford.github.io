@@ -1,0 +1,18 @@
+title = "The Diversity of Low-mass Exoplanets Characterized via Transit Timing"
+author = "Jontof-Hutter, Daniel and Ford, Eric B. and Rowe, Jason F. and Lissauer, Jack. J. and Fabrycky, Daniel C."
+year = "2016"
+month = "oct"
+journal = "IAU Focus Meeting"
+volume = "29A"
+pages = "40-50"
+doi = "10.1017/S1743921316002374"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016IAUFM..29A..40J"
+entrytype = "article"
+abstract = """Transit timing variations (TTV) in multi-transiting systems enables precise characterizations of low-mass planets and their orbits. The range of orbital periods and incident fluxes with detailed TTV constraints complements the radial velocity sample for low-mass planets, pushing exoplanet characterization to the regime sub-Earth size planets and out to Mercury-like distances. This has revealed an astonishing diversity in the density of super-Earth mass planets. We summarize these and other contributions to exoplanet science from TTVs.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Super-Earth planets", "Sub-Earth planets", "Transit Timing Variations (TTV)"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

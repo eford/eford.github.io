@@ -1,0 +1,22 @@
+title = "Planet-Finding Prospects for the Space Interferometry Mission"
+author = "Ford, Eric B. and Tremaine, Scott"
+year = "2003"
+month = "oct"
+journal = "PASP"
+volume = "115"
+number = "812"
+pages = "1171-1186"
+doi = "10.1086/377594"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2003PASP..115.1171F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0305030"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """The Space Interferometry Mission (SIM) will make precise astrometric measurements that can be used to detect planets around nearby stars. We have simulated SIM observations and estimated the ability of SIM to detect planets with given masses and orbital periods and measured their orbital elements. We combine these findings with an estimate of the mass and period distribution of planets determined from radial velocity surveys to predict the number and characteristics of planets SIM would likely find. Our predictions are based on extrapolating the mass distribution of known extrasolar planets by up to a factor of ~100. This extrapolation provides the best prediction we can make of the actual number of planets that SIM will detect and characterize, but may substantially over- or underestimate the frequency of Earth-mass planets, especially if these form by a different mechanism than giant planets. We find that a SIM key project is likely to detect around one to five planets with masses &lt;=3 M<SUB>⊕</SUB> (depending on mission parameters). SIM would measure masses and orbits with 30% accuracy for around zero to two of these planets, but is unlikely to measure orbits with 10% accuracy for more than one of them. SIM is likely to detect around five to 25 planets with mass less than 20 M<SUB>⊕</SUB>, measure masses and orbits with 30% accuracy for around two to 12 of these, and measure masses and orbits with 10% accuracy for around two to eight such planets. SIM is likely to find ~25-160 planets of all masses, depending on the observing strategy and mission lifetime. Roughly 25%-65% of the planets detected by SIM have sufficiently large masses and short orbital periods that they can also be detected by radial velocity surveys. Radial velocity surveys could measure orbital parameters (not including inclination) for 30%-70% of the planets whose orbital parameters will be determined to within 30% by SIM.\n"""
+tags = ["Demographics", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Astrometry", "Interferometry", "Space Missions"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

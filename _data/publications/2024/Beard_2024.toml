@@ -1,0 +1,23 @@
+title = "Utilizing Photometry from Multiple Sources to Mitigate Stellar Variability in Precise Radial Velocities: A Case Study of Kepler-21"
+author = "Beard, Corey and Robertson, Paul and Giovinazzi, Mark R. and Murphy, Joseph M. Akana and Ford, Eric B. and Halverson, Samuel and Han, Te and Holcomb, Rae and Lubin, Jack and Luque, Rafael and Premnath, Pranav and Bender, Chad F. and Blake, Cullen H. and Gong, Qian and Isaacson, Howard and Kanodia, Shubham and Li, Dan and Lin, Andrea S.~J. and Logsdon, Sarah E. and Lubar, Emily and McElwain, Michael W. and Monson, Andrew and Ninan, Joe P. and Rajagopal, Jayadev and Roy, Arpita and Schwab, Christian and Stefansson, Gudmundur and Terrien, Ryan C. and Wright, Jason T."
+year = "2024"
+month = "oct"
+journal = "AJ"
+volume = "168"
+number = "4"
+pages = "149"
+doi = "10.3847/1538-3881/ad6b22"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024AJ....168..149B"
+archiveprefix = "arXiv"
+eprint = "2408.02873"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a new analysis of Kepler-21, the brightest (V = 8.5) Kepler system with a known transiting exoplanet, Kepler-21 b. Kepler-21 b is a radius valley planet (R = 1.6 ± 0.2R <SUB>⊕</SUB>) with an Earth-like composition (8.38 ± 1.62 g cm<SUP>─3</SUP>), though its mass and radius fall in the regime of possible \"water worlds.\" We utilize new Keck/High-Resolution Echelle Spectrometer and WIYN/NEID radial velocity (RV) data in conjunction with Kepler and Transiting Exoplanet Survey Satellite (TESS) photometry to perform a detailed study of activity mitigation between photometry and RVs. We additionally refine the system parameters, and we utilize Gaia astrometry to place constraints on a long-term RV trend. Our activity analysis affirms the quality of Kepler photometry for removing correlated noise from RVs, despite its temporal distance, though we reveal some cases where TESS may be superior. Using refined orbital parameters and updated composition curves, we rule out a water world scenario for Kepler-21 b, and we identify a long-period super-Jupiter planetary candidate, Kepler-21 (c).\n"""
+tags = ["Keck", "Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Planetary Architectures", "Radial Velocity Surveys", "Transit Surveys"]
+eid = "149"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["TESS", "Gaia", "Radial Velocity", "Exoplanet Characterization"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys", "Transit Surveys"]

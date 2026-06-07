@@ -1,0 +1,23 @@
+title = "Transit Timing Observations from Kepler. VI. Potentially Interesting Candidate Systems from Fourier-based Statistical Tests"
+author = "Steffen, Jason H. and Ford, Eric B. and Rowe, Jason F. and Fabrycky, Daniel C. and Holman, Matthew J. and Welsh, William F. and Batalha, Natalie M. and Borucki, William J. and Bryson, Steve and Caldwell, Douglas A. and Ciardi, David R. and Jenkins, Jon M. and Kjeldsen, Hans and Koch, David G. and {Pr{\\vs}a}, Andrej and Sanderfer, Dwight T. and Seader, Shawn and Twicken, Joseph D."
+year = "2012"
+month = "sep"
+journal = "ApJ"
+volume = "756"
+number = "2"
+pages = "186"
+doi = "10.1088/0004-637X/756/2/186"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012ApJ...756..186S"
+archiveprefix = "arXiv"
+eprint = "1201.1873"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We analyze the deviations of transit times from a linear ephemeris for the Kepler Objects of Interest (KOI) through quarter six of science data. We conduct two statistical tests for all KOIs and a related statistical test for all pairs of KOIs in multi-transiting systems. These tests identify several systems which show potentially interesting transit timing variations (TTVs). Strong TTV systems have been valuable for the confirmation of planets and their mass measurements. Many of the systems identified in this study should prove fruitful for detailed TTV studies.\n"""
+tags = ["Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "186"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Kepler Objects of Interest", "Statistical Testing", "Multi-transiting systems"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

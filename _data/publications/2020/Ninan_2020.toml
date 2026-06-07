@@ -1,0 +1,23 @@
+title = "Evidence for He I 10830 {\\rA} Absorption during the Transit of a Warm Neptune around the M-dwarf GJ 3470 with the Habitable-zone Planet Finder"
+author = "Ninan, Joe P. and Stefansson, Gudmundur and Mahadevan, Suvrath and Bender, Chad and Robertson, Paul and Ramsey, Lawrence and Terrien, Ryan and Wright, Jason and Diddams, Scott A. and Kanodia, Shubham and Cochran, William and Endl, Michael and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Jennings, Jeff and Kaplan, Kyle and Lubar, Emily and Metcalf, Andrew J. and Monson, Andrew and Nitroy, Colin and Roy, Arpita and Schwab, Christian"
+year = "2020"
+month = "may"
+journal = "ApJ"
+volume = "894"
+number = "2"
+pages = "97"
+doi = "10.3847/1538-4357/ab8559"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020ApJ...894...97N"
+archiveprefix = "arXiv"
+eprint = "1910.02070"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Understanding the dynamics and kinematics of outflowing atmospheres of hot and warm exoplanets is crucial to understanding the origins and evolutionary history of the exoplanets near the evaporation desert. Recently, ground-based measurements of the meta-stable helium atom's resonant absorption at 10830 Å has become a powerful probe of the base environment which is driving the outflow of exoplanet atmospheres. We report evidence for the He I 10830 Å in absorption (equivalent width ∼0.012 ± 0.002 Å) in the exosphere of a warm Neptune orbiting the M-dwarf GJ 3470, during three transits using the Habitable Zone Planet Finder near-infrared spectrograph. This marks the first reported evidence for He I 10830 Å atmospheric absorption for a planet orbiting an M-dwarf. Our detected absorption is broad and its blueshifted wing extends to -36 km s<SUP>-1</SUP>, the largest reported in the literature to date. We modeled the state of helium atoms in the exosphere of GJ3470b based on assumptions on the UV and X-ray flux of GJ 3470, and found our measurement of flux-weighted column density of meta-stable state helium $(N_{\\mathrmHe{}₃²{\\rmS}}=2.4× 10^10 {\\mathrmcm}^-2)$ , derived from our transit observations, to be consistent with the model, within its uncertainties. The methodology developed here will be useful to study and constrain the atmospheric outflow models of other exoplanets like GJ 3470b, which are near the edge of the evaporation desert.\n"""
+tags = ["Dynamics", "HPF", "Stars"]
+research_themes = ["Transit Surveys"]
+eid = "97"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Atmospheric Characterization", "Exoplanet Atmospheres", "Helium Absorption", "M-dwarf Stars"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Transit Surveys"]

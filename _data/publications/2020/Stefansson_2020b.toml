@@ -1,0 +1,23 @@
+title = "The Habitable Zone Planet Finder Reveals a High Mass and Low Obliquity for the Young Neptune K2-25b"
+author = "Stefansson, Gudmundur and Mahadevan, Suvrath and Maney, Marissa and Ninan, Joe P. and Robertson, Paul and Rajagopal, Jayadev and Haase, Flynn and Allen, Lori and Ford, Eric B. and Winn, Joshua and Wolfgang, Angie and Dawson, Rebekah I. and Wisniewski, John and Bender, Chad F. and {Ca\\~nas}, Caleb and Cochran, William and Diddams, Scott A. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Hebb, Leslie and Kanodia, Shubham and Levi, Eric and Metcalf, Andrew J. and Monson, Andrew and Ramsey, Lawrence and Roy, Arpita and Schwab, Christian and Terrien, Ryan and Wright, Jason T."
+year = "2020"
+month = "oct"
+journal = "AJ"
+volume = "160"
+number = "4"
+pages = "192"
+doi = "10.3847/1538-3881/abb13a"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....160..192S"
+archiveprefix = "arXiv"
+eprint = "2007.12766"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Using radial velocity data from the Habitable Zone Planet Finder, we have measured the mass of the Neptune-sized planet K2-25b, as well as the obliquity of its M4.5 dwarf host star in the 600-800 Myr Hyades cluster. This is one of the youngest planetary systems for which both of these quantities have been measured and one of the very few M dwarfs with a measured obliquity. Based on a joint analysis of the radial velocity data, time-series photometry from the K2 mission, and new transit light curves obtained with diffuser-assisted photometry, the planet's radius and mass are 3.44 ± 0.12 R<SUB>⊕</SUB> and $24.5_-5.2^+5.7M_⊕ $ . These properties are compatible with a rocky core enshrouded by a thin hydrogen-helium atmosphere (5% by mass). We measure an orbital eccentricity of e = 0.43 ± 0.05. The sky-projected stellar obliquity is λ = 3° ± 16°, compatible with spin-orbit alignment, in contrast to other \"hot Neptunes\" that have been studied around older stars.\n"""
+tags = ["Kepler", "Radial Velocity"]
+research_themes = ["Planetary Architectures", "Radial Velocity Surveys", "Transit Surveys"]
+eid = "192"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M-dwarf stars", "Obliquity", "Habitable Zone"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures", "Radial Velocity Surveys", "Transit Surveys"]

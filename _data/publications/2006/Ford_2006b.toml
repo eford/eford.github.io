@@ -1,0 +1,22 @@
+title = "Improving the Efficiency of Markov Chain Monte Carlo for Analyzing the Orbits of Extrasolar Planets"
+author = "Ford, Eric B."
+year = "2006"
+month = "may"
+journal = "ApJ"
+volume = "642"
+number = "1"
+pages = "505-522"
+doi = "10.1086/500802"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2006ApJ...642..505F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0512634"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """Precise radial velocity measurements have led to the discovery of ~170 extrasolar planetary systems. Understanding the uncertainties in the orbital solutions will become increasingly important as the discovery space for extrasolar planets shifts to planets with smaller masses and longer orbital periods. The method of Markov chain Monte Carlo (MCMC) provides a rigorous method for quantifying the uncertainties in orbital parameters in a Bayesian framework (Paper I). The main practical challenge for the general application of MCMC is the need to construct Markov chains that quickly converge. The rate of convergence is very sensitive to the choice of the candidate transition probability distribution function (CTPDF). Here we explain one simple method for generating alternative CTPDFs that can significantly speed convergence by 1-3 orders of magnitude. We have numerically tested dozens of CTPDFs with simulated radial velocity data sets to identify those that perform well for different types of orbits and suggest a set of CTPDFs for general application. In addition, we introduce other refinements to the MCMC algorithm for radial velocity planets, including an improved treatment of the uncertainties in the radial velocity observations, an algorithm for automatically choosing step sizes, an algorithm for automatically determining reasonable stopping times, and the use of importance sampling for including the dynamical evolution of multiple-planet systems. Together, these improvements make it practical to apply MCMC to multiple-planet systems. We demonstrate the improvements in efficiency by analyzing a variety of extrasolar planetary systems.\n"""
+tags = ["Dynamics", "Radial Velocity"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Markov Chain Monte Carlo", "Bayesian Inference"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

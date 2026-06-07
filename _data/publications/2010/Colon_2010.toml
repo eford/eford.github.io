@@ -1,0 +1,22 @@
+title = "Characterizing transiting extrasolar planets with narrow-band photometry and GTC/OSIRIS"
+author = "Colón, Knicole D. and Ford, Eric B. and Lee, Brian and Mahadevan, Suvrath and Blake, Cullen H."
+year = "2010"
+month = "nov"
+journal = "MNRAS"
+volume = "408"
+number = "3"
+pages = "1494-1501"
+doi = "10.1111/j.1365-2966.2010.17211.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2010MNRAS.408.1494C"
+archiveprefix = "arXiv"
+eprint = "1006.4599"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the first extrasolar planet observations from the 10.4-m Gran Telescopio Canarias (GTC), currently the world's largest, fully steerable, single-aperture optical telescope. We used the Optical System for Imaging and low Resolution Integrated Spectroscopy (OSIRIS) tunable filter imager on the GTC to acquire high-precision, narrow-band photometry of the transits of the giant exoplanets, TrES-2b and TrES-3b. We obtained near-simultaneous observations in two near-infrared wavebands (790.2 and 794.4 +/- 2.0 nm) specifically chosen to avoid water vapour absorption and skyglow so as to minimize the atmospheric effects that often limit the precision of ground-based photometry. Our results demonstrate a very-high photometric precision with minimal atmospheric contamination despite relatively poor atmospheric conditions and some technical problems with the telescope. We find the photometric precision for the TrES-2 observations to be 0.343 and 0.412 mmag for the 790.2- and 794.4-nm light curves, and the precision of the TrES-3 observations was found to be 0.470 and 0.424 mmag for the 790.2- and 794.4-nm light curves, respectively. We also discuss how future follow-up observations of transiting planets with this novel technique can contribute to the characterization of Neptune- and super-Earth-size planets to be discovered by space-based missions like CoRoT and Kepler, as well as measure atmospheric properties of giant planets, such as the strength of atmospheric absorption features.\n"""
+tags = ["Kepler"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Photometry", "Narrow-band Photometry", "Giant Planets", "Atmospheric Characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

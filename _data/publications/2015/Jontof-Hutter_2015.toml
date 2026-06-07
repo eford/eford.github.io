@@ -1,0 +1,22 @@
+title = "The mass of the Mars-sized exoplanet Kepler-138 b from transit timing"
+author = "Jontof-Hutter, Daniel and Rowe, Jason F. and Lissauer, Jack J. and Fabrycky, Daniel C. and Ford, Eric B."
+year = "2015"
+month = "jun"
+journal = "Nature"
+volume = "522"
+number = "7556"
+pages = "321-323"
+doi = "10.1038/nature14494"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2015Natur.522..321J"
+archiveprefix = "arXiv"
+eprint = "1506.07067"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Extrasolar planets that pass in front of their host star (transit) cause a temporary decrease in the apparent brightness of the star, providing a direct measure of the planet's size and orbital period. In some systems with multiple transiting planets, the times of the transits are measurably affected by the gravitational interactions between neighbouring planets. In favourable cases, the departures from Keplerian orbits (that is, unaffected by gravitational effects) implied by the observed transit times permit the planetary masses to be measured, which is key to determining their bulk densities. Characterizing rocky planets is particularly difficult, because they are generally smaller and less massive than gaseous planets. Therefore, few exoplanets near the size of Earth have had their masses measured. Here we report the sizes and masses of three planets orbiting Kepler-138, a star much fainter and cooler than the Sun. We determine that the mass of the Mars-sized inner planet, Kepler-138 b, is Earth masses. Its density is grams per cubic centimetre. The middle and outer planets are both slightly larger than Earth. The middle planet's density ( grams per cubic centimetre) is similar to that of Earth, and the outer planet is less than half as dense at grams per cubic centimetre, implying that it contains a greater portion of low-density components such as water and hydrogen.\n"""
+tags = ["Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Mass Measurement", "Planetary Density Determination", "Kepler-138"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

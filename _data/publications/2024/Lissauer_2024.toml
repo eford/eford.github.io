@@ -1,0 +1,23 @@
+title = "Updated Catalog of Kepler Planet Candidates: Focus on Accuracy and Orbital Periods"
+author = "Lissauer, Jack J. and Rowe, Jason F. and Jontof-Hutter, Daniel and Fabrycky, Daniel C. and Ford, Eric B. and Ragozzine, Darin and Steffen, Jason H. and Nizam, Kadri M."
+year = "2024"
+month = "jun"
+journal = "\\psj"
+volume = "5"
+number = "6"
+pages = "152"
+doi = "10.3847/PSJ/ad0e6e"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024PSJ.....5..152L"
+archiveprefix = "arXiv"
+eprint = "2311.00238"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a new catalog of Kepler planet candidates that prioritizes accuracy of planetary dispositions and properties over uniformity. This catalog contains 4376 transiting planet candidates, including 1791 residing within 709 multiplanet systems, and provides the best parameters available for a large sample of Kepler planet candidates. We also provide a second set of stellar and planetary properties for transiting candidates that are uniformly derived for use in occurrence rate studies. Estimates of orbital periods have been improved, but as in previous catalogs, our tabulated values for period uncertainties do not fully account for transit timing variations (TTVs). We show that many planets are likely to have TTVs with long periodicities caused by various processes, including orbital precession, and that such TTVs imply that ephemerides of Kepler planets are not as accurate on multidecadal timescales as predicted by the small formal errors (typically 1 part in 10<SUP>6</SUP> and rarely &gt;10<SUP>−5</SUP>) in the planets' measured mean orbital periods during the Kepler epoch. Analysis of normalized transit durations implies that eccentricities of planets are anticorrelated with the number of companion transiting planets. Our primary catalog lists all known Kepler planet candidates that orbit and transit only one star; for completeness, we also provide an abbreviated listing of the properties of the two dozen nontransiting planets that have been identified around stars that host transiting planets discovered by Kepler.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "152"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Cataloging", "Orbital Precession", "Planet Eccentricity"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

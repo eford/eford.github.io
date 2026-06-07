@@ -1,0 +1,19 @@
+title = "Kepler-9: A System of Multiple Planets Transiting a Sun-Like Star, Confirmed by Timing Variations"
+author = "Holman, Matthew J. and Fabrycky, Daniel C. and Ragozzine, Darin and Ford, Eric B. and Steffen, Jason H. and Welsh, William F. and Lissauer, Jack J. and Latham, David W. and Marcy, Geoffrey W. and Walkowicz, Lucianne M. and Batalha, Natalie M. and Jenkins, Jon M. and Rowe, Jason F. and Cochran, William D. and Fressin, Francois and Torres, Guillermo and Buchhave, Lars A. and Sasselov, Dimitar D. and Borucki, William J. and Koch, David G. and Basri, Gibor and Brown, Timothy M. and Caldwell, Douglas A. and Charbonneau, David and Dunham, Edward W. and Gautier, Thomas N. and Geary, John C. and Gilliland, Ronald L. and Haas, Michael R. and Howell, Steve B. and Ciardi, David R. and Endl, Michael and Fischer, Debra and {F\\\"ur\\'esz}, G\\'abor and Hartman, Joel D. and Isaacson, Howard and Johnson, John A. and MacQueen, Phillip J. and Moorhead, Althea V. and Morehead, Robert C. and Orosz, Jerome A."
+year = "2010"
+month = "oct"
+journal = "Science"
+volume = "330"
+number = "6000"
+pages = "51"
+doi = "10.1126/science.1195778"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2010Sci...330...51H"
+entrytype = "article"
+abstract = """The Kepler spacecraft is monitoring more than 150,000 stars for evidence of planets transiting those stars. We report the detection of two Saturn-size planets that transit the same Sun-like star, based on 7 months of Kepler observations. Their 19.2- and 38.9-day periods are presently increasing and decreasing at respective average rates of 4 and 39 minutes per orbit; in addition, the transit times of the inner body display an alternating variation of smaller amplitude. These signatures are characteristic of gravitational interaction of two planets near a 2:1 orbital resonance. Six radial-velocity observations show that these two planets are the most massive objects orbiting close to the star and substantially improve the estimates of their masses. After removing the signal of the two confirmed giant planets, we identified an additional transiting super-Earth-size planet candidate with a period of 1.6 days.\n"""
+tags = ["Dynamics", "Kepler", "Radial Velocity", "Sun-as-a-star", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Multi-planet Systems", "Orbital Resonance", "Super-Earth"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

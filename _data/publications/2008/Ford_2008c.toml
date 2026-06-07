@@ -1,0 +1,22 @@
+title = "Characterizing the Orbital Eccentricities of Transiting Extrasolar Planets with Photometric Observations"
+author = "Ford, Eric B. and Quinn, Samuel N. and Veras, Dimitri"
+year = "2008"
+month = "may"
+journal = "ApJ"
+volume = "678"
+number = "2"
+pages = "1407-1418"
+doi = "10.1086/587046"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2008ApJ...678.1407F"
+archiveprefix = "arXiv"
+eprint = "0801.2591"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """The discovery of over 200 extrasolar planets with the radial velocity (RV) technique has revealed that many giant planets have large eccentricities, in striking contrast with most of the planets in the solar system and prior theories of planet formation. The realization that many giant planets have large eccentricities raises a fundamental question: \"Do terrestrial-size planets of other stars typically have significantly eccentric orbits or nearly circular orbits like the Earth?\" Here we demonstrate that photometric observations of transiting planets could be used to characterize the orbital eccentricities for individual transiting planets, as well as the eccentricity distribution for various populations of transiting planets (e.g., those with a certain range of orbital periods or physical sizes). Such characterizations can provide valuable constraints on theories for the excitation of eccentricities and tidal dissipation. We outline the future prospects of the technique given the exciting prospects for future transit searches, such as those to be carried out by the COROT and Kepler missions.\n"""
+tags = ["Demographics", "Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eccentricity", "Photometry"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,23 @@
+title = "Secure Mass Measurements from Transit Timing: 10 Kepler Exoplanets between 3 and 8 M_⊕ with Diverse Densities and Incident Fluxes"
+author = "Jontof-Hutter, Daniel and Ford, Eric B. and Rowe, Jason F. and Lissauer, Jack J. and Fabrycky, Daniel C. and Van Laerhoven, Christa and Agol, Eric and Deck, Katherine M. and Holczer, Tomer and Mazeh, Tsevi"
+year = "2016"
+month = "mar"
+journal = "ApJ"
+volume = "820"
+number = "1"
+pages = "39"
+doi = "10.3847/0004-637X/820/1/39"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJ...820...39J"
+archiveprefix = "arXiv"
+eprint = "1512.02003"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We infer dynamical masses in eight multiplanet systems using transit times measured from Kepler's complete data set, including short-cadence data where available. Of the 18 dynamical masses that we infer, 10 pass multiple tests for robustness. These are in systems Kepler-26 (KOI-250), Kepler-29 (KOI-738), Kepler-60 (KOI-2086), Kepler-105 (KOI-115), and Kepler-307 (KOI-1576). Kepler-105 c has a radius of 1.3 R<SUB>⊕</SUB> and a density consistent with an Earth-like composition. Strong transit timing variation (TTV) signals were detected from additional planets, but their inferred masses were sensitive to outliers or consistent solutions could not be found with independently measured transit times, including planets orbiting Kepler-49 (KOI-248), Kepler-57 (KOI-1270), Kepler-105 (KOI-115), and Kepler-177 (KOI-523). Nonetheless, strong upper limits on the mass of Kepler-177 c imply an extremely low density of ∼0.1 g cm<SUP>-3</SUP>. In most cases, individual orbital eccentricities were poorly constrained owing to degeneracies in TTV inversion. For five planet pairs in our sample, strong secular interactions imply a moderate to high likelihood of apsidal alignment over a wide range of possible eccentricities. We also find solutions for the three planets known to orbit Kepler-60 in a Laplace-like resonance chain. However, nonlibrating solutions also match the transit timing data. For six systems, we calculate more precise stellar parameters than previously known, enabling useful constraints on planetary densities where we have secure mass measurements. Placing these exoplanets on the mass-radius diagram, we find that a wide range of densities is observed among sub-Neptune-mass planets and that the range in observed densities is anticorrelated with incident flux.\n"""
+tags = ["Dynamics", "Kepler", "Secular evolution", "Transit timing variations"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "39"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Mass Measurement", "Planet Density", "Transit Timing Variation (TTV) analysis"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

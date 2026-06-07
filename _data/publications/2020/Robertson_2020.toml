@@ -1,0 +1,23 @@
+title = "Persistent Starspot Signals on M Dwarfs: Multiwavelength Doppler Observations with the Habitable-zone Planet Finder and Keck/HIRES"
+author = "Robertson, Paul and Stefansson, Gudmundur and Mahadevan, Suvrath and Endl, Michael and Cochran, William D. and Beard, Corey and Bender, Chad F. and Diddams, Scott A. and Duong, Nicholas and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Holcomb, Rae and Juan, Lydia and Kanodia, Shubham and Lubin, Jack and Metcalf, Andrew J. and Monson, Andrew and Ninan, Joe P. and Palafoutas, Jonathan and Ramsey, Lawrence W. and Roy, Arpita and Schwab, Christian and Terrien, Ryan C. and Wright, Jason T."
+year = "2020"
+month = "jul"
+journal = "ApJ"
+volume = "897"
+number = "2"
+pages = "125"
+doi = "10.3847/1538-4357/ab989f"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020ApJ...897..125R"
+archiveprefix = "arXiv"
+eprint = "2005.09657"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """Young, rapidly rotating M dwarfs exhibit prominent starspots, which create quasiperiodic signals in their photometric and Doppler spectroscopic measurements. The periodic Doppler signals can mimic radial velocity (RV) changes expected from orbiting exoplanets. Exoplanets can be distinguished from activity-induced false positives by the chromaticity and long-term incoherence of starspot signals, but these qualities are poorly constrained for fully convective M stars. Coherent photometric starspot signals on M dwarfs may persist for hundreds of rotations, and the wavelength dependence of starspot RV signals may not be consistent between stars due to differences in their magnetic fields and active regions. We obtained precise multiwavelength RVs of four rapidly rotating M dwarfs (AD Leo, G227-22, GJ 1245B, GJ 3959) using the near-infrared (NIR) Habitable-zone Planet Finder and the optical Keck/HIRES spectrometer. Our RVs are complemented by photometry from Kepler, TESS, and the Las Cumbres Observatory network of telescopes. We found that all four stars exhibit large spot-induced Doppler signals at their rotation periods, and investigated the longevity and optical-to-NIR chromaticity for these signals. The phase curves remain coherent much longer than is typical for Sunlike stars. Their chromaticity varies, and one star (GJ 3959) exhibits optical and NIR RV modulation consistent in both phase and amplitude. In general, though, we find that the NIR amplitudes are lower than their optical counterparts. We conclude that starspot modulation for rapidly rotating M stars frequently remains coherent for hundreds of stellar rotations and gives rise to Doppler signals that, due to this coherence, may be mistaken for exoplanets.\n"""
+tags = ["HPF", "Keck", "Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "125"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M Dwarfs", "Starspots", "Doppler Spectroscopy", "Near-Infrared Spectroscopy"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

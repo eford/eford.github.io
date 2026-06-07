@@ -1,0 +1,23 @@
+title = "Migration Traps as the Root Cause of the Kepler Dichotomy"
+author = "Zawadzki, Brianna and Carrera, Daniel and Ford, Eric B."
+year = "2022"
+month = "oct"
+journal = "ApJ"
+volume = "937"
+number = "2"
+pages = "53"
+doi = "10.3847/1538-4357/ac8b04"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022ApJ...937...53Z"
+archiveprefix = "arXiv"
+eprint = "2202.05342"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """It is often assumed that the \"Kepler dichotomy\"-the apparent excess of planetary systems with a single detected transiting planet in the Kepler catalog-reflects an intrinsic bimodality in the mutual inclinations of planetary orbits. After conducting 600 simulations of planet formation followed by simulated Kepler observations, we instead propose that the apparent dichotomy reflects a divergence in the amount of migration and the separation of planetary semimajor axes into distinct \"clusters.\" We find that our simulated high-mass systems migrate rapidly, bringing more planets into orbital periods of less than 200 days. The outer planets are often caught in a migration trap-a range of planet masses and locations in which a dominant corotation torque prevents inward migration-which splits the system into two clusters. If clusters are sufficiently separated, the inner cluster remains dynamically cold, leading to low mutual inclinations and a higher probability of detecting multiple transiting planets. Conversely, our simulated low-mass systems typically bring fewer planets within 200 days, forming a single cluster that quickly becomes dynamically unstable, leading to collisions and high mutual inclinations. We propose an alternative explanation for the apparent Kepler dichotomy in which migration traps during formation lead to fewer planets within the Kepler detection window, and where mutual inclinations play only a secondary role. If our scenario is correct, then Kepler's Systems with Tightly packed Inner Planets are a sample of planets that escaped capture by corotation traps, and their sizes may be a valuable probe into the structure of protoplanetary disks.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "53"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Planet Formation", "Migration", "Corotation Torque", "Protoplanetary Disks"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

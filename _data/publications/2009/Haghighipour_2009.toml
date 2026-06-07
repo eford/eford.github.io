@@ -1,0 +1,16 @@
+title = "High-Accuracy Measurements of Variations in Transit Timing: A New Method for Detecting Terrestrial-Class Extrasolar Planets"
+author = "Haghighipour, Nadar and Agol, Eric and Eastman, Jason D. and Ford, Eric B. and Gaudi, B. Scott and Holman, Mathew J. and Steffen, Jason and Veras, Dimitri"
+year = "2009"
+month = "jan"
+volume = "2010"
+pages = "109"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009astro2010S.109H"
+entrytype = "inproceedings"
+abstract = """\n"""
+tags = ["Kepler", "Transit timing variations"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Planetary Detection Methods", "Terrestrial Planets", "Extrasolar Planets"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,22 @@
+title = "Probing potassium in the atmosphere of HD 80606b with tunable filter transit spectrophotometry from the Gran Telescopio Canarias"
+author = "Colón, Knicole D. and Ford, Eric B. and Redfield, Seth and Fortney, Jonathan J. and Shabram, Megan and Deeg, Hans J. and Mahadevan, Suvrath"
+year = "2012"
+month = "jan"
+journal = "MNRAS"
+volume = "419"
+number = "3"
+pages = "2233-2250"
+doi = "10.1111/j.1365-2966.2011.19878.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012MNRAS.419.2233C"
+archiveprefix = "arXiv"
+eprint = "1008.4800"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report observations of HD 80606 using the 10.4-m Gran Telescopio Canarias and the Optical System for Imaging and low Resolution Integrated Spectroscopy (OSIRIS) tunable filter imager. We acquired very high precision, narrow-band photometry in four bandpasses around the K I absorption feature during the 2010 January transit of HD 80606b and during out-of-transit observations conducted in 2010 January and April. We obtained differential photometric precisions of ∼2.08 × 10<SUP>-4</SUP> for the in-transit flux ratio measured at 769.91 nm, which probes the K I line core. We find no significant difference in the in-transit flux ratio between observations at 768.76 and 769.91 nm. Yet, we find a difference of ∼8.09 ± 2.88 × 10<SUP>-4</SUP> between these observations and observations at a longer wavelength that probes the K I wing (777.36 nm). While the presence of red noise in the transit data has a non-negligible effect on the uncertainties in the flux ratio, the 777.36-769.91 nm colour during transit shows no effects from red noise and also indicates a significant colour change, with a mean value of ∼8.99 ± 0.62 × 10<SUP>-4</SUP>. This large change in the colour is equivalent to a ∼4.2 per cent change in the apparent planetary radius with wavelength, which is much larger than the atmospheric scaleheight. This implies the observations probed the atmosphere at very low pressures as well as a dramatic change in the pressure at which the slant optical depth reaches unity between ∼770 and 777 nm. We hypothesize that the excess absorption may be due to K I in a high-speed wind being driven from the exoplanet's exosphere. We discuss the viability of this and alternative interpretations, including stellar limb darkening, star-spots and effects from Earth's atmosphere. We strongly encourage follow-up observations of HD 80606b to confirm the signal measured here. Finally, we discuss the future prospects for exoplanet characterization using tunable filter spectrophotometry.\n"""
+tags = ["Stars"]
+research_themes = ["Exoplanet Surveys", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Tunable Filter Spectrophotometry", "Exoplanet Atmospheric Characterization", "K I Absorption", "Exosphere"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Transit Surveys"]

@@ -1,0 +1,23 @@
+title = "The Distribution of Transit Durations for Kepler Planet Candidates and Implications for Their Orbital Eccentricities"
+author = "Moorhead, Althea V. and Ford, Eric B. and Morehead, Robert C. and Rowe, Jason and Borucki, William J. and Batalha, Natalie M. and Bryson, Stephen T. and Caldwell, Douglas A. and Fabrycky, Daniel C. and Gautier, III, Thomas N. and Koch, David G. and Holman, Matthew J. and Jenkins, Jon M. and Li, Jie and Lissauer, Jack J. and Lucas, Philip and Marcy, Geoffrey W. and Quinn, Samuel N. and Quintana, Elisa and Ragozzine, Darin and Shporer, Avi and Still, Martin and Torres, Guillermo"
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "1"
+doi = "10.1088/0067-0049/197/1/1"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197....1M"
+archiveprefix = "arXiv"
+eprint = "1102.0547"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Doppler planet searches have discovered that giant planets follow orbits with a wide range of orbital eccentricities, revolutionizing theories of planet formation. The discovery of hundreds of exoplanet candidates by NASA's Kepler mission enables astronomers to characterize the eccentricity distribution of small exoplanets. Measuring the eccentricity of individual planets is only practical in favorable cases that are amenable to complementary techniques (e.g., radial velocities, transit timing variations, occultation photometry). Yet even in the absence of individual eccentricities, it is possible to study the distribution of eccentricities based on the distribution of transit durations (relative to the maximum transit duration for a circular orbit). We analyze the transit duration distribution of Kepler planet candidates. We find that for host stars with T <SUB>eff</SUB> &gt; 5100 K we cannot invert this to infer the eccentricity distribution at this time due to uncertainties and possible systematics in the host star densities. With this limitation in mind, we compare the observed transit duration distribution with models to rule out extreme distributions. If we assume a Rayleigh eccentricity distribution for Kepler planet candidates, then we find best fits with a mean eccentricity of 0.1-0.25 for host stars with T <SUB>eff</SUB> &lt;= 5100 K. We compare the transit duration distribution for different subsets of Kepler planet candidates and discuss tentative trends with planetary radius and multiplicity. High-precision spectroscopic follow-up observations for a large sample of host stars will be required to confirm which trends are real and which are the results of systematic errors in stellar radii. Finally, we identify planet candidates that must be eccentric or have a significantly underestimated stellar radius.\n"""
+tags = ["Kepler", "Transit timing variations"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "1"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Orbital Eccentricity", "Transit Duration Distribution", "Host Star Characterization"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

@@ -1,0 +1,22 @@
+title = "Five Kepler Target Stars That Show Multiple Transiting Exoplanet Candidates"
+author = "Steffen, Jason H. and Batalha, Natalie M. and Borucki, William J. and Buchhave, Lars A. and Caldwell, Douglas A. and Cochran, William D. and Endl, Michael and Fabrycky, Daniel C. and Fressin, Fran{\\cc}ois and Ford, Eric B. and Fortney, Jonathan J. and Haas, Michael J. and Holman, Matthew J. and Howell, Steve B. and Isaacson, Howard and Jenkins, Jon M. and Koch, David and Latham, David W. and Lissauer, Jack J. and Moorhead, Althea V. and Morehead, Robert C. and Marcy, Geoffrey and MacQueen, Phillip J. and Quinn, Samuel N. and Ragozzine, Darin and Rowe, Jason F. and Sasselov, Dimitar D. and Seager, Sara and Torres, Guillermo and Welsh, William F."
+year = "2010"
+month = "dec"
+journal = "ApJ"
+volume = "725"
+number = "1"
+pages = "1226-1241"
+doi = "10.1088/0004-637X/725/1/1226"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2010ApJ...725.1226S"
+archiveprefix = "arXiv"
+eprint = "1006.2763"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present and discuss five candidate exoplanetary systems identified with the Kepler spacecraft. These five systems show transits from multiple exoplanet candidates. Should these objects prove to be planetary in nature, then these five systems open new opportunities for the field of exoplanets and provide new insights into the formation and dynamical evolution of planetary systems. We discuss the methods used to identify multiple transiting objects from the Kepler photometry as well as the false-positive rejection methods that have been applied to these data. One system shows transits from three distinct objects while the remaining four systems show transits from two objects. Three systems have planet candidates that are near mean motion commensurabilities—two near 2:1 and one just outside 5:2. We discuss the implications that multi-transiting systems have on the distribution of orbital inclinations in planetary systems, and hence their dynamical histories, as well as their likely masses and chemical compositions. A Monte Carlo study indicates that, with additional data, most of these systems should exhibit detectable transit timing variations (TTVs) due to gravitational interactions, though none are apparent in these data. We also discuss new challenges that arise in TTV analyses due to the presence of more than two planets in a system.\n"""
+tags = ["Dynamics", "Kepler", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Kepler Photometry", "Multi-planet Systems"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

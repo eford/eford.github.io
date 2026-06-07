@@ -1,0 +1,23 @@
+title = "Quiet Please: Detrending Radial Velocity Variations from Stellar Activity with a Physically Motivated Spot Model"
+author = "Siegel, Jared C. and Halverson, Samuel and Luhn, Jacob K. and Zhao, Lily L. and Al Moulla, Khaled and Robertson, Paul and Bender, Chad F. and Terrien, Ryan C. and Roy, Arpita and Mahadevan, Suvrath and Hearty, Fred and Ninan, Joe P. and Wright, Jason T. and Ford, Eric B. and Schwab, Christian and {Stef\\'ansson}, Gu\\dhmundur and Blake, Cullen H. and McElwain, Michael W."
+year = "2024"
+month = "oct"
+journal = "AJ"
+volume = "168"
+number = "4"
+pages = "158"
+doi = "10.3847/1538-3881/ad6768"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024AJ....168..158S"
+archiveprefix = "arXiv"
+eprint = "2408.07121"
+primaryclass = "astro-ph.SR"
+entrytype = "article"
+abstract = """For solar-type stars, spots and their associated magnetic regions induce radial velocity perturbations through the Doppler rotation signal and the suppression of convective blueshift, collectively known as rotation modulation. We developed the Rotation─Convection (RC) model: a method of detrending and characterizing rotation modulation using only cross─correlation functions or one-dimensional spectra without the need for continuous high-cadence measurements. The RC method uses a simple model for the anomalous radial velocity induced by an active region and has two inputs: stellar flux (or a flux proxy) and the relative radial velocity between strongly and weakly absorbed wavelengths (analogous to the bisector─inverse slope). On NEID solar data (3 month baseline), the RC model lowers the amplitude of rotationally modulated stellar activity to below the meter─per─second level. For the standard star HD 26965, the RC model detrends the activity signal to the meter─per─second level for HARPS, EXPRES, and NEID observations, even though the temporal density and time span of the observations differ by an order of magnitude between the three data sets. In addition to detrending, the RC model also characterizes the rotation─modulation signal. From comparison with the Solar Dynamics Observatory, we confirmed that the model accurately recovers and separates the rotation and convection radial velocity components. We also mapped the amplitude of the rotation and convection perturbations as a function of height within the stellar atmosphere. Probing stellar atmospheres with our revised spot model will fuel future innovations in stellar activity mitigation, enabling robust exoplanet detection.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "158"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Stellar Activity", "Doppler Shift", "Spot Modeling"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]

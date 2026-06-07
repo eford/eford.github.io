@@ -1,0 +1,23 @@
+title = "Transit Timing Observations from Kepler. IX. Catalog of the Full Long-cadence Data Set"
+author = "Holczer, Tomer and Mazeh, Tsevi and Nachmani, Gil and Jontof-Hutter, Daniel and Ford, Eric B. and Fabrycky, Daniel and Ragozzine, Darin and Kane, Mackenzie and Steffen, Jason H."
+year = "2016"
+month = "jul"
+journal = "ApJS"
+volume = "225"
+number = "1"
+pages = "9"
+doi = "10.3847/0067-0049/225/1/9"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2016ApJS..225....9H"
+archiveprefix = "arXiv"
+eprint = "1606.01744"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present a new transit timing catalog of 2599 Kepler Objects of Interest (KOIs), using the PDC-MAP long-cadence light curves that include the full 17 quarters of the mission (<A href=\"http://ftp://wise-ftp.tau.ac.il/pub/tauttv/TTV/ver₁12\">ftp://wise-ftp.tau.ac.il/pub/tauttv/TTV/ver₁12</A>). The goal is to produce an easy-to-use catalog that can stimulate further analyses of interesting systems. For 779 KOIs with high enough S/N, we derived the timing, duration, and depth of 69,914 transits. For 1820 KOIs with lower SNR, we derived only the timing of 225,273 transits. After removal of outlier timings, we derived various statistics for each KOI that were used to indicate significant variations. Including systems found by previous works, we have detected 260 KOIs that showed significant TTVs with long-term variations (&gt;100 days), and another 14 KOIs with periodic modulations shorter than 100 days and small amplitudes. For five of those, the periodicity is probably due to the crossing of rotating stellar spots by the transiting planets.\n"""
+tags = ["Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "9"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Light Curve Analysis", "TTV Detection", "Stellar Spot Modulation"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

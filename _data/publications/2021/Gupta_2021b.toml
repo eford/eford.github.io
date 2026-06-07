@@ -1,0 +1,23 @@
+title = "Target Prioritization and Observing Strategies for the NEID Earth Twin Survey"
+author = "Gupta, Arvind F. and Wright, Jason T. and Robertson, Paul and Halverson, Samuel and Luhn, Jacob and Roy, Arpita and Mahadevan, Suvrath and Ford, Eric B. and Bender, Chad F. and Blake, Cullen H. and Hearty, Fred and Kanodia, Shubham and Logsdon, Sarah E. and McElwain, Michael W. and Monson, Andrew and Ninan, Joe P. and Schwab, Christian and {Stef\\'ansson}, Gu\\dhmundur and Terrien, Ryan C."
+year = "2021"
+month = "mar"
+journal = "AJ"
+volume = "161"
+number = "3"
+pages = "130"
+doi = "10.3847/1538-3881/abd79e"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2021AJ....161..130G"
+archiveprefix = "arXiv"
+eprint = "2101.11689"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """NEID is a high-resolution optical spectrograph on the WIYN 3.5 m telescope at Kitt Peak National Observatory and will soon join the new generation of extreme precision radial velocity instruments in operation around the world. We plan to use the instrument to conduct the NEID Earth Twin Survey (NETS) over the course of the next 5 years, collecting hundreds of observations of some of the nearest and brightest stars in an effort to probe the regime of Earth-mass exoplanets. Even if we take advantage of the extreme instrumental precision conferred by NEID, it will be difficult to disentangle the weak (∼10 cm s<SUP>-1</SUP>) signals induced by such low-mass, long-period exoplanets from stellar noise for all but the quietest host stars. In this work, we present a set of quantitative selection metrics which we use to identify an initial NETS target list consisting of stars conducive to the detection of exoplanets in the regime of interest. We also outline a set of observing strategies with which we aim to mitigate uncertainty contributions from intrinsic stellar variability and other sources of noise.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "130"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Earth-mass Exoplanets", "Telescope Characterization", "Spectrograph Design"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Radial Velocity Surveys"]

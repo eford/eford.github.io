@@ -1,0 +1,17 @@
+title = "The diverse origin of exoplanets' eccentricities \\& inclinations"
+author = "Ford, Eric B."
+year = "2011"
+month = "nov"
+volume = "276"
+pages = "221-224"
+doi = "10.1017/S1743921311020217"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011IAUS..276..221F"
+entrytype = "inproceedings"
+abstract = """Radial velocity surveys have discovered over 400 exoplanets. While measuring eccentricities of low-mass planets remains a challenge, giant exoplanets display a broad range of orbital eccentricities. Recently, spectroscopic measurements during transit have demonstrated that the short-period giant planets (``hot-Jupiters'') also display a broad range of orbital inclinations (relative to the rotation axis of the host star). Both properties pose a challenge for simple disk migration models and suggest that late-stage orbital evolution can play an important role in determining the final architecture of planetary systems. One possible formation mechanism for the inclined hot-Jupiters is some form of eccentricity excitation (e.g., planet scattering, secular perturbations due to a distant planet or wide binary) followed tidal circularization. The planet scattering hypothesis also makes predictions for the population of planets at large separations. Recent discoveries of planets on wide orbits via direct imaging and highly anticipated results from upcoming direct imaging campaigns are poised to provide a new type of constraint on planet formation. This proceedings describes recent progress in understanding the formation of giant exoplanets.\n"""
+tags = ["Planet-planet scattering", "Radial Velocity", "Secular evolution"]
+research_themes = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Inclination", "Hot Jupiters"]
+# suggested_research_themes  = ["Exoplanet Demographics", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

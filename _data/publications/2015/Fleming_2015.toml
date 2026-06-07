@@ -1,0 +1,23 @@
+title = "The APOGEE Spectroscopic Survey of Kepler Planet Hosts: Feasibility, Efficiency, and First Results"
+author = "Fleming, Scott W. and Mahadevan, Suvrath and Deshpande, Rohit and Bender, Chad F. and Terrien, Ryan C. and Marchwinski, Robert C. and Wang, Ji and Roy, Arpita and Stassun, Keivan G. and Allende Prieto, Carlos and Cunha, Katia and Smith, Verne V. and Agol, Eric and Ak, Hasan and Bastien, Fabienne A. and Bizyaev, Dmitry and Crepp, Justin R. and Ford, Eric B. and Frinchaboy, Peter M. and {Garc\\'\\ia-Hern\\'andez}, Domingo An\\'\\ibal and {Garc\\'\\ia P\\'erez}, Ana Elia and Gaudi, B. Scott and Ge, Jian and Hearty, Fred and Ma, Bo and Majewski, Steve R. and {M\\'esz\\'aros}, Szabolcs and Nidever, David L. and Pan, Kaike and Pepper, Joshua and Pinsonneault, Marc H. and Schiavon, Ricardo P. and Schneider, Donald P. and Wilson, John C. and Zamora, Olga and Zasowski, Gail"
+year = "2015"
+month = "apr"
+journal = "AJ"
+volume = "149"
+number = "4"
+pages = "143"
+doi = "10.1088/0004-6256/149/4/143"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2015AJ....149..143F"
+archiveprefix = "arXiv"
+eprint = "1502.05035"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The Kepler mission has yielded a large number of planet candidates from among the Kepler Objects of Interest (KOIs), but spectroscopic follow-up of these relatively faint stars is a serious bottleneck in confirming and characterizing these systems. We present motivation and survey design for an ongoing project with the Sloan Digital Sky Survey III multiplexed Apache Point Observatory Galactic Evolution Experiment (APOGEE) near-infrared spectrograph to monitor hundreds of KOI host stars. We report some of our first results using representative targets from our sample, which include current planet candidates that we find to be false positives, as well as candidates listed as false positives that we do not find to be spectroscopic binaries. With this survey, KOI hosts are observed over ∼20 epochs at a radial velocity (RV) precision of 100-200 m s<SUP>-1</SUP>. These observations can easily identify a majority of false positives caused by physically associated stellar or substellar binaries, and in many cases, fully characterize their orbits. We demonstrate that APOGEE is capable of achieving RV precision at the 100-200 m s<SUP>-1</SUP> level over long time baselines, and that APOGEE’s multiplexing capability makes it substantially more efficient at identifying false positives due to binaries than other single-object spectrographs working to confirm KOIs as planets. These APOGEE RVs enable ancillary science projects, such as studies of fundamental stellar astrophysics or intrinsically rare substellar companions. The coadded APOGEE spectra can be used to derive stellar properties (T<SUB>eff</SUB>, log g) and chemical abundances of over a dozen elements to probe correlations of planet properties with individual elemental abundances.\n"""
+tags = ["Binary Stars", "Kepler", "Radial Velocity", "Stars"]
+research_themes = ["Exoplanet Surveys"]
+eid = "143"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Near-Infrared Spectroscopy", "Stellar Astrophysics", "Galactic Surveys"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

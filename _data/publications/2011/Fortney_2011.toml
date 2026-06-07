@@ -1,0 +1,23 @@
+title = "Discovery and Atmospheric Characterization of Giant Planet Kepler-12b: An Inflated Radius Outlier"
+author = "Fortney, Jonathan J. and Demory, Brice-Olivier and {D\\'esert}, Jean-Michel and Rowe, Jason and Marcy, Geoffrey W. and Isaacson, Howard and Buchhave, Lars A. and Ciardi, David and Gautier, Thomas N. and Batalha, Natalie M. and Caldwell, Douglas A. and Bryson, Stephen T. and Nutzman, Philip and Jenkins, Jon M. and Howard, Andrew and Charbonneau, David and Knutson, Heather A. and Howell, Steve B. and Everett, Mark and Fressin, Fran{\\cc}ois and Deming, Drake and Borucki, William J. and Brown, Timothy M. and Ford, Eric B. and Gilliland, Ronald L. and Latham, David W. and Miller, Neil and Seager, Sara and Fischer, Debra A. and Koch, David and Lissauer, Jack J. and Haas, Michael R. and Still, Martin and Lucas, Philip and Gillon, Michael and Christiansen, Jessie L. and Geary, John C."
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "9"
+doi = "10.1088/0067-0049/197/1/9"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197....9F"
+archiveprefix = "arXiv"
+eprint = "1109.1611"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the discovery of planet Kepler-12b (KOI-20), which at 1.695 ± 0.030 R <SUB>J</SUB> is among the handful of planets with super-inflated radii above 1.65 R <SUB>J</SUB>. Orbiting its slightly evolved G0 host with a 4.438 day period, this 0.431 ± 0.041 M <SUB>J</SUB> planet is the least irradiated within this largest-planet-radius group, which has important implications for planetary physics. The planet's inflated radius and low mass lead to a very low density of 0.111 ± 0.010 g cm<SUP>-3</SUP>. We detect the occultation of the planet at a significance of 3.7σ in the Kepler bandpass. This yields a geometric albedo of 0.14 ± 0.04; the planetary flux is due to a combination of scattered light and emitted thermal flux. We use multiple observations with Warm Spitzer to detect the occultation at 7σ and 4σ in the 3.6 and 4.5 μm bandpasses, respectively. The occultation photometry timing is consistent with a circular orbit at e &lt; 0.01 (1σ) and e &lt; 0.09 (3σ). The occultation detections across the three bands favor an atmospheric model with no dayside temperature inversion. The Kepler occultation detection provides significant leverage, but conclusions regarding temperature structure are preliminary, given our ignorance of opacity sources at optical wavelengths in hot Jupiter atmospheres. If Kepler-12b and HD 209458b, which intercept similar incident stellar fluxes, have the same heavy-element masses, the interior energy source needed to explain the large radius of Kepler-12b is three times larger than that of HD 209458b. This may suggest that more than one radius-inflation mechanism is at work for Kepler-12b or that it is less heavy-element rich than other transiting planets.\n"""
+tags = ["Kepler"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "9"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Giant Planets", "Atmospheric Characterization", "Occultation", "Planetary Radius Measurement"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

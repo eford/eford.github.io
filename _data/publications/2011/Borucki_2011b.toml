@@ -1,0 +1,23 @@
+title = "Characteristics of Kepler Planetary Candidates Based on the First Data Set"
+author = "Borucki, William J. and Koch, David G. and Basri, Gibor and Batalha, Natalie and Boss, Alan and Brown, Timothy M. and Caldwell, Douglas and Christensen-Dalsgaard, J\\orgen and Cochran, William D. and DeVore, Edna and Dunham, Edward W. and Dupree, Andrea K. and Gautier, III, Thomas N. and Geary, John C. and Gilliland, Ronald and Gould, Alan and Howell, Steve B. and Jenkins, Jon M. and Kjeldsen, Hans and Latham, David W. and Lissauer, Jack J. and Marcy, Geoffrey W. and Monet, David G. and Sasselov, Dimitar and Tarter, Jill and Charbonneau, David and Doyle, Laurance and Ford, Eric B. and Fortney, Jonathan and Holman, Matthew J. and Seager, Sara and Steffen, Jason H. and Welsh, William F. and Allen, Christopher and Bryson, Stephen T. and Buchhave, Lars and Chandrasekaran, Hema and Christiansen, Jessie L. and Ciardi, David and Clarke, Bruce D. and Dotson, Jessie L. and Endl, Michael and Fischer, Debra and Fressin, Francois and Haas, Michael and Horch, Elliott and Howard, Andrew and Isaacson, Howard and Kolodziejczak, Jeffery and Li, Jie and MacQueen, Phillip and Meibom, S\\oren and Prsa, Andrej and Quintana, Elisa V. and Rowe, Jason and Sherry, William and Tenenbaum, Peter and Torres, Guillermo and Twicken, Joseph D. and Van Cleve, Jeffrey and Walkowicz, Lucianne and Wu, Hayley"
+year = "2011"
+month = "feb"
+journal = "ApJ"
+volume = "728"
+number = "2"
+pages = "117"
+doi = "10.1088/0004-637X/728/2/117"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJ...728..117B"
+archiveprefix = "arXiv"
+eprint = "1006.2799"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """In the spring of 2009, the Kepler Mission commenced high-precision photometry on nearly 156,000 stars to determine the frequency and characteristics of small exoplanets, conduct a guest observer program, and obtain asteroseismic data on a wide variety of stars. On 2010 June 15, the Kepler Mission released most of the data from the first quarter of observations. At the time of this data release, 705 stars from this first data set have exoplanet candidates with sizes from as small as that of Earth to larger than that of Jupiter. Here we give the identity and characteristics of 305 released stars with planetary candidates. Data for the remaining 400 stars with planetary candidates will be released in 2011 February. More than half the candidates on the released list have radii less than half that of Jupiter. Five candidates are present in and near the habitable zone; two near super-Earth size, and three bracketing the size of Jupiter. The released stars also include five possible multi-planet systems. One of these has two Neptune-size (2.3 and 2.5 Earth radius) candidates with near-resonant periods.\n"""
+tags = ["Astrophysics", "Kepler", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "117"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Photometry", "Exoplanet Detection", "Habitable Zone"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]

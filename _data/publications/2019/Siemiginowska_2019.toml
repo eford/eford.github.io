@@ -1,0 +1,23 @@
+title = "The Next Decade of Astroinformatics and Astrostatistics"
+author = "Siemiginowska, Aneta and Eadie, Gwendolyn and Czekala, Ian and Feigelson, Eric and Ford, Eric B. and Kashyap, Vinay and Kuhn, Michael and Loredo, Tom and Ntampaka, Michelle and Stevens, Abbie and Avelino, Arturo and Borne, Kirk and Budavari, Tamas and Burkhart, Blakesley and Cisewski-Kehe, Jessi and Civano, Francesca and Chilingarian, Igor and van Dyk, David A. and Fabbiano, Giuseppina and Finkbeiner, Douglas P. and Foreman-Mackey, Daniel and Freeman, Peter and Fruscione, Antonella and Goodman, Alyssa A. and Graham, Matthew and Guenther, Hans Moritz and Hakkila, Jon and Hernquist, Lars and Huppenkothen, Daniela and James, David J. and Law, Casey and Lazio, Joseph and Lee, Thomas and López-Morales, Mercedes and Mahabal, Ashish A. and Mandel, Kaisey and Meng, Xiao-Li and Moustakas, John and Muna, Demitri and Peek, J.~E.~G. and Richards, Gordon and Portillo, Stephen K.~N. and Scargle, Jeff and de Souza, Rafael S. and Speagle, Joshua S. and Stassun, Keivan G. and Stenning, David C. and Taylor, Stephen R. and Tremblay, Grant R. and Trimble, Virginia and Yanamandra-Fisher, Padma A. and Young, C. Alex"
+year = "2019"
+month = "may"
+journal = "\\baas"
+volume = "51"
+number = "3"
+pages = "355"
+doi = "10.48550/arXiv.1903.06796"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S"
+archiveprefix = "arXiv"
+eprint = "1903.06796"
+primaryclass = "astro-ph.IM"
+entrytype = "article"
+abstract = """Over the past century, major advances in astronomy and astrophysics have been driven by improvements in instrumentation. With the amassing of high quality data from new telescopes it is becoming clear that research in astrostatistics and astroinformatics will be necessary to develop new methodology needed in astronomy.\n"""
+tags = ["Stars"]
+research_themes = ["Astrostatistics & Astroinformatics"]
+eid = "355"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Astroinformatics", "Statistical Methods", "Data Analysis"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics"]

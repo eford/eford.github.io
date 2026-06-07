@@ -1,0 +1,22 @@
+title = "An Earth-Sized Planet in the Habitable Zone of a Cool Star"
+author = "Quintana, Elisa V. and Barclay, Thomas and Raymond, Sean N. and Rowe, Jason F. and Bolmont, Emeline and Caldwell, Douglas A. and Howell, Steve B. and Kane, Stephen R. and Huber, Daniel and Crepp, Justin R. and Lissauer, Jack J. and Ciardi, David R. and Coughlin, Jeffrey L. and Everett, Mark E. and Henze, Christopher E. and Horch, Elliott and Isaacson, Howard and Ford, Eric B. and Adams, Fred C. and Still, Martin and Hunter, Roger C. and Quarles, Billy and Selsis, Franck"
+year = "2014"
+month = "apr"
+journal = "Science"
+volume = "344"
+number = "6181"
+pages = "277-280"
+doi = "10.1126/science.1249403"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2014Sci...344..277Q"
+archiveprefix = "arXiv"
+eprint = "1404.5667"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The quest for Earth-like planets is a major focus of current exoplanet research. Although planets that are Earth-sized and smaller have been detected, these planets reside in orbits that are too close to their host star to allow liquid water on their surfaces. We present the detection of Kepler-186f, a 1.11 ± 0.14 Earth-radius planet that is the outermost of five planets, all roughly Earth-sized, that transit a 0.47 ± 0.05 solar-radius star. The intensity and spectrum of the star’s radiation place Kepler-186f in the stellar habitable zone, implying that if Kepler-186f has an Earth-like atmosphere and water at its surface, then some of this water is likely to be in liquid form.\n"""
+tags = ["Astrobiology", "Kepler", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Transit Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Habitable Zone", "Exoplanets", "Liquid Water"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys", "Transit Surveys"]

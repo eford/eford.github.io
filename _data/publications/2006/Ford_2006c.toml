@@ -1,0 +1,22 @@
+title = "The Effects of Multiple Companions on the Efficiency of Space Interferometry Mission Planet Searches"
+author = "Ford, Eric B."
+year = "2006"
+month = "mar"
+journal = "PASP"
+volume = "118"
+number = "841"
+pages = "364-384"
+doi = "10.1086/500813"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2006PASP..118..364F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0508360"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """The Space Interferometry Mission (SIM) is expected to make precise astrometric measurements that can be used to detect low-mass planets around nearby stars. Since most nearby stars are members of multiple-star systems, many of them will have a measurable acceleration due to their companion, which must be included when solving for astrometric parameters and searching for planetary perturbations. In addition, many of the stars with one radial velocity planet show indications of additional planets. Therefore, astrometric surveys such as SIM must be capable of detecting planets and measuring orbital parameters in systems with multiple stellar and/or planetary companions. We have conducted Monte Carlo simulations to investigate how the presence of multiple companions affects the sensitivity of an astrometric survey such as SIM. We find that the detection efficiency for planets in wide binary systems is relatively unaffected by the presence of a binary companion if the planetary orbital period is less than half the duration of the astrometric survey. For longer orbital periods, there are significant reductions in the sensitivity of an astrometric survey. In addition, we find that the signal required to detect a planet can be increased significantly due to the presence of an additional planet orbiting the same star. Fortunately, adding a modest number of precision radial velocity observations significantly improves the sensitivity for many multiple-planet systems. Thus, the combination of radial velocity observations and astrometric observations by SIM will be particularly valuable for studying multiple-planet systems.\n"""
+tags = ["Binary Stars", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Astrometry", "Space Interferometry"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation"]

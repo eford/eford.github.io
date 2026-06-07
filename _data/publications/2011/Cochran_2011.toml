@@ -1,0 +1,23 @@
+title = "Kepler-18b, c, and d: A System of Three Planets Confirmed by Transit Timing Variations, Light Curve Validation, Warm-Spitzer Photometry, and Radial Velocity Measurements"
+author = "Cochran, William D. and Fabrycky, Daniel C. and Torres, Guillermo and Fressin, Fran{\\cc}ois and {D\\'esert}, Jean-Michel and Ragozzine, Darin and Sasselov, Dimitar and Fortney, Jonathan J. and Rowe, Jason F. and Brugamyer, Erik J. and Bryson, Stephen T. and Carter, Joshua A. and Ciardi, David R. and Howell, Steve B. and Steffen, Jason H. and Borucki, William. J. and Koch, David G. and Winn, Joshua N. and Welsh, William F. and Uddin, Kamal and Tenenbaum, Peter and Still, M. and Seager, Sara and Quinn, Samuel N. and Mullally, F. and Miller, Neil and Marcy, Geoffrey W. and MacQueen, Phillip J. and Lucas, Phillip and Lissauer, Jack J. and Latham, David W. and Knutson, Heather and Kinemuchi, K. and Johnson, John A. and Jenkins, Jon M. and Isaacson, Howard and Howard, Andrew and Horch, Elliott and Holman, Matthew J. and Henze, Christopher E. and Haas, Michael R. and Gilliland, Ronald L. and Gautier, III, Thomas N. and Ford, Eric B. and Fischer, Debra A. and Everett, Mark and Endl, Michael and Demory, Brice-Oliver and Deming, Drake and Charbonneau, David and Caldwell, Douglas and Buchhave, Lars and Brown, Timothy M. and Batalha, Natalie"
+year = "2011"
+month = "nov"
+journal = "ApJS"
+volume = "197"
+number = "1"
+pages = "7"
+doi = "10.1088/0067-0049/197/1/7"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011ApJS..197....7C"
+archiveprefix = "arXiv"
+eprint = "1110.0820"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We report the detection of three transiting planets around a Sun-like star, which we designate Kepler-18. The transit signals were detected in photometric data from the Kepler satellite, and were confirmed to arise from planets using a combination of large transit-timing variations (TTVs), radial velocity variations, Warm-Spitzer observations, and statistical analysis of false-positive probabilities. The Kepler-18 star has a mass of 0.97 M <SUB>sun</SUB>, a radius of 1.1 R <SUB>sun</SUB>, an effective temperature of 5345 K, and an iron abundance of [Fe/H] = +0.19. The planets have orbital periods of approximately 3.5, 7.6, and 14.9 days. The innermost planet \"b\" is a \"super-Earth\" with a mass of 6.9 ± 3.4 M <SUB>⊕</SUB>, a radius of 2.00 ± 0.10 R <SUB>⊕</SUB>, and a mean density of 4.9 ± 2.4 g cm<SUP>3</SUP>. The two outer planets \"c\" and \"d\" are both low-density Neptune-mass planets. Kepler-18c has a mass of 17.3 ± 1.9 M <SUB>⊕</SUB>, a radius of 5.49 ± 0.26 R <SUB>⊕</SUB>, and a mean density of 0.59 ± 0.07 g cm<SUP>3</SUP>, while Kepler-18d has a mass of 16.4 ± 1.4 M <SUB>⊕</SUB>, a radius of 6.98 ± 0.33 R <SUB>⊕</SUB> and a mean density of 0.27 ± 0.03 g cm<SUP>3</SUP>. Kepler-18c and Kepler-18d have orbital periods near a 2:1 mean-motion resonance, leading to large and readily detected TTVs. <P />Based in part on observations obtained at the W. M. Keck Observatory, which is operated by the University of California and the California Institute of Technology.\n"""
+tags = ["Keck", "Kepler", "Radial Velocity", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "7"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Super-Earth", "Neptune-mass planets", "Mean-motion resonance"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

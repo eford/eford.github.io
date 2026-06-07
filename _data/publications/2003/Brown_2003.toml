@@ -1,0 +1,17 @@
+title = "The 4-m space telescope for investigating extrasolar Earth-like planets in starlight: TPF is HST2"
+author = "Brown, Robert A. and Burrows, Christopher J. and Casertano, Stefano and Clampin, Mark and Ebbets, Dennis C. and Ford, Eric B. and Jucks, Kenneth W. and Kasdin, N. Jeremy and Kilston, Steven and Kuchner, Marc J. and Seager, Sara and Sozzetti, Alessandro and Spergel, David N. and Traub, Wesley A. and Trauger, John T. and Turner, Edwin L."
+year = "2003"
+month = "feb"
+volume = "4854"
+pages = "95-107"
+doi = "10.1117/12.459819"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2003SPIE.4854...95B"
+entrytype = "inproceedings"
+abstract = """Recent advances in deformable mirror technology for correcting wavefront errors and in pupil shapes and masks for coronagraphic suppression of diffracted starlight enable a powerful approach to detecting extrasolar planets in reflected (scattered) starlight at visible wavelengths. We discuss the planet-finding performance of Hubble-like telescopes using these technical advances. A telescope of aperture of at least 4 meters could accomplish the goals of the Terrestrial Planet Finder (TPF) mission. The '4mTPF' detects an Earth around a Sun at five parsecs in about one hour of integration time. It finds molecular oxygen, ozone, water vapor, the 'red edge' of chlorophyll-containing land-plant leaves, and the total atmospheric column density -- all in forty hours or less. The 4mTPF has a strong science program of discovery and characterization of extrasolar planets and planetary systems, including other worlds like Earth. With other astronomical instruments sharing the focal plane, the 4mTPF could also continue and expand the general program of astronomical research of the Hubble Space Telescope.\n"""
+tags = ["Astrobiology", "Sun-as-a-star"]
+research_themes = ["Astrobiology", "Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Coronagraphy", "Direct Imaging", "Atmospheric Characterization"]
+# suggested_research_themes  = ["Astrobiology", "Exoplanet Surveys"]

@@ -1,0 +1,21 @@
+title = "Scheduling Discovery in the 2020s"
+author = "Bellm, Eric and Ford, Eric B. and Tohuvavohu, Aaron and Coughlin, Michael W. and Morris, Brett and Miller, Bryan and Sobeck, Jennifer and Riddle, Reed and Dong, Chuanfei and Yoachim, Peter"
+year = "2019"
+month = "sep"
+volume = "51"
+pages = "125"
+doi = "10.48550/arXiv.1907.07817"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.125B"
+archiveprefix = "arXiv"
+eprint = "1907.07817"
+primaryclass = "astro-ph.IM"
+entrytype = "inproceedings"
+abstract = """The 2020s will be the most data-rich decade of astronomy in history. As the scale and complexity of our surveys increase, the problem of scheduling becomes more critical. We must develop high-quality scheduling approaches, implement them as open-source software, and begin linking the typically separate stages of observation and data analysis.\n"""
+tags = ["Kepler", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics"]
+eid = "125"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Scheduling", "Observational Astronomy", "Data Pipelines"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics"]

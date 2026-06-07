@@ -1,0 +1,23 @@
+title = "A Hot Mars-sized Exoplanet Transiting an M Dwarf"
+author = "{Ca\\~nas}, Caleb I. and Mahadevan, Suvrath and Cochran, William D. and Bender, Chad F. and Feigelson, Eric D. and Harman, C.~E. and Kopparapu, Ravi Kumar and Caceres, Gabriel A. and Diddams, Scott A. and Endl, Michael and Ford, Eric B. and Halverson, Samuel and Hearty, Fred and Jones, Sinclaire and Kanodia, Shubham and Lin, Andrea S.~J. and Metcalf, Andrew J. and Monson, Andrew and Ninan, Joe P. and Ramsey, Lawrence W. and Robertson, Paul and Roy, Arpita and Schwab, Christian and {Stef\\'ansson}, Gu\\djmundur"
+year = "2022"
+month = "jan"
+journal = "AJ"
+volume = "163"
+number = "1"
+pages = "3"
+doi = "10.3847/1538-3881/ac3088"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022AJ....163....3C"
+archiveprefix = "arXiv"
+eprint = "2112.03958"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We validate the planetary nature of an ultra-short-period planet orbiting the M dwarf KOI-4777. We use a combination of space-based photometry from Kepler, high-precision, near-infrared Doppler spectroscopy from the Habitable-zone Planet Finder, and adaptive optics imaging to characterize this system. KOI-4777.01 is a Mars-sized exoplanet (R <SUB> p </SUB> = 0.51 ± 0.03R <SUB>⊕</SUB>) orbiting the host star every 0.412 days (~9.9 hr). This is the smallest validated ultra-short period planet known and we see no evidence for additional massive companions using our HPF RVs. We constrain the upper 3σ mass to M <SUB> p </SUB> &lt; 0.34 M <SUB>⊕</SUB> by assuming the planet is less dense than iron. Obtaining a mass measurement for KOI-4777.01 is beyond current instrumental capabilities.\n"""
+tags = ["HPF", "Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "3"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M Dwarf", "Ultra-short period planets", "Photometry"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

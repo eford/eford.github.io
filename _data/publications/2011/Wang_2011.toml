@@ -1,0 +1,22 @@
+title = "On the eccentricity distribution of short-period single-planet systems"
+author = "Wang, Ji and Ford, Eric B."
+year = "2011"
+month = "dec"
+journal = "MNRAS"
+volume = "418"
+number = "3"
+pages = "1822-1833"
+doi = "10.1111/j.1365-2966.2011.19600.x"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2011MNRAS.418.1822W"
+archiveprefix = "arXiv"
+eprint = "1108.1811"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We apply standard Markov chain Monte Carlo (MCMC) analysis techniques to 50 short-period, single-planet systems discovered with radial velocity technique. We develop a new method for accessing the significance of a non-zero orbital eccentricity, namely Γ analysis, which combines the frequentist bootstrap approach with Bayesian analysis of each simulated data set. We find that the eccentricity estimations from the Γ analysis are generally consistent with the results from both the standard MCMC analysis and previous references. The Γ method is particular useful for assessing the significance of small eccentricities. Our results suggest that the current sample size is insufficient to draw robust conclusions about the roles of tidal interaction and perturbations in shaping the eccentricity distribution of short-period single-planet systems. We use a Bayesian population analysis to show that a mixture of analytical distributions is a good approximation of the underlying eccentricity distribution. For short-period planets, we find the most probable values of parameters in the analytical functions given the observed eccentricities. These analytical functions can be used in theoretical investigations or as priors for the eccentricity distribution when analysing short-period planets. As the measurement precision improves and sample size increases, the method can be applied to more complex parametrizations for the underlying distribution of eccentricity for extrasolar planetary systems.\n"""
+tags = ["Dynamics", "Kepler", "Radial Velocity"]
+research_themes = ["Exoplanet Demographics"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Eccentricity", "MCMC", "Markov Chain Monte Carlo", "Short-Period Planets"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Orbital Dynamics & Planet Formation"]

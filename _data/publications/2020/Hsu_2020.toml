@@ -1,0 +1,22 @@
+title = "Occurrence rates of planets orbiting M Stars: applying ABC to Kepler DR25, Gaia DR2, and 2MASS data"
+author = "Hsu, Danley C. and Ford, Eric B. and Terrien, Ryan"
+year = "2020"
+month = "oct"
+journal = "MNRAS"
+volume = "498"
+number = "2"
+pages = "2249-2262"
+doi = "10.1093/mnras/staa2391"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2249H"
+archiveprefix = "arXiv"
+eprint = "2002.02573"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We present robust planet occurrence rates for Kepler planet candidates around M stars for planet radii R<SUB>p</SUB> = 0.5-4 R<SUB>⊕</SUB> and orbital periods P = 0.5-256 d using the approximate Bayesian computation technique. This work incorporates the final Kepler DR25 planet candidate catalogue and data products and augments them with updated stellar properties using Gaia DR2 and 2MASS point source catalogue. We apply a set of selection criteria to select a sample of 1746 Kepler M dwarf targets that host 89 associated planet candidates. These early-type M dwarfs and late K dwarfs were selected from cross-referenced targets using several photometric quality flags from Gaia DR2 and colour-magnitude cuts using 2MASS magnitudes. We estimate a habitable zone occurrence rate of $f_{\\textrm M,HZ} = 0.33^+0.10_-0.12$ for planets with 0.75-1.5 R<SUB>⊕</SUB> size. We caution that occurrence rate estimates for Kepler M stars are sensitive to the choice of prior due to the small sample of target stars and planet candidates. For example, we find an occurrence rate of $4.2^+0.6_-0.6$ or $8.4^+1.2_-1.1$ planets per M dwarf (integrating over R<SUB>p</SUB> = 0.5-4 R<SUB>⊕</SUB> and P = 0.5-256 d) for our two choices of prior. These occurrence rates are greater than those for FGK dwarf target when compared at the same range of orbital periods, but similar to occurrence rates when computed as a function of equivalent stellar insolation. Combining our result with recent studies of exoplanet architectures indicates that most, and potentially all, early-type M dwarfs harbour planetary systems.\n"""
+tags = ["Demographics", "Kepler", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Surveys", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M dwarfs", "Exoplanet Occurrence Rates", "Gaia DR2", "2MASS"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Planetary Architectures"]

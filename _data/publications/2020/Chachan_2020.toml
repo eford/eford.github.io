@@ -1,0 +1,23 @@
+title = "A Featureless Infrared Transmission Spectrum for the Super-puff Planet Kepler-79d"
+author = "Chachan, Yayaati and Jontof-Hutter, Daniel and Knutson, Heather A. and Adams, Danica and Gao, Peter and Benneke, Bj\\\"orn and Berta-Thompson, Zachory and Dai, Fei and Deming, Drake and Ford, Eric B. and Lee, Eve J. and Libby-Roberts, Jessica E. and Madhusudhan, Nikku and Wakeford, Hannah R. and Wong, Ian"
+year = "2020"
+month = "nov"
+journal = "AJ"
+volume = "160"
+number = "5"
+pages = "201"
+doi = "10.3847/1538-3881/abb23a"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....160..201C"
+archiveprefix = "arXiv"
+eprint = "2008.05480"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Extremely low-density planets (\"super-puffs\") are a small but intriguing subset of the transiting planet population. With masses in the super-Earth range (1 - 10 $M_⊕ $ ) and radii akin to those of giant planets (&gt; 4 $R_⊕ $ ), their large envelopes may have been accreted beyond the water snow line and many appear to be susceptible to catastrophic mass loss. Both the presence of water and the importance of mass loss can be explored using transmission spectroscopy. Here, we present new Hubble space telescope WFC3 spectroscopy and updated Kepler transit depth measurements for the super-puff Kepler-79d. We do not detect any molecular absorption features in the 1.1 - 1.7 μm WFC3 bandpass, and the combined Kepler and WFC3 data are consistent with a flat-line model, indicating the presence of aerosols in the atmosphere. We compare the shape of Kepler-79d's transmission spectrum to predictions from a microphysical haze model that incorporates an outward particle flux due to ongoing mass loss. We find that photochemical hazes offer an attractive explanation for the observed properties of super-puffs like Kepler-79d, as they simultaneously render the near-infrared spectrum featureless and reduce the inferred envelope mass-loss rate by moving the measured radius (optical depth unity surface during transit) to lower pressures. We revisit the broader question of mass-loss rates for super-puffs and find that the age estimates and mass-loss rates for the majority of super-puffs can be reconciled if hazes move the photosphere from the typically assumed pressure of ∼10 mbar to $~ 10 μ $ bar.\n"""
+tags = ["Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]
+eid = "201"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Super-Earth", "Super-puff", "Transmission Spectroscopy", "Atmospheric Chemistry", "Mass Loss"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

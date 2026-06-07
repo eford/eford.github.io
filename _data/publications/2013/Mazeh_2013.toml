@@ -1,0 +1,23 @@
+title = "Transit Timing Observations from Kepler. VIII. Catalog of Transit Timing Measurements of the First Twelve Quarters"
+author = "Mazeh, Tsevi and Nachmani, Gil and Holczer, Tomer and Fabrycky, Daniel C. and Ford, Eric B. and Sanchis-Ojeda, Roberto and Sokol, Gil and Rowe, Jason F. and Zucker, Shay and Agol, Eric and Carter, Joshua A. and Lissauer, Jack J. and Quintana, Elisa V. and Ragozzine, Darin and Steffen, Jason H. and Welsh, William"
+year = "2013"
+month = "oct"
+journal = "ApJS"
+volume = "208"
+number = "2"
+pages = "16"
+doi = "10.1088/0067-0049/208/2/16"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013ApJS..208...16M"
+archiveprefix = "arXiv"
+eprint = "1301.5499"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Following the works of Ford et al. and Steffen et al. we derived the transit timing of 1960 Kepler objects of interest (KOIs) using the pre-search data conditioning light curves of the first twelve quarters of the Kepler data. For 721 KOIs with large enough signal-to-noise ratios, we obtained also the duration and depth of each transit. The results are presented as a catalog for the community to use. We derived a few statistics of our results that could be used to indicate significant variations. Including systems found by previous works, we have found 130 KOIs that showed highly significant times of transit variations (TTVs) and 13 that had short-period TTV modulations with small amplitudes. We consider two effects that could cause apparent periodic TTV—the finite sampling of the observations and the interference with the stellar activity, stellar spots in particular. We briefly discuss some statistical aspects of our detected TTVs. We show that the TTV period is correlated with the orbital period of the planet and with the TTV amplitude.\n"""
+tags = ["Kepler", "Stars", "Transit timing variations"]
+research_themes = ["Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Transit Surveys"]
+eid = "16"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Kepler Objects of Interest (KOIs)", "Orbital Period Determination", "Signal Processing"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys", "Mitigating Stellar Variability", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

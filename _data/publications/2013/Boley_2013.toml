@@ -1,0 +1,21 @@
+title = "The Formation of Systems with Tightly-packed Inner Planets (STIPs) via Aerodynamic Drift"
+author = "Boley, Aaron C. and Ford, Eric B."
+year = "2013"
+month = "jun"
+journal = "arXiv e-prints"
+pages = "arXiv:1306.0566"
+doi = "10.48550/arXiv.1306.0566"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2013arXiv1306.0566B"
+archiveprefix = "arXiv"
+eprint = "1306.0566"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The NASA Kepler mission has revealed an abundant class of Systems with Tightly-packed Inner Planets (STIPs). The current paradigm for planet formation suggests that small planetesimals will quickly spiral into the host star due to aerodynamic drag, preventing rocky planet formation. In contrast, we find that aerodynamic drift, when acting on an ensemble of solids, can concentrate mass at short orbital periods in gaseous disks. Sublimation fronts may further aid this process. Kepler data suggest that the innermost known planets are found near the silicate sublimation zone. STIP planets should have a wide range of volatile fractions due to aerodynamic drift and H2 dissociation-driven gas accretion. We further propose that the low mass of Mars is evidence that the Solar System was once a proto-STIP.\n"""
+tags = ["Dynamics", "Kepler"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+eid = "arXiv:1306.0566"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Aerodynamics", "Planet Formation", "Gas Disks", "Volatile Fractions"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

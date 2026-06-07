@@ -1,0 +1,23 @@
+title = "A Warm Jupiter Transiting an M Dwarf: A TESS Single-transit Event Confirmed with the Habitable-zone Planet Finder"
+author = "{Ca\\~nas}, Caleb I. and Stefansson, Gudmundur and Kanodia, Shubham and Mahadevan, Suvrath and Cochran, William D. and Endl, Michael and Robertson, Paul and Bender, Chad F. and Ninan, Joe P. and Beard, Corey and Lubin, Jack and Gupta, Arvind F. and Everett, Mark E. and Monson, Andrew and Wilson, Robert F. and Lewis, Hannah M. and Brewer, Mary and Majewski, Steven R. and Hebb, Leslie and Dawson, Rebekah I. and Diddams, Scott A. and Ford, Eric B. and Fredrick, Connor and Halverson, Samuel and Hearty, Fred and Lin, Andrea S.~J. and Metcalf, Andrew J. and Rajagopal, Jayadev and Ramsey, Lawrence W. and Roy, Arpita and Schwab, Christian and Terrien, Ryan C. and Wright, Jason T."
+year = "2020"
+month = "sep"
+journal = "AJ"
+volume = "160"
+number = "3"
+pages = "147"
+doi = "10.3847/1538-3881/abac67"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2020AJ....160..147C"
+archiveprefix = "arXiv"
+eprint = "2007.07098"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """We confirm the planetary nature of a warm Jupiter transiting the early M dwarf TOI-1899 using a combination of available TESS photometry; high-precision, near-infrared spectroscopy with the Habitable-zone Planet Finder; and speckle and adaptive optics imaging. The data reveal a transiting companion on an ∼29 day orbit with a mass and radius of $0.66± 0.07 M_{{\\rmJ}}$ and $1.15_-0.05^+0.04 R_{{\\rmJ}}$ , respectively. The star, TOI-1899, is the lowest-mass star known to host a transiting warm Jupiter, and we discuss the follow-up opportunities afforded by a warm ( $T_{\\mathrmeq}~ 362$ K) gas giant orbiting an M0 star. Our observations reveal that TOI-1899.01 is a puffy warm Jupiter, and we suggest additional transit observations to both refine the orbit and constrain the true dilution observed in TESS.\n"""
+tags = ["HPF", "Keck", "Kepler", "Stars"]
+research_themes = ["Exoplanet Surveys", "Planetary Architectures", "Transit Surveys"]
+eid = "147"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M dwarfs", "Warm Jupiter", "TESS"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures", "Transit Surveys"]

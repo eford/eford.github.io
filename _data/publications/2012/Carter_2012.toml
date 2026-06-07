@@ -1,0 +1,22 @@
+title = "Kepler-36: A Pair of Planets with Neighboring Orbits and Dissimilar Densities"
+author = "Carter, Joshua A. and Agol, Eric and Chaplin, William J. and Basu, Sarbani and Bedding, Timothy R. and Buchhave, Lars A. and Christensen-Dalsgaard, J\\orgen and Deck, Katherine M. and Elsworth, Yvonne and Fabrycky, Daniel C. and Ford, Eric B. and Fortney, Jonathan J. and Hale, Steven J. and Handberg, Rasmus and Hekker, Saskia and Holman, Matthew J. and Huber, Daniel and Karoff, Christopher and Kawaler, Steven D. and Kjeldsen, Hans and Lissauer, Jack J. and Lopez, Eric D. and Lund, Mikkel N. and Lundkvist, Mia and Metcalfe, Travis S. and Miglio, Andrea and Rogers, Leslie A. and Stello, Dennis and Borucki, William J. and Bryson, Steve and Christiansen, Jessie L. and Cochran, William D. and Geary, John C. and Gilliland, Ronald L. and Haas, Michael R. and Hall, Jennifer and Howard, Andrew W. and Jenkins, Jon M. and Klaus, Todd and Koch, David G. and Latham, David W. and MacQueen, Phillip J. and Sasselov, Dimitar and Steffen, Jason H. and Twicken, Joseph D. and Winn, Joshua N."
+year = "2012"
+month = "aug"
+journal = "Science"
+volume = "337"
+number = "6094"
+pages = "556"
+doi = "10.1126/science.1223269"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2012Sci...337..556C"
+archiveprefix = "arXiv"
+eprint = "1206.4718"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """In the solar system, the planets’ compositions vary with orbital distance, with rocky planets in close orbits and lower-density gas giants in wider orbits. The detection of close-in giant planets around other stars was the first clue that this pattern is not universal and that planets’ orbits can change substantially after their formation. Here, we report another violation of the orbit-composition pattern: two planets orbiting the same star with orbital distances differing by only 10% and densities differing by a factor of 8. One planet is likely a rocky “super-Earth,” whereas the other is more akin to Neptune. These planets are 20 times more closely spaced and have a larger density contrast than any adjacent pair of planets in the solar system.\n"""
+tags = ["Dynamics", "Kepler", "Planet-planet scattering", "Stars"]
+research_themes = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Super-Earth", "Giant Planet", "Orbital Resonance"]
+# suggested_research_themes  = ["Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Planetary Architectures"]

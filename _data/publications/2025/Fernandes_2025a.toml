@@ -1,0 +1,23 @@
+title = "Are We There Yet? Challenges in Quantifying the Frequency of Earth Analogs in the Habitable Zone"
+author = "Fernandes, Rachel B. and Johnson, Samson and Bergsten, Galen J. and Bhure, Sakhee and Boley, Kiersten M. and Boss, Alan P. and Bryson, Steve and DeRocco, William and Dietrich, Jamie and Duck, Alison and Giacalone, Steven and Gupta, Arvind F. and He, Matthias Y. and Kunimoto, Michelle and Ment, Kristo and Sagear, Sheila and Silverstein, Michele L. and Sullivan, Kendall and Vrijmoet, Eliot Halley and Wagner, Kevin and Wilson, Robert F. and Brefka, Lucas and Belikov, Ruslan and Chakrabarty, Aritra and Christiansen, Jessie L. and Ciardi, David R. and Dattilo, Anne and Fitzmaurice, Evan and Ford, Eric B. and Hotnisky, Andrew and Jones, Sinclaire and Kar, Aman and Kopparapu, Ravi and Lowson, Nataliea and Mamajek, Eric E. and Mennesson, Bertrand and Meyer, Michael R. and Millholland, Sarah and Mulders, Gijs D. and Mullally, Susan E. and Murlidhar, Arjun and Pascucci, Ilaria and Ragozzine, Darin and Robertson, Paul and Stapelfeldt, Karl and Wright, Jason"
+year = "2025"
+month = "dec"
+journal = "PASP"
+volume = "137"
+number = "12"
+pages = "121001"
+doi = "10.1088/1538-3873/ae215a"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2025PASP..137l1001F"
+archiveprefix = "arXiv"
+eprint = "2511.05660"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Searching for life elsewhere in the universe is one of the most highly prioritized pursuits in astronomy today. However, the ability to observe evidence of Earth-like life through biosignatures is limited by the number of planets in the solar neighborhood with conditions similar to Earth. The occurrence rate of Earth-like planets in the habitable zones of Sun-like stars, η<SUB>⊕</SUB>, is therefore crucial for addressing the apparent lack of consensus on its value in the literature. Here we present a review of the current understanding of η<SUB>⊕</SUB>. We first provide definitions for parameters that contribute to η<SUB>⊕</SUB>. Then, we discuss the previous and current estimated parameter values and the context of the limitations on the analyses that produced these estimates. We compile an extensive list of the factors that go into any calculation of η<SUB>⊕</SUB>, and how detection techniques and surveys differ in their sensitivity and ability to accurately constrain η<SUB>⊕</SUB>. Understanding and refining the value of η<SUB>⊕</SUB> is crucial for upcoming missions and telescopes, such as the planned Habitable Worlds Observatory and the Large Interferometer for Exoplanets, which aim to search for biosignatures on exoplanets in the solar neighborhood.\n"""
+tags = ["Astrobiology", "Stars"]
+research_themes = ["Astrobiology", "Exoplanet Demographics", "Exoplanet Surveys"]
+eid = "121001"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Habitable Zone", "Biosignatures", "Exoplanets"]
+# suggested_research_themes  = ["Astrobiology", "Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys"]

@@ -1,0 +1,22 @@
+title = "Parallel algorithm for solving Kepler's equation on Graphics Processing Units: Application to analysis of Doppler exoplanet searches"
+author = "Ford, Eric B."
+year = "2009"
+month = "may"
+journal = "New Astronomy"
+volume = "14"
+number = "4"
+pages = "406-412"
+doi = "10.1016/j.newast.2008.12.001"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2009NewA...14..406F"
+archiveprefix = "arXiv"
+eprint = "0812.2976"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """We present the results of a highly parallel Kepler equation solver using the Graphics Processing Unit (GPU) on a commercial nVidia GeForce 280GTX and the \"Compute Unified Device Architecture\" (CUDA) programming environment. We apply this to evaluate a goodness-of-fit statistic (e.g., χ<SUP>2</SUP>) for Doppler observations of stars potentially harboring multiple planetary companions (assuming negligible planet-planet interactions). Given the high-dimensionality of the model parameter space (at least five dimensions per planet), a global search is extremely computationally demanding. We expect that the underlying Kepler solver and model evaluator will be combined with a wide variety of more sophisticated algorithms to provide efficient global search, parameter estimation, model comparison, and adaptive experimental design for radial velocity and/or astrometric planet searches. <P />We tested multiple implementations using single precision, double precision, pairs of single precision, and mixed precision arithmetic. We find that the vast majority of computations can be performed using single precision arithmetic, with selective use of compensated summation for increased precision. However, standard single precision is not adequate for calculating the mean anomaly from the time of observation and orbital period when evaluating the goodness-of-fit for real planetary systems and observational data sets. Using all double precision, our GPU code outperforms a similar code using a modern CPU by a factor of over 60. Using mixed precision, our GPU code provides a speed-up factor of over 600, when evaluating n<SUB>sys</SUB> &gt; 1024 models planetary systems each containing n<SUB>pl</SUB> = 4 planets and assuming n<SUB>obs</SUB> = 256 observations of each system. We conclude that modern GPUs also offer a powerful tool for repeatedly evaluating Kepler's equation and a goodness-of-fit statistic for orbital models when presented with a large parameter space.\n"""
+tags = ["High Performance Computing", "Kepler"]
+research_themes = ["Exoplanet Surveys", "High-Performance Computing", "Orbital Dynamics & Planet Formation"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Doppler Spectroscopy", "Kepler's Equation", "GPU Computing", "Orbital Parameter Estimation"]
+# suggested_research_themes  = ["Exoplanet Surveys", "High-Performance Computing", "Orbital Dynamics & Planet Formation"]

@@ -1,0 +1,23 @@
+title = "Searching for Giant Exoplanets around M-dwarf Stars (GEMS) I: Survey Motivation"
+author = "Kanodia, Shubham and {Ca\\~nas}, Caleb I. and Mahadevan, Suvrath and Ford, Eric B. and Helled, Ravit and Anderson, Dana E. and Boss, Alan and Cochran, William D. and Delamer, Megan and Han, Te and Libby-Roberts, Jessica E. and Lin, Andrea S.~J. and {M\\\"uller}, Simon and Robertson, Paul and {Stef\\'ansson}, Gumundur and Teske, Johanna"
+year = "2024"
+month = "apr"
+journal = "AJ"
+volume = "167"
+number = "4"
+pages = "161"
+doi = "10.3847/1538-3881/ad27cb"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024AJ....167..161K"
+archiveprefix = "arXiv"
+eprint = "2402.04946"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """Recent discoveries of transiting giant exoplanets around M-dwarf stars (GEMS), aided by the all-sky coverage of TESS, are starting to stretch theories of planet formation through the core-accretion scenario. Recent upper limits on their occurrence suggest that they decrease with lower stellar masses, with fewer GEMS around lower-mass stars compared to solar-type. In this paper, we discuss existing GEMS both through confirmed planets, as well as protoplanetary disk observations, and a combination of tests to reconcile these with theoretical predictions. We then introduce the Searching for GEMS survey, where we utilize multidimensional nonparameteric statistics to simulate hypothetical survey scenarios to predict the required sample size of transiting GEMS with mass measurements to robustly compare their bulk-density with canonical hot Jupiters orbiting FGK stars. Our Monte Carlo simulations predict that a robust comparison requires about 40 transiting GEMS (compared to the existing sample of ∼15) with 5σ mass measurements. Furthermore, we discuss the limitations of existing occurrence estimates for GEMS and provide a brief description of our planned systematic search to improve the occurrence rate estimates for GEMS.\n"""
+tags = ["Demographics", "Kepler", "Stars"]
+research_themes = ["Exoplanet Demographics", "Exoplanet Surveys", "Transit Surveys"]
+eid = "161"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["M-dwarf Stars", "Exoplanet Mass Measurement", "TESS"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Demographics", "Exoplanet Surveys", "Orbital Dynamics & Planet Formation", "Transit Surveys"]

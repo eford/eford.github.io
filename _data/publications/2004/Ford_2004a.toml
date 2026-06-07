@@ -1,0 +1,22 @@
+title = "Choice of Observing Schedules for Astrometric Planet Searches"
+author = "Ford, Eric B."
+year = "2004"
+month = "dec"
+journal = "PASP"
+volume = "116"
+number = "826"
+pages = "1083-1092"
+doi = "10.1086/426726"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2004PASP..116.1083F"
+archiveprefix = "arXiv"
+eprint = "astro-ph/0412341"
+primaryclass = "astro-ph"
+entrytype = "article"
+abstract = """The Space Interferometry Mission (SIM) will make precise astrometric measurements that can be used to detect planets around nearby stars. Since observational time will be extremely valuable, it is important to consider how the choice of the observing schedule influences the efficiency of SIM planet searches. We have conducted Monte Carlo simulations of astrometric observations to understand the effects of different scheduling algorithms. We find that the efficiency of planet searches is relatively insensitive to the observing schedule for most reasonable observing schedules.\n"""
+tags = ["Kepler", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Astrometry", "Observational Scheduling", "Monte Carlo Simulation"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Exoplanet Surveys"]

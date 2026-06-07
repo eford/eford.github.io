@@ -1,0 +1,21 @@
+title = "Data-Driven Modeling of Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl"
+author = "Gilbertson, Christian and Ford, Eric B. and Halverson, Samuel and Fitzmaurice, Evan and Blake, Cullen H. and {Stef\\'ansson}, Gu\\dhmundur and Mahadevan, Suvrath and Wright, Jason T. and Luhn, Jacob K. and Ninan, Joe P. and Robertson, Paul and Roy, Arpita and Schwab, Christian and Terrien, Ryan C."
+year = "2024"
+month = "aug"
+journal = "arXiv e-prints"
+pages = "arXiv:2408.17289"
+doi = "10.48550/arXiv.2408.17289"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2024arXiv240817289G"
+archiveprefix = "arXiv"
+eprint = "2408.17289"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """A significant barrier to achieving the radial velocity (RV) measurement accuracy and precision required to characterize terrestrial mass exoplanets is the existence of time-variable features in the measured spectra, from both telluric absorption and stellar variability, which affect measured line shapes and can cause apparent RV shifts. Reaching the desired accuracy using traditional techniques often requires avoiding lines contaminated by stellar variability and/or changing tellurics, and thus discarding a large fraction of the spectrum, lowering precision. New data-driven methods can help achieve extremely precise and accurate RVs by enabling the use of a larger fraction of the available data. While there exist methods for modeling telluric features or the stellar variability individually, there is a need for additional tools that are capable of modeling them simultaneously at the spectral level. Here we present StellarSpectraObservationFitting.jl (SSOF), a Julia package for measuring Doppler shifts and creating data-driven models (with fast, physically-motivated Gaussian Process regularization) for the time-variable spectral features for both the telluric transmission and stellar spectrum, while accounting for the wavelength-dependent instrumental line-spread function. We demonstrate SSOF's state-of-the-art performance on data from the NEID RV spectrograph on the WIYN 3.5m Telescope for multiple stars. We show SSOF's, ability to accurately identify and characterize spectral variability and provide $~$2-6x smaller photon-limited errors over the NEID CCF-based pipeline and match the performance of SERVAL, a leading template-based pipeline, using only observed EPRV spectra.\n"""
+tags = ["Radial Velocity", "Stars"]
+research_themes = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys"]
+eid = "arXiv:2408.17289"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Exoplanet Characterization", "Telluric Absorption", "Gaussian Process"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "High-Performance Computing", "Mitigating Stellar Variability", "Radial Velocity Surveys"]

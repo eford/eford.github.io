@@ -1,0 +1,17 @@
+title = "Chaotic Interactions in Multiple Planet Systems"
+author = "Ford, Eric B. and Rasio, Frederic A. and Yu, Kenneth"
+year = "2006"
+month = "jan"
+journal = "ISSI Scientific Reports Series"
+volume = "6"
+pages = "123-136"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2006ISSIR...6..123F"
+entrytype = "article"
+abstract = """The detection of ∼ 100 extrasolar planets has provided many challenges for theories of planet formation. Numerous mechanisms have been proposed to explain the surprising distributions of semi-major axes and eccentricities. Dynamical instabilities and chaotic interactions in planetary systems with multiple giant planets appear to provide a natural mechanism for producing the highly eccentric orbits frequently observed. In a protoplanetary disk, the semi-major axis of a protoplanet is determined before the mass of the eventual planet. As nearby protoplanets accrete mass, a dynamical instability may lead to close encounters. Alternatively, a dissipative disk may prevent mutual interactions from exciting significant eccentricities. Once the disk clears, the eccentricities may grow and eventually permit close encounters. In any case, once planets begin to undergo close encounters, the planets may collide or be ejected from the system. These processes can significantly alter the orbits of the remaining planets. Numerical orbital integrations of possible planetary systems can determine the frequencies of the final outcomes for such systems and allow for comparison with observations. Simulations for two equal-mass planets initially on nearly circular coplanar orbits result in a bimodal distribution for the final eccentricity. Initial conditions leading to a collisions between the two planets produce a more massive planet in a nearly circular orbit. Instead when one planet is ejected from the system, the other planet remains on an eccentric orbit with 0.4 ≤ e ≤ 0.8. However, if the two planets have different masses, then the eccentricity after an ejection depends on the ratio of the planet masses. The observed distribution of eccentricities can be well reproduced for plausible distributions of the planet mass ratio. While a proper comparison would require careful consideration of observational selection effects and the unknown initial distributions, the two-planet scattering model predicts a maximum eccentricity of _ 0.8 independent of these complications. Simulations for three equal-mass planets initially on nearly circular coplanar orbits also result in a broad distribution of final eccentricities which seldom exceeds 0.8. The three-planet scattering model distinguishes itself by predicting that an additional planet typically lies on a longer period orbit. Further, the relative inclination between the two planets is typically increased, up to ∼ 40°. Future observations, including long-term radial velocity measurements , long-term precision astrometric measurements, and direct imaging, could test these predictions.\n"""
+tags = ["Dynamics", "Planet-planet scattering", "Radial Velocity"]
+research_themes = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Orbital Dynamics", "N-body Simulations", "Eccentricity Distribution"]
+# suggested_research_themes  = ["Orbital Dynamics & Planet Formation", "Planetary Architectures"]

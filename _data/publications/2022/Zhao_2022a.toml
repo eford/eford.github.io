@@ -1,0 +1,23 @@
+title = "FIESTA II. Disentangling Stellar and Instrumental Variability from Exoplanetary Doppler Shifts in the Fourier Domain"
+author = "Zhao, J. and Ford, Eric B. and Tinney, C.~G."
+year = "2022"
+month = "aug"
+journal = "ApJ"
+volume = "935"
+number = "2"
+pages = "75"
+doi = "10.3847/1538-4357/ac77ec"
+adsurl = "https://ui.adsabs.harvard.edu/abs/2022ApJ...935...75Z"
+archiveprefix = "arXiv"
+eprint = "2201.03780"
+primaryclass = "astro-ph.EP"
+entrytype = "article"
+abstract = """The radial velocity (RV) detection of exoplanets is challenged by stellar spectroscopic variability that can mimic the presence of planets and by instrumental instability that can further obscure the detection. Both stellar and instrumental changes can distort the spectral line profiles and be misinterpreted as apparent RV shifts. We present an improved FourIEr phase SpecTrum Analysis (FIESTA, aka ϕESTA) to disentangle apparent velocity shifts due to a line deformation from a true Doppler shift. ϕESTA projects a stellar spectrum's cross-correlation function (CCF) onto a truncated set of Fourier basis functions. Using the amplitude and phase information from each Fourier mode, we can trace the line variability at different CCF width scales to robustly identify and mitigate multiple sources of RV contamination. For example, in our study of the 3 yr of HARPS-N solar data, ϕESTA reveals the solar rotational effect, the long-term trend due to solar magnetic cycle, instrumental instability, and apparent solar rotation rate changes. Applying a multiple linear regression model on ϕESTA metrics, we reduce the weighted rms noise from 1.89 to 0.98 m s<SUP>-1</SUP>. In addition, we observe a ~3-day lag in the ϕESTA metrics, similar to the findings from previous studies on the bisector inverse slope and FWHM.\n"""
+tags = ["Radial Velocity", "Stars", "Sun-as-a-star"]
+research_themes = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
+eid = "75"
+adsnote = "Provided by the SAO/NASA Astrophysics Data System"
+
+# ── LLM-suggested additions (not in approved list) ──────────────────────────
+# suggested_tags             = ["Doppler Shift Analysis", "Spectral Line Analysis", "Fourier Analysis", "Stellar Activity"]
+# suggested_research_themes  = ["Astrostatistics & Astroinformatics", "Mitigating Stellar Variability", "Radial Velocity Surveys", "Solar Observations"]
